@@ -1,0 +1,44 @@
+# Web Automated Crawler for accessibility
+
+
+### Setup
+**PyCharm setup:**
+This will run **keyPressControl script**. It will traverse the website by sending all the keypresses for actionable UI elements that will trigger NVDA. Next, the script will extract the DOM of a page using pyppeteer tool that will be used to find locatability issues.
+1. Install required packages
+    ```
+    pip install selenium webdriver-manager
+    ```
+   ```
+    pip install keyboard
+    ```
+2. Download Chromedriver
+   1. Open Chrome.
+   2. Go to chrome://settings/help. This will show your current Chrome version. Note it down (e.g., 115.0.5790.99).
+   3. Download the matching ChromeDriver for your version of Chrome and set the path under method connect_to_existing_chrome() in main.py.
+
+**VSCode satup**
+1. 
+
+### Build
+1. Start Chrome with remote debugging using below command. This allows your script to communicate with an already open Chrome instance, get information such as the URL, tabs, and DOM structure.
+   1. Keep path to chrome.exe
+   2. Add website you want to debug
+       ```
+       "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\chrome_temp" "https://www.yelp.com/search?find_desc=Restaurants&find_loc=Mountain+View%2C+CA"
+       ```
+       <details>
+       <summary> Why is this command necessary?</summary>
+       Remote Debugging: Chrome, by default, doesn't allow external programs (like Python scripts) to access its internal details (tabs, URLs, DOM, etc.) unless it's explicitly told to do so via the --remote-debugging-port flag. This flag opens a communication channel that tools like Selenium can use to interact with a running Chrome session.
+       </details>
+2. Run nvda so to run this script on nvda
+   1. Can either run from Pycharm configurations or cmd
+   2. If cmd- build nvda project by running below command in terminal
+      ```
+      scons launcher
+       ```
+      Launch exe at _D:\my_docs\UCI\Research\Spring24\WebImpl\nvda\output_
+3. Run main.py of the keyPressControl script
+      ```
+      python main.py
+      ```
+    

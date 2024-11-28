@@ -1,0 +1,4 @@
+[flake8.extension]
+tabs.blank-lines=flake8_tabs:BlankLinesChecker
+tabs.indentation=flake8_tabs:IndentationChecker
+

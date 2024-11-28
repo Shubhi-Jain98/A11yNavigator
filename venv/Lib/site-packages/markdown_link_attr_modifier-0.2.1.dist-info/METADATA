@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: markdown-link-attr-modifier
+Version: 0.2.1
+Summary: A Python-Markdown extension to modify attributes of <a> tag links
+Home-page: https://github.com/Phuker/markdown_link_attr_modifier
+Author: Phuker
+Author-email: Phuker@users.noreply.github.com
+License: GNU General Public License v3.0
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Text Processing :: Markup :: Markdown
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: markdown (>=3)
+
+[Project homepage](https://github.com/Phuker/markdown_link_attr_modifier)
+
+[Readme](https://github.com/Phuker/markdown_link_attr_modifier/blob/main/Readme.md)
