@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -6,17 +7,38 @@ from selenium.common.exceptions import TimeoutException, StaleElementReferenceEx
 import time
 import logging
 
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
 class DynamicWebScraper:
-    def __init__(self, headless=False):
-        options = webdriver.ChromeOptions()
-        if headless:
-            options.add_argument('--headless')
-        self.driver = webdriver.Chrome(options=options)
-        self.wait = WebDriverWait(self.driver, 10)
+    # def __init__(self, headless=False):
+    #     options = webdriver.ChromeOptions()
+    #     if headless:
+    #         options.add_argument('--headless')
+    #     self.driver = webdriver.Chrome(options=options)
+    #     self.wait = WebDriverWait(self.driver, 10)
+
+    def __init__(self, debugger_address=None):
+        """
+        Initializes the scraper.
+
+        Args:
+            debugger_address: Address of the Chrome debugger session (e.g., "127.0.0.1:9222").
+        """
+        self.debugger_address = debugger_address
+        self.driver = None
+
+    def connect_to_debugger(self):
+        """Connects to an existing Chrome debugging session."""
+        if not self.debugger_address:
+            raise ValueError("No debugger address provided for connecting to Chrome debugger.")
+
+        chrome_options = Options()
+        chrome_options.add_experimental_option("debuggerAddress", self.debugger_address)
+        self.driver = webdriver.Chrome(options=chrome_options)
+        logger.info(f"Connected to Chrome debugger at {self.debugger_address}")
 
     def disable_dynamic_loading(self):
         """Disables dynamic loading by intercepting scroll events"""
@@ -50,6 +72,41 @@ class DynamicWebScraper:
         self.driver.execute_script(disable_script)
 
     def limit_content_height(self, max_height_pixels=5000):
+        """
+        Limit scrolling on the Reddit feed container (<shreddit-feed>).
+        """
+        time.sleep(5)
+        limit_script = f"""
+        (function() {{
+            // Locate the shreddit-feed element
+            const feedElement = document.querySelector('shreddit-feed');
+            if (feedElement) {{
+                // Apply maximum height and hide overflow
+                feedElement.style.maxHeight = '{max_height_pixels}px';
+                feedElement.style.overflow = 'hidden';
+
+                // Prevent scrolling via mouse wheel or touch
+                feedElement.addEventListener('wheel', (event) => {{
+                    event.preventDefault();
+                }}, {{"passive": false}});
+
+                // Prevent scrolling via keyboard keys
+                document.addEventListener('keydown', (event) => {{
+                    const scrollableKeys = ['ArrowUp', 'ArrowDown', 'PageUp', 'PageDown', 'Home', 'End'];
+                    if (scrollableKeys.includes(event.key)) {{
+                        event.preventDefault();
+                    }}
+                }});
+
+                console.log("Scrolling limited on shreddit-feed to", {max_height_pixels}, "pixels.");
+            }} else {{
+                console.warn("shreddit-feed element not found. No limits applied.");
+            }}
+        }})();
+        """
+        self.driver.execute_script(limit_script)
+
+    def limit_content_height_prev(self, max_height_pixels=5000):
         """Limits the maximum height of the content area"""
         limit_script = f"""
         // Find main content container
@@ -152,8 +209,14 @@ class DynamicWebScraper:
         """
         try:
             logger.info(f"Starting scrape of {url} using {method} method")
-            self.driver.get(url)
-            time.sleep(5)  # Let initial content load
+            # Connect to Chrome debugger if necessary
+            if self.debugger_address:
+                self.connect_to_debugger()
+
+            # Navigate to URL if provided
+            if url:
+                self.driver.get(url)
+                time.sleep(5)  # Let initial content load
 
             if method == 'disable_loading':
                 self.disable_dynamic_loading()
@@ -187,31 +250,34 @@ class DynamicWebScraper:
 
 
 # Example usage
-def dynamic_pause():
-    scraper = DynamicWebScraper()
-    try:
-        # Example 1: Using disable_loading method - NOT GOOD - It prevents scrolling even though content is present below. Tab press goes down
-        # items = scraper.scrape_with_control(
-        #     "https://www.reddit.com/r/Python/",
-        #     method='disable_loading'
-        # )
-
-        # Example 2: Using height limit
-        items = scraper.scrape_with_control(
-            "https://www.reddit.com/",
-            method='limit_height',
-            max_height=2000
-        )
-
-        # Example 3: Using scroll limits -  NOT WORKING
-        # items = scraper.scrape_with_control(
-        #     "https://www.reddit.com/r/Python/",
-        #     method='scroll_limits',
-        #     max_items=30,
-        #     max_scroll_time=120,
-        #     max_scroll_distance=5000
-        # )
-        time.sleep(520)
-
-    finally:
-        scraper.cleanup()
+# def dynamic_pause():
+#     #scraper = DynamicWebScraper()
+#     scraper = DynamicWebScraper(debugger_address="127.0.0.1:9222")
+#     try:
+#         # Example 1: Using disable_loading method - NOT GOOD - It prevents scrolling even though content is present below. Tab press goes down
+#         # items = scraper.scrape_with_control(
+#         #     "https://www.reddit.com/r/Python/",
+#         #     method='disable_loading'
+#         # )
+#
+#         # Example 2: Using height limit
+#         items = scraper.scrape_with_control(
+#             None,
+#             method='limit_height',
+#             max_height=2000
+#         )
+#
+#         # Example 3: Using scroll limits -  NOT WORKING
+#         # items = scraper.scrape_with_control(
+#         #     "https://www.reddit.com/r/Python/",
+#         #     method='scroll_limits',
+#         #     max_items=30,
+#         #     max_scroll_time=120,
+#         #     max_scroll_distance=5000
+#         # )
+#
+#         find_actionability_issues()
+#         time.sleep(520)
+#
+#     finally:
+#         scraper.cleanup()

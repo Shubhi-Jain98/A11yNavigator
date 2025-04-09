@@ -16,8 +16,6 @@ This will run **keyPressControl script**. It will traverse the website by sendin
    2. Go to chrome://settings/help. This will show your current Chrome version. Note it down (e.g., 115.0.5790.99).
    3. Download the matching ChromeDriver for your version of Chrome and set the path under method connect_to_existing_chrome() in main.py.
 
-**VSCode satup**
-1. 
 
 ### Build
 1. Start Chrome with remote debugging using below command. This allows your script to communicate with an already open Chrome instance, get information such as the URL, tabs, and DOM structure.
@@ -36,9 +34,30 @@ This will run **keyPressControl script**. It will traverse the website by sendin
       ```
       scons launcher
        ```
-      Launch exe at _D:\my_docs\UCI\Research\Spring24\WebImpl\nvda\output_
+      Launches exe at _D:\my_docs\UCI\Research\Spring24\WebImpl\nvda\output_
 3. Run main.py of the keyPressControl script
       ```
       python main.py
       ```
-    
+
+### Quick Hacks
+To highlight the element using xpath via Inspect tool -> Go to Console and type below command
+ ```
+      // Replace 'YOUR_XPATH_HERE' with your XPath
+      const xpath = "YOUR_XPATH_HERE";
+      const element = document.evaluate(
+          xpath,
+          document,
+          null,
+          XPathResult.FIRST_ORDERED_NODE_TYPE,
+          null
+      ).singleNodeValue;
+      
+      if (element) {
+          element.style.border = "3px solid red"; // Highlight the element
+          element.scrollIntoView({ behavior: "smooth", block: "center" }); // Scroll into view
+          console.log("Element found and highlighted:", element);
+      } else {
+          console.log("No element found for the given XPath.");
+      }
+ ```

@@ -8,7 +8,7 @@ def run_script_to_get_xpath(driver):
     # JavaScript function to compute XPath of the focused element
     script = """
     function getXPathAndText(element) {
-        if (!element) return null;
+        if (!element || element === document.body) return null;
         // Compute XPath
         var paths = [];
         for (; element && element.nodeType == 1; element = element.parentNode) {
@@ -37,12 +37,18 @@ def run_script_to_get_xpath(driver):
     return result
 
 
-def write_to_file(result, focused_element_name, ia2_unique_id):
-    if result:
+def write_to_file(result, traverse_type, focused_element_name, focused_element_value, focused_element_states, ia2_unique_id):
+    if traverse_type == "tab":
         file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_focused_element.json")
+    elif traverse_type == "single_key":
+        file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\single_key_xpath_focused_element.json")
+
+    if result:
         data = {
             "IA2UniqueID": ia2_unique_id,
             "nvda_name": focused_element_name,
+            "nvda_value": focused_element_value,
+            "nvda_states": focused_element_states,
             "xpath": result["xpath"],
         }
         try:
@@ -52,16 +58,17 @@ def write_to_file(result, focused_element_name, ia2_unique_id):
             else:
                 existing_data = []
 
-            existing_data.append(data)
-            with open(file_path, "w") as json_file:
-                json.dump(existing_data, json_file, indent=4)  # Pretty-print with 4 spaces
-                # print(f"XPath of the focused element successfully written to {file_path}")
+            if not any(entry.get("xpath") == result["xpath"] for entry in existing_data):
+                existing_data.append(data)
+                with open(file_path, "w") as json_file:
+                    json.dump(existing_data, json_file, indent=4)  # Pretty-print with 4 spaces
+                    #print(f"XPath successfully written to {file_path}")
         except Exception as e:
             print(f"Error writing to JSON file: {e}")
     else:
         print("No element is currently focused.")
 
 
-def extract_xpath_focussed_ele(driver, focused_element_name, ia2_unique_id):
+def extract_xpath_focussed_ele(driver, traverse_type, focused_element_name, focused_element_value, focused_element_states, ia2_unique_id):
     result = run_script_to_get_xpath(driver)
-    write_to_file(result, focused_element_name, ia2_unique_id)
+    write_to_file(result, traverse_type, focused_element_name, focused_element_value, focused_element_states, ia2_unique_id)

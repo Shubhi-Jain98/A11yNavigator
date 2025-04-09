@@ -79,7 +79,7 @@ def sel_get_element_xpath(element):
     try:
         # If the element has an ID, use it directly
         '''
-        # Commenting below code otherwise, for some elements xpath is returned in form of id, example: "//*[@id='hiddenLanguageInput']", Since it is different from the one extracted using javascript, it is displayed as locatability issue which is incorrect
+        # Commenting below code otherwise, for some elements x  path is returned in form of id, example: "//*[@id='hiddenLanguageInput']", Since it is different from the one extracted using javascript, it is displayed as locatability issue which is incorrect
         element_id = element.get_attribute("id")
         if element_id:
             return f"//*[@id='{element_id}']"
@@ -97,28 +97,87 @@ def sel_get_element_xpath(element):
         print(f"Error generating XPath: {e}")
         return None
 
+ # Extract all actionable elements with listeners
+def is_element_hidden(element):
+    """Determine if an element is hidden."""
+    try:
+        # Check if element is disabled
+        is_disabled = (
+                element.get_attribute("disabled") is not None or
+                element.get_attribute("aria-disabled") == "true" or
+                "disabled" in element.get_attribute("class") or
+                element.get_attribute("disabled") == "true"
+        )
+        if is_disabled:
+            return True
 
-def sel_get_actionable_elements(driver):
+        # Check if element is displayed
+        if not element.is_displayed():
+            return True
+
+        # Check if the element or any ancestor has aria-hidden="true"
+        parent = element
+        while parent:
+            aria_hidden = parent.get_attribute("aria-hidden")
+            if aria_hidden and aria_hidden.lower() == "true":
+                return True  # The element is hidden due to aria-hidden
+            parent = parent.find_element("xpath","..") if parent.tag_name.lower() != "html" else None  # Move up the DOM tree
+
+        script = """
+        const el = arguments[0];
+        const style = window.getComputedStyle(el);
+        return style.display === 'none' || style.visibility === 'hidden' || style.opacity === '0' || el.offsetParent === null || el.offsetWidth <= 0 || el.offsetHeight <= 0;        
+        """
+        return element.parent.execute_script(script, element)
+    except Exception as e:
+        print(f"Error checking element visibility: {e}")
+        return True  # Assume hidden if an error occurs
+
+def sel_get_actionable_elements(driver, flag=None):
     """Get all actionable elements and their XPaths."""
-    actionable_xpath = ", ".join(actionable_selectors)  # CSS selector syntax
-
-    elements = driver.find_elements(By.CSS_SELECTOR, actionable_xpath)
     results = []
+    actionable_xpath = ", ".join(actionable_selectors)  # CSS selector syntax
+    elements = driver.find_elements(By.CSS_SELECTOR, actionable_xpath)
 
     for element in elements:
+        # print(element.accessible_name)
+        # if element.accessible_name == "Miami (FL)\n2,355 accommodations":
+        #     print("reached")
+        if flag=="exclude_hidden" and is_element_hidden(element):  # Skip hidden elements
+            continue
         xpath = sel_get_element_xpath(element)
         if xpath:
             results.append({
                 "tag_name": element.tag_name,
                 "xpath": xpath,
-                "text": element.text.strip()
+                "text": (element.text.strip() if element.text
+                     else element.get_attribute("aria-label")
+                     if element.get_attribute("aria-label")
+                     else element.get_attribute("alt")
+                     if element.tag_name == "img"
+                     else "")
+            })
+
+    div_elements_event_listeners = get_actionable_elements_with_listeners(driver)
+    # for element in div_elements_event_listeners:
+    #     print( element.tag_name, ", ", element.text)
+    # print(len(div_elements_event_listeners), "done....")
+
+    for element in div_elements_event_listeners:
+        xpath = sel_get_element_xpath(element)
+        if xpath:
+            results.append({
+                "tag_name": element.tag_name,
+                "xpath": xpath,
+                "text": element.text.strip(),
+                "event_listener": "yes"
             })
     return results
 
-
-def sel_write_actionable_elements_to_json(count_actionable_elements, elements):
-    file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_all_selenium.json")
-
+def sel_write_actionable_elements_to_json(count_actionable_elements, elements, flag=None):
+    file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_exclude_hidden_selenium.json")
+    if flag != "exclude_hidden":
+        file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_include_hidden_selenium.json")
     """Write actionable elements and their count to a JSON file."""
     data = {
         "count by default selenium driver": count_actionable_elements,
@@ -133,5 +192,66 @@ def sel_write_actionable_elements_to_json(count_actionable_elements, elements):
         print(f"Error writing to JSON file: {e}")
 
 
+def get_actionable_elements_with_listeners(driver):
+    """Extract all actionable elements based on event listeners."""
+    try:
+        # JavaScript to get all elements with specific event listeners
+        script = """
+        const actionableElements = [];
+        const allElements = document.querySelectorAll('*');
+        
+        function hasActionableChildren(element) {
+            // List of actionable element tags
+            const actionableTags = ['BUTTON', 'A', 'INPUT', 'SELECT', 'TEXTAREA'];
+            
+            // Check direct children for actionable elements
+            const children = element.children;
+            for (let child of children) {
+                if (actionableTags.includes(child.tagName) || 
+                    child.hasAttribute('role') || 
+                    child.hasAttribute('tabindex') ||
+                    hasActionableChildren(child)) {
+                    return true;
+                }
+            }
+            return false;
+        }
+        
+        allElements.forEach(el => {
+            
+            // Check for JavaScript event listeners
+            const events = ['click', 'mousedown', 'mouseup', 'keypress', 'touchstart', 'touchend'];
+            let hasEventListener = false;
+            for (const ev of events) {
+                if (typeof el['on' + ev] === 'function') {
+                    hasEventListener = true;
+                    break;
+                }
+            }
 
-
+            if (hasEventListener && el.tagName == "DIV") {
+                // Check if element has actionable children
+                if (!hasActionableChildren(el)) {
+                    // Check visibility
+                    const style = window.getComputedStyle(el);
+                    const isVisible = style.display !== 'none' &&
+                                      style.visibility !== 'hidden' &&
+                                      style.opacity !== '0' &&
+                                      el.offsetParent !== null &&
+                                      el.offsetWidth > 0 &&
+                                      el.offsetHeight > 0;
+    
+                    if (isVisible) {
+                        actionableElements.push(el);  // Return the actual DOM element
+                    }
+                } 
+            }
+        });
+        return actionableElements;
+        """
+        # Execute the script in the browser
+        actionable_elements = driver.execute_script(script)
+        return actionable_elements
+    except Exception as e:
+        print(f"Error finding actionable elements: {e}")
+        return []
