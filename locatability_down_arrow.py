@@ -89,7 +89,7 @@ def find_element_by_accessible_name(driver, accessible_name):
     potential_elements = []
     # Case insensitive text content matching - this should catch the "Load More" div
     try:
-        # Look for hidden spans with the exact text
+        # Finds <span> elements whose text contains the name and are likely visually hidden (based on style or classes like sr-only).
         elements = driver.find_elements(By.XPATH, f"//span[contains(text(), '{accessible_name}') and (contains(@style, 'clip:') or contains(@style, 'position: absolute') or contains(@class, 'sr-only') or contains(@class, 'visually-hidden'))]")
         potential_elements.extend(elements)
     except:
@@ -103,13 +103,14 @@ def find_element_by_accessible_name(driver, accessible_name):
         pass
 
     try:
-        # Look specifically for anchor tags that contain the hidden span
+        # Finds anchor (<a>) elements containing a span with matching text.
         elements = driver.find_elements(By.XPATH, f"//a[.//span[contains(text(), '{accessible_name}')]]")
         potential_elements.extend(elements)
     except:
         pass
 
     try:
+        # Finds anchor tags whose visible text exactly matches accessible_name.
         elements = driver.find_elements(By.XPATH, f"//a[normalize-space(text())='{accessible_name}']")
         potential_elements.extend(elements)
     except:
@@ -122,8 +123,8 @@ def find_element_by_accessible_name(driver, accessible_name):
     except:
         pass
 
+    # Also try with normalize-space to handle whitespace issues
     try:
-        # Also try with normalize-space to handle whitespace issues
         elements = driver.find_elements(By.XPATH, f"//*[(translate(normalize-space(text()), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '{accessible_name.lower()}')]")
         potential_elements.extend(elements)
     except:
@@ -165,31 +166,39 @@ def find_element_by_accessible_name(driver, accessible_name):
         script = f"""
                 function getElementsByAccessibleName(name) {{
                     function getAccessibleName(el) {{
-                        return el.getAttribute('aria-label') || 
-                               el.getAttribute('title') || 
-                               el.getAttribute('alt') || 
-                               (el.innerText ? el.innerText.trim() : '') || 
-                               (el.getAttribute('aria-labelledby') ? 
-                                   document.getElementById(el.getAttribute('aria-labelledby'))?.innerText.trim() : '');
+                        let name = el.getAttribute('aria-label') ||
+                                   el.getAttribute('title') ||
+                                   el.getAttribute('alt') || 
+                                   el.getAttribute('placeholder') || '';
+                        if (!name && el.innerText) {{
+                            name = el.innerText.trim();
+                        }}
+                        if (!name && el.getAttribute('aria-labelledby')) {{
+                            let label = document.getElementById(el.getAttribute('aria-labelledby'));
+                            name = label ? label.innerText.trim() : '';
+                        }}
+                        return name;
                     }}
-                
+                    
+                    function normalize(str) {{
+                        return str.replace(/\\s+/g, '').toLowerCase();
+                    }}
+                    
                     function searchElements(root) {{
                         let matches = [];
                         let elements = root.querySelectorAll('*');
                         for (let el of elements) {{
                             try {{
-                                let computedName = (window.getComputedAccessibleName ? window.getComputedAccessibleName(el) : '') || getAccessibleName(el);
-                                if (computedName.toLowerCase() === name.toLowerCase()) {{
+                                let accessibleName = getAccessibleName(el);
+                                if (normalize(accessibleName) === normalize("{accessible_name}")) {{
                                     matches.push(el);
                                 }}
                             }} catch (e) {{}}
                         }}
                         return matches;
                     }}
-                
-                    let results = searchElements(document);
                     
-                    // Handle iframes separately
+                    let results = searchElements(document);
                     let iframes = document.querySelectorAll('iframe');
                     for (let iframe of iframes) {{
                         try {{
@@ -199,7 +208,6 @@ def find_element_by_accessible_name(driver, accessible_name):
                             }}
                         }} catch (e) {{}}
                     }}
-                
                     return results;
                 }}
                 
@@ -255,12 +263,14 @@ def find_element_by_accessible_name(driver, accessible_name):
         pass
 
     # For each found element, generate its XPath
+    seen_xpaths = set()
     results = []
     for element in potential_elements:
         try:
             # Generate XPath using the existing function
             xpath = sel_get_element_xpath(element)
-            if xpath:
+            if xpath and xpath not in seen_xpaths:
+                seen_xpaths.add(xpath)
                 results.append({
                     "element": element,
                     "xpath": xpath,
@@ -338,25 +348,46 @@ def fetch_xpath():
     start_title = driver.title
     print("start_title: ", start_title)
 
-    exclude_words = ["out of list", "list", "clickable", "link", "out of slide", "slide", "button", "graphic", "heading", "menu bar", "menu item", "subMenu", "selected", "level 3"]
+    exclude_words = ["out of list", "list", "link", "clickable", "link", "out of slide", "slide", "button", "graphic", "heading", "menu bar", "menu item", "menu button", "subMenu", "selected", "level 3"]
     file_path_read = os.path.join(tempfile.gettempdir(), "nvda\\locatability", "down_arrow_all_speech.txt")
     unique_strings = set()
+    merged_links = [] # to handle scenarios where NVDA announces name in two parts. Hence, to find a link for a name, we need to merge those two parts and then look for it. For reference see Chase website example
+    parsed_lines = []  # First read all lines and parse them
     with open(file_path_read, 'r', encoding="utf-8") as file:
         for line in file:
-            line = line.strip() # change "   Hello, World!   " to "Hello, World!"
+            line = line.strip()
             if not line:
                 continue
             try:
                 if line.startswith('[') and line.endswith(']'):
-                    parsed_list = ast.literal_eval(line)  # Parse the string as a Python list
-                    for item in parsed_list:
-                        if item in exclude_words:
-                            continue
-                        unique_strings.add(item)
+                    parsed_list = ast.literal_eval(line)
+                    parsed_lines.append(parsed_list)
                 else:
-                    unique_strings.add(line)
+                    parsed_lines.append([line])
             except (SyntaxError, ValueError):
-                unique_strings.add(line)
+                parsed_lines.append([line])
+
+    i = 0 # Now iterate line-by-line with index
+    while i < len(parsed_lines):
+        current = parsed_lines[i]
+        # Check if current line ends with 'link' as second last and next line starts with 'link'
+        if (
+                i + 1 < len(parsed_lines) and
+                len(current) >= 2 and
+                current[-2] == 'link' and
+                parsed_lines[i + 1][0] == 'link'
+        ):
+            first_text = current[-1]
+            second_text = parsed_lines[i + 1][1].strip() if len(parsed_lines[i + 1]) > 1 else ''
+            merged_links.append(first_text + second_text)
+
+        for item in current: # Otherwise, process normally
+            if item not in exclude_words:
+                unique_strings.add(item.strip())
+        i += 1
+    for merged in merged_links: # Add merged items
+        unique_strings.add(merged)
+
     results = {}
     for name in unique_strings:
         print(f"Processing: {name}")
