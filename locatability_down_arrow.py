@@ -80,6 +80,86 @@ def generate_xpath_to_interactive_tag(driver, element, results):
         pass
 
 
+def find_input_for_label(driver, label_element):
+    try:
+        target_id = label_element.get_attribute("for")
+        if target_id:
+            input_element = driver.find_element(By.ID, target_id)
+            return input_element
+    except:
+        return None
+
+
+def handle_sibling_tags(driver, element, seen_xpaths, results, accessible_name):
+    # Pattern 1: Handle label → input via `for`
+    if element.tag_name.lower() == "label":
+        input_element = find_input_for_label(driver, element)
+        if input_element:
+            input_xpath = sel_get_element_xpath(input_element)
+            if input_xpath and input_xpath not in seen_xpaths:
+                seen_xpaths.add(input_xpath)
+                results.append({
+                    "element": input_element,
+                    "xpath": input_xpath,
+                    "tag_name": input_element.tag_name,
+                    "attributes": {
+                        "role": input_element.get_attribute("role"),
+                        "aria-label": input_element.get_attribute("aria-label"),
+                        "name": input_element.get_attribute("name"),
+                        "id": input_element.get_attribute("id")
+                    }
+                })
+    # Pattern 2: label > div (text) + textarea (actionable)
+    if element.tag_name.lower() == "label":
+        try:
+            child_divs = element.find_elements(By.TAG_NAME, "div")
+            text_in_divs = " ".join([div.text.strip() for div in child_divs if div.text.strip()])
+            if accessible_name.lower() in text_in_divs.lower():
+                textareas = element.find_elements(By.TAG_NAME, "textarea")
+                for textarea in textareas:
+                    input_xpath = sel_get_element_xpath(textarea)
+                    if input_xpath and input_xpath not in seen_xpaths:
+                        seen_xpaths.add(input_xpath)
+                        results.append({
+                            "element": textarea,
+                            "xpath": input_xpath,
+                            "tag_name": textarea.tag_name,
+                            "attributes": {
+                                "role": textarea.get_attribute("role"),
+                                "aria-label": textarea.get_attribute("aria-label"),
+                                "name": textarea.get_attribute("name"),
+                                "id": textarea.get_attribute("id")
+                            }
+                        })
+        except:
+            pass
+    # Pattern 3: div > div (text) + a/button/input
+    if element.tag_name.lower() == "div":
+        try:
+            child_divs = element.find_elements(By.TAG_NAME, "div")
+            text_in_divs = " ".join([div.text.strip() for div in child_divs if div.text.strip()])
+            if accessible_name.lower() in text_in_divs.lower():
+                # Look for actionable elements in the same container
+                actionables = element.find_elements(By.XPATH, ".//a | .//button | .//input | .//textarea")
+                for act in actionables:
+                    act_xpath = sel_get_element_xpath(act)
+                    if act_xpath and act_xpath not in seen_xpaths:
+                        seen_xpaths.add(act_xpath)
+                        results.append({
+                            "element": act,
+                            "xpath": act_xpath,
+                            "tag_name": act.tag_name,
+                            "attributes": {
+                                "role": act.get_attribute("role"),
+                                "aria-label": act.get_attribute("aria-label"),
+                                "name": act.get_attribute("name"),
+                                "id": act.get_attribute("id")
+                            }
+                        })
+        except:
+            pass
+
+
 def find_element_by_accessible_name(driver, accessible_name):
     """
     Find an element by its accessible name (what screen readers would announce)
@@ -282,6 +362,8 @@ def find_element_by_accessible_name(driver, accessible_name):
                         "id": element.get_attribute("id")
                     }
                 })
+            # Handle associated input field if it's a label
+            handle_sibling_tags(driver, element, seen_xpaths, results, accessible_name)
 
             # generate_xpath_to_interactive_tag(driver, element, results)
         except:
@@ -339,7 +421,7 @@ def traverse_whole_website_down_arrow():
             break
 
 
-# fetch xpath based on name
+# fetch xpath based on name, it includes "Pre-processing of lines" + "xpath extraction"
 def fetch_xpath():
     from main import connect_to_existing_chrome
     driver = connect_to_existing_chrome()
@@ -348,7 +430,7 @@ def fetch_xpath():
     start_title = driver.title
     print("start_title: ", start_title)
 
-    exclude_words = ["out of list", "list", "link", "clickable", "link", "out of slide", "slide", "button", "graphic", "heading", "menu bar", "menu item", "menu button", "subMenu", "selected", "level 3"]
+    exclude_words = ["out of list", "list", "link", "clickable", "link", "out of slide", "slide", "button", "graphic", "heading", "menu bar", "menu item", "menu button", "subMenu", "selected", "level 3", "level 2"]
     file_path_read = os.path.join(tempfile.gettempdir(), "nvda\\locatability", "down_arrow_all_speech.txt")
     unique_strings = set()
     merged_links = [] # to handle scenarios where NVDA announces name in two parts. Hence, to find a link for a name, we need to merge those two parts and then look for it. For reference see Chase website example
@@ -388,8 +470,11 @@ def fetch_xpath():
     for merged in merged_links: # Add merged items
         unique_strings.add(merged)
 
+    print(f"Pre-processing done! Moving ahead for xpath extraction")
     results = {}
     for name in unique_strings:
+        if name == '':
+            continue
         print(f"Processing: {name}")
         elements = find_element_by_accessible_name(driver, name)
         serializable_elements = []
