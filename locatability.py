@@ -3,7 +3,7 @@ import re
 import tempfile
 import os
 
-from locatability_down_arrow import traverse_whole_website_down_arrow, log_down_arrow_locatability_issues
+from locatability_down_arrow import traverse_whole_website_down_arrow, log_down_arrow_locatability_issues, fetch_xpath
 from locatability_single_key import traverse_whole_website_single_key, log_single_key_locatability_issues
 from locatability_tab import traverse_website_and_extract_xpath_focussed_ele_and_extract_all_actionable_elements, \
     log_tab_locatability_issues
@@ -138,6 +138,7 @@ def find_locatability_issues(argv_two):
         log_tab_locatability_issues()
     elif argv_two == "down_arrow":
         # traverse_whole_website_down_arrow()
+        fetch_xpath()
         log_down_arrow_locatability_issues()
     elif argv_two == "single_key":
         traverse_whole_website_single_key()

@@ -110,6 +110,12 @@ def find_element_by_accessible_name(driver, accessible_name):
         pass
 
     try:
+        elements = driver.find_elements(By.XPATH, f"//a[normalize-space(text())='{accessible_name}']")
+        potential_elements.extend(elements)
+    except:
+        pass
+
+    try:
         # Use case-insensitive text matching and look for both exact and containing matches
         elements = driver.find_elements(By.XPATH, f"//*[(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '{accessible_name.lower()}')]")
         potential_elements.extend(elements)
@@ -291,7 +297,7 @@ def traverse_whole_website_down_arrow():
     from main import connect_to_existing_chrome, get_elements_count, get_actionable_elements_count
     from locatability import clean_locatability_folder
 
-    # clean_locatability_folder()
+    clean_locatability_folder()
     driver = connect_to_existing_chrome()
     if not driver:
         print("No driver found.")
@@ -301,40 +307,51 @@ def traverse_whole_website_down_arrow():
     # sel_write_elements_to_json(count_elements, sel_get_elements(driver, flag="exclude_hidden"), flag="exclude_hidden") # write all elements path to file
 
     count_actionable_elements = get_actionable_elements_count(driver)
-    # sel_write_actionable_elements_to_json(count_actionable_elements,
-    #                                       sel_get_actionable_elements(driver, flag="exclude_hidden"),
-    #                                       flag="exclude_hidden")  # write all actionable elements path to file
+    sel_write_actionable_elements_to_json(count_actionable_elements,
+                                          sel_get_actionable_elements(driver, flag="exclude_hidden"),
+                                          flag="exclude_hidden")  # write all actionable elements path to file
+    focus_on_page_body()
+    simulate_tab()
+    while True:
+        if are_last_n_lines_equal(os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_loop.txt")):
+            break
+        time.sleep(4)
+        simulate_up_arrow()
 
-    # focus_on_page_body()
-    # simulate_tab()
-    # while True:
-    #     if are_last_n_lines_equal(os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_loop.txt")):
-    #         break
-    #     time.sleep(4)
-    #     simulate_up_arrow()
+    count_actionable = 0
+    print(count_actionable, " ", count_elements)
+    while count_actionable <= count_elements:
+        time.sleep(2)
+        simulate_down_arrow()
+        count_actionable += 1
+        time.sleep(4)  # added time delay here
+        if count_actionable >=10 and are_last_n_lines_equal(os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_loop.txt")):
+            break
 
-    # count_actionable = 0
-    # print(count_actionable, " ", count_elements)
-    # while count_actionable <= count_elements:
-    #     time.sleep(2)
-    #     simulate_down_arrow()
-    #     count_actionable += 1
-    #     time.sleep(4)  # added time delay here
-    #     if count_actionable >=10 and are_last_n_lines_equal(os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_loop.txt")):
-    #         break
 
-    # fetch xpath based on name
+# fetch xpath based on name
+def fetch_xpath():
+    from main import connect_to_existing_chrome
+    driver = connect_to_existing_chrome()
+    if not driver:
+        print("No driver found.")
+    start_title = driver.title
+    print("start_title: ", start_title)
+
+    exclude_words = ["out of list", "list", "clickable", "link", "out of slide", "slide", "button", "graphic", "heading", "menu bar", "menu item", "subMenu", "selected", "level 3"]
     file_path_read = os.path.join(tempfile.gettempdir(), "nvda\\locatability", "down_arrow_all_speech.txt")
     unique_strings = set()
     with open(file_path_read, 'r', encoding="utf-8") as file:
         for line in file:
-            line = line.strip()
+            line = line.strip() # change "   Hello, World!   " to "Hello, World!"
             if not line:
                 continue
             try:
                 if line.startswith('[') and line.endswith(']'):
-                    parsed_list = ast.literal_eval(line) # Parse the string as a Python list
+                    parsed_list = ast.literal_eval(line)  # Parse the string as a Python list
                     for item in parsed_list:
+                        if item in exclude_words:
+                            continue
                         unique_strings.add(item)
                 else:
                     unique_strings.add(line)

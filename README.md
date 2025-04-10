@@ -1,4 +1,4 @@
-# Web Automated Crawler for accessibility
+# Web Automated Scraper for accessibility
 
 
 ### Setup
