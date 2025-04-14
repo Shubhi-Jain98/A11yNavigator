@@ -586,6 +586,7 @@ def log_down_arrow_locatability_issues():
                         matched = True
                         matched_down_arrow.add((down_name, sel_xpath))
                         break                                               # from xpaths list
+                if matched: break
             for down_name, down_items in nvda_xpaths_data.items(): # iterate over all nvda logged names
                 for item in down_items:                            # iterate over all xpaths of a name
                     down_href = item.get("attributes").get("href")
@@ -593,7 +594,7 @@ def log_down_arrow_locatability_issues():
                         matched = True
                         matched_down_arrow.add((down_name, sel_xpath))
                         break
-            if matched: break
+                if matched: break
             if not matched:
                 unmatched_selenium_id_href.append(sel_elem)
         print( f"{'Intermediate missing XPaths found after id+href' if unmatched_selenium_id_href else 'No intermediate locatability issue after id+href'} ({len(unmatched_selenium_id_href)})")
