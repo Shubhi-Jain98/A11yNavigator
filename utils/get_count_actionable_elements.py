@@ -155,7 +155,10 @@ def sel_get_actionable_elements(driver, flag=None):
                      if element.get_attribute("aria-label")
                      else element.get_attribute("alt")
                      if element.tag_name == "img"
-                     else "")
+                     else ""),
+                "aria-label": (element.get_attribute("aria-label") if element.get_attribute("aria-label") else ""),
+                "id": (element.get_attribute("id") if element.get_attribute("id") else ""),
+                "href": (element.get_attribute("href") if element.get_attribute("href") else "")
             })
 
     div_elements_event_listeners = get_actionable_elements_with_listeners(driver)
@@ -170,6 +173,9 @@ def sel_get_actionable_elements(driver, flag=None):
                 "tag_name": element.tag_name,
                 "xpath": xpath,
                 "text": element.text.strip(),
+                "aria-label": (element.get_attribute("aria-label") if element.get_attribute("aria-label") else ""),
+                "id": (element.get_attribute("id") if element.get_attribute("id") else ""),
+                "href": (element.get_attribute("href") if element.get_attribute("href") else ""),
                 "event_listener": "yes"
             })
     return results

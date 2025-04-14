@@ -5,6 +5,7 @@ import tempfile
 import os
 import time
 
+import unicodedata
 from selenium.webdriver.common.by import By
 
 from utils.get_count_actionable_elements import sel_get_element_xpath, sel_write_actionable_elements_to_json, \
@@ -106,7 +107,9 @@ def handle_sibling_tags(driver, element, seen_xpaths, results, accessible_name):
                         "role": input_element.get_attribute("role"),
                         "aria-label": input_element.get_attribute("aria-label"),
                         "name": input_element.get_attribute("name"),
-                        "id": input_element.get_attribute("id")
+                        "id": input_element.get_attribute("id"),
+                        "placeholder": input_element.get_attribute("placeholder"),
+                        "href": input_element.get_attribute("href") if input_element.get_attribute("href") else ""
                     }
                 })
     # Pattern 2: label > div (text) + textarea (actionable)
@@ -128,7 +131,9 @@ def handle_sibling_tags(driver, element, seen_xpaths, results, accessible_name):
                                 "role": textarea.get_attribute("role"),
                                 "aria-label": textarea.get_attribute("aria-label"),
                                 "name": textarea.get_attribute("name"),
-                                "id": textarea.get_attribute("id")
+                                "id": textarea.get_attribute("id"),
+                                "placeholder": textarea.get_attribute("placeholder"),
+                                "href": textarea.get_attribute("href") if textarea.get_attribute("href") else ""
                             }
                         })
         except:
@@ -153,7 +158,9 @@ def handle_sibling_tags(driver, element, seen_xpaths, results, accessible_name):
                                 "role": act.get_attribute("role"),
                                 "aria-label": act.get_attribute("aria-label"),
                                 "name": act.get_attribute("name"),
-                                "id": act.get_attribute("id")
+                                "id": act.get_attribute("id"),
+                                "placeholder": act.get_attribute("placeholder"),
+                                "href": act.get_attribute("href") if act.get_attribute("href") else ""
                             }
                         })
         except:
@@ -196,19 +203,20 @@ def find_element_by_accessible_name(driver, accessible_name):
     except:
         pass
 
+    # Check if the accessible_name is a substring of any href attribute in anchor tags
     try:
-        # Use case-insensitive text matching and look for both exact and containing matches
-        elements = driver.find_elements(By.XPATH, f"//*[(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '{accessible_name.lower()}')]")
+        # Find <a> elements where href contains the accessible_name as a substring. This is useful for elements that has, no text, no aria-label and no id attribute
+        elements = driver.find_elements(By.XPATH, f"//a[contains(@href, '{accessible_name}')]")
         potential_elements.extend(elements)
     except:
         pass
 
-    # Also try with normalize-space to handle whitespace issues
-    try:
-        elements = driver.find_elements(By.XPATH, f"//*[(translate(normalize-space(text()), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '{accessible_name.lower()}')]")
-        potential_elements.extend(elements)
-    except:
-        pass
+    # try:
+    #     # Use case-insensitive text matching and look for both exact and containing matches
+    #     elements = driver.find_elements(By.XPATH, f"//*[(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '{accessible_name}')]")
+    #     potential_elements.extend(elements)
+    # except:
+    #     pass
 
     # Check div elements specifically (common for fake buttons)
     try:
@@ -261,7 +269,7 @@ def find_element_by_accessible_name(driver, accessible_name):
                     }}
                     
                     function normalize(str) {{
-                        return str.replace(/\\s+/g, '').toLowerCase();
+                        return str.replace(/\\s+/g, '');
                     }}
                     
                     function searchElements(root) {{
@@ -359,7 +367,9 @@ def find_element_by_accessible_name(driver, accessible_name):
                         "role": element.get_attribute("role"),
                         "aria-label": element.get_attribute("aria-label"),
                         "name": element.get_attribute("name"),
-                        "id": element.get_attribute("id")
+                        "id": element.get_attribute("id"),
+                        "placeholder": element.get_attribute("placeholder"),
+                        "href": element.get_attribute("href") if element.get_attribute("href") else ""
                     }
                 })
             # Handle associated input field if it's a label
@@ -453,15 +463,21 @@ def fetch_xpath():
     while i < len(parsed_lines):
         current = parsed_lines[i]
         # Check if current line ends with 'link' as second last and next line starts with 'link'
-        if (
-                i + 1 < len(parsed_lines) and
-                len(current) >= 2 and
-                current[-2] == 'link' and
-                parsed_lines[i + 1][0] == 'link'
-        ):
-            first_text = current[-1]
-            second_text = parsed_lines[i + 1][1].strip() if len(parsed_lines[i + 1]) > 1 else ''
-            merged_links.append(first_text + second_text)
+        if i + 1 < len(parsed_lines) and len(current) >= 2 and current[-2] == 'link':
+            if parsed_lines[i + 1][0] == 'link':
+                first_text = current[-1]
+                second_text = parsed_lines[i + 1][1].strip() if len(parsed_lines[i + 1]) > 1 else ''
+                merged_links.append(first_text + second_text)
+            else:
+                j = 0 # Find the index of 'link' in next_line *after* skipping excluded leading words
+                while j < len(parsed_lines[i + 1]) and parsed_lines[i + 1][j].strip() in exclude_words:
+                    j += 1
+
+                # Now check if the last word was 'link' (i.e. next_line[j-1] == 'link')
+                if 0 < j < len(parsed_lines[i + 1]) and parsed_lines[i + 1][j - 1].strip() == 'link':
+                    first_text = current[-1]
+                    second_text = parsed_lines[i + 1][j]
+                    merged_links.append(first_text + second_text)
 
         for item in current: # Otherwise, process normally
             if item not in exclude_words:
@@ -493,93 +509,141 @@ def fetch_xpath():
 
 
 def log_down_arrow_locatability_issues():
-    """Load and compare XPath data from JSON files to identify missing XPaths."""
-    def is_ancestor_or_equal_xpath(possible_ancestor, possible_descendant):
-        """
-        Check if one XPath is an ancestor of or equal to another XPath.
-        Returns True if possible_ancestor is an ancestor of or equal to possible_descendant.
-        """
-        # Handle exact match
-        if possible_ancestor == possible_descendant:
-            return True
-        # Check if ancestor is a prefix of descendant
-        # We need to be careful about partial tag name matches, so check if:
-        # 1. The ancestor is a prefix of the descendant
-        # 2. The character after the prefix is a "/" (indicating it's truly a parent path)
-        if possible_descendant.startswith(possible_ancestor) and (
-                len(possible_descendant) == len(possible_ancestor) or
-                possible_descendant[len(possible_ancestor)] == "/"):
-            return True
-        return False
-
-    def find_matching_xpaths(interactive_xpaths, key_xpaths):
-        """
-        Find matches between interactive XPaths and name-based XPaths,
-        considering hierarchical relationships.
-        """
-        missing_elements = set()
-        for interactive_xpath in interactive_xpaths:
-            has_match = False
-            for key_xpath in key_xpaths:
-                # Check if interactive XPath is represented by any key XPath
-                # either as ancestor or descendant
-                if is_ancestor_or_equal_xpath(interactive_xpath, key_xpath) or \
-                        is_ancestor_or_equal_xpath(key_xpath, interactive_xpath):
-                    has_match = True
-                    break
-            if not has_match:
-                missing_elements.add(interactive_xpath)
-        return missing_elements
+    def normalize_name(name):
+        if not name:
+            return ""
+        name = name.replace('\n', '').strip()
+        # Normalize unicode (like converting 'Zelle®' to 'Zelle' by stripping special chars)
+        name = unicodedata.normalize("NFKD", name)
+        # Remove specific known symbols like ® (you can add more if needed)
+        name = name.replace("®", "")
+        # Collapse multiple spaces
+        name = re.sub(r'\s+', ' ', name)
+        return name.strip()
 
     try:
         # Define file paths
-        interactive_file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_exclude_hidden_selenium.json")
-        key_file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpaths_down_arrow.json")
+        selenium_file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_exclude_hidden_selenium.json")
+        nvda_file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpaths_down_arrow.json")
 
         # Load JSON data
-        with open(interactive_file_path, "r", encoding="utf-8") as file:
-            interactive_xpaths_data = json.load(file)
-        with open(key_file_path, "r", encoding="utf-8") as file:
-            key_xpaths_data = json.load(file)
+        with open(selenium_file_path, "r", encoding="utf-8") as file:
+            selenium_xpaths_data = json.load(file)
+        with open(nvda_file_path, "r", encoding="utf-8") as file:
+            nvda_xpaths_data = json.load(file)
 
         # Extract XPaths
-        interactive_xpaths = {entry["xpath"] for entry in interactive_xpaths_data["actionableElements"]}
-        key_xpaths = set()
-        for headline, elements in key_xpaths_data.items(): # Iterate through each key (headline) in the JSON
-            if elements: # Extract XPaths, ignoring empty lists
-                for element in elements: # Add XPaths to the set (which automatically removes duplicates)
-                    key_xpaths.add(element['xpath'])
+        selenium_xpaths = selenium_xpaths_data.get("actionableElements", [])
+        unmatched_selenium_name_label = []
+        matched_down_arrow = set()   # Keep track of matched down_arrow xpaths
 
-        # Normalize interactive_xpaths
-        normalized_interactive_xpaths = {
-            '/html' + xpath if xpath.startswith('/body') else xpath
-            for xpath in interactive_xpaths
-        }
-        normalized_interactive_xpaths = {
-            re.sub(r'\[1\]', '', xpath) for xpath in normalized_interactive_xpaths
-        }
+    # Compare Selenium elements with Down Arrow. We are checking only for name and aria-label match
+        for sel_elem in selenium_xpaths:
+            sel_name = sel_elem.get("text", "").strip()
+            sel_aria_label = sel_elem.get("aria-label", "").strip()
+            sel_xpath = sel_elem.get("xpath")
 
-        # Normalize key_xpaths
-        normalized_key_xpaths = {
-            '/html' + xpath if xpath.startswith('/body') else xpath
-            for xpath in key_xpaths
-        }
-        normalized_key_xpaths = {
-            re.sub(r'\[1\]', '', xpath) for xpath in normalized_key_xpaths
-        }
+            # Normalize name for matching
+            # sel_name_norm = sel_name.replace("\n", "").strip()
+            sel_name_norm = normalize_name(sel_name)
+            sel_aria_label_norm = normalize_name(sel_aria_label)
 
-        # Find missing XPaths using proper set operations
-        missing_xpaths = find_matching_xpaths(normalized_interactive_xpaths, normalized_key_xpaths)
+            matched = False
+            for down_name, down_items in nvda_xpaths_data.items():
+                # down_name_norm = down_name.replace("\n", "").strip()
+                down_name_norm = normalize_name(down_name)
+                if sel_name_norm == down_name_norm or sel_aria_label_norm == down_name_norm: # Matching both text and aria-label
+                    for item in down_items:
+                        if item.get("xpath") == sel_xpath:
+                            matched = True
+                            matched_down_arrow.add((down_name, sel_xpath))
+                            break                                               # from xpaths list
+                    if matched: break                                           # from nvda_down_arrow list
+            if not matched:
+                unmatched_selenium_name_label.append(sel_elem)
 
-        # Write results
+        file_path_intermediate_issues = os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_intermediate_locatability_issues.json")
+        data = {
+            "count of missing paths": len(unmatched_selenium_name_label),
+            "missing paths": unmatched_selenium_name_label if unmatched_selenium_name_label else None
+        }
+        with open(file_path_intermediate_issues, "w", encoding="utf-8") as json_file:
+            json.dump(data, json_file, indent=4)
+
+        print(f"{'Intermediate missing XPaths found after text+aria-label' if unmatched_selenium_name_label else 'No intermediate locatability issue after text+aria-label'} ({len(unmatched_selenium_name_label)})")
+
+    # In this iteration, we will check for "id" and substring match with href for issues logged by above logic
+        unmatched_selenium_id_href = []
+        for sel_elem in unmatched_selenium_name_label:
+            sel_id = sel_elem.get("id")
+            sel_xpath = sel_elem.get("xpath")
+            sel_href = sel_elem.get("href")
+            matched = False
+            for down_name, down_items in nvda_xpaths_data.items(): # iterate over all nvda logged names
+                for item in down_items:                            # iterate over all xpaths of a name
+                    down_id = item.get("attributes").get("id")
+                    if sel_id != "" and sel_id == down_id and item.get("xpath") == sel_xpath:
+                        matched = True
+                        matched_down_arrow.add((down_name, sel_xpath))
+                        break                                               # from xpaths list
+            for down_name, down_items in nvda_xpaths_data.items(): # iterate over all nvda logged names
+                for item in down_items:                            # iterate over all xpaths of a name
+                    down_href = item.get("attributes").get("href")
+                    if sel_href != "" and down_name in sel_href and sel_href == down_href:
+                        matched = True
+                        matched_down_arrow.add((down_name, sel_xpath))
+                        break
+            if matched: break
+            if not matched:
+                unmatched_selenium_id_href.append(sel_elem)
+        print( f"{'Intermediate missing XPaths found after id+href' if unmatched_selenium_id_href else 'No intermediate locatability issue after id+href'} ({len(unmatched_selenium_id_href)})")
+
+    # Final substring xpath match
+        # Step 1: Extract all XPaths from down_arrow.json
+        nvda_all_full_xpaths = []
+        for elements in nvda_xpaths_data.values():
+            for element in elements:
+                xpath = element.get("xpath", "")
+                if xpath:
+                    nvda_all_full_xpaths.append(xpath)
+        # Step 2: Extract unmatched issue objects (not just xpath)
+        unmatched_selenium = [
+            issue for issue in unmatched_selenium_id_href
+            if not any(issue["xpath"] in full_xpath for full_xpath in nvda_all_full_xpaths)
+        ]
+
+    # Find unmatched down arrow entries
+        unmatched_down_arrow = []
+        for down_name, down_items in nvda_xpaths_data.items():
+            for item in down_items:
+                if (down_name, item["xpath"]) not in matched_down_arrow:
+                    unmatched_down_arrow.append(item)
+    # write issues to file
         file_path_issues = os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_locatability_issues.json")
         data = {
-            "count of missing paths": len(missing_xpaths),
-            "missing paths": list(sorted(missing_xpaths)) if missing_xpaths else None
+            "count of missing paths": len(unmatched_selenium),
+            "missing paths": unmatched_selenium if unmatched_selenium else None
         }
         with open(file_path_issues, "w", encoding="utf-8") as json_file:
             json.dump(data, json_file, indent=4)
-        print(f"{'Missing XPaths found' if missing_xpaths else 'No locatability issue'} ({len(missing_xpaths)})")
+        print(f"{'Missing XPaths found' if unmatched_selenium else 'No locatability issue'} ({len(unmatched_selenium)})")
+
+    # write issues by normalizing so that they could be highlighted easily
+        normalized_xpaths = set()  # Create a new set to store normalized XPaths
+        for sel_item in unmatched_selenium_name_label:
+            xpath = sel_item.get("xpath")
+            if xpath.startswith('/body'):
+                xpath = '/html' + xpath
+            xpath = re.sub(r'\[1\]', '', xpath)  # Remove [1] for first-level tags
+            normalized_xpaths.add(xpath)  # Add the normalized XPath to the new set
+        file_path_issues = os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_intermediate_issues_highlight.json")
+        data = {
+            "count of missing paths": len(normalized_xpaths),
+            "missing paths": list(normalized_xpaths) if normalized_xpaths else None
+        }
+        with open(file_path_issues, "w", encoding="utf-8") as json_file:
+            json.dump(data, json_file, indent=4)
+
 
     except FileNotFoundError as e:
         print(f"Error: Could not find file: {e.filename}")
