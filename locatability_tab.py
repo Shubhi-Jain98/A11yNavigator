@@ -50,8 +50,8 @@ def traverse_website_and_extract_xpath_focussed_ele_and_extract_all_actionable_e
     print("start_title: ", start_title)
 
     count_actionable_elements = get_actionable_elements_count(driver) # uses selenium api
-    # sel_write_actionable_elements_to_json(count_actionable_elements, sel_get_actionable_elements(
-    #     driver, flag="exclude_hidden"), flag="exclude_hidden") # write all actionable elements path to file
+    sel_write_actionable_elements_to_json(count_actionable_elements, sel_get_actionable_elements(
+        driver, flag="exclude_hidden"), flag="exclude_hidden") # write all actionable elements path to file
     # sel_write_actionable_elements_to_json(count_actionable_elements, sel_get_actionable_elements(
     #     driver))  # write all actionable elements path to file. this includes hidden as well
 
@@ -94,8 +94,6 @@ def traverse_website_and_extract_xpath_focussed_ele_and_extract_all_actionable_e
             visited_elements.add(ia2_unique_id)
             count_actionable += 1
             if is_dropdown_or_select(current_element):
-                # element_role = current_element.get_attribute('role')
-                # print("dropdown: ", element_role)
                 simulate_enter()
                 # Once dropdown is open, traverse its items
 
@@ -112,6 +110,6 @@ def log_tab_locatability_issues():
                os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_focused_element.json"),
                os.path.join(tempfile.gettempdir(), "nvda\\locatability\\nvda_locatability_issue_exclude_hidden.json"), "exclude_hidden")
 
-    log_issues(os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_include_hidden_selenium.json"),
-               os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_focused_element.json"),
-               os.path.join(tempfile.gettempdir(), "nvda\\locatability\\nvda_locatability_issue_include_hidden.json"), "include_hidden")
+    # log_issues(os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_include_hidden_selenium.json"),
+    #            os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_focused_element.json"),
+    #            os.path.join(tempfile.gettempdir(), "nvda\\locatability\\nvda_locatability_issue_include_hidden.json"), "include_hidden")
