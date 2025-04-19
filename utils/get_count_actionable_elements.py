@@ -155,9 +155,12 @@ def sel_get_actionable_elements(driver, flag=None):
                      if element.get_attribute("aria-label")
                      else element.get_attribute("alt")
                      if element.tag_name == "img"
+                     else element.get_attribute("value")
+                     if element.tag_name in ["input", "button"] and element.get_attribute("value")
                      else ""),
                 "aria-label": (element.get_attribute("aria-label") if element.get_attribute("aria-label") else ""),
                 "id": (element.get_attribute("id") if element.get_attribute("id") else ""),
+                "placeholder": element.get_attribute("placeholder"),
                 "href": (element.get_attribute("href") if element.get_attribute("href") else "")
             })
 
@@ -172,9 +175,17 @@ def sel_get_actionable_elements(driver, flag=None):
             results.append({
                 "tag_name": element.tag_name,
                 "xpath": xpath,
-                "text": element.text.strip(),
+                "text": (element.text.strip() if element.text
+                     else element.get_attribute("aria-label")
+                     if element.get_attribute("aria-label")
+                     else element.get_attribute("alt")
+                     if element.tag_name == "img"
+                     else element.get_attribute("value")
+                     if element.tag_name in ["input", "button"] and element.get_attribute("value")
+                     else ""),
                 "aria-label": (element.get_attribute("aria-label") if element.get_attribute("aria-label") else ""),
                 "id": (element.get_attribute("id") if element.get_attribute("id") else ""),
+                "placeholder": element.get_attribute("placeholder"),
                 "href": (element.get_attribute("href") if element.get_attribute("href") else ""),
                 "event_listener": "yes"
             })

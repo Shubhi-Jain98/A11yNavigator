@@ -149,9 +149,9 @@ if __name__ == "__main__":
     # sys.argv = ['main.py', 'locatability', 'down_arrow']
     time.sleep(7)  # wait for nvda to launch
     if sys.argv[1] == "locatability":
-        # delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\"))  # clear folder before starting
-        # delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\locatability\\"))
-        # delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\xpath\\"))
+        delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\"))  # clear folder before starting
+        delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\locatability\\"))
+        delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\xpath\\"))
         start_time = time.time()
         find_locatability_issues(sys.argv[2])
         print("Time to find locatability issues: ", time.time()-start_time)

@@ -116,8 +116,12 @@ def handle_sibling_tags(driver, element, seen_xpaths, results, accessible_name):
     if element.tag_name.lower() == "label":
         try:
             child_divs = element.find_elements(By.TAG_NAME, "div")
-            text_in_divs = " ".join([div.text.strip() for div in child_divs if div.text.strip()])
-            if accessible_name.lower() in text_in_divs.lower():
+            text_in_divs = " ".join([
+                div.get_attribute("textContent").strip()
+                for div in child_divs
+                if div.get_attribute("textContent") and div.get_attribute("textContent").strip()
+            ])
+            if accessible_name in text_in_divs:
                 textareas = element.find_elements(By.TAG_NAME, "textarea")
                 for textarea in textareas:
                     input_xpath = sel_get_element_xpath(textarea)
@@ -166,32 +170,71 @@ def handle_sibling_tags(driver, element, seen_xpaths, results, accessible_name):
         except:
             pass
 
+    # Pattern 4: Generalized logic:
+    # try:
+    #     parent = element.find_element(By.XPATH, "..")
+    #     siblings = parent.find_elements(By.XPATH,  "./*[self::input or self::textarea or self::button or self::a or self::select]")
+    #     for sib in siblings:
+    #         if sib == element:
+    #             continue  # skip self
+    #         sib_xpath = sel_get_element_xpath(sib)
+    #         if sib_xpath and sib_xpath not in seen_xpaths:
+    #             seen_xpaths.add(sib_xpath)
+    #             results.append({
+    #                 "element": sib,
+    #                 "xpath": sib_xpath,
+    #                 "tag_name": sib.tag_name,
+    #                 "attributes": {
+    #                     "role": sib.get_attribute("role"),
+    #                     "aria-label": sib.get_attribute("aria-label"),
+    #                     "name": sib.get_attribute("name"),
+    #                     "id": sib.get_attribute("id"),
+    #                     "placeholder": sib.get_attribute("placeholder"),
+    #                     "href": sib.get_attribute("href") if sib.get_attribute("href") else ""
+    #                 }
+    #             })
+    # except Exception as e:
+    #     print(f"[Sibling Matcher] Error: {e}")
+
 
 def find_element_by_accessible_name(driver, accessible_name):
     """
     Find an element by its accessible name (what screen readers would announce)
     and return its XPath.
     """
+    if accessible_name == "." or accessible_name == ",":
+        return []
+    if accessible_name.startswith("•") or accessible_name.endswith("•"): # for names that have bullet, example genius.com
+        accessible_name = accessible_name.strip("•").strip()
     # Try various attributes that contribute to accessible name
     potential_elements = []
+
+    # Uppercase matches where text-transform style is used in css to mark all text in caps
+    if accessible_name.isupper():
+        try:
+            elements = driver.find_elements(By.XPATH, f"//*[translate(normalize-space(text()), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz')='{accessible_name.lower()}']")
+            potential_elements.extend(elements)
+        except:
+            pass
+
     # Case insensitive text content matching - this should catch the "Load More" div
     try:
         # Finds <span> elements whose text contains the name and are likely visually hidden (based on style or classes like sr-only).
-        elements = driver.find_elements(By.XPATH, f"//span[contains(text(), '{accessible_name}') and (contains(@style, 'clip:') or contains(@style, 'position: absolute') or contains(@class, 'sr-only') or contains(@class, 'visually-hidden'))]")
+        elements = driver.find_elements(By.XPATH, f"//span[normalize-space(text(), '{accessible_name}') and (contains(@style, 'clip:') or contains(@style, 'position: absolute') or contains(@class, 'sr-only') or contains(@class, 'visually-hidden'))]")
         potential_elements.extend(elements)
     except:
         pass
 
     try:
         # Look for the parent element of the hidden text (often the interactive element)
-        elements = driver.find_elements(By.XPATH, f"//span[contains(text(), '{accessible_name}')]/parent::*")
+        elements = driver.find_elements(By.XPATH, f"//span[normalize-space(text(), '{accessible_name}')]/parent::*")
         potential_elements.extend(elements)
     except:
         pass
 
     try:
         # Finds anchor (<a>) elements containing a span with matching text.
-        elements = driver.find_elements(By.XPATH, f"//a[.//span[contains(text(), '{accessible_name}')]]")
+        elements = driver.find_elements(By.XPATH, f"//a[.//span[normalize-space(text(), '{accessible_name}')]]")
         potential_elements.extend(elements)
     except:
         pass
@@ -203,31 +246,31 @@ def find_element_by_accessible_name(driver, accessible_name):
     except:
         pass
 
-    # Check if the accessible_name is a substring of any href attribute in anchor tags
+    # Check input or button elements with matching value attribute
     try:
-        # Find <a> elements where href contains the accessible_name as a substring. This is useful for elements that has, no text, no aria-label and no id attribute
-        elements = driver.find_elements(By.XPATH, f"//a[contains(@href, '{accessible_name}')]")
+        elements = driver.find_elements(By.XPATH,  f"//input[@value='{accessible_name}'] | //button[@value='{accessible_name}']")
         potential_elements.extend(elements)
     except:
         pass
 
-    # try:
-    #     # Use case-insensitive text matching and look for both exact and containing matches
-    #     elements = driver.find_elements(By.XPATH, f"//*[(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '{accessible_name}')]")
-    #     potential_elements.extend(elements)
-    # except:
-    #     pass
+    # Check if the accessible_name is a substring of any href attribute in anchor tags
+    try:
+        # Find <a> elements where href is the accessible_name. This is useful for elements that has, no text, no aria-label and no id attribute. Example: duckduckgo #features
+        elements = driver.find_elements(By.XPATH, f"//a[(@href, '{accessible_name}')]")
+        potential_elements.extend(elements)
+    except:
+        pass
 
     # Check div elements specifically (common for fake buttons)
     try:
-        elements = driver.find_elements(By.XPATH, f"//div[normalize-space(text())='{accessible_name}' or contains(normalize-space(text()), '{accessible_name}')]")
+        elements = driver.find_elements(By.XPATH, f"//div[normalize-space(text())='{accessible_name}']")
         potential_elements.extend(elements)
     except:
         pass
 
     # Check span elements specifically (common for fake buttons)
     try:
-        elements = driver.find_elements(By.XPATH, f"//span[normalize-space(text())='{accessible_name}' or contains(normalize-space(text()), '{accessible_name}')]")
+        elements = driver.find_elements(By.XPATH, f"//span[normalize-space(text())='{accessible_name}']")
         potential_elements.extend(elements)
     except:
         pass
@@ -264,6 +307,9 @@ def find_element_by_accessible_name(driver, accessible_name):
                         if (!name && el.getAttribute('aria-labelledby')) {{
                             let label = document.getElementById(el.getAttribute('aria-labelledby'));
                             name = label ? label.innerText.trim() : '';
+                        }}
+                        if (!name && el.getAttribute('value')) {{
+                            name = el.getAttribute('value');
                         }}
                         return name;
                     }}
@@ -463,7 +509,7 @@ def fetch_xpath():
     while i < len(parsed_lines):
         current = parsed_lines[i]
         # Check if current line ends with 'link' as second last and next line starts with 'link'
-        if i + 1 < len(parsed_lines) and len(current) >= 2 and current[-2] == 'link':
+        if i + 1 < len(parsed_lines) and parsed_lines[i+1] != [] and len(current) >= 2 and current[-2] == 'link':
             if parsed_lines[i + 1][0] == 'link':
                 first_text = current[-1]
                 second_text = parsed_lines[i + 1][1].strip() if len(parsed_lines[i + 1]) > 1 else ''
@@ -640,7 +686,7 @@ def log_down_arrow_locatability_issues():
         file_path_issues = os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_intermediate_issues_highlight.json")
         data = {
             "count of missing paths": len(normalized_xpaths),
-            "missing paths": list(normalized_xpaths) if normalized_xpaths else None
+            "missing paths": sorted(list(normalized_xpaths)) if normalized_xpaths else None
         }
         with open(file_path_issues, "w", encoding="utf-8") as json_file:
             json.dump(data, json_file, indent=4)

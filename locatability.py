@@ -137,7 +137,7 @@ def find_locatability_issues(argv_two):
         traverse_website_and_extract_xpath_focussed_ele_and_extract_all_actionable_elements() # traverse website to log each element data & get count of actionable elements
         log_tab_locatability_issues()
     elif argv_two == "down_arrow":
-        # traverse_whole_website_down_arrow()
+        traverse_whole_website_down_arrow()
         fetch_xpath()
         log_down_arrow_locatability_issues()
     elif argv_two == "single_key":
