@@ -37,7 +37,7 @@ def run_script_to_get_xpath(driver):
     return result
 
 
-def write_to_file(result, traverse_type, focused_element_name, focused_element_value, focused_element_states, ia2_unique_id):
+def write_to_file(result, key_interactions, traverse_type, focused_element_name, focused_element_value, focused_element_states, ia2_unique_id):
     if traverse_type == "tab":
         file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_focused_element.json")
     elif traverse_type == "single_key":
@@ -50,6 +50,7 @@ def write_to_file(result, traverse_type, focused_element_name, focused_element_v
             "nvda_value": focused_element_value,
             "nvda_states": focused_element_states,
             "xpath": result["xpath"],
+            "key_interactions": key_interactions,
         }
         try:
             if os.path.exists(file_path):
@@ -69,6 +70,7 @@ def write_to_file(result, traverse_type, focused_element_name, focused_element_v
         print("No element is currently focused.")
 
 
-def extract_xpath_focussed_ele(driver, traverse_type, focused_element_name, focused_element_value, focused_element_states, ia2_unique_id):
+def extract_xpath_focussed_ele(driver, key_interactions, traverse_type, focused_element_name, focused_element_value, focused_element_states, ia2_unique_id):
     result = run_script_to_get_xpath(driver)
-    write_to_file(result, traverse_type, focused_element_name, focused_element_value, focused_element_states, ia2_unique_id)
+    write_to_file(result, key_interactions, traverse_type, focused_element_name, focused_element_value, focused_element_states, ia2_unique_id)
+    return result # this is done to record #keypresses in single key navigation

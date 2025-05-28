@@ -60,6 +60,7 @@ def traverse_website_and_extract_xpath_focussed_ele_and_extract_all_actionable_e
     focus_on_page_body()
     visited_same_elements_count = 0
 
+    key_interactions = 0
     while True:
         time.sleep(4)
         simulate_tab()
@@ -67,7 +68,7 @@ def traverse_website_and_extract_xpath_focussed_ele_and_extract_all_actionable_e
 
         focused_element_role = get_focused_element_role()
         ia2_unique_id = get_unique_id()
-        extract_xpath_focussed_ele(driver, "tab", get_focused_element_name(), get_focused_element_value(), get_focused_element_states(), ia2_unique_id) # extract xpath of currently focussed element
+        extract_xpath_focussed_ele(driver, key_interactions, "tab", get_focused_element_name(), get_focused_element_value(), get_focused_element_states(), ia2_unique_id) # extract xpath of currently focussed element
         current_element = get_currently_focused_element(driver)  # Check if current element is a dropdown or select
 
         if ia2_unique_id is None:
@@ -78,19 +79,20 @@ def traverse_website_and_extract_xpath_focussed_ele_and_extract_all_actionable_e
             time.sleep(4)
             for i in range(6):
                 simulate_right_arrow(driver)
-                extract_xpath_focussed_ele(driver, "tab", get_focused_element_name(), get_focused_element_value(), get_focused_element_states(), get_unique_id())  # extract xpath of currently focussed element
+                extract_xpath_focussed_ele(driver, key_interactions, "tab", get_focused_element_name(), get_focused_element_value(), get_focused_element_states(), get_unique_id())  # extract xpath of currently focussed element
                 time.sleep(8)  # added time delay here
             simulate_tab()
 
         if ia2_unique_id in visited_elements: # and count_actionable>=count_actionable_elements: # I think condition will be true only if there are no issues
             visited_same_elements_count += 1
-            if count_actionable_elements<=70 and visited_same_elements_count >= count_actionable_elements: # implies that we have traversed the complete website >= twice for small websites
+            if count_actionable_elements<=70 and visited_same_elements_count >= count_actionable_elements/2: # implies that we have traversed the complete website >= twice for small websites
                 print("Completed finding locatability issues. Break visited_same_elements_count<=70")
                 break
             elif visited_same_elements_count >= 70: # for big websites, we are not traversing twice to save time
                 print("Completed finding locatability issues. Break visited_same_elements_count>=70")
                 break
         else:
+            key_interactions += 1
             visited_elements.add(ia2_unique_id)
             count_actionable += 1
             if is_dropdown_or_select(current_element):

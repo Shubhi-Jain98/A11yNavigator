@@ -4,6 +4,7 @@ import re
 import tempfile
 import os
 import time
+from collections import defaultdict
 
 import unicodedata
 from selenium.webdriver.common.by import By
@@ -169,32 +170,6 @@ def handle_sibling_tags(driver, element, seen_xpaths, results, accessible_name):
                         })
         except:
             pass
-
-    # Pattern 4: Generalized logic:
-    # try:
-    #     parent = element.find_element(By.XPATH, "..")
-    #     siblings = parent.find_elements(By.XPATH,  "./*[self::input or self::textarea or self::button or self::a or self::select]")
-    #     for sib in siblings:
-    #         if sib == element:
-    #             continue  # skip self
-    #         sib_xpath = sel_get_element_xpath(sib)
-    #         if sib_xpath and sib_xpath not in seen_xpaths:
-    #             seen_xpaths.add(sib_xpath)
-    #             results.append({
-    #                 "element": sib,
-    #                 "xpath": sib_xpath,
-    #                 "tag_name": sib.tag_name,
-    #                 "attributes": {
-    #                     "role": sib.get_attribute("role"),
-    #                     "aria-label": sib.get_attribute("aria-label"),
-    #                     "name": sib.get_attribute("name"),
-    #                     "id": sib.get_attribute("id"),
-    #                     "placeholder": sib.get_attribute("placeholder"),
-    #                     "href": sib.get_attribute("href") if sib.get_attribute("href") else ""
-    #                 }
-    #             })
-    # except Exception as e:
-    #     print(f"[Sibling Matcher] Error: {e}")
 
 
 def find_element_by_accessible_name(driver, accessible_name):
@@ -445,7 +420,7 @@ def traverse_whole_website_down_arrow():
     from main import connect_to_existing_chrome, get_elements_count, get_actionable_elements_count
     from locatability import clean_locatability_folder
 
-    clean_locatability_folder()
+    # clean_locatability_folder()
     driver = connect_to_existing_chrome()
     if not driver:
         print("No driver found.")
@@ -455,9 +430,7 @@ def traverse_whole_website_down_arrow():
     # sel_write_elements_to_json(count_elements, sel_get_elements(driver, flag="exclude_hidden"), flag="exclude_hidden") # write all elements path to file
 
     count_actionable_elements = get_actionable_elements_count(driver)
-    sel_write_actionable_elements_to_json(count_actionable_elements,
-                                          sel_get_actionable_elements(driver, flag="exclude_hidden"),
-                                          flag="exclude_hidden")  # write all actionable elements path to file
+    sel_write_actionable_elements_to_json(count_actionable_elements, sel_get_actionable_elements(driver, flag="exclude_hidden"), flag="exclude_hidden")  # write all actionable elements path to file
     focus_on_page_body()
     simulate_tab()
     while True:
@@ -468,7 +441,8 @@ def traverse_whole_website_down_arrow():
 
     count_actionable = 0
     print(count_actionable, " ", count_elements)
-    while count_actionable <= count_elements:
+    # while count_actionable <= count_elements:
+    for i in range (20):
         time.sleep(2)
         simulate_down_arrow()
         count_actionable += 1
@@ -476,7 +450,7 @@ def traverse_whole_website_down_arrow():
         if count_actionable >=10 and are_last_n_lines_equal(os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_loop.txt")):
             break
 
-
+5
 # fetch xpath based on name, it includes "Pre-processing of lines" + "xpath extraction"
 def fetch_xpath():
     from main import connect_to_existing_chrome
@@ -488,8 +462,8 @@ def fetch_xpath():
 
     exclude_words = ["out of list", "list", "link", "clickable", "link", "out of slide", "slide", "button", "graphic", "heading", "menu bar", "menu item", "menu button", "subMenu", "selected", "level 3", "level 2"]
     file_path_read = os.path.join(tempfile.gettempdir(), "nvda\\locatability", "down_arrow_all_speech.txt")
-    unique_strings = set()
-    merged_links = [] # to handle scenarios where NVDA announces name in two parts. Hence, to find a link for a name, we need to merge those two parts and then look for it. For reference see Chase website example
+    unique_strings = defaultdict(list)
+    merged_links = defaultdict(list) # to handle scenarios where NVDA announces name in two parts. Hence, to find a link for a name, we need to merge those two parts and then look for it. For reference see Chase website example
     parsed_lines = []  # First read all lines and parse them
     with open(file_path_read, 'r', encoding="utf-8") as file:
         for line in file:
@@ -513,7 +487,7 @@ def fetch_xpath():
             if parsed_lines[i + 1][0] == 'link':
                 first_text = current[-1]
                 second_text = parsed_lines[i + 1][1].strip() if len(parsed_lines[i + 1]) > 1 else ''
-                merged_links.append(first_text + second_text)
+                merged_links[first_text + second_text].append(i+1)
             else:
                 j = 0 # Find the index of 'link' in next_line *after* skipping excluded leading words
                 while j < len(parsed_lines[i + 1]) and parsed_lines[i + 1][j].strip() in exclude_words:
@@ -523,18 +497,19 @@ def fetch_xpath():
                 if 0 < j < len(parsed_lines[i + 1]) and parsed_lines[i + 1][j - 1].strip() == 'link':
                     first_text = current[-1]
                     second_text = parsed_lines[i + 1][j]
-                    merged_links.append(first_text + second_text)
+                    merged_links[first_text + second_text].append(i+1)
 
         for item in current: # Otherwise, process normally
+            item = item.strip()
             if item not in exclude_words:
-                unique_strings.add(item.strip())
+                unique_strings[item].append(i+1)
         i += 1
-    for merged in merged_links: # Add merged items
-        unique_strings.add(merged)
+    for merged, indices in merged_links.items():
+        unique_strings[merged].extend(indices)
 
     print(f"Pre-processing done! Moving ahead for xpath extraction")
     results = {}
-    for name in unique_strings:
+    for name, indices in unique_strings.items():
         if name == '':
             continue
         print(f"Processing: {name}")
@@ -545,7 +520,8 @@ def fetch_xpath():
             serializable_element = {
                 "xpath": element_info["xpath"],
                 "tag_name": element_info["tag_name"],
-                "attributes": element_info["attributes"]
+                "attributes": element_info["attributes"],
+                "number of keypresses": indices
             }
             serializable_elements.append(serializable_element)
         results[name] = serializable_elements
@@ -581,9 +557,9 @@ def log_down_arrow_locatability_issues():
         # Extract XPaths
         selenium_xpaths = selenium_xpaths_data.get("actionableElements", [])
         unmatched_selenium_name_label = []
-        matched_down_arrow = set()   # Keep track of matched down_arrow xpaths
+        matched_down_arrow = []   # Keep track of matched down_arrow xpaths
 
-    # Compare Selenium elements with Down Arrow. We are checking only for name and aria-label match
+    # Step1: Compare Selenium elements with Down Arrow. We are checking only for name and aria-label match
         for sel_elem in selenium_xpaths:
             sel_name = sel_elem.get("text", "").strip()
             sel_aria_label = sel_elem.get("aria-label", "").strip()
@@ -602,7 +578,9 @@ def log_down_arrow_locatability_issues():
                     for item in down_items:
                         if item.get("xpath") == sel_xpath:
                             matched = True
-                            matched_down_arrow.add((down_name, sel_xpath))
+                            merged = dict(sel_elem)
+                            merged['number_of_keypresses'] = item.get('number of keypresses', [])
+                            matched_down_arrow.append(merged)
                             break                                               # from xpaths list
                     if matched: break                                           # from nvda_down_arrow list
             if not matched:
@@ -618,7 +596,7 @@ def log_down_arrow_locatability_issues():
 
         print(f"{'Intermediate missing XPaths found after text+aria-label' if unmatched_selenium_name_label else 'No intermediate locatability issue after text+aria-label'} ({len(unmatched_selenium_name_label)})")
 
-    # In this iteration, we will check for "id" and substring match with href for issues logged by above logic
+    # Step2: In this iteration, we will check for "id" and substring match with href for issues logged by above logic
         unmatched_selenium_id_href = []
         for sel_elem in unmatched_selenium_name_label:
             sel_id = sel_elem.get("id")
@@ -630,7 +608,9 @@ def log_down_arrow_locatability_issues():
                     down_id = item.get("attributes").get("id")
                     if sel_id != "" and sel_id == down_id and item.get("xpath") == sel_xpath:
                         matched = True
-                        matched_down_arrow.add((down_name, sel_xpath))
+                        merged = dict(sel_elem)
+                        merged['number_of_keypresses'] = item.get('number of keypresses', [])
+                        matched_down_arrow.append(merged)
                         break                                               # from xpaths list
                 if matched: break
             for down_name, down_items in nvda_xpaths_data.items(): # iterate over all nvda logged names
@@ -638,33 +618,48 @@ def log_down_arrow_locatability_issues():
                     down_href = item.get("attributes").get("href")
                     if sel_href != "" and down_name in sel_href and sel_href == down_href:
                         matched = True
-                        matched_down_arrow.add((down_name, sel_xpath))
+                        merged = dict(sel_elem)
+                        merged['number_of_keypresses'] = item.get('number of keypresses', [])
+                        matched_down_arrow.append(merged)
                         break
                 if matched: break
             if not matched:
                 unmatched_selenium_id_href.append(sel_elem)
         print( f"{'Intermediate missing XPaths found after id+href' if unmatched_selenium_id_href else 'No intermediate locatability issue after id+href'} ({len(unmatched_selenium_id_href)})")
 
-    # Final substring xpath match
-        # Step 1: Extract all XPaths from down_arrow.json
+    # Step3: Final substring xpath match
+        # Step 3.1: Extract all XPaths from down_arrow.json
         nvda_all_full_xpaths = []
         for elements in nvda_xpaths_data.values():
             for element in elements:
                 xpath = element.get("xpath", "")
                 if xpath:
-                    nvda_all_full_xpaths.append(xpath)
-        # Step 2: Extract unmatched issue objects (not just xpath)
-        unmatched_selenium = [
-            issue for issue in unmatched_selenium_id_href
-            if not any(issue["xpath"] in full_xpath for full_xpath in nvda_all_full_xpaths)
-        ]
+                    nvda_all_full_xpaths.append({
+                        "xpath": xpath,
+                        "number_of_keypresses": element.get("number of keypresses", [])
+                    })
+        # Step 3.2: Extract unmatched issue objects (not just xpath)
+        unmatched_selenium = []
+        for issue in unmatched_selenium_id_href:
+            issue_xpath = issue["xpath"]
+            match = next((item for item in nvda_all_full_xpaths if item.get("xpath") and issue_xpath in item["xpath"]), None)
+            if match:
+                matched_entry = dict(issue)
+                matched_entry["number_of_keypresses"] = match.get("number_of_keypresses", [])
+                matched_down_arrow.append(matched_entry)
+            else:
+                unmatched_selenium.append(issue)
+
+        file_path_keypresses = os.path.join(tempfile.gettempdir(), "nvda\\locatability\\number_of_keypress.json")
+        with open(file_path_keypresses, "w", encoding="utf-8") as json_file:
+            json.dump(matched_down_arrow, json_file, indent=4)
 
     # Find unmatched down arrow entries
-        unmatched_down_arrow = []
-        for down_name, down_items in nvda_xpaths_data.items():
-            for item in down_items:
-                if (down_name, item["xpath"]) not in matched_down_arrow:
-                    unmatched_down_arrow.append(item)
+    #     unmatched_down_arrow = []
+    #     for down_name, down_items in nvda_xpaths_data.items():
+    #         for item in down_items:
+    #             if (down_name, item["xpath"]) not in matched_down_arrow:
+    #                 unmatched_down_arrow.append(item)
     # write issues to file
         file_path_issues = os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_locatability_issues.json")
         data = {
@@ -675,7 +670,7 @@ def log_down_arrow_locatability_issues():
             json.dump(data, json_file, indent=4)
         print(f"{'Missing XPaths found' if unmatched_selenium else 'No locatability issue'} ({len(unmatched_selenium)})")
 
-    # write issues by normalizing so that they could be highlighted easily
+    # EXTRA: write issues by normalizing so that they could be highlighted easily
         normalized_xpaths = set()  # Create a new set to store normalized XPaths
         for sel_item in unmatched_selenium_name_label:
             xpath = sel_item.get("xpath")
@@ -698,3 +693,26 @@ def log_down_arrow_locatability_issues():
         print("Error: Invalid JSON format in one of the files")
     except Exception as e:
         print(f"Unexpected error occurred: {str(e)}")
+
+def log_number_of_keypresses():
+    file_path_keypresses = os.path.join(tempfile.gettempdir(), "nvda\\locatability\\number_of_keypress.json")
+    with open(file_path_keypresses, "r", encoding="utf-8") as file:
+        keypress_data = json.load(file)
+
+    keypress_tracker = {} # Dictionary to track how many times we've seen each multi-entry list
+    total_sum = 0
+    for item in keypress_data:
+        keypress_list = item.get("number_of_keypresses", [])
+        key_tuple = tuple(keypress_list)    # Convert list to tuple (because lists can't be keys in dicts)
+        if len(keypress_list) == 1:
+            total_sum += keypress_list[0]
+        elif len(keypress_list) > 1:
+            count = keypress_tracker.get(key_tuple, 0)
+            if count < len(keypress_list):
+                total_sum += keypress_list[count]
+            else:
+                # If count exceeds list, pick the last value
+                total_sum += keypress_list[-1]
+            keypress_tracker[key_tuple] = count + 1
+
+    print("Average number of keypresses:", total_sum/len(keypress_data))

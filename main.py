@@ -35,10 +35,6 @@ def get_actionable_elements_count(driver):
     actionable_elements = driver.find_elements(By.CSS_SELECTOR, "a, button, input, select, textarea, [role='button'], [role='link']")
     return len(actionable_elements)
 
-    # actionable_elements = driver.execute_script("""
-    #     return Array.from(document.querySelectorAll("a, button, input, select, textarea, [role='button'], [role='link']")).map(el => el.outerHTML);
-    # """)
-    # return len(actionable_elements)
 
 def get_elements_count(driver):
     all_elements = driver.find_elements(By.CSS_SELECTOR, "*")
@@ -143,10 +139,8 @@ def crawl_websites():
     static_traverse()
 
 
-if __name__ == "__main__":
-    # crawl_websites()
-    # sys.argv = ['main.py', 'actionability', 'none']
-    # sys.argv = ['main.py', 'locatability', 'down_arrow']
+# if __name__ == "__main__":
+def main_func():
     time.sleep(7)  # wait for nvda to launch
     if sys.argv[1] == "locatability":
         delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\"))  # clear folder before starting

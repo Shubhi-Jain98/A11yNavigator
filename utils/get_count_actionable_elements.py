@@ -73,7 +73,7 @@ def get_count_actionable_elements():
 
 
 # Below marks the selenium implementation
-actionable_selectors = ["a", "button", "input", "select", "textarea", "[role='button']", "[role='link']"]
+actionable_selectors = ["a", "button", "input", "select", "textarea", "[role='button']", "[role='link']", "[role='tab']", "[type='button']", "button:has(span)"]
 def sel_get_element_xpath(element):
     """Generate XPath for a given WebElement."""
     try:
@@ -172,23 +172,29 @@ def sel_get_actionable_elements(driver, flag=None):
     for element in div_elements_event_listeners:
         xpath = sel_get_element_xpath(element)
         if xpath:
-            results.append({
-                "tag_name": element.tag_name,
-                "xpath": xpath,
-                "text": (element.text.strip() if element.text
-                     else element.get_attribute("aria-label")
-                     if element.get_attribute("aria-label")
-                     else element.get_attribute("alt")
-                     if element.tag_name == "img"
-                     else element.get_attribute("value")
-                     if element.tag_name in ["input", "button"] and element.get_attribute("value")
-                     else ""),
-                "aria-label": (element.get_attribute("aria-label") if element.get_attribute("aria-label") else ""),
-                "id": (element.get_attribute("id") if element.get_attribute("id") else ""),
-                "placeholder": element.get_attribute("placeholder"),
-                "href": (element.get_attribute("href") if element.get_attribute("href") else ""),
-                "event_listener": "yes"
-            })
+            xpath_exists = False
+            for result in results:
+                if result.get("xpath") == xpath:
+                    xpath_exists = True
+                    break
+            if not xpath_exists:
+                results.append({
+                    "tag_name": element.tag_name,
+                    "xpath": xpath,
+                    "text": (element.text.strip() if element.text
+                         else element.get_attribute("aria-label")
+                         if element.get_attribute("aria-label")
+                         else element.get_attribute("alt")
+                         if element.tag_name == "img"
+                         else element.get_attribute("value")
+                         if element.tag_name in ["input", "button"] and element.get_attribute("value")
+                         else ""),
+                    "aria-label": (element.get_attribute("aria-label") if element.get_attribute("aria-label") else ""),
+                    "id": (element.get_attribute("id") if element.get_attribute("id") else ""),
+                    "placeholder": element.get_attribute("placeholder"),
+                    "href": (element.get_attribute("href") if element.get_attribute("href") else ""),
+                    "event_listener": "yes"
+                })
     return results
 
 def sel_write_actionable_elements_to_json(count_actionable_elements, elements, flag=None):
@@ -234,19 +240,58 @@ def get_actionable_elements_with_listeners(driver):
             return false;
         }
         
-        allElements.forEach(el => {
+        function eventListeners(el) {
+            // Check if element has tabindex attribute
+            if (el.hasAttribute('tabindex') && el.getAttribute('tabindex') !== '-1') {
+                return true;
+            }
             
-            // Check for JavaScript event listeners
+            // Check inline handlers, Check for JavaScript event listeners
             const events = ['click', 'mousedown', 'mouseup', 'keypress', 'touchstart', 'touchend'];
-            let hasEventListener = false;
             for (const ev of events) {
-                if (typeof el['on' + ev] === 'function') {
-                    hasEventListener = true;
-                    break;
+                if (typeof el['on' + ev] === 'function' || el.hasAttribute('on' + ev)) {
+                    return true;
                 }
             }
-
-            if (hasEventListener && el.tagName == "DIV") {
+            
+            // Check for common interactive class names, including 'active' and 'hot'
+            const className = el.className || '';
+            if (typeof className === 'string' && (
+                className.includes('active') || 
+                className.includes('hot') ||
+                className.includes('trigger') || 
+                className.includes('button') || 
+                className.includes('toggle')
+            )) {
+                return true;
+            }
+            
+            return false;
+        }
+        
+        function detectModernInteractiveElement(el) {
+            // Check for pointer cursor style
+            const style = window.getComputedStyle(el);
+            if (style.cursor === 'pointer') return true;
+            
+            // Check for class names suggesting interactivity
+            const className = el.className || '';
+            if (typeof className === 'string' && (
+                className.includes('trigger') || 
+                className.includes('button') || 
+                className.includes('toggle')
+            )) return true;            
+            return false;
+        }
+        
+        allElements.forEach(el => {
+            if (el.tagName === "BUTTON" || el.tagName === "A") {
+                actionableElements.push(el);
+                return;
+            }
+    
+            // const isDivOrLi = (el.tagName === "DIV" || el.tagName === "LI" || el.tagName === "SPAN");
+            if (eventListeners(el)  ) {
                 // Check if element has actionable children
                 if (!hasActionableChildren(el)) {
                     // Check visibility
@@ -259,7 +304,15 @@ def get_actionable_elements_with_listeners(driver):
                                       el.offsetHeight > 0;
     
                     if (isVisible) {
-                        actionableElements.push(el);  // Return the actual DOM element
+                        if(el.tagName === "SPAN"){
+                            const parent = el.parentElement
+                            if (!actionableElements.includes(parent)) {
+                                actionableElements.push(el);
+                            }
+                        }
+                        else{
+                            actionableElements.push(el);  // Return the actual DOM element
+                        }
                     }
                 } 
             }
@@ -272,3 +325,5 @@ def get_actionable_elements_with_listeners(driver):
     except Exception as e:
         print(f"Error finding actionable elements: {e}")
         return []
+
+

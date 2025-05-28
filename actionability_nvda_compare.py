@@ -7,11 +7,11 @@ import time
 from selenium.common import StaleElementReferenceException
 
 from utils.get_count_actionable_elements import sel_write_actionable_elements_to_json, sel_get_actionable_elements
-from utils.key_presses import simulate_space, simulate_enter, simulate_tab, focus_on_page_body
+from utils.key_presses import simulate_space, simulate_enter, simulate_tab, focus_on_page_body, simulate_up_arrow
 from utils.nvda import get_focused_element_role, wait_for_nvda_completion
 
 CHECKBOX = "CHECKBOX"
-
+SPINBUTTON = "SPINBUTTON"
 
 def is_interactive_element(element):
     # Check for interactive states. Considering only TABS for now.
@@ -44,6 +44,9 @@ def is_similar_to_next_element(current_elem, next_elem):
             if current_elem['nvda_value'] == next_elem['nvda_value']:
                 if current_elem['nvda_states'] == next_elem['nvda_states']:
                     return True
+    else:
+        # xpath is not same i.e. current_elem != next_elem but that means is element is standalone and should be logged as issue to verify again
+        return True
     return False
 
 
@@ -60,16 +63,22 @@ def is_non_navigating_link(href): # href = nvda_value
     return any(pattern(href) for pattern in problematic_patterns)
 
 
-def log_actionability_issues():
+def log_actionability_issues(nvda_iteration):
     file_path = os.path.join(tempfile.gettempdir(), "nvda\\actionability\\after_perform_action_element_data.json")
     actionability_issues = []
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding="utf-8") as file:
             elements_data = json.load(file)
+        working_link_xpaths = set()
+        for entry in elements_data:
+            if entry.get('is_link_working') == "link worked":
+                working_link_xpaths.add(entry.get('xpath', ''))
         # Filter out entries where is_link_working is "link worked"
+        # OR where xpath matches any xpath from working links
         elements_data = [
             entry for entry in elements_data
-            if not (entry.get('is_link_working') == "link worked")
+            if not (entry.get('is_link_working') == "link worked" or
+                   entry.get('xpath', '') in working_link_xpaths)
         ]
         for i in range(len(elements_data)):
             current_elem = elements_data[i]
@@ -99,6 +108,8 @@ def log_actionability_issues():
                     if is_similar_to_next_element(current_elem, next_elem) and "PROPERTYPAGE" not in current_elem['nvda_role'] :
                         actionability_issues.append(current_elem)
     file_path_issues = os.path.join(tempfile.gettempdir(), "nvda\\actionability\\actionability_issues.json")
+    if nvda_iteration == "first":
+        file_path_issues = os.path.join(tempfile.gettempdir(), "nvda\\actionability\\actionability_issues_first_iter.json")
     if actionability_issues:
         print("Number of Actionability issues", len(actionability_issues))
         data = {
@@ -121,6 +132,11 @@ def perform_action_nvda_compare(driver, start_url, start_tabs):
         focused_element_role = get_focused_element_role()
         if focused_element_role is not None and CHECKBOX in focused_element_role.split()[0]:
             simulate_space()
+            time.sleep(2)
+            simulate_tab()
+            time.sleep(7)
+        elif focused_element_role is not None and SPINBUTTON in focused_element_role.split()[0]: # means the previous element in xpath list was spinbutton
+            simulate_up_arrow()
             time.sleep(2)
             simulate_tab()
             time.sleep(7)
@@ -161,10 +177,13 @@ def perform_action_nvda_compare(driver, start_url, start_tabs):
         print(f"Error in perform_action nvda: {str(e)}")
         return False
 
-
-def traverse_and_log_actionability_issues_second_iter(driver, focus_handler):
+# Comparing based on data logged by NVDA for focused element. It logs change in state of element
+def traverse_and_log_actionability_issues_second_iter(driver, focus_handler, nvda_iteration):
     from main import get_current_url, delete_all_cookies, get_number_of_tabs
-    file_path = os.path.join(tempfile.gettempdir(), "nvda\\actionability\\actionability_issues_dom_compare.json") # this will contain data in format of xpath_exclude_hidden_selenium file
+    if nvda_iteration == "first":
+        file_path = os.path.join(tempfile.gettempdir(), "nvda\\xpath\\xpath_exclude_hidden_selenium.json") # this will contain data in format of xpath_exclude_hidden_selenium file
+    elif nvda_iteration == "second":
+        file_path = os.path.join(tempfile.gettempdir(), "nvda\\actionability\\actionability_issues_first_iter.json")
     try:
         with open(file_path, 'r', encoding="utf-8") as file:
             elements_data = json.load(file)
@@ -172,7 +191,12 @@ def traverse_and_log_actionability_issues_second_iter(driver, focus_handler):
         start_url = get_current_url(driver)
         start_tabs = get_number_of_tabs(driver)
         loop = 0
-        for element_data in elements_data['missing paths']:
+        elements_data_iter = []
+        if nvda_iteration == "first":
+            elements_data_iter = elements_data['actionableElements']
+        elif nvda_iteration == "second":
+            elements_data_iter = elements_data['missing paths']
+        for element_data in elements_data_iter:
             # delete_all_cookies(driver)
             loop+=1
             print("Finding & acting on ", loop, " UI element...")
@@ -205,5 +229,5 @@ def traverse_and_log_actionability_issues_second_iter(driver, focus_handler):
     except Exception as e:
         print(f"Error processing elements: {str(e)}")
 
-    log_actionability_issues()
+    log_actionability_issues(nvda_iteration)
 
