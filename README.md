@@ -1,5 +1,6 @@
 # A11yNavigator
 This is the artifact of the paper "Automated Detection of Web Application Navigation Barriers for Screen Reader Users".
+For the list of issues detected by our tool, please visit [issues_artifacts](https://anonymous.4open.science/r/A11yNavigator-942F/issues_artifacts/README.md)
 
 ## Prerequisites
 ### System Requirements
