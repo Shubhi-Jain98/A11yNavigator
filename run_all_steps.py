@@ -1,6 +1,7 @@
 ﻿import shutil
 import subprocess
 import os
+import sys
 import time
 
 import requests
@@ -26,7 +27,7 @@ def run_all_steps(url_to_open):
     # time.sleep(5)  # Let NVDA initialize
 
     # -------- Step 3: Run your automation script --------
-    main_func()
+    main_func(sys.argv[1], sys.argv[2])
     print("[✓] Automation script executed.")
 
     # -------- Step 4: Copy data from one folder to another --------

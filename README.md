@@ -54,9 +54,9 @@ pip install requests
 4. Update "chrome_path" in `run_all_steps.py` to reflect chrome installation path
 
 ### Step 4: NVDA Setup
-If you want to run the NVDA to traverse website and test issues, please feel free to download and install the NVDA version 2024.1 as mentioned above. 
-If you want to use NVDA for the purpose we used in paper to log NVDA announcements and elements data, please follow "Build NVDA"
-1. **Build NVDA (if using custom build)**:
+To run NVDA to traverse websites and detect accessibility issues, please download and install NVDA version 2024.1 as mentioned above.
+To use NVDA for the purpose described in our paper—to log NVDA announcements and element data—please follow the "Build NVDA" instructions below:
+1**Build NVDA (for custom functionality)**:
    ```bash
    # Navigate to NVDA source directory
    cd path/to/nvda
@@ -64,92 +64,32 @@ If you want to use NVDA for the purpose we used in paper to log NVDA announcemen
    scons launcher
    ```
    - This will create an executable at the specified output directory
-   - [NVDA code](https://anonymous.4open.science/r/A11yNavigator-942F/)
+   - Here is the repository link for the custom NVDA code: [NVDA code](https://anonymous.4open.science/r/nvda-8DC5/readme.md)
 
 
 ## Running A11yNavigator
-1. Run nvda so to run this script on nvda
-   1. Can either run from Pycharm configurations or cmd
-   2. If cmd- build nvda project by running below command in terminal
-      ```
+1. Run NVDA custom build before running A11yNavigator tool
+   1. Can either run from Run button inside IDE or can run command on cmd
+   2. If cmd - build nvda project by running below command in terminal
+      ```bash
       scons launcher
        ```
       Launches exe at _D:\my_docs\UCI\Research\Spring24\WebImpl\nvda\output_
-2. Run main.py of the keyPressControl script
+2. The main entry point is `run_all_steps.py` which automates the entire process:
+   1. For Locatability Analysis, please run below command based on navigation mode
+      ```bash
+      python run_all_steps.py locatability single_key # Single key shortcuts testing
+      python run_all_steps.py locatability tab        # Tab navigation testing
+      python run_all_steps.py locatability down_arrow # Arrow key navigation testing
       ```
-      python main.py
+   2. For Actionability Analysis, please run below command 
+      ```bash
+      python run_all_steps.py actionability none      # Interactive element testing
       ```
-
-### Quick Hacks
-To highlight the element using xpath via Inspect tool -> Go to Console and type below command
- ```
-      // Replace 'YOUR_XPATH_HERE' with your XPath
-      const xpath = "YOUR_XPATH_HERE";
-      const element = document.evaluate(
-          xpath,
-          document,
-          null,
-          XPathResult.FIRST_ORDERED_NODE_TYPE,
-          null
-      ).singleNodeValue;
-      
-      if (element) {
-          element.style.border = "3px solid red"; // Highlight the element
-          element.scrollIntoView({ behavior: "smooth", block: "center" }); // Scroll into view
-          console.log("Element found and highlighted:", element);
-      } else {
-          console.log("No element found for the given XPath.");
-      }
- ```
-To highlight the elements using xpath list via Inspect tool -> Go to Console and type below command
-```
-   function highlightElementsByXPaths(xpaths, borderStyle = "3px solid red", scrollToFirst = true) {
-     let foundCount = 0;
-     let firstFoundElement = null;
-     
-     // Process each XPath in the list
-     xpaths.forEach((xpath, index) => {
-       try {
-         const element = document.evaluate(
-           xpath,
-           document,
-           null,
-           XPathResult.FIRST_ORDERED_NODE_TYPE,
-           null
-         ).singleNodeValue;
-         
-         if (element) {
-           // Highlight the element
-           element.style.border = borderStyle;
-           
-           // Save the first found element for scrolling later
-           if (foundCount === 0) {
-             firstFoundElement = element;
-           }
-           
-           console.log(`Element #${index + 1} found and highlighted:`, element);
-           foundCount++;
-         } else {
-           console.log(`No element found for XPath #${index + 1}: ${xpath}`);
-         }
-       } catch (error) {
-         console.error(`Error processing XPath #${index + 1}: ${xpath}`, error);
-       }
-     });
-     
-     // Scroll to the first found element if requested and any were found
-     if (scrollToFirst && firstFoundElement) {
-       firstFoundElement.scrollIntoView({ behavior: "smooth", block: "center" });
-     }
-     
-     console.log(`Total elements highlighted: ${foundCount} out of ${xpaths.length}`);
-     return foundCount;
-   }
    
-   // Example usage:
-   const xpathList = [
-   
-   ];
-   
-   highlightElementsByXPaths(xpathList);
-```
+   **What this does automatically:**
+   1. **Launches Chrome** with remote debugging on port 9222
+   2. **Loads target websites** (predefined list of 26 websites)
+   3. **Calls detection algorithms** for locatability and actionability issues
+   4. **Manages file operations** (cleanup, data copying)
+   5. **Closes Chrome** after each website analysis

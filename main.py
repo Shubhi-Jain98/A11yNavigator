@@ -13,7 +13,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 from locatability import find_locatability_issues
 from actionability import find_actionability_issues
-from websites.reddit import DynamicWebScraper
 
 
 def get_current_url(driver):
@@ -124,35 +123,20 @@ def delete_specific_files(file_path):
     except Exception as e:
         print(f"Error deleting file {file_path}: {e}")
 
-def crawl_websites():
-    def static_traverse():
-        scraper = DynamicWebScraper(debugger_address="127.0.0.1:9222")
-        try:
-            items = scraper.scrape_with_control(
-                None,
-                method='limit_height',
-                max_height=2000
-            )
-        finally:
-            scraper.cleanup()
 
-    static_traverse()
-
-
-# if __name__ == "__main__":
-def main_func():
+def main_func(issue_detection_type, argv_two):
     time.sleep(7)  # wait for nvda to launch
-    if sys.argv[1] == "locatability":
+    if issue_detection_type == "locatability":
         delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\"))  # clear folder before starting
         delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\locatability\\"))
         delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\xpath\\"))
         start_time = time.time()
-        find_locatability_issues(sys.argv[2])
+        find_locatability_issues(argv_two)
         print("Time to find locatability issues: ", time.time()-start_time)
-    elif sys.argv[1] == "actionability":
+    elif issue_detection_type == "actionability":
         delete_files_in_folder(os.path.join(tempfile.gettempdir(), "nvda\\actionability\\"))  # clear folder before starting
         start_time = time.time()
-        find_actionability_issues(sys.argv[2])
+        find_actionability_issues(argv_two)
         print("Time to find actionability issues: ", time.time() - start_time)
     else:
         print("Incorrect arguments. Try again")
