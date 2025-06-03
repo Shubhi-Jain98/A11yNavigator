@@ -450,7 +450,6 @@ def traverse_whole_website_down_arrow():
         if count_actionable >=10 and are_last_n_lines_equal(os.path.join(tempfile.gettempdir(), "nvda\\locatability\\down_arrow_loop.txt")):
             break
 
-5
 # fetch xpath based on name, it includes "Pre-processing of lines" + "xpath extraction"
 def fetch_xpath():
     from main import connect_to_existing_chrome
