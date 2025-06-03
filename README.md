@@ -1,41 +1,81 @@
-# Web Automated Scraper for accessibility
+# A11yNavigator
+This is the artifact of the paper "Automated Detection of Web Application Navigation Barriers for Screen Reader Users".
+
+## Prerequisites
+### System Requirements
+- **Operating System**: Windows (required for NVDA integration)
+- **Python**: Python 3.7 or higher
+- **Google Chrome**: Latest version
+- **NVDA Screen Reader**: Version 2024.1
+
+### Software Downloads
+1. **Python**: Download from [python.org](https://www.python.org/downloads/)
+2. **Google Chrome**: Download from [google.com/chrome](https://www.google.com/chrome/)
+3. **NVDA**: Download from [nvaccess.org](https://www.nvaccess.org/download/?nvdaVersion=2024.1)
 
 
-### Setup
-**PyCharm setup:**
-This will run **keyPressControl script**. It will traverse the website by sending all the keypresses for actionable UI elements that will trigger NVDA. Next, the script will extract the DOM of a page using pyppeteer tool that will be used to find locatability issues.
-1. Install required packages
-    ```
-    pip install selenium webdriver-manager
-    ```
+## Setup
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/Shubhi-Jain98/A11yNavigator.git
+cd A11yNavigator
+```
+Create a virtual environment in .env (python3 -m venv .env)
+
+### Step 2: Install Python Dependencies
+```bash
+# Core dependencies
+pip install selenium webdriver-manager
+pip install keyboard
+
+# Additional dependencies
+pip install asyncio
+pip install requests
+```
+
+### Step 3: ChromeDriver Setup
+1. **Check Chrome Version**:
+   - Open Google Chrome
+   - Navigate to `chrome://settings/help`
+   - Note down your Chrome version (e.g., 115.0.5790.99)
+
+2. **Download ChromeDriver**:
+   - Go to [ChromeDriver downloads](https://chromedriver.chromium.org/downloads)
+   - Download the version matching your Chrome browser
+   - Extract the `chromedriver.exe` file
+   - Note the path where you saved it
+
+3. **Update Configuration**:
+   - Open `main.py` in your project
+   - Find the `connect_to_existing_chrome()` method
+   - Update the ChromeDriver path to match your installation
+
+4. Update "chrome_path" in `run_all_steps.py` to reflect chrome installation path
+
+### Step 4: NVDA Setup
+If you want to run the NVDA to traverse website and test issues, please feel free to download and install the NVDA version 2024.1 as mentioned above. 
+If you want to use NVDA for the purpose we used in paper to log NVDA announcements and elements data, please follow "Build NVDA"
+1. **Build NVDA (if using custom build)**:
+   ```bash
+   # Navigate to NVDA source directory
+   cd path/to/nvda
+   # Build NVDA
+   scons launcher
    ```
-    pip install keyboard
-    ```
-2. Download Chromedriver
-   1. Open Chrome.
-   2. Go to chrome://settings/help. This will show your current Chrome version. Note it down (e.g., 115.0.5790.99).
-   3. Download the matching ChromeDriver for your version of Chrome and set the path under method connect_to_existing_chrome() in main.py.
+   - This will create an executable at the specified output directory
+   - [NVDA code](https://anonymous.4open.science/r/A11yNavigator-942F/)
 
 
-### Build
-1. Start Chrome with remote debugging using below command. This allows your script to communicate with an already open Chrome instance, get information such as the URL, tabs, and DOM structure.
-   1. Keep path to chrome.exe
-   2. Add website you want to debug
-       ```
-       "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\chrome_temp" "https://www.yelp.com/search?find_desc=Restaurants&find_loc=Mountain+View%2C+CA"
-       ```
-       <details>
-       <summary> Why is this command necessary?</summary>
-       Remote Debugging: Chrome, by default, doesn't allow external programs (like Python scripts) to access its internal details (tabs, URLs, DOM, etc.) unless it's explicitly told to do so via the --remote-debugging-port flag. This flag opens a communication channel that tools like Selenium can use to interact with a running Chrome session.
-       </details>
-2. Run nvda so to run this script on nvda
+## Running A11yNavigator
+1. Run nvda so to run this script on nvda
    1. Can either run from Pycharm configurations or cmd
    2. If cmd- build nvda project by running below command in terminal
       ```
       scons launcher
        ```
       Launches exe at _D:\my_docs\UCI\Research\Spring24\WebImpl\nvda\output_
-3. Run main.py of the keyPressControl script
+2. Run main.py of the keyPressControl script
       ```
       python main.py
       ```

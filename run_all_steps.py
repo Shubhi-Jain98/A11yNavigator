@@ -82,11 +82,9 @@ if __name__ == "__main__":
         "https://www.formula1.com/",
         "https://www.usps.com/",
         "https://www.samsung.com/us/",
-        "https://www.dmv.ca.gov/portal/",
         "https://www.makemytrip.com/",
         "https://www.irctc.co.in/nget/train-search",
         "https://www.youtube.com/",
-
     ]
     for url in urls:
         run_all_steps(url)
