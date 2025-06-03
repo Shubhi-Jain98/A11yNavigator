@@ -1,0 +1,816 @@
+{
+    "count by default selenium driver": 351,
+    "total_count based on actionable selectors": 162,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/a[1]",
+            "text": "Skip to main content"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/a[2]",
+            "text": "Accessibility help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Accessibility feedback"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/form[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "textarea",
+            "xpath": "/body[1]/div[2]/div[2]/form[1]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[1]",
+            "text": "accessibility"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[2]/div[2]/form[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[2]/div[2]/form[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[2]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[2]/div[2]/form[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[3]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/form[1]/div[1]/div[1]/div[2]/button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[1]/header[1]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[1]/header[1]/div[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "All"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Images"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]",
+            "text": "News"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/a[1]",
+            "text": "Videos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/a[1]",
+            "text": "Shopping"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]",
+            "text": "Forums"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/a[1]",
+            "text": "Maps"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/g-popup[1]/div[1]",
+            "text": "More"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "text": "Tools"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Learn more"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[2]/span[2]/span[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/span[1]/span[2]/span[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]/span[1]/span[2]/span[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[3]/span[1]/span[2]/span[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/span[1]/span[2]/span[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]/ul[1]/li[1]/span[2]/span[2]/span[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]/ul[1]/li[2]/span[2]/span[2]/span[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]/ul[1]/li[3]/span[2]/span[2]/span[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]",
+            "text": "Show all"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/g-dropdown-menu[1]/g-popup[1]/div[1]",
+            "text": "Export"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/g-dropdown-menu[1]/g-popup[1]/div[1]/div[1]",
+            "text": "Export"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+            "text": "Save"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/block-component[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]",
+            "text": "Accessibility - Wikipedia\nWikipedia\nhttps://en.wikipedia.org \u203a wiki \u203a Accessibility"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/block-component[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/span[1]/a[1]",
+            "text": "About featured snippets"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/span[1]/div[1]",
+            "text": "Feedback"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "text": "What is an example of accessibility?"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "text": "What is the other meaning of accessibility?"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "text": "What are the 4 principles of accessibility?"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "text": "How do I access accessibility?"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]",
+            "text": "Feedback"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/g-image-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]/a[1]",
+            "text": "CityofEdmonton\nX (Twitter) \u00b7 11 hours ago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]/a[1]",
+            "text": "ross_minor\nX (Twitter) \u00b7 11 hours ago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]/a[1]",
+            "text": "CityofEdmonton\nX (Twitter) \u00b7 11 hours ago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/span[1]/div[1]/div[1]/a[1]",
+            "text": "conta.cc/4jvDOe5"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]/a[1]",
+            "text": "CityofEdmonton\nX (Twitter) \u00b7 13 hours ago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/g-image-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]/a[1]",
+            "text": "CityofEdmonton\nX (Twitter) \u00b7 14 hours ago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/g-image-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]/a[1]",
+            "text": "CityofEdmonton\nX (Twitter) \u00b7 15 hours ago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]/a[1]",
+            "text": "SPINXDigital\nX (Twitter) \u00b7 16 hours ago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/span[1]/div[1]/div[1]/a[1]",
+            "text": "bit.ly/40d8doB"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]/a[1]",
+            "text": "RANDCorporation\nX (Twitter) \u00b7 4 days ago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/g-image-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]/a[1]",
+            "text": "airaio\nX (Twitter) \u00b7 4 days ago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/g-card-section[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]/a[1]",
+            "text": "InlandRegional\nX (Twitter) \u00b7 Jan 16, 2025"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[1]/div[1]/div[1]/div[11]/div[1]/div[1]/a[1]",
+            "text": "View on X"
+        },
+        {
+            "tag_name": "g-right-button",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/g-section-with-header[1]/div[2]/g-scrolling-carousel[1]/div[3]/g-right-button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]",
+            "text": "Introduction to Web Accessibility\nW3C\nhttps://www.w3.org \u203a fundamentals \u203a accessibility-intro"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]",
+            "text": "Accessibility\nGoogle\nhttps://www.google.com \u203a accessibility"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "Products and Features"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[3]/div[1]/a[2]",
+            "text": "Initiatives and Research"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[3]/div[1]/a[3]",
+            "text": "Get In Touch"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]",
+            "text": "Accessibility | Our mission\nW3C\nhttps://www.w3.org \u203a mission \u203a accessibility"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "text": "Examples\nWeb accessibility examples"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]",
+            "text": "Cost\ncost of web accessibility"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]",
+            "text": "How to learn\nHow to learn web accessibility?"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]",
+            "text": "Feedback"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]",
+            "text": "Accessibility\nApple\nhttps://www.apple.com \u203a accessibility"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "Accessibility Support"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[2]",
+            "text": "Mobility"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[3]",
+            "text": "Vision"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[4]",
+            "text": "Hearing"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "18:02"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]",
+            "text": "What is accessibility & how do I practice it?\nYouTube \u00b7 Duke Learning Innovation & Lifetime Education\nAug 30, 2024"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "2:47"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Adobe Captivate Update 12.5 - Set Accessibility Language on ...\nYouTube \u00b7 Paul Wilson's eLearning Tutorials\n20 hours ago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "1:59"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Accessibility (Explained in Simple Terms!)\nYouTube \u00b7 Goally Apps\nMay 2, 2023"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+            "text": "4 key moments in this video"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]",
+            "text": "Feedback"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[4]/g-more-link[1]/a[1]",
+            "text": "View all"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]",
+            "text": "Accessibility - MDN Web Docs - Mozilla\nMDN Web Docs\nhttps://developer.mozilla.org \u203a en-US \u203a Accessibility"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "ARIA"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[3]/div[1]/a[2]",
+            "text": "Understanding WCAG"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[3]/div[1]/a[3]",
+            "text": "Accessibility information for..."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[3]/div[1]/a[4]",
+            "text": "Mobile accessibility"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]",
+            "text": "Accessibility\nHomeland Security (.gov)\nhttps://www.dhs.gov \u203a accessibility"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "Accessibility Requirements"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[3]/div[1]/a[2]",
+            "text": "Section 508 Training"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[3]/div[1]/a[3]",
+            "text": "Section 508 Testing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]",
+            "text": "Accessibility Overview - Blackboard Help\nBlackboard Help\nhttps://help.blackboard.com \u203a Learn \u203a Accessibility_Ov..."
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "text": "Semantic Structure And..."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/a[2]",
+            "text": "Keyboard Navigation"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/a[3]",
+            "text": "Content Editor"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Accessibility tools"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Accessibility settings"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/a[1]",
+            "text": "Accessibility meaning in Hindi"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/a[1]",
+            "text": "Accessibility meaning"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Accessibility web"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Accessibility Android"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/a[1]",
+            "text": "Accessibility in design"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[1]/a[1]",
+            "text": "Accessibility app"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[3]/a[1]",
+            "text": "2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[4]/a[1]",
+            "text": "3"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[5]/a[1]",
+            "text": "4"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[6]/a[1]",
+            "text": "5"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[7]/a[1]",
+            "text": "6"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[8]/a[1]",
+            "text": "7"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[9]/a[1]",
+            "text": "8"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[10]/a[1]",
+            "text": "9"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[11]/a[1]",
+            "text": "10"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[12]/a[1]",
+            "text": "Next"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-dropdown-menu[1]/g-popup[1]/div[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]",
+            "text": "Wikipedia"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[5]/div[3]/div[1]",
+            "text": "Feedback"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[22]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]/a[1]",
+            "text": "Try without personalization"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[22]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "92617, Irvine, CA - Based on your past activity"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[22]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/update-location[1]/div[1]",
+            "text": "Update location"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[22]/div[1]/div[1]/div[1]/div[1]/div[3]/span[1]/span[1]/a[1]",
+            "text": "Help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[22]/div[1]/div[1]/div[1]/div[1]/div[3]/span[1]/span[1]/a[2]",
+            "text": "Send feedback"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[22]/div[1]/div[1]/div[1]/div[1]/div[3]/span[1]/span[1]/a[3]",
+            "text": "Privacy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[22]/div[1]/div[1]/div[1]/div[1]/div[3]/span[1]/span[1]/a[4]",
+            "text": "Terms"
+        }
+    ]
+}

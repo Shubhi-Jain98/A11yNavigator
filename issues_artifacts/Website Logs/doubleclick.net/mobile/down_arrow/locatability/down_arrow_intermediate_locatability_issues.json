@@ -1,0 +1,77 @@
+{
+    "count of missing paths": 8,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Analytics 360\nUse advanced tools to get a deeper understanding of your customers so you can deliver better experiences.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/analytics-360/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/div[2]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/div[2]/button[1]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "GUIDE\nThe CTV playbook: how the latest technology can amplify your CTV performance\nRead more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/resources/the-ctv-playbook-how-the-latest-technology-can-amplify-your-ctv-performance/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/div[2]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/div[2]/button[1]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "select",
+            "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[2]/select[1]",
+            "text": "\u7b80\u4f53\u4e2d\u6587\nDeutsch\nEnglish (UK)\nEnglish (US)\nEspa\u00f1ol\nFran\u00e7ais\nItaliano\n\u65e5\u672c\u8a9e\n\ud55c\uad6d\uc5b4\nNederlands\nPortugu\u00eas (Brasil)",
+            "aria-label": "",
+            "id": "lang-selector",
+            "placeholder": null,
+            "href": ""
+        }
+    ]
+}

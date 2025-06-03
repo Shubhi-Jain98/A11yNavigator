@@ -1,0 +1,55 @@
+{
+    "count of actionability issues": 4,
+    "missing paths": [
+        {
+            "IA2UniqueID": -29247,
+            "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[2]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "POPULAR Auto Average savings of over $800Read the associated disclosure for this savings claim.",
+            "nvda_value": "https://www.progressive.com/#l",
+            "nvda_states": [
+                "LINKED (4096)",
+                "HASPOPUP_DIALOG (140737488355328)",
+                "FOCUSED (2)",
+                "FOCUSABLE (16777216)"
+            ]
+        },
+        {
+            "IA2UniqueID": -32684,
+            "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[3]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Property Home, renters, condo & more",
+            "nvda_value": "https://www.progressive.com/#s",
+            "nvda_states": [
+                "LINKED (4096)",
+                "HASPOPUP_DIALOG (140737488355328)",
+                "FOCUSED (2)",
+                "FOCUSABLE (16777216)"
+            ]
+        },
+        {
+            "IA2UniqueID": -48155,
+            "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li/h3/a",
+            "nvda_role": "-",
+            "nvda_name": "An Insurance Company You Can Rely On | Progressive",
+            "nvda_value": null,
+            "nvda_states": [
+                "READONLY (128)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -97033,
+            "xpath": "/html/body/div/footer/div/div/div/ul/li[4]/div/div/ul/li[2]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Contact Us",
+            "nvda_value": "https://www.progressive.com/contact-us/",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

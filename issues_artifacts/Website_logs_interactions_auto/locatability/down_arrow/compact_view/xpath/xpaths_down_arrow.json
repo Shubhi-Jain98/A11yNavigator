@@ -1,0 +1,3342 @@
+{
+  "Skip to main content": [
+    {
+      "xpath": "/body[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/#main"
+      },
+      "number of keypresses": [
+        1
+      ]
+    }
+  ],
+  "banner landmark": [],
+  "Brought to you by:": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        2
+      ]
+    }
+  ],
+  "The UC Irvine Libraries": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        2
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "http://www.lib.uci.edu/"
+      },
+      "number of keypresses": [
+        2
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        2
+      ]
+    }
+  ],
+  "ScienceDirect home page": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": "ScienceDirect home page",
+        "name": "",
+        "id": "gh-branding",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/"
+      },
+      "number of keypresses": [
+        3
+      ]
+    }
+  ],
+  "links": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]",
+      "tag_name": "nav",
+      "attributes": {
+        "role": null,
+        "aria-label": "links",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        4
+      ]
+    }
+  ],
+  "navigation landmark": [],
+  "utilities": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[2]",
+      "tag_name": "nav",
+      "attributes": {
+        "role": null,
+        "aria-label": "utilities",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        5
+      ]
+    }
+  ],
+  "collapsed": [],
+  "Toggle mobile menu": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[4]/div[1]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": null,
+        "aria-label": "Toggle mobile menu",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        6
+      ]
+    }
+  ],
+  "Mobile menu": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[4]/div[3]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "navigation",
+        "aria-label": "Mobile menu",
+        "name": null,
+        "id": "gh-drawer",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        7
+      ]
+    }
+  ],
+  "content)": [],
+  "search": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "search",
+        "aria-label": "search",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        9
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/input[1]",
+      "tag_name": "input",
+      "attributes": {
+        "role": null,
+        "aria-label": "Find articles with these terms",
+        "name": "qs",
+        "id": "qs",
+        "placeholder": "",
+        "href": ""
+      },
+      "number of keypresses": [
+        9
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]/div[1]/input[1]",
+      "tag_name": "input",
+      "attributes": {
+        "role": null,
+        "aria-label": "In this journal or book title",
+        "name": "pub",
+        "id": "pub",
+        "placeholder": "",
+        "href": ""
+      },
+      "number of keypresses": [
+        9
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[3]/div[1]/input[1]",
+      "tag_name": "input",
+      "attributes": {
+        "role": null,
+        "aria-label": "Author(s)",
+        "name": "authors",
+        "id": "authors",
+        "placeholder": "",
+        "href": ""
+      },
+      "number of keypresses": [
+        9
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": "Open advanced search",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/search/entry?origin=home&zone=qSearch"
+      },
+      "number of keypresses": [
+        9
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[2]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": null,
+        "aria-label": "Submit quick search",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        9
+      ]
+    }
+  ],
+  "search landmark": [],
+  "Find articles with these terms": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/label[1]",
+      "tag_name": "label",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        9,
+        10
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/input[1]",
+      "tag_name": "input",
+      "attributes": {
+        "role": null,
+        "aria-label": "Find articles with these terms",
+        "name": "qs",
+        "id": "qs",
+        "placeholder": "",
+        "href": ""
+      },
+      "number of keypresses": [
+        9,
+        10
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        9,
+        10
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        9,
+        10
+      ]
+    }
+  ],
+  "edit": [],
+  "Suggestions": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "combobox",
+        "aria-label": "Suggestions",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        11
+      ]
+    }
+  ],
+  "combo box": [],
+  "opens list": [],
+  "Author(s)": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[3]/div[1]/label[1]",
+      "tag_name": "label",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        12,
+        13
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[3]/div[1]/input[1]",
+      "tag_name": "input",
+      "attributes": {
+        "role": null,
+        "aria-label": "Author(s)",
+        "name": "authors",
+        "id": "authors",
+        "placeholder": "",
+        "href": ""
+      },
+      "number of keypresses": [
+        12,
+        13
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[3]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        12,
+        13
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[3]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        12,
+        13
+      ]
+    }
+  ],
+  "Open advanced search": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": "Open advanced search",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/search/entry?origin=home&zone=qSearch"
+      },
+      "number of keypresses": [
+        14
+      ]
+    }
+  ],
+  "Submit quick search": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[2]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": null,
+        "aria-label": "Submit quick search",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        15
+      ]
+    }
+  ],
+  "Confidence in research": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[2]/button[1]/span[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        16
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "region",
+        "aria-label": "Confidence in research",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        16
+      ]
+    }
+  ],
+  "region": [],
+  "Stories behind the facts, Confidence in research": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        16
+      ]
+    }
+  ],
+  "See personal stories from the global research community on misinformation, public exposure, online": [],
+  "abuse and other key issues.": [],
+  "Explore stories": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        19
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://confidenceinresearch.elsevier.com/"
+      },
+      "number of keypresses": [
+        19
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        19
+      ]
+    }
+  ],
+  "Opens in new window": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[1]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[2]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[3]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[4]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[3]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[4]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[5]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[6]/a[1]/span[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": null,
+        "aria-label": "Opens in new window",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        20,
+        34,
+        37,
+        38,
+        46,
+        47,
+        51,
+        54,
+        55,
+        56
+      ]
+    }
+  ],
+  "out of region": [],
+  "tab": [],
+  "Confidence in research slide": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[2]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": "tab",
+        "aria-label": "Confidence in research slide",
+        "name": "",
+        "id": "tab-1",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        21
+      ]
+    }
+  ],
+  "Climate change slide": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[3]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": "tab",
+        "aria-label": "Climate change slide",
+        "name": "",
+        "id": "tab-2",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        21
+      ]
+    }
+  ],
+  "The Lancet 200 slide": [],
+  "Category": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "navigation",
+        "aria-label": "Category",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        22
+      ]
+    }
+  ],
+  "level 1": [],
+  "Explore scientific, technical, and medical research on ScienceDirect": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/h1[1]",
+      "tag_name": "h1",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "main",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        22
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        22
+      ]
+    }
+  ],
+  "Physical Sciences and Engineering": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[1]/button[1]/div[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/#chemical-engineering"
+      },
+      "number of keypresses": [
+        23
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "region",
+        "aria-label": "Physical Sciences and Engineering",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[1]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": "tab",
+        "aria-label": null,
+        "name": "",
+        "id": "1081064-accordion-tab-0",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[1]/button[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[1]/button[1]/div[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23
+      ]
+    }
+  ],
+  "Life Sciences": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        24
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[2]/button[1]/div[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        24
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        24
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/#agricultural-and-biological-sciences"
+      },
+      "number of keypresses": [
+        24
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        24
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "region",
+        "aria-label": "Life Sciences",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        24
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        24
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        24
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[2]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": "tab",
+        "aria-label": null,
+        "name": "",
+        "id": "1081064-accordion-tab-1",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        24
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[2]/button[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        24
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[2]/button[1]/div[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        24
+      ]
+    }
+  ],
+  "Health Sciences": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        25
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[3]/button[1]/div[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        25
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        25
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/#medicine-and-dentistry"
+      },
+      "number of keypresses": [
+        25
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        25
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "region",
+        "aria-label": "Health Sciences",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        25
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        25
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        25
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[3]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": "tab",
+        "aria-label": null,
+        "name": "",
+        "id": "1081064-accordion-tab-2",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        25
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[3]/button[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        25
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[3]/button[1]/div[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        25
+      ]
+    }
+  ],
+  "Social Sciences and Humanities": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        26
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[4]/button[1]/div[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        26
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        26
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/#arts-and-humanities"
+      },
+      "number of keypresses": [
+        26
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        26
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "region",
+        "aria-label": "Social Sciences and Humanities",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        26
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        26
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[4]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        26
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[4]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": "tab",
+        "aria-label": null,
+        "name": "",
+        "id": "1081064-accordion-tab-3",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        26
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[4]/button[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        26
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[4]/button[1]/div[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        26
+      ]
+    }
+  ],
+  "Browse publications by letter": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "navigation",
+        "aria-label": "Browse publications by letter",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        27
+      ]
+    }
+  ],
+  "Browse by Publication Title:": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/h2[1]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "index-title",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        27
+      ]
+    }
+  ],
+  "A": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[1]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        28
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/browse/journals-and-books/a"
+      },
+      "number of keypresses": [
+        28
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[1]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        28
+      ]
+    }
+  ],
+  "Open Access": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]",
+      "tag_name": "div",
+      "attributes": {
+        "role": "region",
+        "aria-label": "Open Access",
+        "name": null,
+        "id": "open-access",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        29
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "openaccess",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        29
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/browse/journals-and-books?accessType=openAccess"
+      },
+      "number of keypresses": [
+        29
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/browse/journals-and-books?accessType=openAccess&accessType=containsOpenAccess"
+      },
+      "number of keypresses": [
+        29
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.elsevier.com/openaccess"
+      },
+      "number of keypresses": [
+        29
+      ]
+    }
+  ],
+  "3.3 million articles on ScienceDirect are open access": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/h2[1]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        29
+      ]
+    }
+  ],
+  "Articles published open access are peer-reviewed and made freely available for everyone to read,": [],
+  "download and reuse in line with the user license displayed on the article.": [],
+  "View all": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        33
+      ]
+    }
+  ],
+  "publications with open access articles (includes hybrid journals)": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        33
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/browse/journals-and-books?accessType=openAccess&accessType=containsOpenAccess"
+      },
+      "number of keypresses": [
+        33
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        33
+      ]
+    }
+  ],
+  "Read more about": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        34
+      ]
+    }
+  ],
+  "Elsevier’s open access publishing choices": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        34
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.elsevier.com/openaccess"
+      },
+      "number of keypresses": [
+        34
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        34
+      ]
+    }
+  ],
+  "About ScienceDirect": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        35,
+        51
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/h2[1]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        35,
+        51
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        35,
+        51
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "els-footer-about-science-direct",
+        "placeholder": null,
+        "href": "https://www.elsevier.com/solutions/sciencedirect"
+      },
+      "number of keypresses": [
+        35,
+        51
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        35,
+        51
+      ]
+    }
+  ],
+  "Help": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        36
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[2]/ul[1]/li[1]/div[1]/div[1]/div[1]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        36
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        36
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://service.elsevier.com/app/home/supporthub/sciencedirect/"
+      },
+      "number of keypresses": [
+        36
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        36
+      ]
+    }
+  ],
+  "Online video tutorials": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        37
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        37
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://service.elsevier.com/app/answers/detail/a_id/10263/supporthub/sciencedirect/"
+      },
+      "number of keypresses": [
+        37
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        37
+      ]
+    }
+  ],
+  "Privacy principles": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        38
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        38
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.elsevier.com/about/policies-and-standards/privacy-principles"
+      },
+      "number of keypresses": [
+        38
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        38
+      ]
+    }
+  ],
+  "Accessibility": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        39
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[4]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        39
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://service.elsevier.com/app/answers/detail/a_id/37160/supporthub/sciencedirect/"
+      },
+      "number of keypresses": [
+        39
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        39
+      ]
+    }
+  ],
+  "Explore ScienceDirect": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/h2[1]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        40
+      ]
+    }
+  ],
+  "with 4 items": [],
+  "Content syndication on ScienceDirect": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[1]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        41
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        41
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/org"
+      },
+      "number of keypresses": [
+        41
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[1]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        41
+      ]
+    }
+  ],
+  "Create and manage alerts": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[2]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        42
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        42
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/user/alerts/journal"
+      },
+      "number of keypresses": [
+        42
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[2]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        42
+      ]
+    }
+  ],
+  "Receive personalized recommendations": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[3]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        43
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        43
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/research-recommendations"
+      },
+      "number of keypresses": [
+        43
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[3]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        43
+      ]
+    }
+  ],
+  "Browse by topic": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[4]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        44
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[4]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        44
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/topics"
+      },
+      "number of keypresses": [
+        44
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[4]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        44
+      ]
+    }
+  ],
+  "Explore Elsevier": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/h2[1]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        45
+      ]
+    }
+  ],
+  "Elsevier Connect": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[1]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        46
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        46
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.elsevier.com/connect"
+      },
+      "number of keypresses": [
+        46
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[1]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        46
+      ]
+    }
+  ],
+  "Publish with Elsevier": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[2]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        47
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        47
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.elsevier.com/authors"
+      },
+      "number of keypresses": [
+        47
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[2]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        47
+      ]
+    }
+  ],
+  "Scopus": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[3]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        48
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        48
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.elsevier.com/online-tools/scopus"
+      },
+      "number of keypresses": [
+        48
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[3]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        48
+      ]
+    }
+  ],
+  "Mendeley": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[4]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        49
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[4]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        49
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.mendeley.com/"
+      },
+      "number of keypresses": [
+        49
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[4]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        49
+      ]
+    }
+  ],
+  "content info landmark": [],
+  "Elsevier home page (opens in a new tab)": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": "Elsevier home page (opens in a new tab)",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.elsevier.com/"
+      },
+      "number of keypresses": [
+        50
+      ]
+    }
+  ],
+  "with 6 items": [],
+  "Remote access": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        52
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        52
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "els-footer-remote-access",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/user/institution/login?targetURL=%2F"
+      },
+      "number of keypresses": [
+        52
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        52
+      ]
+    }
+  ],
+  "Advertise": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[3]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        53
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        53
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "els-footer-advertise",
+        "placeholder": null,
+        "href": "https://www.elsmediakits.com/"
+      },
+      "number of keypresses": [
+        53
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[3]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        53
+      ]
+    }
+  ],
+  "Contact and support": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[4]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        54
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[4]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        54
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "els-footer-contact-support",
+        "placeholder": null,
+        "href": "https://service.elsevier.com/app/contact/supporthub/sciencedirect/"
+      },
+      "number of keypresses": [
+        54
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[4]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        54
+      ]
+    }
+  ],
+  "Terms and conditions": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[5]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        55
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[5]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        55
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "els-footer-terms-condition",
+        "placeholder": null,
+        "href": "https://www.elsevier.com/legal/elsevier-website-terms-and-conditions"
+      },
+      "number of keypresses": [
+        55
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[5]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        55
+      ]
+    }
+  ],
+  "Privacy policy": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[6]/a[1]/span[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[6]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "els-footer-privacy-policy",
+        "placeholder": null,
+        "href": "https://www.elsevier.com/legal/privacy-policy"
+      },
+      "number of keypresses": [
+        56
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[6]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        56
+      ]
+    }
+  ],
+  "Cookies are used by this site.": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "els-footer-cookie-message",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        57
+      ]
+    }
+  ],
+  "Cookie settings": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/p[1]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "ot-sdk-btn",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        57
+      ]
+    }
+  ],
+  "All content on this site: Copyright © 2025 or its licensors and contributors. All rights are": [],
+  "reserved, including those for text and data mining, AI training, and similar technologies. For all": [],
+  "open access content, the relevant licensing terms apply.": [],
+  "RELX home page (opens in a new tab)": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": "RELX home page (opens in a new tab)",
+        "name": "",
+        "id": "els-footer-relx",
+        "placeholder": null,
+        "href": "https://www.relx.com/"
+      },
+      "number of keypresses": [
+        61
+      ]
+    }
+  ],
+  "Feedback": [
+    {
+      "xpath": "/body[1]/button[1]",
+      "tag_name": "button",
+      "attributes": {
+        "role": null,
+        "aria-label": "Feedback",
+        "name": "",
+        "id": "_pendo-badge_9BcFvkCLLiElWp6hocDK3ZG6Z4E",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "xpath": "/body[1]/button[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "pendo-image-badge-19b66351",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ]
+    }
+  ],
+  "The UC Irvine LibrariesScienceDirect home page": [],
+  "Explore storiesgraphic": [],
+  "Content syndication on ScienceDirectCreate and manage alerts": [],
+  "Create and manage alertsReceive personalized recommendations": [],
+  "Receive personalized recommendationsBrowse by topic": []
+}

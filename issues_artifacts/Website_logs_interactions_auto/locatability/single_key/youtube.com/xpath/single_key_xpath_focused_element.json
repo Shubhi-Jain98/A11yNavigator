@@ -1,0 +1,211 @@
+[
+    {
+        "IA2UniqueID": -855,
+        "nvda_name": "YouTube",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div/ytd-topbar-logo-renderer/a",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -866,
+        "nvda_name": "YouTube Home",
+        "nvda_value": "https://www.youtube.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[3]/div[2]/ytd-button-renderer/yt-button-shape/a",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -1136,
+        "nvda_name": "YouTube",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div/div/ytd-button-renderer/yt-button-shape/button",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -1466,
+        "nvda_name": "Skip navigation",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[2]/yt-searchbox/button",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -1383,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[2]/div/ytd-button-renderer/yt-button-shape/button",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -1464,
+        "nvda_name": "Search with your voice",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[3]/div[2]/ytd-topbar-menu-button-renderer/div/a/yt-icon-button/button",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -2617,
+        "nvda_name": "YouTube",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[2]/yt-searchbox/div/form/input",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -4980,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[2]/yt-searchbox/div/div/button",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -5065,
+        "nvda_name": "Settings",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -5079,
+        "nvda_name": "Home",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[2]",
+        "key_interactions": 7
+    },
+    {
+        "IA2UniqueID": -5080,
+        "nvda_name": "Shorts",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-shorts/div[5]/div[2]/ytd-button-renderer/yt-button-shape/button",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -7529,
+        "nvda_name": "Clear search query",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-shorts/div[3]/div[2]/div/ytd-reel-video-renderer/div/div[2]/div/ytd-player/div/div",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -7529,
+        "nvda_name": "Clear search query",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer[2]",
+        "key_interactions": 10
+    },
+    {
+        "IA2UniqueID": -7097,
+        "nvda_name": "History",
+        "nvda_value": "https://www.youtube.com/feed/history",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[5]/a",
+        "key_interactions": 11
+    },
+    {
+        "IA2UniqueID": -14792,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse[2]/ytd-two-column-browse-results-renderer/div[2]/ytd-browse-feed-actions-renderer/div/ytd-button-renderer/yt-button-shape/button",
+        "key_interactions": 12
+    },
+    {
+        "IA2UniqueID": -14685,
+        "nvda_name": "Clear all watch history",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse[2]/ytd-two-column-browse-results-renderer/div[2]/ytd-browse-feed-actions-renderer/div/ytd-button-renderer[2]/yt-button-shape/button",
+        "key_interactions": 13
+    },
+    {
+        "IA2UniqueID": -14688,
+        "nvda_name": "Pause watch history",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse[2]/ytd-two-column-browse-results-renderer/div[2]/ytd-browse-feed-actions-renderer/div/ytd-button-renderer[3]/yt-button-shape/button",
+        "key_interactions": 14
+    },
+    {
+        "IA2UniqueID": -14691,
+        "nvda_name": "Clear all search history",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse[2]/ytd-two-column-browse-results-renderer/div[2]/ytd-browse-feed-actions-renderer/div/ytd-button-renderer[4]/yt-button-shape/button",
+        "key_interactions": 15
+    }
+]

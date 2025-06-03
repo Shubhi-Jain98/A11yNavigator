@@ -1,0 +1,15 @@
+{
+    "count of actionability issues": 2,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[1]/a[1]",
+            "text": "NIH Home"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[6]/a[1]",
+            "text": "USA.gov\n(link is external)"
+        }
+    ]
+}

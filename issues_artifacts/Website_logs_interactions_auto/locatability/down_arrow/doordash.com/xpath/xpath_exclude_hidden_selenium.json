@@ -1,0 +1,888 @@
+{
+    "count by default selenium driver": 154,
+    "total_count based on actionable selectors": 98,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/a[1]",
+            "text": "Sign In",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://identity.doordash.com/auth?client_id=1666519390426295040&intl=en-US&layout=consumer_web&prompt=none&redirect_uri=https%3A%2F%2Fwww.doordash.com%2Fpost-login%2F&response_type=code&scope=%2A&state=%2Fhome%7C%7Cc07d88f5-244b-4be0-a3b0-9afe4dc3499a"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/a[2]",
+            "text": "Sign Up",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://identity.doordash.com/auth/user/signup?client_id=1666519390426295040&intl=en-US&layout=consumer_web&prompt=none&redirect_uri=https%3A%2F%2Fwww.doordash.com%2Fpost-login%2F&response_type=code&scope=%2A&state=%2Fhome%7C%7Cc07d88f5-244b-4be0-a3b0-9afe4dc3499a"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[1]/div[2]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "HomeAddressAutocomplete",
+            "placeholder": "Enter delivery address",
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/button[1]",
+            "text": "Find Restaurants",
+            "aria-label": "Find Restaurants",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[1]/div[2]/div[3]/button[1]",
+            "text": "Sign in for saved address",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
+            "text": "Start earning",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[2]/button[1]",
+            "text": "Sign up for DoorDash",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/button[1]",
+            "text": "Get the app",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Find restaurants",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/restaurants-near-me/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Get DashPass",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/dashpass/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Shop Groceries",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/grocery-delivery/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Shop Now",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/cuisine/convenience-store-near-me/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[2]/div[6]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Try Package Pickup",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/package-pickup/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[2]/div[6]/div[1]/div[2]/div[2]/div[1]/a[1]",
+            "text": "Send Flowers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/flower-delivery"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[2]/div[6]/div[1]/div[3]/div[2]/div[1]/a[1]",
+            "text": "Shop Alcohol",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/alcohol-delivery"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[2]/div[6]/div[1]/div[4]/div[2]/div[1]/a[1]",
+            "text": "Get Pet Supplies",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/pet-store-near-me"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Become a Dasher",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://dasher.doordash.com/en-us/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[3]/div[2]/div[9]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Become a Partner",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://get.doordash.com/en-us/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "New York",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/new-york-city-ny-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[2]",
+            "text": "Los Angeles",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/los-angeles-ca-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[3]",
+            "text": "Toronto",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/toronto-on-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[4]",
+            "text": "Chicago",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/chicago-il-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[5]",
+            "text": "Houston",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/houston-tx-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[6]",
+            "text": "Brooklyn",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/brooklyn-ny-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[7]",
+            "text": "San Diego",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/san-diego-ca-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[8]",
+            "text": "Las Vegas",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/las-vegas-nv-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[9]",
+            "text": "San Francisco",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/san-francisco-ca-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[10]",
+            "text": "Seattle",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/seattle-wa-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[11]",
+            "text": "Atlanta",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/atlanta-ga-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[12]",
+            "text": "Queens",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/queens-ny-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[13]",
+            "text": "Vancouver, BC",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/vancouver-bc-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[14]",
+            "text": "Miami",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/miami-fl-restaurants/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/a[15]",
+            "text": "San Antonio",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/san-antonio-tx-restaurants/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/button[1]",
+            "text": "See more",
+            "aria-label": "See more",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Alcohol Australia",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/alcohol-australia/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Alcohol Delivery Australia",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/alcohol-delivery-australia/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[3]",
+            "text": "Back To School Delivery",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/back-to-school-delivery/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[4]",
+            "text": "Battle Of The Brands",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/battle-of-the-brands/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[5]",
+            "text": "Beauty Stores",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/beauty-stores/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[6]",
+            "text": "Beauty Supply",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/beauty-supply/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[7]",
+            "text": "Catering Near Me",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/catering-near-me/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[8]",
+            "text": "Chips Ahoy Big Cookie",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/chips-ahoy-big-cookie/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Convenience Stores Canada",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/convenience-stores-canada/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[2]",
+            "text": "Dashmart Near Me",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/dashmart-near-me/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[3]",
+            "text": "Deck The Doorstep",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/deck-the-doorstep/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[4]",
+            "text": "Diageo Holiday",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/diageo-holiday/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[5]",
+            "text": "Drugstores Canada",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/drugstores-canada/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[6]",
+            "text": "Flower Delivery",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/flower-delivery/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[7]",
+            "text": "Grocery Delivery Canada",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/grocery-delivery-canada/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[8]",
+            "text": "Haleon Well Within Reach",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/haleon-well-within-reach/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Halloween",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/halloween/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[2]",
+            "text": "Holiday Hosting",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/holiday-hosting/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[3]",
+            "text": "Hsa Bank",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/hsa-bank/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[4]",
+            "text": "Hsa Fsa Store",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/hsa-fsa-store/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[5]",
+            "text": "Large Group Orders",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/large-group-orders/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[6]",
+            "text": "Local Eats Deserve Pepsi",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/local-eats-deserve-pepsi/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[7]",
+            "text": "Make It Date Night",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/make-it-date-night/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[8]",
+            "text": "Medicine Delivery",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/medicine-delivery/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[1]",
+            "text": "Mothers Day",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/mothers-day/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[2]",
+            "text": "Pet Store Near Me",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/pet-store-near-me/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[3]",
+            "text": "Play For An Ultra",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/play-for-an-ultra/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[4]",
+            "text": "Retail Stores Near Me",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/retail-stores-near-me/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[5]",
+            "text": "Seasonal Holidays",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/seasonal-holidays/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[6]",
+            "text": "Snap Ebt",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/snap-ebt/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[7]",
+            "text": "Valentines Day",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/valentines-day/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[8]",
+            "text": "Winter Holidays",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/p/winter-holidays/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "About Us",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/about/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[2]",
+            "text": "Careers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://careers.doordash.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[3]",
+            "text": "Investors",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://ir.doordash.com/overview/default.aspx"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[4]",
+            "text": "Company Blog",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://blog.doordash.com/en-us"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[5]",
+            "text": "Engineering Blog",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://doordash.engineering/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[6]",
+            "text": "Merchant Blog",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://merchants.doordash.com/en-us/blog?utm_source=footer_v2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[7]",
+            "text": "Gift Cards",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/gift-cards/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[8]",
+            "text": "Package Pickup",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/package-pickup/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[9]",
+            "text": "Promotions",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/promos/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[10]",
+            "text": "Dasher Central",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://dasher.doordash.com/en-us?utm_source=dx_signup_text_cx_home"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[11]",
+            "text": "LinkedIn",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.linkedin.com/company/doordash"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[12]",
+            "text": "Glassdoor",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.glassdoor.com/Reviews/DoorDash-Reviews-E813073.htm"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[13]",
+            "text": "Accessibility",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/accessibility/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[14]",
+            "text": "Newsroom",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://doordash.news/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/a[1]",
+            "text": "Account Details",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/consumer/edit_profile/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/a[2]",
+            "text": "Order History",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/orders/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/a[3]",
+            "text": "Help",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://help.doordash.com/s/?language=en_US"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[3]/a[1]",
+            "text": "Become a Dasher",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://dasher.doordash.com/en-us?utm_source=dx_signup_text_cx_home"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[3]/a[2]",
+            "text": "DoorDash Merchant",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://merchants.doordash.com/en-us?utm_source=footer_v2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[3]/a[3]",
+            "text": "Get Dashers for Deliveries",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://merchants.doordash.com/en-us/products/drive?utm_source=footer_v2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[3]/a[4]",
+            "text": "Get DoorDash for Business",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://work.doordash.com/en-us"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[2]/div[1]/a[1]",
+            "text": "Download on the App Store",
+            "aria-label": "Download on the App Store",
+            "id": "",
+            "placeholder": null,
+            "href": "https://app.adjust.com/bo0s4gx?engagement_type=fallback_click&tracker_limit=100000"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[2]/div[2]/div[1]/a[2]",
+            "text": "Download on the Google Play Store",
+            "aria-label": "Download on the Google Play Store",
+            "id": "",
+            "placeholder": null,
+            "href": "https://7wmw.adj.st/?adjust_t=9ick0eu&adjust_campaign=CX_US_DR_WB_DS_ACQ_CUSXXX__+FooterWeb&adjust_deeplink=doordash%3A%2F%2F&adjust_fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.dd.doordash&adj_redirect_macos=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.dd.doordash"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[3]/div[1]/a[1]",
+            "text": "DoorDash Home Page",
+            "aria-label": "DoorDash Home Page",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/home"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[3]/div[1]/a[2]",
+            "text": "Terms of Service",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[3]/div[1]/a[3]",
+            "text": "Privacy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[3]/div[1]/a[4]",
+            "text": "Delivery Locations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/food-delivery/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[3]/div[1]/a[5]",
+            "text": "Do Not Sell or Share My Personal Information",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.doordash.com/consumer/personalize"
+        },
+        {
+            "tag_name": "select",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/select[1]",
+            "text": "English (US)\nEspa\u00f1ol (US)\nEnglish (CA)\nFran\u00e7ais (CA)\nEnglish (AU)\nEnglish (NZ)",
+            "aria-label": "Select Language",
+            "id": "fieldWrapper-:r0:",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[3]/div[3]/a[1]",
+            "text": "DoorDash on Facebook",
+            "aria-label": "DoorDash on Facebook",
+            "id": "",
+            "placeholder": null,
+            "href": "https://facebook.com/doordash"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[3]/div[3]/a[2]",
+            "text": "DoorDash on Twitter",
+            "aria-label": "DoorDash on Twitter",
+            "id": "",
+            "placeholder": null,
+            "href": "https://twitter.com/doordash"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[2]/div[5]/div[1]/div[1]/footer[1]/div[3]/div[3]/a[3]",
+            "text": "DoorDash on Instagram",
+            "aria-label": "DoorDash on Instagram",
+            "id": "",
+            "placeholder": null,
+            "href": "https://instagram.com/doordash"
+        }
+    ]
+}

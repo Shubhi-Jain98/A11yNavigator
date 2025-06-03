@@ -1,0 +1,1241 @@
+
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -4285,
+    "name": "MakeMyTrip - #1 Travel Website for Flight & Hotel Booking",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x07244F70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):control+numpad7",
+    "IA2UniqueID": -4285,
+    "name": "MakeMyTrip - #1 Travel Website for Flight & Hotel Booking",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x07244F70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4285,
+    "name": "MakeMyTrip - #1 Travel Website for Flight & Hotel Booking",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x07244F70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4389,
+    "name": "Flights",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.makemytrip.global/flights/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05E99FB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4394,
+    "name": "Hotels",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.makemytrip.global/hotels/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05E99D30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -7225,
+    "name": "From",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x07256B70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -7930,
+    "name": "To",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x07207070>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4952,
+    "name": "Departure 5 May'25 Monday",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x016831F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4962,
+    "name": "Travellers & Class 1 Traveller Economy/Premium Economy",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x01683990>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4850,
+    "name": "1",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "OFFSCREEN (4194304)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x071F8710>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4851,
+    "name": "2",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F8751D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4852,
+    "name": "3",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0B15B790>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4853,
+    "name": "4",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F865230>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4854,
+    "name": "5",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F865B10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4855,
+    "name": "6",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F861C50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4856,
+    "name": "7",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F875070>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4672,
+    "name": "android app",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://play.google.com/store/apps/details?id=com.makemytrip&hl=en&gl=AE",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F875290>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4673,
+    "name": "ios app",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://apps.apple.com/ae/app/makemytrip-travel-booking-app/id530488359",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x072720F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4526,
+    "name": "None",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "OFFSCREEN (4194304)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.instagram.com/makemytrip/?hl=en&open=outside",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F865870>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4527,
+    "name": "None",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://twitter.com/makemytrip?open=outside",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F861C50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4528,
+    "name": "None",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://in.linkedin.com/company/makemytrip.com?open=outside",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0B15B910>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4529,
+    "name": "None",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.facebook.com/makemytrip/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01683930>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -170,
+    "name": "View site information",
+    "role": "MENUBUTTON (102)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "Secure",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "_description-from": "ARIA_DESCRIPTION (aria-description)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "1",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x016832F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -178,
+    "name": "Address and search bar",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "Ctrl+L",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "1",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0C6FCBF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -360,
+    "name": "Search with Google Lens",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "1",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x071F88D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -417,
+    "name": "Install MakeMyTrip",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "1",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0C72ED10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -452,
+    "name": "Third-party cookies allowed",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "1",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x071F8950>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -515,
+    "name": "Bookmark this tab",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "1",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F6BB510>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -9706,
+    "name": "MMT's LOGO",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.makemytrip.global/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05E87BD0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4389,
+    "name": "Flights",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.makemytrip.global/flights/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05E87B10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4394,
+    "name": "Hotels",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.makemytrip.global/hotels/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07272310>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -17304,
+    "name": "From",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "OFFSCREEN (4194304)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x05E99C70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -18030,
+    "name": "To",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0C6FC130>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4952,
+    "name": "Departure 5 May'25 Monday",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x016741B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4962,
+    "name": "Travellers & Class 1 Traveller Economy/Premium Economy",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x07256770>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4850,
+    "name": "1",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "OFFSCREEN (4194304)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0C6FC3F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4851,
+    "name": "2",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x01683E50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4852,
+    "name": "3",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0437FB90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4853,
+    "name": "4",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x05EB9970>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4854,
+    "name": "5",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x05E87A30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4855,
+    "name": "6",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0AAA7D90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4856,
+    "name": "7",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0AAA7DD0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4672,
+    "name": "android app",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://play.google.com/store/apps/details?id=com.makemytrip&hl=en&gl=AE",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F6BB910>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4673,
+    "name": "ios app",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://apps.apple.com/ae/app/makemytrip-travel-booking-app/id530488359",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x072728D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4526,
+    "name": "None",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "OFFSCREEN (4194304)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.instagram.com/makemytrip/?hl=en&open=outside",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07272410>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4527,
+    "name": "None",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://twitter.com/makemytrip?open=outside",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F865050>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4528,
+    "name": "None",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://in.linkedin.com/company/makemytrip.com?open=outside",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0B15B790>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -4529,
+    "name": "None",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.facebook.com/makemytrip/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C6FC130>>"
+}

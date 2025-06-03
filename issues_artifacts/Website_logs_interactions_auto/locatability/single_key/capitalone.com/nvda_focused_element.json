@@ -1,0 +1,25 @@
+{
+    "IA2UniqueID": -10222,
+    "name": "Password",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "PROTECTED (16384)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)",
+        "REQUIRED (32768)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "Please enter required information",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "ARIA_DESCRIBED_BY (aria-describedby)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None"
+}

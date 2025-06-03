@@ -1,0 +1,897 @@
+[
+    {
+        "IA2UniqueID": -534,
+        "nvda_name": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -611,
+        "nvda_name": "Stack Overflow",
+        "nvda_value": "https://stackoverflow.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div/ol/li/a"
+    },
+    {
+        "IA2UniqueID": -612,
+        "nvda_name": "About",
+        "nvda_value": "https://stackoverflow.co/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/ol/li[2]/button"
+    },
+    {
+        "IA2UniqueID": -613,
+        "nvda_name": "Products",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/ol/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -614,
+        "nvda_name": "OverflowAI",
+        "nvda_value": "https://stackoverflow.co/teams/ai/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav-bar&utm_content=overflowai",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/form/div/input"
+    },
+    {
+        "IA2UniqueID": -3877,
+        "nvda_name": "Human verification - Stack Overflow",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[7]/div[4]/iframe"
+    },
+    {
+        "IA2UniqueID": -4070,
+        "nvda_name": "reCAPTCHA",
+        "nvda_value": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lc5vwgkAAAAAMSJHoiSj7KM-QRV7Em51M8LUk4l&co=aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbTo0NDM.&hl=en&v=p09oe8YIFfKgcnqQ9m9k4aiB&size=compact&cb=h2wii8rsxsfj",
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/form/div/div/div[2]/div[3]/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -10004,
+        "nvda_name": "Ask a question",
+        "nvda_value": "https://stackoverflow.com/questions/ask",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/form/div/div/div[2]/div[3]/div[2]/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -10006,
+        "nvda_name": "Search help",
+        "nvda_value": "https://stackoverflow.com/help/searching",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/nav/ol/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -623,
+        "nvda_name": "Log in",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/nav/ol/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -624,
+        "nvda_name": "Sign up",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[2]/div/nav/ol/li/ol/li/a"
+    },
+    {
+        "IA2UniqueID": -2283,
+        "nvda_name": "Home",
+        "nvda_value": "https://stackoverflow.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[5]/div[2]/div/nav/ol/li/ol/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2287,
+        "nvda_name": "Questions",
+        "nvda_value": "https://stackoverflow.com/questions",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[2]/div/nav/ol/li/ol/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -2291,
+        "nvda_name": "Tags",
+        "nvda_value": "https://stackoverflow.com/tags",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[2]/div/nav/ol/li/ol/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -2296,
+        "nvda_name": "Users",
+        "nvda_value": "https://stackoverflow.com/users",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[2]/div/nav/ol/li/ol/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -2300,
+        "nvda_name": "Companies",
+        "nvda_value": "https://stackoverflow.com/jobs/companies?so_medium=stackoverflow&so_source=SiteNav",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[2]/div/nav/ol/li/ol/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -2304,
+        "nvda_name": "LABS",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[2]/div/nav/ol/li/ol/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -2308,
+        "nvda_name": "Jobs NEW",
+        "nvda_value": "https://stackoverflow.com/jobs?source=so-left-nav",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[2]/div/nav/ol/li/ol/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -2314,
+        "nvda_name": "Discussions",
+        "nvda_value": "https://stackoverflow.com/beta/discussions",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[2]/div/nav/ol/li/ol/li[10]/div/a"
+    },
+    {
+        "IA2UniqueID": -2319,
+        "nvda_name": "COLLECTIVES",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[2]/div/nav/ol/li/ol/li[11]/p/a"
+    },
+    {
+        "IA2UniqueID": -2324,
+        "nvda_name": "Explore all Collectives",
+        "nvda_value": "https://stackoverflow.com/collectives-all",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/header/div/div/a"
+    },
+    {
+        "IA2UniqueID": -2334,
+        "nvda_name": "Sign up",
+        "nvda_value": "https://stackoverflow.com/users/signup?ssrc=product_home",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/header/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -2335,
+        "nvda_name": "Visit the community ",
+        "nvda_value": "https://stackoverflow.com/questions",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section/div/a"
+    },
+    {
+        "IA2UniqueID": -2340,
+        "nvda_name": "Full business solutions",
+        "nvda_value": "https://stackoverflow.co/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=page-cta&utm_content=business-solutions",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -2344,
+        "nvda_name": "Explore Teams",
+        "nvda_value": "https://stackoverflow.co/teams/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=page-cta&utm_content=explore-teams",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section/div[2]/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -2345,
+        "nvda_name": "Try for free",
+        "nvda_value": "https://stackoverflowteams.com/teams/create/free/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=page-cta&utm_content=try-for-free",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section/div[3]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -2351,
+        "nvda_name": "Supercharge your Team",
+        "nvda_value": "https://stackoverflow.co/teams/ai/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=page-cta&utm_content=supercharge-team",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section/div[4]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -2357,
+        "nvda_name": "Advertising solutions",
+        "nvda_value": "https://stackoverflow.co/advertising/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=page-cta&utm_content=advertising-solutions",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section/div[4]/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -2358,
+        "nvda_name": "Build your employer brand",
+        "nvda_value": "https://stackoverflow.co/advertising/employer-branding/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=page-cta&utm_content=employer-branding",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section/div[4]/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -2362,
+        "nvda_name": "API solutions for business",
+        "nvda_value": "https://stackoverflow.co/api-solutions/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=page-cta&utm_content=overflow-solutions",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -2366,
+        "nvda_name": "Explore the network",
+        "nvda_value": "https://stackexchange.com/sites?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=page-cta&utm_content=explore-network",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -2375,
+        "nvda_name": "Software Engineering icon",
+        "nvda_value": "https://softwareengineering.stackexchange.com/",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div/div[2]/div[2]/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -2385,
+        "nvda_name": "Unix & Linux icon",
+        "nvda_value": "https://unix.stackexchange.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -2398,
+        "nvda_name": "Ask Ubuntu icon",
+        "nvda_value": "https://askubuntu.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div/div[4]/a"
+    },
+    {
+        "IA2UniqueID": -2404,
+        "nvda_name": "Server Fault icon",
+        "nvda_value": "https://serverfault.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -2412,
+        "nvda_name": "Network Engineering icon",
+        "nvda_value": "https://networkengineering.stackexchange.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div[2]/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -2420,
+        "nvda_name": "Ask Different icon",
+        "nvda_value": "https://apple.stackexchange.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div[2]/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -2427,
+        "nvda_name": "Super User icon",
+        "nvda_value": "https://superuser.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div[2]/div[2]/div[2]/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -2437,
+        "nvda_name": "Database Administrators icon",
+        "nvda_value": "https://dba.stackexchange.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div[2]/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -2450,
+        "nvda_name": "Quantum Computing icon",
+        "nvda_value": "https://quantumcomputing.stackexchange.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div[2]/div[3]/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -2456,
+        "nvda_name": "Game Development icon",
+        "nvda_value": "https://gamedev.stackexchange.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[2]/div[2]/div[2]/div[3]/div[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -2461,
+        "nvda_name": "Artificial Intelligence icon",
+        "nvda_value": "https://ai.stackexchange.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[5]/div[3]/section[3]/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -2472,
+        "nvda_name": "Careers at Stack Overflow",
+        "nvda_value": "https://stackoverflow.co/company/work-here/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=page-cta&utm_content=explore-careers",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/section/div/div/a"
+    },
+    {
+        "IA2UniqueID": -2478,
+        "nvda_name": "Check out our FAQ about how Stack Overflow works. Visit Help Center",
+        "nvda_value": "https://stackoverflow.com/help/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/section/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -2482,
+        "nvda_name": "To share feedback about our platform, please visit our meta community. Visit Meta",
+        "nvda_value": "https://meta.stackoverflow.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/section/div/div/a[3]"
+    },
+    {
+        "IA2UniqueID": -2486,
+        "nvda_name": "Looking for help with Stack Overflow for Teams? Visit Teams Help Center",
+        "nvda_value": "https://stackoverflowteams.help/en/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/section/div/div/a[4]"
+    },
+    {
+        "IA2UniqueID": -2490,
+        "nvda_name": "Find legal documents for our products and services. Visit Legal",
+        "nvda_value": "https://policies.stackoverflow.co/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/a"
+    },
+    {
+        "IA2UniqueID": -2497,
+        "nvda_name": "Stack Overflow",
+        "nvda_value": "https://stackoverflow.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "OFFSCREEN (4194304)",
+            "FOCUSED (2)",
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div/h5/a"
+    },
+    {
+        "IA2UniqueID": -2501,
+        "nvda_name": "STACK OVERFLOW",
+        "nvda_value": "https://stackoverflow.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2504,
+        "nvda_name": "Questions",
+        "nvda_value": "https://stackoverflow.com/questions",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2506,
+        "nvda_name": "Help",
+        "nvda_value": "https://stackoverflow.com/help",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -2508,
+        "nvda_name": "Chat",
+        "nvda_value": "https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[2]/h5/a"
+    },
+    {
+        "IA2UniqueID": -2511,
+        "nvda_name": "PRODUCTS",
+        "nvda_value": "https://stackoverflow.co/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2514,
+        "nvda_name": "Teams",
+        "nvda_value": "https://stackoverflow.co/teams/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=teams",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2516,
+        "nvda_name": "Advertising",
+        "nvda_value": "https://stackoverflow.co/advertising/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=advertising",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -2518,
+        "nvda_name": "Talent",
+        "nvda_value": "https://stackoverflow.co/advertising/employer-branding/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=talent",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[3]/h5/a"
+    },
+    {
+        "IA2UniqueID": -2521,
+        "nvda_name": "COMPANY",
+        "nvda_value": "https://stackoverflow.co/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2524,
+        "nvda_name": "About",
+        "nvda_value": "https://stackoverflow.co/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2526,
+        "nvda_name": "Press",
+        "nvda_value": "https://stackoverflow.co/company/press/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[3]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -2528,
+        "nvda_name": "Work Here",
+        "nvda_value": "https://stackoverflow.co/company/work-here/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[3]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -2530,
+        "nvda_name": "Legal",
+        "nvda_value": "https://stackoverflow.com/legal",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[3]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -2532,
+        "nvda_name": "Privacy Policy",
+        "nvda_value": "https://stackoverflow.com/legal/privacy-policy",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[3]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -2534,
+        "nvda_name": "Terms of Service",
+        "nvda_value": "https://stackoverflow.com/legal/terms-of-service/public",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[3]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -2536,
+        "nvda_name": "Contact Us",
+        "nvda_value": "https://stackoverflow.com/contact",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[3]/ul/li[8]/button"
+    },
+    {
+        "IA2UniqueID": -2538,
+        "nvda_name": "Cookie Settings",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[3]/ul/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -2540,
+        "nvda_name": "Cookie Policy",
+        "nvda_value": "https://stackoverflow.com/legal/cookie-policy",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[4]/div/h5/a"
+    },
+    {
+        "IA2UniqueID": -2544,
+        "nvda_name": "STACK EXCHANGE NETWORK",
+        "nvda_value": "https://stackexchange.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[4]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2547,
+        "nvda_name": "Technology",
+        "nvda_value": "https://stackexchange.com/sites#technology",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[4]/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2549,
+        "nvda_name": "Culture & recreation",
+        "nvda_value": "https://stackexchange.com/sites#culturerecreation",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[4]/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -2551,
+        "nvda_name": "Life & arts",
+        "nvda_value": "https://stackexchange.com/sites#lifearts",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[4]/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -2553,
+        "nvda_name": "Science",
+        "nvda_value": "https://stackexchange.com/sites#science",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[4]/div/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -2555,
+        "nvda_name": "Professional",
+        "nvda_value": "https://stackexchange.com/sites#professional",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[4]/div/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -2557,
+        "nvda_name": "Business",
+        "nvda_value": "https://stackexchange.com/sites#business",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[4]/div/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -2559,
+        "nvda_name": "API",
+        "nvda_value": "https://api.stackexchange.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/nav/div[4]/div/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -2561,
+        "nvda_name": "Data",
+        "nvda_value": "https://data.stackexchange.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2565,
+        "nvda_name": "Blog",
+        "nvda_value": "https://stackoverflow.blog/?blb=1&_ga=2.178229612.877836223.1737962898-847305086.1737962898",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2567,
+        "nvda_name": "Facebook",
+        "nvda_value": "https://www.facebook.com/officialstackoverflow/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -2569,
+        "nvda_name": "Twitter",
+        "nvda_value": "https://twitter.com/stackoverflow",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -2571,
+        "nvda_name": "LinkedIn",
+        "nvda_value": "https://linkedin.com/company/stack-overflow",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -2573,
+        "nvda_name": "Instagram",
+        "nvda_value": "https://www.instagram.com/thestackoverflow",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -477,
+        "nvda_name": "Bookmark this tab",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/a"
+    }
+]

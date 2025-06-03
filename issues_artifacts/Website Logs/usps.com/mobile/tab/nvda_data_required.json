@@ -1,0 +1,1891 @@
+
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -561,
+    "name": "Welcome | USPS",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x044CFAF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):control+numpad7",
+    "IA2UniqueID": -561,
+    "name": "Welcome | USPS",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x044CFAF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -643,
+    "name": "hamburger menu Icon",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/#",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07B71250>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -1473,
+    "name": "USPS mobile logo",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0720DE10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -3012,
+    "name": "Search Icon",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/#",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FE8AB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -4028,
+    "name": "USPS.com Search Bar",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "EDITABLE (67108864)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "description": "Search or Enter a Tracking Number",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "ARIA_DESCRIBED_BY (aria-describedby)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "Search USPS.com or Enter Tracking Number(s)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x05FE8AB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -4030,
+    "name": "Search",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0FA22C50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -4037,
+    "name": "Ship Now",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://cns.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05D61970>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -6366,
+    "name": "Learn More",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/ship/online-shipping.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB6F30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -8177,
+    "name": "Printer Icon Link for Click-N-Ship",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://cns.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA5E350>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -10315,
+    "name": "Click-N-Ship®",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://cns.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07130990>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -12394,
+    "name": "Stamp Icon Link for Buy Stamps",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://store.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FD7170>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -14432,
+    "name": "Buy Stamps",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://store.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA84F70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -16371,
+    "name": "Mail Carrier Icon Link for Informed Delivery",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://informeddelivery.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FE88F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -18508,
+    "name": "Informed Delivery®",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://informeddelivery.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06005190>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -20484,
+    "name": "PO Box Icon Link for PO Boxes",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/manage/po-boxes.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA0BD70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -23284,
+    "name": "PO Boxes™",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/manage/po-boxes.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA0FC70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -26103,
+    "name": "Calculator Icon Link for Calculate a Price",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://postcalc.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA4CF10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -28700,
+    "name": "Calculate a Price",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://postcalc.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x044CFBF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -31195,
+    "name": "Stop mail Icon Link for Hold Mail",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://holdmail.usps.com/holdmail/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FF2530>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -32654,
+    "name": "Hold Mail",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://holdmail.usps.com/holdmail/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FD7B30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -34439,
+    "name": "ZIP Code Location Finder Icon Link for Look up a ZIP Code",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://tools.usps.com/go/ZipLookupAction_input",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FF2270>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -35928,
+    "name": "ZIP Code™ Lookup",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://tools.usps.com/go/ZipLookupAction_input",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FE8A10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -37700,
+    "name": "House Icon Link for Change My Address",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://moversguide.usps.com/?referral=MG82",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x044CF4F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -38949,
+    "name": "Change My Address",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://moversguide.usps.com/?referral=MG82",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x044CFBF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -40168,
+    "name": "Box and clock Icon Link for Schedule a Pickup",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://tools.usps.com/schedule-pickup-steps.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0CA460F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -42229,
+    "name": "Schedule a Pickup",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://tools.usps.com/schedule-pickup-steps.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA4B230>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -44273,
+    "name": "Learn More about USPS Ground Advantage.",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/ship/ground-advantage.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0CA46910>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -46395,
+    "name": "Sign Up for Free for Informed Delivery Emails.",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://informeddelivery.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA4B210>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -48026,
+    "name": "Order Now",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://store.usps.com/store/results/free-shipping-supplies/shipping-supplies/_/N-alnx4jZ7d0v8v#content",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA4C5B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -50404,
+    "name": "Learn More about mailing your tax returns",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/taxes",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA4C0B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -52408,
+    "name": "Go Now for PO Box Online Services",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/manage/po-boxes.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FE8D50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -55270,
+    "name": "Shop Now",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://store.usps.com/store/stamps/new-releases/_/N-1vbtavt",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x071EF430>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -57196,
+    "name": "Previous Slide",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0FA4C190>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -58184,
+    "name": "Next Slide",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x071EF8D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -59197,
+    "name": "See All Holidays",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/newsroom/events/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FE8A10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -60952,
+    "name": "Text Scams",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.uspis.gov/news/scam-article/smishing",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA22490>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -62781,
+    "name": "Email Scams",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.uspis.gov/news/scam-article/fake-usps-emails",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA966B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -64431,
+    "name": "Find Out More",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/careers/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01721B70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -66166,
+    "name": "None",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x071EF0D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -68095,
+    "name": "Contact Us",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/help/contact-us.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA84FD0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -69826,
+    "name": "Site Index",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/globals/site-index.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FF2530>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -72108,
+    "name": "FAQs",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://faq.usps.com/s/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA4C430>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -74223,
+    "name": "Feedback",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/#",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x044CF4F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -75350,
+    "name": "Careers",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/careers/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA0B6B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -77163,
+    "name": "About USPS Home",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA97490>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -78575,
+    "name": "Newsroom",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/newsroom/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA4C4B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -80939,
+    "name": "USPS Service Updates",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/newsroom/service-alerts/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA84FB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -82530,
+    "name": "Forms & Publications",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/resources/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA0F610>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -84037,
+    "name": "Government Services",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/what/government-services/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA0F2F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -85559,
+    "name": "Business Customer Gateway",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://gateway.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA1A4B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -86879,
+    "name": "Postal Inspectors",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.uspis.gov/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB6BB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -88684,
+    "name": "Inspector General",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.uspsoig.gov/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA0BC90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -90445,
+    "name": "Postal Explorer",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://pe.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA22390>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -91872,
+    "name": "National Postal Museum",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://postalmuseum.si.edu/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x017215D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -94213,
+    "name": "Resources for Developers",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.usps.com/business/web-tools-apis/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0AB8CE30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -96571,
+    "name": "PostalPro",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://postalpro.usps.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA2B370>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -98104,
+    "name": "Privacy Policy",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/who/legal/privacy-policy/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01730DF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -99766,
+    "name": "Terms of Use",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/who/legal/terms-of-use.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA2BCB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -101180,
+    "name": "FOIA",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/who/legal/foia/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA23050>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -102689,
+    "name": "No FEAR Act/EEO Contacts",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/who/legal/no-fear-act/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA2B830>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -104198,
+    "name": "Fair Chance Act",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/who/legal/fair-chance-act/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA96A90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -105486,
+    "name": "Accessibility Statement",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://about.usps.com/who/legal/accessibility-statement/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA0B8F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -107022,
+    "name": "Image of Facebook social media icon.",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.facebook.com/USPS?rf=108501355848630",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0CA2FE70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -108550,
+    "name": "Image of instagram social media icon.",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.instagram.com/uspostalservice/?hl=en",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0ABA00F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -110886,
+    "name": "Image of Pinterest social media icon.",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "http://www.pinterest.com/uspsstamps/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA96C90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -112946,
+    "name": "Image of Threads social media icon.",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.threads.net/@uspostalservice?hl=en",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x05FF2530>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -116499,
+    "name": "Image of X social media icon.",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://twitter.com/usps",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FA97990>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -118643,
+    "name": "Image of Youtube social media icon.",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "VISITED (2048)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.youtube.com/usps",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0172BD90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -123580,
+    "name": "Welcome | USPS",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0FA0B3B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):control+numpad7",
+    "IA2UniqueID": -123580,
+    "name": "Welcome | USPS",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0FA0B3B0>>"
+}

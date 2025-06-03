@@ -1,0 +1,1095 @@
+{
+    "count by default selenium driver": 248,
+    "total_count based on actionable selectors": 121,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/a[1]",
+            "text": "Chase.co.uk",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.co.uk/gb/en/?utm_source=jpmc&utm_medium=usbanner&utm_campaign=us_website_banner_redirect_homepage&pid=jpmc&af_channel=usbanner&c=us_website_banner_redirect_homepage"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Close",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/#"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[1]/section[1]/nav[1]/ul[1]/li[1]/a[1]",
+            "text": "Personal\n, selected",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[1]/section[1]/nav[1]/ul[1]/li[2]/a[1]",
+            "text": "Business",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[1]/section[1]/nav[1]/ul[1]/li[3]/a[1]",
+            "text": "Commercial",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.jpmorgan.com/commercial-banking"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[1]/section[2]/nav[1]/ul[1]/li[1]/a[1]",
+            "text": "Schedule a meeting",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/meeting-scheduler/getstarted"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[1]/section[2]/nav[1]/ul[1]/li[2]/a[1]",
+            "text": "Customer service",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/customer-service"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[1]/section[2]/nav[1]/ul[1]/li[3]/a[1]",
+            "text": "Espa\u00f1ol",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/espanol"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[1]/section[2]/nav[1]/ul[1]/li[4]/a[1]",
+            "text": "Search",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/search-results.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[2]/section[1]/div[1]/a[1]",
+            "text": "Chase logo, links to Chase home",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[3]/section[1]/nav[1]/ul[1]/li[1]/a[1]",
+            "text": "Checking",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://account.chase.com/personalbanking"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[3]/section[1]/nav[1]/ul[1]/li[2]/a[1]",
+            "text": "Savings & CDs",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://account.chase.com/personalbanking"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[3]/section[1]/nav[1]/ul[1]/li[3]/a[1]",
+            "text": "Credit cards",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://creditcards.chase.com/credit-cards/home/?CELL=6TKV"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[3]/section[1]/nav[1]/ul[1]/li[4]/a[1]",
+            "text": "Home loans",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/mortgage"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[3]/section[1]/nav[1]/ul[1]/li[5]/a[1]",
+            "text": "Auto",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://autofinance.chase.com/auto-finance/auto-loans?offercode=WDXDPXXX12"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[3]/section[1]/nav[1]/ul[1]/li[6]/a[1]",
+            "text": "Investing by J.P. Morgan",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/investments"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[3]/section[1]/nav[1]/ul[1]/li[7]/a[1]",
+            "text": "Education & goals",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/education"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[4]/div[1]/div[1]/header[1]/section[2]/section[3]/section[1]/nav[1]/ul[1]/li[8]/a[1]",
+            "text": "Travel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/travel"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[2]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "userId-text-input-field",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[3]/div[1]/div[1]/div[1]/div[2]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "password-text-input-field",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]",
+            "text": "Show",
+            "aria-label": "",
+            "id": "show-hide-btn",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[4]/div[2]/span[1]/a[1]",
+            "text": "Use token",
+            "aria-label": " Use token ",
+            "id": "useToken",
+            "placeholder": null,
+            "href": "javascript:void(0);"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[5]/button[1]",
+            "text": "Sign in",
+            "aria-label": "",
+            "id": "signin-button",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[6]/span[1]/a[1]",
+            "text": "Forgot username/password",
+            "aria-label": " Forgot username/password? ",
+            "id": "forgotPassword",
+            "placeholder": null,
+            "href": "javascript:void(0);"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[7]/span[1]/a[1]",
+            "text": "Not Enrolled? Sign Up Now.",
+            "aria-label": " Not enrolled? Sign up now. ",
+            "id": "enrollment",
+            "placeholder": null,
+            "href": "javascript:void(0);"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[4]/a[1]",
+            "text": "Open an account",
+            "aria-label": "Open an account",
+            "id": "",
+            "placeholder": null,
+            "href": "https://account.chase.com/consumer/banking/seo?jp_aid_a=T_90462&jp_aid_p=chasehome_3/hero"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/button[1]",
+            "text": "Previous slide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/a[1]",
+            "text": "Business",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/a[1]",
+            "text": "Credit cards",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://creditcards.chase.com/?CELL=6TKX"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/a[1]",
+            "text": "Checking",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://personal.chase.com/personal/checking"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/a[1]",
+            "text": "Travel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/travel"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/a[1]",
+            "text": "Savings",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/savings"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[3]/button[1]",
+            "text": "Next slide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "1",
+            "aria-label": "Slide 1 of 11",
+            "id": "slick-slide-control00",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "2",
+            "aria-label": "Slide 2 of 11",
+            "id": "slick-slide-control01",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "3",
+            "aria-label": "Slide 3 of 11, selected",
+            "id": "slick-slide-control02",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/button[1]",
+            "text": "4",
+            "aria-label": "Slide 4 of 11",
+            "id": "slick-slide-control03",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/button[1]",
+            "text": "5",
+            "aria-label": "Slide 5 of 11",
+            "id": "slick-slide-control04",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[6]/button[1]",
+            "text": "6",
+            "aria-label": "Slide 6 of 11",
+            "id": "slick-slide-control05",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[7]/button[1]",
+            "text": "7",
+            "aria-label": "Slide 7 of 11",
+            "id": "slick-slide-control06",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[8]/button[1]",
+            "text": "8",
+            "aria-label": "Slide 8 of 11",
+            "id": "slick-slide-control07",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[9]/button[1]",
+            "text": "9",
+            "aria-label": "Slide 9 of 11",
+            "id": "slick-slide-control08",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[10]/button[1]",
+            "text": "10",
+            "aria-label": "Slide 10 of 11",
+            "id": "slick-slide-control09",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[11]/button[1]",
+            "text": "11",
+            "aria-label": "Slide 11 of 11",
+            "id": "slick-slide-control010",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Start of Topic\nEnd of Topic",
+            "aria-label": "",
+            "id": "DA_729757859255",
+            "placeholder": null,
+            "href": "https://account.chase.com/consumer/business/TC77292?jp_aid_a=T_87765&jp_aid_p=chasehome_3/trip1"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Start of Topic\nEnd of Topic",
+            "aria-label": "",
+            "id": "DA_528819304328",
+            "placeholder": null,
+            "href": "https://secure.chase.com/web/oao/application/retail?cfgCode=060001#/?offercode=OMSHOPF001&jp_aid_a=T_92082&jp_aid_p=chasehome_3/trip2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[3]/div[1]/div[1]/a[1]",
+            "text": "Start of Topic\nEnd of Topic",
+            "aria-label": "",
+            "id": "DA_827594652869",
+            "placeholder": null,
+            "href": "https://creditcards.chase.com/cash-back-credit-cards/chase-freedom-unlimited?CELL=6VFQ&jp_aid_a=T_52157&jp_aid_p=chasehome_3/trip3"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Facebook\n(Opens Overlay)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.facebook.com/chase"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Instagram\n(Opens Overlay)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.instagram.com/chase/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "X, formerly Twitter\n(Opens Overlay)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://twitter.com/Chase"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "YouTube\n(Opens Overlay)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.youtube.com/chase"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "LinkedIn\n(Opens Overlay)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.linkedin.com/company/chase?trk=company_logo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "Pinterest\n(Opens Overlay)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.pinterest.com/chase/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "checking account",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://personal.chase.com/personal/checking"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/a[2]",
+            "text": "Chase Total Checking\u00ae",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://account.chase.com/consumer/banking/seo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/p[1]/a[1]",
+            "text": "Open a savings account",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://personal.chase.com/personal/savings"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/p[1]/a[2]",
+            "text": "see interest rates",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/savings/bank-cd"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/p[1]/a[1]",
+            "text": "credit cards",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://creditcards.chase.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/p[1]/a[2]",
+            "text": "offer rewards",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://creditcards.chase.com/rewards-credit-cards"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/p[1]/a[3]",
+            "text": "cash back",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://creditcards.chase.com/cash-back-credit-cards"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/p[1]/a[4]",
+            "text": "travel-related",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://creditcards.chase.com/travel-credit-cards"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/p[1]/a[5]",
+            "text": "free credit score",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/credit-cards/free-credit-score"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[1]",
+            "text": "mortgage",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/mortgage"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[2]",
+            "text": "refinance your mortgage",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/mortgage/mortgage-refinance"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[3]",
+            "text": "mortgage rates",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/mortgage/mortgage-rates"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[4]",
+            "text": "mortgage calculator",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/mortgage/calculators-resources/mortgage-calculator"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[5]",
+            "text": "Education Center",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/mortgage/education"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[1]",
+            "text": "Chase Auto",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://autofinance.chase.com/?offercode=WDXDPXXX02"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[2]",
+            "text": "auto financing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://autofinance.chase.com/auto-finance/auto-loans?offercode=WDXDPXXX02"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[3]",
+            "text": "payment calculator",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/auto/payment-calculator"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[4]",
+            "text": "Chase Auto Education Center",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/auto/education?offercode=WDXDPXXX02"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[1]",
+            "text": "business checking",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/business/banking/checking"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[2]",
+            "text": "small business loans",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/business/banking/loans"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[3]",
+            "text": "business credit cards",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://creditcards.chase.com/business-credit-cards"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[4]",
+            "text": "merchant services",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/business/payments"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[5]",
+            "text": "business resource center",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/business/knowledge-center"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[1]",
+            "text": "Invest on your own",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://account.chase.com/investing/self-directedoffer"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[2]",
+            "text": "work with an advisor",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/investments/advisor-services"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[3]",
+            "text": "products",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/investments/product-overview"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[4]",
+            "text": "technology",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/investments/digital-capabilities"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[5]",
+            "text": "investment education",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/investments/learning-and-insights"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[6]",
+            "text": "Wealth Management Branch",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://jpmorganwealthmanagement.chase.com/advisor"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[7]",
+            "text": "offers, promotions, and coupons",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://account.chase.com/investing/self-directedoffer"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[2]/p[1]/a[1]",
+            "text": "no everyday banking fees",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/checking/private-client#personalized-financial-relationship"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[2]/p[1]/a[2]",
+            "text": "dedicated team",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/checking/private-client/team"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[2]/p[1]/a[3]",
+            "text": "special perks and benefits",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/checking/private-client/perks"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[2]/p[1]/a[4]",
+            "text": "Chase branch",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://locator.chase.com/?locale=en_US"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[2]/p[1]/a[1]",
+            "text": "Chase online",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[2]/p[1]/a[2]",
+            "text": "Banking Education Center",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/banking/education"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[2]/p[1]/a[3]",
+            "text": "Chase customer service",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/customer-service"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[2]/p[1]/a[4]",
+            "text": "Chase complaints and feedback",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/complaints-feedback"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[2]/p[1]/a[5]",
+            "text": "Chase Community Reinvestment Act Public File",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/about-chase/cra-public-file"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[2]/p[1]/a[1]",
+            "text": "Chase Experiences",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/events/experiences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[2]/p[1]/a[2]",
+            "text": "US Open",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/events/us-open"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[2]/p[1]/a[3]",
+            "text": "Madison Square Garden\n(Opens Overlay)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.msg.com/madison-square-garden"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[2]/p[1]/a[4]",
+            "text": "Chase Center",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/events/chase-center"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[2]/p[1]/a[1]",
+            "text": "suite of security features",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/privacy-security"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[2]/p[1]/a[2]",
+            "text": "help you protect",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/privacy-security/security/how-you-can-protect"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[2]/p[1]/a[3]",
+            "text": "protect you",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/privacy-security/security/how-we-protect-you"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[2]/p[1]/a[4]",
+            "text": "financial abuse",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/privacy-security/financial-abuse"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[2]/p[1]/a[5]",
+            "text": "learn about the common tricks scammers are using",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/privacy-security/security/how-to-spot-scams"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[2]/p[1]/a[6]",
+            "text": "report fraud",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/privacy-security/security/report-fraud"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Deposit Account Agreements",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/branch-disclosures"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Mobile Banking",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/mobile-banking"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Online Banking",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/online-banking"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Student Center",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/financial-goals/life-moments"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Zelle\u00ae",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/personal/zelle"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/p[5]/a[1]",
+            "text": "FINRA\n(Opens Overlay)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.finra.org/#/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/p[5]/a[2]",
+            "text": "SIPC\n(Opens Overlay)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sipc.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "About Chase",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/about-chase"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "J.P. Morgan",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.jpmorgan.com/global"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "JPMorgan Chase & Co.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.jpmorganchase.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Media Center",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://media.chase.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Careers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://careers.jpmorgan.com/US/en/chase"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Site map",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/sitemap"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "Privacy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/privacy-security/privacy/online-privacy-policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "Security",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/privacy-security"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]/a[1]",
+            "text": "Terms of use",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/terms-of-use"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[10]/a[1]",
+            "text": "Accessibility",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.chase.com/digital/resources/accessibility"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[11]/a[1]",
+            "text": "AdChoices\n(Opens Overlay)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://youradchoices.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[12]/a[1]",
+            "text": "Give feedback",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://survey.experience.chase.com/jfe/form/SV_0rBuvmGXX6OhYEJ"
+        }
+    ]
+}

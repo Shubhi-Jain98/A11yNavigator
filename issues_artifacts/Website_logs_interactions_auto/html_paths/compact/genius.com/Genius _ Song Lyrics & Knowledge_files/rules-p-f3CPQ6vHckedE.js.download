@@ -1,0 +1,6 @@
+/*
+ Quantcast measurement tag
+ Copyright (c) 2008-2022, Quantcast Corp.
+*/
+'use strict';(function(m,h,e){var k=function(a){var b=e.createElement("a");b.href=a;return b},l=[/^http[s]?:\/\/((adservice.google.*)|([^\/]*fls\.doubleclick\.net))\/.*~oref=(?<url>[^;\n]*)/,/^http[s]?:\/\/[^\/]*tealium.*\/.*page_url=(?<url>[^&]*)/],n=function(a,b,c){return a?"nc"===a?!b||!c||0>b.indexOf(c):"eq"===a?b===c:"sw"===a?0===b.indexOf(c):"ew"===a?(a=b.length-c.length,b=b.lastIndexOf(c,a),-1!==b&&b===a):"c"===a?0<=b.indexOf(c):!1:!1};__qc.apply(null,["rules",[m,null,[[function(a){return"array"===
+{}.toString.call(a).match(/\s([a-zA-Z]+)/)[1].toLowerCase()?{labels:a.join(",")}:{labels:""+a}},"Post Malone Lyric Pages"]],[[function(a,b,c){if(h.top!==h.self){try{for(var f=0;f<l.length;f++){var g=e.location.href.match(l[f]);if(g&&g.groups.url){var d=decodeURIComponent(g.groups.url);break}}}catch(p){}d=d?k(d):k(e.referrer)}else d=e.location;d=d.href;n(b,d,c)?a(d):a(!1)},"c","genius.com/Post-malone"]]]])})("p-f3CPQ6vHckedE",window,document);

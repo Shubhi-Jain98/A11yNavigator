@@ -1,0 +1,5006 @@
+
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -573,
+    "name": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x052CBED0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):control+numpad7",
+    "IA2UniqueID": -573,
+    "name": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x052CBED0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -573,
+    "name": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x052CBED0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -776,
+    "name": "Sign In",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://identity.doordash.com/auth?client_id=1666519390426295040&intl=en-US&layout=consumer_web&prompt=none&redirect_uri=https%3A%2F%2Fwww.doordash.com%2Fpost-login%2F&response_type=code&scope=%2A&state=%2Fhome%7C%7Cb81d193b-6cc7-401d-bbb5-10381ce2e410",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D94910>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -782,
+    "name": "Sign Up",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://identity.doordash.com/auth/user/signup?client_id=1666519390426295040&intl=en-US&layout=consumer_web&prompt=none&redirect_uri=https%3A%2F%2Fwww.doordash.com%2Fpost-login%2F&response_type=code&scope=%2A&state=%2Fhome%7C%7Cb81d193b-6cc7-401d-bbb5-10381ce2e410",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E683570>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2213,
+    "name": "Find restaurants",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/restaurants-near-me/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E4A1730>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2228,
+    "name": "Get DashPass",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/dashpass/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x044E2A70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2241,
+    "name": "Shop Groceries",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/grocery-delivery/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07CF0F30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2252,
+    "name": "Shop Now",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/cuisine/convenience-store-near-me/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07CD9770>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2268,
+    "name": "Try Package Pickup",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/package-pickup/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E4A1A90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2279,
+    "name": "Send Flowers",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/flower-delivery",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E3E3450>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2290,
+    "name": "Shop Alcohol",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/alcohol-delivery",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06F62BF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2302,
+    "name": "Get Pet Supplies",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/pet-store-near-me",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x08233170>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2318,
+    "name": "Become a Dasher",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://dasher.doordash.com/en-us/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x082272B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2333,
+    "name": "Become a Partner",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://get.doordash.com/en-us/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06F628D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1872,
+    "name": "Alcohol Australia",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/alcohol-australia/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E4A17B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1873,
+    "name": "Alcohol Delivery Australia",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/alcohol-delivery-australia/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x044E2A70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1874,
+    "name": "Back To School Delivery",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/back-to-school-delivery/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0822C770>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1875,
+    "name": "Battle Of The Brands",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/battle-of-the-brands/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06F628D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1876,
+    "name": "Beauty Stores",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/beauty-stores/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E673850>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1877,
+    "name": "Beauty Supply",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/beauty-supply/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x08220E90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1878,
+    "name": "Catering Near Me",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/catering-near-me/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E51C990>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1879,
+    "name": "Chips Ahoy Big Cookie",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/chips-ahoy-big-cookie/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0BD41B50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1888,
+    "name": "Convenience Stores Canada",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/convenience-stores-canada/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E5D2450>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1889,
+    "name": "Dashmart Near Me",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/dashmart-near-me/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07CF0C30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1890,
+    "name": "Deck The Doorstep",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/deck-the-doorstep/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06F77650>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1891,
+    "name": "Diageo Holiday",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/diageo-holiday/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07CD98D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1892,
+    "name": "Drugstores Canada",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/drugstores-canada/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x08220E90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1893,
+    "name": "Flower Delivery",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/flower-delivery/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E676EF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1894,
+    "name": "Grocery Delivery Canada",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/grocery-delivery-canada/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x08220F30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1895,
+    "name": "Haleon Well Within Reach",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/haleon-well-within-reach/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A601F50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1904,
+    "name": "Halloween",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/halloween/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D8F270>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1905,
+    "name": "Holiday Hosting",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/holiday-hosting/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x08220F30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1906,
+    "name": "Hsa Bank",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/hsa-bank/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E49C850>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1907,
+    "name": "Hsa Fsa Store",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/hsa-fsa-store/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x08233490>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1908,
+    "name": "Large Group Orders",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/large-group-orders/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E49C7D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1909,
+    "name": "Local Eats Deserve Pepsi",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/local-eats-deserve-pepsi/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E51CEF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1910,
+    "name": "Make It Date Night",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/make-it-date-night/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E6736B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1911,
+    "name": "Medicine Delivery",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/medicine-delivery/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E5D1B50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1920,
+    "name": "Mothers Day",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/mothers-day/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D70990>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1921,
+    "name": "Pet Store Near Me",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/pet-store-near-me/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D8AAF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1922,
+    "name": "Play For An Ultra",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/play-for-an-ultra/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E3D5E90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1923,
+    "name": "Retail Stores Near Me",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/retail-stores-near-me/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7E54D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1924,
+    "name": "Seasonal Holidays",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/seasonal-holidays/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E3E33F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1925,
+    "name": "Snap Ebt",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/snap-ebt/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E696390>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1926,
+    "name": "Valentines Day",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/valentines-day/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D70EF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1927,
+    "name": "Winter Holidays",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/p/winter-holidays/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x044F1950>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1949,
+    "name": "About Us",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/about/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x053E2490>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1950,
+    "name": "Careers",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://careers.doordash.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E699770>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1951,
+    "name": "Investors",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://ir.doordash.com/overview/default.aspx",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07CD98D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1952,
+    "name": "Company Blog",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://blog.doordash.com/en-us",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E49C850>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1953,
+    "name": "Engineering Blog",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://doordash.engineering/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E5D24B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1954,
+    "name": "Merchant Blog",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://merchants.doordash.com/en-us/blog?utm_source=footer_v2",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E3D5D30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1955,
+    "name": "Gift Cards",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/gift-cards/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E3D5E90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1956,
+    "name": "Package Pickup",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/package-pickup/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x044E2AF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1957,
+    "name": "Promotions",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/promos/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06F77210>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1958,
+    "name": "Dasher Central",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://dasher.doordash.com/en-us?utm_source=dx_signup_text_cx_home",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7E54D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1959,
+    "name": "LinkedIn",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.linkedin.com/company/doordash",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x044E2AF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1960,
+    "name": "Glassdoor",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.glassdoor.com/Reviews/DoorDash-Reviews-E813073.htm",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x082272B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1961,
+    "name": "Accessibility",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/accessibility/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E4A1310>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1962,
+    "name": "Newsroom",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://doordash.news/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0BD41FF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1967,
+    "name": "Account Details",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/consumer/edit_profile/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7E54D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1968,
+    "name": "Order History",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/orders/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E3D5CB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1969,
+    "name": "Help",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://help.doordash.com/s/?language=en_US",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06F77210>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1975,
+    "name": "Become a Dasher",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://dasher.doordash.com/en-us?utm_source=dx_signup_text_cx_home",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E496CF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1976,
+    "name": "DoorDash Merchant",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://merchants.doordash.com/en-us?utm_source=footer_v2",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A601F50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1977,
+    "name": "Get Dashers for Deliveries",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://merchants.doordash.com/en-us/products/drive?utm_source=footer_v2",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E3E3890>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1978,
+    "name": "Get DoorDash for Business",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://work.doordash.com/en-us",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x053E2490>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1984,
+    "name": "Download on the App Store",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://app.adjust.com/bo0s4gx?engagement_type=fallback_click&tracker_limit=100000",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06F62950>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1985,
+    "name": "Download on the Google Play Store",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://7wmw.adj.st/?adjust_t=9ick0eu&adjust_campaign=CX_US_DR_WB_DS_ACQ_CUSXXX__+FooterWeb&adjust_deeplink=doordash%3A%2F%2F&adjust_fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.dd.doordash&adj_redirect_macos=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.dd.doordash",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E3D5CB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1995,
+    "name": "DoorDash Home Page",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/home",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E496BF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1996,
+    "name": "Terms of Service",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E4A93F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1997,
+    "name": "Privacy",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E5D2450>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1998,
+    "name": "Delivery Locations",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/food-delivery/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69DCD0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -1999,
+    "name": "Do Not Sell or Share My Personal Information",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.doordash.com/consumer/personalize",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06F772F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2020,
+    "name": "DoorDash on Facebook",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://facebook.com/doordash",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E5D2570>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2021,
+    "name": "DoorDash on Twitter",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://twitter.com/doordash",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07CD97B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2022,
+    "name": "DoorDash on Instagram",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://instagram.com/doordash",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7E51F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2022,
+    "name": "DoorDash on Instagram",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://instagram.com/doordash",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7E51F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):k",
+    "IA2UniqueID": -2022,
+    "name": "DoorDash on Instagram",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://instagram.com/doordash",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7E51F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -3324,
+    "name": "DoorDash Food Delivery & Takeout - From Restaurants Near You",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x06F77210>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):control+numpad7",
+    "IA2UniqueID": -3324,
+    "name": "DoorDash Food Delivery & Takeout - From Restaurants Near You",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x06F77210>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):b",
+    "IA2UniqueID": -4971,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E676EF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA",
+    "IA2UniqueID": -4971,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E676EF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA+space",
+    "IA2UniqueID": -4971,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E676EF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):b",
+    "IA2UniqueID": -4971,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E676EF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):b",
+    "IA2UniqueID": -4972,
+    "name": "Find Restaurants",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E676330>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):b",
+    "IA2UniqueID": -3474,
+    "name": "Sign in for saved address",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0A7E51F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):b",
+    "IA2UniqueID": -4574,
+    "name": "Start earning",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x07CD97B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):b",
+    "IA2UniqueID": -4580,
+    "name": "Sign up for DoorDash",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x044E2A70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):b",
+    "IA2UniqueID": -4586,
+    "name": "Get the app",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E496BF0>>"
+}{
+    "gesture": "kb(desktop):b",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0E6B2CD0>>"
+}{
+    "gesture": "kb(desktop):b",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0E6B2CD0>>"
+}{
+    "gesture": "kb(desktop):leftControl",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0E6B2CD0>>"
+}{
+    "gesture": "kb(desktop):control+numpad7",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0822CFF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):x",
+    "IA2UniqueID": -7017,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E4A1BB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA",
+    "IA2UniqueID": -7017,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E4A1BB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA+space",
+    "IA2UniqueID": -7017,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E4A1BB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):x",
+    "IA2UniqueID": -7017,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E4A1BB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):x",
+    "IA2UniqueID": -7017,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E4A1BB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -7017,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E4A1BB0>>"
+}{
+    "gesture": "kb(desktop):control+numpad7",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x053E2490>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):r",
+    "IA2UniqueID": -8813,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E697CF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA",
+    "IA2UniqueID": -8813,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E697CF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA+space",
+    "IA2UniqueID": -8813,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E697CF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):r",
+    "IA2UniqueID": -8813,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E697CF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):r",
+    "IA2UniqueID": -8813,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E697CF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -9008,
+    "name": "DoorDash Food Delivery & Takeout - From Restaurants Near You",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0E5D2570>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):control+numpad7",
+    "IA2UniqueID": -9008,
+    "name": "DoorDash Food Delivery & Takeout - From Restaurants Near You",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0E5D2570>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):c",
+    "IA2UniqueID": -10655,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x082272B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA",
+    "IA2UniqueID": -10655,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x082272B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA+space",
+    "IA2UniqueID": -10655,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x082272B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):c",
+    "IA2UniqueID": -10655,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x082272B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):c",
+    "IA2UniqueID": -10081,
+    "name": "Select Language",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "English (US)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69AE70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):c",
+    "IA2UniqueID": -10081,
+    "name": "Select Language",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "English (US)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69AE70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA",
+    "IA2UniqueID": -10081,
+    "name": "Select Language",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "English (US)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69AE70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA+space",
+    "IA2UniqueID": -10081,
+    "name": "Select Language",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "English (US)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69AE70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):c",
+    "IA2UniqueID": -10081,
+    "name": "Select Language",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "English (US)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69AE70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -10081,
+    "name": "Select Language",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "English (US)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69AE70>>"
+}{
+    "gesture": "kb(desktop):control+numpad7",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0E4A1750>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):l",
+    "IA2UniqueID": -12695,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E69D6D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA",
+    "IA2UniqueID": -12695,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E69D6D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA+space",
+    "IA2UniqueID": -12695,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E69D6D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):l",
+    "IA2UniqueID": -12695,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E69D6D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):l",
+    "IA2UniqueID": -12695,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E69D6D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -13242,
+    "name": "DoorDash Food Delivery & Takeout - From Restaurants Near You",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0E676B50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):control+numpad7",
+    "IA2UniqueID": -13242,
+    "name": "DoorDash Food Delivery & Takeout - From Restaurants Near You",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0E676B50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -15056,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E696910>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA",
+    "IA2UniqueID": -15056,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E696910>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA+space",
+    "IA2UniqueID": -15056,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E696910>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -15056,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E696910>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14555,
+    "name": "New York",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "1",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69D7F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14556,
+    "name": "Los Angeles",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "2",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06F77650>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14557,
+    "name": "Toronto",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "3",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E479850>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14558,
+    "name": "Chicago",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "4",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x07CF0C30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14559,
+    "name": "Houston",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "5",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0BD7B710>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14560,
+    "name": "Brooklyn",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "6",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E48ECB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14561,
+    "name": "San Diego",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "7",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0BD7B5F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14562,
+    "name": "Las Vegas",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "8",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0BD7B1D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14563,
+    "name": "San Francisco",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "9",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0BD7B710>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14564,
+    "name": "Seattle",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "10",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x044E2A70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14565,
+    "name": "Atlanta",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "11",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x052CBED0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14566,
+    "name": "Queens",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "12",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x038CFA90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14567,
+    "name": "Vancouver, BC",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "13",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x053C7A50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14568,
+    "name": "Miami",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "14",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E3D5E90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14569,
+    "name": "San Antonio",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "15",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69D830>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14569,
+    "name": "San Antonio",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "15",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69D830>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):i",
+    "IA2UniqueID": -14569,
+    "name": "San Antonio",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "15",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69D830>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -14569,
+    "name": "San Antonio",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_level": "1",
+    "positionInfo_indexInGroup": "15",
+    "positionInfo_similarItemsInGroup": "15",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0E69D830>>"
+}{
+    "gesture": "kb(desktop):control+numpad7",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0E4B48B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -17051,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E699810>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA",
+    "IA2UniqueID": -17051,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E699810>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA+space",
+    "IA2UniqueID": -17051,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E699810>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -17051,
+    "name": "Enter delivery address",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0E699810>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -17052,
+    "name": "Find Restaurants",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E699990>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -15752,
+    "name": "Sign in for saved address",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E683610>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -16654,
+    "name": "Start earning",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0822C9D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -16660,
+    "name": "Sign up for DoorDash",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E3D5F70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -16666,
+    "name": "Get the app",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E3D5F50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -16666,
+    "name": "Get the app",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E3D5F50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -16666,
+    "name": "Get the app",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E3D5F50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -16666,
+    "name": "Get the app",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E3D5F50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -17396,
+    "name": "See more",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x038CFB90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -16477,
+    "name": "Select Language",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "English (US)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x08233710>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -17707,
+    "name": "Livraison de repas et commandes à emporter DoorDash – D'un restaurant près de chez toi",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0E69D990>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -17846,
+    "name": "Connecte-toi pour voir les adresses enregistrées",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E3D5E90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18614,
+    "name": "Commencez à gagner de l’argent",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0822CE10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18620,
+    "name": "Inscrivez-vous à DoorDash",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x07CF33B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18626,
+    "name": "Procure-toi l'application",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x07CF32F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18626,
+    "name": "Procure-toi l'application",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x07CF32F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18626,
+    "name": "Procure-toi l'application",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x07CF32F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18626,
+    "name": "Procure-toi l'application",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x07CF32F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -19305,
+    "name": "En savoir plus",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x053DBA30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18453,
+    "name": "Choisir la langue",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "Français (CA)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7E5450>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA",
+    "IA2UniqueID": -18453,
+    "name": "Choisir la langue",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "Français (CA)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7E5450>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA+space",
+    "IA2UniqueID": -18453,
+    "name": "Choisir la langue",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "Français (CA)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7E5450>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18453,
+    "name": "Choisir la langue",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP (8192)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "Français (CA)",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_similarItemsInGroup": "6",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7E5450>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18176,
+    "name": "Fermer",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0E496CF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18181,
+    "name": "Essentiels seulement",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x038CFA90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18181,
+    "name": "Essentiels seulement",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x038CFA90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18181,
+    "name": "Essentiels seulement",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x038CFA90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18181,
+    "name": "Essentiels seulement",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x038CFA90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18181,
+    "name": "Essentiels seulement",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x038CFA90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18181,
+    "name": "Essentiels seulement",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x038CFA90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18181,
+    "name": "Essentiels seulement",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x038CFA90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):f",
+    "IA2UniqueID": -18181,
+    "name": "Essentiels seulement",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x038CFA90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -18181,
+    "name": "Essentiels seulement",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x038CFA90>>"
+}{
+    "gesture": "kb(desktop):control+numpad7",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x00D60890>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):e",
+    "IA2UniqueID": -20820,
+    "name": "Entrez l’adresse de livraison",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0106EF10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA",
+    "IA2UniqueID": -20820,
+    "name": "Entrez l’adresse de livraison",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0106EF10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):NVDA+space",
+    "IA2UniqueID": -20820,
+    "name": "Entrez l’adresse de livraison",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0106EF10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):e",
+    "IA2UniqueID": -20820,
+    "name": "Entrez l’adresse de livraison",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0106EF10>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):e",
+    "IA2UniqueID": -20820,
+    "name": "Entrez l’adresse de livraison",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0106EF10>>"
+}

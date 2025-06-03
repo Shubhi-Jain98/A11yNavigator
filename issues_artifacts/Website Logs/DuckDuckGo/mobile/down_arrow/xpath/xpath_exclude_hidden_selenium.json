@@ -1,0 +1,141 @@
+{
+    "count by default selenium driver": 174,
+    "total_count based on actionable selectors": 15,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/header[1]/div[2]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://discord.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/header[1]/div[2]/div[1]/div[2]/a[1]",
+            "text": "Log In",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://discord.com/login"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[2]/div[1]/div[1]/aside[1]/div[1]/a[1]",
+            "text": "Download for Windows",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[3]/div[1]/div[2]/div[1]/div[1]/aside[1]/div[1]/button[1]",
+            "text": "Open Discord in your browser",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[11]/div[1]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Download for Windows",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[3]/div[1]",
+            "text": "English (UK)",
+            "aria-label": "",
+            "id": "w-dropdown-toggle-10",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[2]/div[1]",
+            "text": "Product",
+            "aria-label": "",
+            "id": "w-dropdown-toggle-11",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]",
+            "text": "Company",
+            "aria-label": "",
+            "id": "w-dropdown-toggle-12",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[4]/div[1]/div[1]",
+            "text": "Resources",
+            "aria-label": "",
+            "id": "w-dropdown-toggle-13",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]",
+            "text": "Policies",
+            "aria-label": "",
+            "id": "w-dropdown-toggle-14",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[6]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://x.com/discord"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[6]/div[2]/a[2]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.instagram.com/discord/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[6]/div[2]/a[3]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.facebook.com/discord/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[6]/div[2]/a[4]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.youtube.com/discord"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[6]/div[2]/a[5]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.tiktok.com/@discord"
+        }
+    ]
+}

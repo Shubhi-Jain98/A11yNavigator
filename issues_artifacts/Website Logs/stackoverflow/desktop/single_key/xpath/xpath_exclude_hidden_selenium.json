@@ -1,0 +1,1036 @@
+{
+    "count by default selenium driver": 1138,
+    "total_count based on actionable selectors": 206,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/a[1]",
+            "text": "Skip to main content"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/a[2]",
+            "text": "Stack Overflow"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/ol[1]/li[1]/a[1]",
+            "text": "About"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/header[1]/div[1]/ol[1]/li[2]/button[1]",
+            "text": "Products"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/ol[1]/li[3]/a[1]",
+            "text": "OverflowAI"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/header[1]/div[1]/form[1]/div[1]/input[1]",
+            "text": "Search"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/ol[1]/li[3]/a[1]",
+            "text": "Log in"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/ol[1]/li[4]/a[1]",
+            "text": "Sign up"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[1]/a[1]",
+            "text": "Home"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[2]/a[1]",
+            "text": "Questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[3]/a[1]",
+            "text": "Tags"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[5]/a[1]",
+            "text": "Discussions\nLabs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[6]/a[1]",
+            "text": "Chat"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[7]/a[1]",
+            "text": "Users"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[9]/a[1]",
+            "text": "Jobs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[10]/a[1]",
+            "text": "Companies"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[11]/div[1]/a[1]",
+            "text": "COLLECTIVES"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[12]/p[1]/a[1]",
+            "text": "Explore all Collectives"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[2]/div[2]/a[1]",
+            "text": "Try Teams for free"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[2]/div[2]/a[2]",
+            "text": "Explore Teams"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Ask Question"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Newest"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[2]",
+            "text": "Active"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[3]",
+            "text": "Bountied\n66"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[4]",
+            "text": "Unanswered"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/button[1]",
+            "text": "More"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/button[1]",
+            "text": "Filter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/h3[1]/a[1]",
+            "text": "Power Bi export API filtered is not working"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "python"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "azure"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "filter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "powerbi"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "report"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "\u98a8\u96f2\u7fe0\u7159"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/h3[1]/a[1]",
+            "text": "Is my nested route configuration with authentication protection following best practices ? or anything i can do to improve for better practices"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "reactjs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "routes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Roshin Prasad"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/h3[1]/a[1]",
+            "text": "Can I get any google user's profile picture?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "javascript"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Dami\u00e1n Pablo Gonz\u00e1lez"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/h3[1]/a[1]",
+            "text": "snakemake with machine readable reports"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "json"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "report"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "snakemake"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Ferdi"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/h3[1]/a[1]",
+            "text": "Why is my React Native Expo Go app not updating UI in real-time when Firebase Realtime Database data changes?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "firebase"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "react-native"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "firebase-realtime-database"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "expo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Tushar Bhoge"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/h3[1]/a[1]",
+            "text": "How to drag & drop (move) GtkWindow using GtkGestureLongPress?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "c"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "gtk4"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "vte"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "dibyendu"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/h3[1]/a[1]",
+            "text": "Issue Passing Dynamic Variables CSV from Shell Script into Dataform (v2.6.7)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "python"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "sh"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "dataform"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "sqlx"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "saikiran kannyakanti"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/h3[1]/a[1]",
+            "text": "How to call multiple asynchronous methods during ViewModel initialization with Riverpod in Flutter?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "flutter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "riverpod"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Roy Krueger"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/h3[1]/a[1]",
+            "text": "How do I create clickable hyperlinks from markdown link format in a Tkinter Text widget?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "python"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "regex"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "tkinter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "hyperlink"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "markdown"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "user29255210"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/h3[1]/a[1]",
+            "text": "Number of output files created in s3 after Spark Partitioning"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "apache-spark"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "amazon-s3"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "pyspark"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "partitioning"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Dipanjan Mallick"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/h3[1]/a[1]",
+            "text": "Why is my Android project requiring external library after updating the external Flutter module?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "android"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "flutter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "gradle"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Rajitha Perera"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/h3[1]/a[1]",
+            "text": "Using a ForEach to iterate over different data types"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "swift"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "swiftui"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "swiftui-foreach"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "user30115770"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/h3[1]/a[1]",
+            "text": "Batch Script a scenario"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "batch-file"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Preethi Ravichandran"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/h3[1]/a[1]",
+            "text": "HTML5 code and Telegram Bot to display result"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "telegram"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "TCREV Rev"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/h3[1]/a[1]",
+            "text": "Reticulate not displaying pandas dataframes correctly"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "pandas"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "dataframe"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "rstudio"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "reticulate"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "abby hudak"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[1]",
+            "text": "15"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[2]",
+            "text": "30"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[3]",
+            "text": "50"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[1]",
+            "text": "2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[2]",
+            "text": "3"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[3]",
+            "text": "4"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[4]",
+            "text": "5"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[5]",
+            "text": "1616938"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[6]",
+            "text": "Next"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[2]/div[2]/a[1]",
+            "text": "\u201cAre AI agents ready for the enterprise?\u201d"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[4]/div[2]/a[1]",
+            "text": "Community Asks Sprint Announcement - March 2025"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[5]/div[2]/a[1]",
+            "text": "Experimenting with a new experiment opt-out option"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[6]/div[2]/a[1]",
+            "text": "Policy: Generative AI (e.g., ChatGPT) is banned"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[1]/a[1]",
+            "text": "see all"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "Microsoft Azure"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "PHP"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[4]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "NLP"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[4]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[3]/div[1]/div[2]/button[1]",
+            "text": "Report this ad"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[3]/div[2]/div[2]/button[1]",
+            "text": "Report this ad"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[1]/a[1]",
+            "text": "javascript"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[2]/a[1]",
+            "text": "python"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[3]/a[1]",
+            "text": "java"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[4]/a[1]",
+            "text": "c#"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[5]/a[1]",
+            "text": "php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[6]/a[1]",
+            "text": "android"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[7]/a[1]",
+            "text": "html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[8]/a[1]",
+            "text": "jquery"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[9]/a[1]",
+            "text": "c++"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[10]/a[1]",
+            "text": "css"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/a[1]",
+            "text": "more related tags"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/h4[1]/a[1]",
+            "text": "Hot Network Questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[1]/a[1]",
+            "text": "How do model assumptions impact the interpretation of results in machine learning?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[2]/a[1]",
+            "text": "Text on a curved line (maybe with tikzpicture)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[3]/a[1]",
+            "text": "Cooking ramen in a vacuum chamber"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[4]/a[1]",
+            "text": "How do I mitigate fallout of business downtime due wrongfully applied security patch as a result of inconsistent terminology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[5]/a[1]",
+            "text": "How to model a three phase transformer correctly under LTspice?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[6]/a[1]",
+            "text": "Live in California, work remotely for IL non-profit school"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[7]/a[1]",
+            "text": "Is there a word for \"the smallest interval containing the sequence\"?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[8]/a[1]",
+            "text": "I found a serious mistake in a paper written by my professor's previous student. To whom should I report my findings?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[9]/a[1]",
+            "text": "Why CPA-secure implies with overwhelming probability, there will be no repeated ciphertext?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[10]/a[1]",
+            "text": "Can Internal Stresses from Acceleration Affect Rest Mass?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[11]/a[1]",
+            "text": "A sci-fi short story about the connection between two sisters remembered during a moon expedition"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[12]/a[1]",
+            "text": "Using Geometry Nodes to create a hemisphere type object from a bezier circle that has its control points linked to Hooks?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/a[1]",
+            "text": "more hot questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/a[1]",
+            "text": "Stack Overflow"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/h5[1]/a[1]",
+            "text": "STACK OVERFLOW"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Chat"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/h5[1]/a[1]",
+            "text": "PRODUCTS"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Teams"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Advertising"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Talent"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/h5[1]/a[1]",
+            "text": "COMPANY"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "About"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Press"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Work Here"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Legal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "Privacy Policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[6]/a[1]",
+            "text": "Terms of Service"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[7]/a[1]",
+            "text": "Contact Us"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[8]/button[1]",
+            "text": "Your Privacy Choices"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[9]/a[1]",
+            "text": "Cookie Policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/h5[1]/a[1]",
+            "text": "STACK EXCHANGE NETWORK"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Technology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Culture & recreation"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Life & arts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Science"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Professional"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "API"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "Data"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Blog"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Facebook"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Twitter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "LinkedIn"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Instagram"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "CC BY-SA"
+        }
+    ]
+}

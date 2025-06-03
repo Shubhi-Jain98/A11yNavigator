@@ -1,0 +1,149 @@
+[
+    {
+        "IA2UniqueID": -3199,
+        "nvda_name": "California DMV",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div[2]/div/form/button",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -3801,
+        "nvda_name": "Search Submit Submit search form",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div/div/div[3]/button",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -3848,
+        "nvda_name": "stop animation",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div/div/div[3]/div/button",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -3851,
+        "nvda_name": "Carousel Page 1 (Current Slide)",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div/div/div[3]/div/button[2]",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -3852,
+        "nvda_name": "Carousel Page 2 (Current Slide)",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div/div/div[3]/div/button[3]",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -3853,
+        "nvda_name": "Carousel Page 3 (Current Slide)",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[3]/div/div/div[2]/div/figure/div/lite-youtube/a",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -3303,
+        "nvda_name": "Play YouTube Video",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[3]/div/div/div[3]/div/figure/div/lite-youtube/a",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -3336,
+        "nvda_name": "Play YouTube Video",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[3]/div/div/div[3]/div[2]/figure/div/lite-youtube/a",
+        "key_interactions": 7
+    },
+    {
+        "IA2UniqueID": -3351,
+        "nvda_name": "Play YouTube Video",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[3]/div/div/div[3]/div[3]/figure/div/lite-youtube/a",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -3366,
+        "nvda_name": "Play YouTube Video",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/button",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -3534,
+        "nvda_name": "Close Form Filler",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/span/button",
+        "key_interactions": 10
+    },
+    {
+        "IA2UniqueID": -8620,
+        "nvda_name": "Follow California DMV on Youtube",
+        "nvda_value": "https://www.youtube.com/user/CaliforniaDMV",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div[2]/div/nav/ul/li[3]/a",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -8620,
+        "nvda_name": "Follow California DMV on Youtube",
+        "nvda_value": "https://www.youtube.com/user/CaliforniaDMV",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/div/div/ul/li/a",
+        "key_interactions": 1
+    }
+]

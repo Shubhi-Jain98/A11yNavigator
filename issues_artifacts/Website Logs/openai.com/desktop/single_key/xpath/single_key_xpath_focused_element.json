@@ -1,0 +1,1041 @@
+[
+    {
+        "IA2UniqueID": null,
+        "nvda_name": "OK",
+        "nvda_value": "None",
+        "nvda_states": [
+            "PRESSED (16)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -96716,
+        "nvda_name": "OpenAI Home",
+        "nvda_value": "https://openai.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/nav/div/div/ul/li/div/a"
+    },
+    {
+        "IA2UniqueID": -96732,
+        "nvda_name": "Research",
+        "nvda_value": "https://openai.com/research/index/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/nav/div/div/ul/li[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -96737,
+        "nvda_name": "Safety",
+        "nvda_value": "https://openai.com/safety/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/nav/div/div/ul/li[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -96742,
+        "nvda_name": "ChatGPT",
+        "nvda_value": "https://openai.com/chatgpt/overview/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/nav/div/div/ul/li[4]/div/a"
+    },
+    {
+        "IA2UniqueID": -96747,
+        "nvda_name": "Sora",
+        "nvda_value": "https://openai.com/sora/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/nav/div/div/ul/li[5]/div/a"
+    },
+    {
+        "IA2UniqueID": -96752,
+        "nvda_name": "API Platform",
+        "nvda_value": "https://openai.com/api/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/nav/div/div/ul/li[6]/div/a"
+    },
+    {
+        "IA2UniqueID": -96757,
+        "nvda_name": "For Business",
+        "nvda_value": "https://openai.com/business/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/nav/div/div/ul/li[7]/div/a"
+    },
+    {
+        "IA2UniqueID": -96760,
+        "nvda_name": "Stories",
+        "nvda_value": "https://openai.com/stories/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/nav/div/div/ul/li[8]/div/a"
+    },
+    {
+        "IA2UniqueID": -96763,
+        "nvda_name": "Company",
+        "nvda_value": "https://openai.com/about/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/nav/div/div/ul/li[9]/div/a"
+    },
+    {
+        "IA2UniqueID": -96768,
+        "nvda_name": "News",
+        "nvda_value": "https://openai.com/news/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div/div/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -96849,
+        "nvda_name": "Search with ChatGPT",
+        "nvda_value": "https://chatgpt.com/?hints=search",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div/div/div/div/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -96851,
+        "nvda_name": "Talk with ChatGPT",
+        "nvda_value": "https://chatgpt.com/?mode=voice",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div/div/div/div/div/div/a[3]"
+    },
+    {
+        "IA2UniqueID": -96853,
+        "nvda_name": "Research",
+        "nvda_value": "https://openai.com/research/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div/div/div/div/div/div/a[4]"
+    },
+    {
+        "IA2UniqueID": -96855,
+        "nvda_name": "Sora",
+        "nvda_value": "https://sora.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[2]/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -96873,
+        "nvda_name": "Introducing 4o Image Generation - Product - Mar 25, 2025",
+        "nvda_value": "https://openai.com/index/introducing-4o-image-generation/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[2]/div/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -96888,
+        "nvda_name": "Introducing next-generation audio models in the API - Release - Mar 20, 2025",
+        "nvda_value": "https://openai.com/index/introducing-our-next-generation-audio-models/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[2]/div/div[2]/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -96902,
+        "nvda_name": "New tools for building agents - Product - Mar 11, 2025",
+        "nvda_value": "https://openai.com/index/new-tools-for-building-agents/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[2]/div/div[2]/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -96916,
+        "nvda_name": "Catching halibut with ChatGPT - ChatGPT - Feb 4, 2025",
+        "nvda_value": "https://openai.com/index/fishing-for-first-timers/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -96927,
+        "nvda_name": "View all",
+        "nvda_value": "https://openai.com/news/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[3]/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -96937,
+        "nvda_name": "Security on the path to AGI - Security - Mar 26, 2025",
+        "nvda_value": "https://openai.com/index/security-on-the-path-to-agi/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[3]/div[2]/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -96952,
+        "nvda_name": "Leadership updates - Company - Mar 24, 2025",
+        "nvda_value": "https://openai.com/index/leadership-updates-march-2025/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[3]/div[2]/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -96967,
+        "nvda_name": "Early methods for studying affective use and emotional well-being on ChatGPT - Research - Mar 21, 2025",
+        "nvda_value": "https://openai.com/index/affective-use-study/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[3]/div[2]/div[4]/div/a"
+    },
+    {
+        "IA2UniqueID": -96982,
+        "nvda_name": "The court rejects Elon\u2019s latest attempt to slow OpenAI down - Company - Mar 14, 2025",
+        "nvda_value": "https://openai.com/index/court-rejects-elon/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[3]/div[2]/div[5]/div/a"
+    },
+    {
+        "IA2UniqueID": -96997,
+        "nvda_name": "Introducing NextGenAI - Company - Mar 4, 2025",
+        "nvda_value": "https://openai.com/index/introducing-nextgenai/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[3]/div[2]/div[6]/div/a"
+    },
+    {
+        "IA2UniqueID": -97014,
+        "nvda_name": "1,000 Scientist AI Jam Session - Global Affairs - Feb 28, 2025",
+        "nvda_value": "https://openai.com/global-affairs/1000-scientist-ai-jam-session/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[4]/div/a"
+    },
+    {
+        "IA2UniqueID": -97025,
+        "nvda_name": "View all",
+        "nvda_value": "https://openai.com/stories/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[4]/div[2]/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -97036,
+        "nvda_name": "Lyndon Barrois & Sora - Sora - Dec 4, 2024",
+        "nvda_value": "https://openai.com/index/sora-lyndon-barrois/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[4]/div[2]/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -97051,
+        "nvda_name": "Building a custom math tutor powered by ChatGPT - ChatGPT - Feb 4, 2025",
+        "nvda_value": "https://openai.com/index/my-dog-the-math-tutor/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[4]/div[2]/div/div/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -97066,
+        "nvda_name": "Economics and reasoning with OpenAI o1 - ChatGPT - Sep 13, 2024",
+        "nvda_value": "https://openai.com/index/o1-economics/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[5]/div/a"
+    },
+    {
+        "IA2UniqueID": -97079,
+        "nvda_name": "View all",
+        "nvda_value": "https://openai.com/research/index/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[5]/div[2]/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -97090,
+        "nvda_name": "Detecting misbehavior in frontier reasoning models - Publication - Mar 10, 2025",
+        "nvda_value": "https://openai.com/index/chain-of-thought-monitoring/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[5]/div[2]/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -97105,
+        "nvda_name": "Introducing the SWE-Lancer benchmark - Publication - Feb 18, 2025",
+        "nvda_value": "https://openai.com/index/swe-lancer/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[6]/div/a"
+    },
+    {
+        "IA2UniqueID": -97116,
+        "nvda_name": "View all",
+        "nvda_value": "https://openai.com/stories/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[6]/div[2]/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -97126,
+        "nvda_name": "Moving from intent-based bots to proactive AI agents - API - Mar 27, 2025",
+        "nvda_value": "https://openai.com/index/zendesk/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[6]/div[2]/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -97139,
+        "nvda_name": "Automating 90% of finance and legal work with agents - API - Mar 25, 2025",
+        "nvda_value": "https://openai.com/index/hebbia/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[6]/div[2]/div/div/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -97165,
+        "nvda_name": "Download",
+        "nvda_value": "https://openai.com/chatgpt/download/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[7]/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -97165,
+        "nvda_name": "Download",
+        "nvda_value": "https://openai.com/chatgpt/download/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -97183,
+        "nvda_name": "Research Index",
+        "nvda_value": "https://openai.com/research/index/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -97185,
+        "nvda_name": "Research Overview",
+        "nvda_value": "https://openai.com/research/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -97187,
+        "nvda_name": "Research Residency",
+        "nvda_value": "https://openai.com/residency/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -97192,
+        "nvda_name": "OpenAI o1",
+        "nvda_value": "https://openai.com/index/learning-to-reason-with-llms/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -97194,
+        "nvda_name": "OpenAI o1-mini",
+        "nvda_value": "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -97196,
+        "nvda_name": "GPT-4o",
+        "nvda_value": "https://openai.com/index/gpt-4o-system-card/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -97198,
+        "nvda_name": "GPT-4o mini",
+        "nvda_value": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -97200,
+        "nvda_name": "Sora",
+        "nvda_value": "https://openai.com/index/sora-system-card/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -97205,
+        "nvda_name": "Safety Approach",
+        "nvda_value": "https://openai.com/safety/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -97207,
+        "nvda_name": "Security & Privacy",
+        "nvda_value": "https://openai.com/security-and-privacy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -97213,
+        "nvda_name": "Explore ChatGPT",
+        "nvda_value": "https://openai.com/chatgpt/overview/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -97215,
+        "nvda_name": "Team",
+        "nvda_value": "https://openai.com/chatgpt/team/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -97217,
+        "nvda_name": "Enterprise",
+        "nvda_value": "https://openai.com/chatgpt/enterprise/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -97219,
+        "nvda_name": "Education",
+        "nvda_value": "https://openai.com/chatgpt/education/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -97221,
+        "nvda_name": "Pricing",
+        "nvda_value": "https://openai.com/chatgpt/pricing/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -97223,
+        "nvda_name": "Download",
+        "nvda_value": "https://openai.com/chatgpt/download/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -97228,
+        "nvda_name": "Sora Overview",
+        "nvda_value": "https://openai.com/sora/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -97230,
+        "nvda_name": "Features",
+        "nvda_value": "https://openai.com/sora/#features",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -97232,
+        "nvda_name": "Pricing",
+        "nvda_value": "https://openai.com/sora/#pricing",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -97234,
+        "nvda_name": "Sora log in (opens in a new window)",
+        "nvda_value": "https://sora.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -97241,
+        "nvda_name": "Platform Overview",
+        "nvda_value": "https://openai.com/api/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -97243,
+        "nvda_name": "Pricing",
+        "nvda_value": "https://openai.com/api/pricing/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div[3]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -97245,
+        "nvda_name": "API log in (opens in a new window)",
+        "nvda_value": "https://platform.openai.com/login",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div[3]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -97249,
+        "nvda_name": "Documentation (opens in a new window)",
+        "nvda_value": "https://platform.openai.com/docs/overview",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[2]/div[3]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -97253,
+        "nvda_name": "Developer Forum (opens in a new window)",
+        "nvda_value": "https://community.openai.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[3]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -97261,
+        "nvda_name": "Overview",
+        "nvda_value": "https://openai.com/business/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[3]/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -97266,
+        "nvda_name": "About us",
+        "nvda_value": "https://openai.com/about/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[3]/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -97268,
+        "nvda_name": "Our Charter",
+        "nvda_value": "https://openai.com/charter/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[3]/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -97270,
+        "nvda_name": "Careers",
+        "nvda_value": "https://openai.com/careers/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[3]/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -97272,
+        "nvda_name": "Brand",
+        "nvda_value": "https://openai.com/brand/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[3]/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -97277,
+        "nvda_name": "News",
+        "nvda_value": "https://openai.com/news/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[3]/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -97279,
+        "nvda_name": "Stories",
+        "nvda_value": "https://openai.com/stories/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[3]/div[3]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -97281,
+        "nvda_name": "Help Center (opens in a new window)",
+        "nvda_value": "https://help.openai.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[4]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -97289,
+        "nvda_name": "Terms of Use",
+        "nvda_value": "https://openai.com/policies/terms-of-use/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[4]/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -97291,
+        "nvda_name": "Privacy Policy",
+        "nvda_value": "https://openai.com/policies/privacy-policy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[4]/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -97293,
+        "nvda_name": "Security",
+        "nvda_value": "https://openai.com/security-and-privacy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div/div/div[4]/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -97295,
+        "nvda_name": "Other Policies",
+        "nvda_value": "https://openai.com/policies/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -97298,
+        "nvda_name": "X",
+        "nvda_value": "https://x.com/OpenAI",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div[2]/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -97301,
+        "nvda_name": "YouTube",
+        "nvda_value": "https://www.youtube.com/OpenAI",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div[2]/div/a[3]"
+    },
+    {
+        "IA2UniqueID": -97304,
+        "nvda_name": "LinkedIn",
+        "nvda_value": "https://www.linkedin.com/company/openai",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div[2]/div/a[4]"
+    },
+    {
+        "IA2UniqueID": -97307,
+        "nvda_name": "GitHub",
+        "nvda_value": "https://github.com/openai",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div[2]/div/a[5]"
+    },
+    {
+        "IA2UniqueID": -97310,
+        "nvda_name": "Instagram",
+        "nvda_value": "https://www.instagram.com/openai/?hl=en",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div[2]/div/a[6]"
+    },
+    {
+        "IA2UniqueID": -97313,
+        "nvda_name": "TikTok",
+        "nvda_value": "https://www.tiktok.com/@openai?lang=en",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div[2]/div/a[7]"
+    },
+    {
+        "IA2UniqueID": -96716,
+        "nvda_name": "OpenAI Home",
+        "nvda_value": "https://openai.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/a"
+    },
+    {
+        "IA2UniqueID": -96705,
+        "nvda_name": "Skip to main content",
+        "nvda_value": "https://openai.com/#main",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -96710,
+        "nvda_name": "Open Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div[2]/button"
+    },
+    {
+        "IA2UniqueID": -96713,
+        "nvda_name": "Log in",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div[2]/div/button"
+    },
+    {
+        "IA2UniqueID": -96720,
+        "nvda_name": "Toggle navigation sidebar",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/nav/div[2]/button"
+    },
+    {
+        "IA2UniqueID": -96770,
+        "nvda_name": "Navigate to another product.",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div/div/div/div/form/label/textarea"
+    },
+    {
+        "IA2UniqueID": -96841,
+        "nvda_name": "Message ChatGPT Quiz me on vocabulary Plan a surf trip to Costa Rica in August Explica por qu\u00e9 el ma\u00edz palomitas explota Teach me Mahjong for beginners Explain this code Was mach ich in Berlin wenn es regnet? Draw me a treasure map for Emil\u2019s birthday R\u00e9digez une note de remerciement Recommend an easy potluck dish \u30cf\u30fc\u30d5\u30de\u30e9\u30bd\u30f3\u306e\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0\u3092\u624b\u4f1d\u3063\u3066\u304f\u3060\u3055\u3044 Help me improve this job description Write a Python script Draw a picture of a mini aussie as a diver Summarize this pdf for Translate this recipe into Greek Rank dog breeds for a small apartment \u697d\u3057\u3044\u30c7\u30a3\u30ca\u30fc\u30d1\u30fc\u30c6\u30a3\u30fc\u306e\u8a08\u753b\u3092\u624b\u4f1d\u3063\u3066\u304f\u3060\u3055\u3044 Explain paradiddles for me Quais s\u00e3o as chances de Portugal na Euro 2024? Compare business strategies for transitioning from budget to luxury Teach me to negotiate Sugiere actividades divertidas para una familia que visita San Francisco Plan an itinerary for teens in Hong Kong Design a database schema Recommend an easy potluck dish Help me build a budget Kritisiere meine Kurzgeschichte Find gentle lower back stretches Make this recipe vegetarian Expliquez le trading d\u2019options comme si j\u2019avais 5 ans Help me pick a halloween costume Write a polite rejection email Generate fantasy football team names Elabore um calend\u00e1rio de conte\u00fado para redes sociais Explique a turbul\u00eancia em avi\u00f5es Brainstorm domain names Explain nostalgia to a kindergartener \u9762\u63a5\u306e\u8cea\u554f\u3092\u4e00\u7dd2\u306b\u8003\u3048\u3066\u304f\u3060\u3055\u3044 Summarize my meeting notes Explique a turbul\u00eancia em avi\u00f5es Plan a college tour Write a SQL Query Help me with gift ideas for my dad R\u00e9digez un email pour un devis de r\u00e9paration Troubleshoot my printer set-up Write a thank-you note Help me debug this code",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "MULTILINE (1048576)",
+            "FOCUSED (2)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div/div/div/div/form/div/button"
+    },
+    {
+        "IA2UniqueID": -96844,
+        "nvda_name": "Send prompt to ChatGPT",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -96857,
+        "nvda_name": "More",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div/div/div[2]/button"
+    },
+    {
+        "IA2UniqueID": -96860,
+        "nvda_name": "Scroll to explore",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[2]/div/div/div[2]/div/div[2]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -96871,
+        "nvda_name": "Pause video",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/article/div[4]/div[2]/div/div/div/div/div[2]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -97034,
+        "nvda_name": "Pause video",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/div[2]/form/input"
+    },
+    {
+        "IA2UniqueID": -97169,
+        "nvda_name": "Message ChatGPT",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/main/div[2]/form/button"
+    },
+    {
+        "IA2UniqueID": -97172,
+        "nvda_name": "Send prompt to ChatGPT",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/footer/div[2]/div[3]/button"
+    }
+]

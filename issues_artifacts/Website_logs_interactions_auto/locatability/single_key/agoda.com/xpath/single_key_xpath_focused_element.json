@@ -1,0 +1,2335 @@
+[
+    {
+        "IA2UniqueID": -575,
+        "nvda_name": "Agoda Official Site | Free Cancellation & Booking Deals | Over 2 Million Hotels",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/header/section/div/nav/div/a",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -617,
+        "nvda_name": "Agoda logo Home link",
+        "nvda_value": "https://www.agoda.com/en-gb/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/header/section/div/nav/div[2]/div/div/a",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -625,
+        "nvda_name": "Hotels & Homes",
+        "nvda_value": "https://www.agoda.com/en-gb/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/header/section/div/nav/div[2]/div[3]/div/a",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -639,
+        "nvda_name": "Activities",
+        "nvda_value": "https://www.agoda.com/en-gb/activities",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/header/section/div/nav/div[2]/div[4]/div/a",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -642,
+        "nvda_name": "Coupons & Deals",
+        "nvda_value": "https://www.agoda.com/en-gb/deals",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/header/section/div/nav/div[2]/div[5]/div/a",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -645,
+        "nvda_name": "Apartments",
+        "nvda_value": "https://www.agoda.com/en-gb/apartments",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section/div[2]/div/div/div/section/div/div/a",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -833,
+        "nvda_name": "Las Vegas (NV) Las Vegas (NV) 1,113 accommodations",
+        "nvda_value": "https://www.agoda.com/en-gb/city/las-vegas-nv-us.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section/div[2]/div/div/div/section[2]/div/div/a",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -840,
+        "nvda_name": "Orlando (FL) Orlando (FL) 17,408 accommodations",
+        "nvda_value": "https://www.agoda.com/en-gb/city/orlando-fl-us.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section/div[2]/div/div/div/section[3]/div/div/a",
+        "key_interactions": 7
+    },
+    {
+        "IA2UniqueID": -847,
+        "nvda_name": "New York (NY) New York (NY) 3,049 accommodations",
+        "nvda_value": "https://www.agoda.com/en-gb/city/new-york-ny-us.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section/div[2]/div/div/div/section[4]/div/div/a",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -854,
+        "nvda_name": "Los Angeles (CA) Los Angeles (CA) 4,491 accommodations",
+        "nvda_value": "https://www.agoda.com/en-gb/city/los-angeles-ca-us.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section/div[2]/div/div/div/section[5]/div/div/a",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -861,
+        "nvda_name": "Chicago (IL) Chicago (IL) 1,444 accommodations",
+        "nvda_value": "https://www.agoda.com/en-gb/city/chicago-il-us.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[2]/div/div/a",
+        "key_interactions": 10
+    },
+    {
+        "IA2UniqueID": -978,
+        "nvda_name": "View all",
+        "nvda_value": "https://www.agoda.com/deals",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[2]/div[2]/div/div/div/div/section/a",
+        "key_interactions": 11
+    },
+    {
+        "IA2UniqueID": -983,
+        "nvda_name": "None",
+        "nvda_value": "http://www.agoda.com/deals?cid=1916891",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[3]/div[2]/div/div/div/div/section/a",
+        "key_interactions": 12
+    },
+    {
+        "IA2UniqueID": -1006,
+        "nvda_name": "None",
+        "nvda_value": "https://www.agoda.com/c/Agoda20thbdayflights?siteid=1904136",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[3]/div[2]/div/div/div/div/section[2]/a",
+        "key_interactions": 13
+    },
+    {
+        "IA2UniqueID": -1009,
+        "nvda_name": "None",
+        "nvda_value": "https://www.agoda.com/c/Agoda20thbdayactivities?siteid=1908885",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[3]/div[2]/div/div/div/div/section[3]/a",
+        "key_interactions": 14
+    },
+    {
+        "IA2UniqueID": -1012,
+        "nvda_name": "None",
+        "nvda_value": "https://www.agoda.com/activities/detail?activityId=1262142&cid=1908885",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[4]/div[2]/div/div/div/section/div/div/a",
+        "key_interactions": 15
+    },
+    {
+        "IA2UniqueID": -1031,
+        "nvda_name": "Kuala Lumpur Kuala Lumpur 19,902 accommodations",
+        "nvda_value": "https://www.agoda.com/en-gb/city/kuala-lumpur-my.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[4]/div[2]/div/div/div/section[2]/div/div/a",
+        "key_interactions": 16
+    },
+    {
+        "IA2UniqueID": -1038,
+        "nvda_name": "London London 24,105 accommodations",
+        "nvda_value": "https://www.agoda.com/en-gb/city/london-gb.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[4]/div[2]/div/div/div/section[3]/div/div/a",
+        "key_interactions": 17
+    },
+    {
+        "IA2UniqueID": -1045,
+        "nvda_name": "Bangkok Bangkok 12,048 accommodations",
+        "nvda_value": "https://www.agoda.com/en-gb/city/bangkok-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[4]/div[2]/div/div/div/section[4]/div/div/a",
+        "key_interactions": 18
+    },
+    {
+        "IA2UniqueID": -1052,
+        "nvda_name": "Dubai Dubai 19,464 accommodations",
+        "nvda_value": "https://www.agoda.com/en-gb/city/dubai-ae.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[4]/div[2]/div/div/div/section[5]/div/div/a",
+        "key_interactions": 19
+    },
+    {
+        "IA2UniqueID": -1059,
+        "nvda_name": "Manila Manila 13,223 accommodations",
+        "nvda_value": "https://www.agoda.com/en-gb/city/manila-ph.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div/ul/li/a",
+        "key_interactions": 20
+    },
+    {
+        "IA2UniqueID": -1112,
+        "nvda_name": "Help center",
+        "nvda_value": "https://www.agoda.com/en-gb/info/contact.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div/ul/li[2]/a",
+        "key_interactions": 21
+    },
+    {
+        "IA2UniqueID": -1114,
+        "nvda_name": "FAQs",
+        "nvda_value": "https://www.agoda.com/en-gb/info/contact.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div/ul/li[3]/a",
+        "key_interactions": 22
+    },
+    {
+        "IA2UniqueID": -1116,
+        "nvda_name": "Privacy policy",
+        "nvda_value": "https://www.agoda.com/en-gb/info/privacy.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div/ul/li[4]/a",
+        "key_interactions": 23
+    },
+    {
+        "IA2UniqueID": -1118,
+        "nvda_name": "Do Not Sell or Share My Personal Information",
+        "nvda_value": "https://www.agoda.com/en-gb/ccpa.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div/ul/li[5]/a",
+        "key_interactions": 24
+    },
+    {
+        "IA2UniqueID": -1120,
+        "nvda_name": "Cookie policy",
+        "nvda_value": "https://www.agoda.com/en-gb/info/privacy.html#cookies",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div/ul/li[6]/a",
+        "key_interactions": 25
+    },
+    {
+        "IA2UniqueID": -1122,
+        "nvda_name": "Terms of use",
+        "nvda_value": "https://www.agoda.com/en-gb/info/termsofuse.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div/ul/li[7]/a",
+        "key_interactions": 26
+    },
+    {
+        "IA2UniqueID": -1124,
+        "nvda_name": "Manage cookie settings",
+        "nvda_value": "https://www.agoda.com/en-gb/privacy-settings",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div/ul/li[8]/a",
+        "key_interactions": 27
+    },
+    {
+        "IA2UniqueID": -1126,
+        "nvda_name": "Digital Services Act (EU)",
+        "nvda_value": "https://www.agoda.com/en-gb/info/eu-digital-services-act.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div/ul/li[9]/a",
+        "key_interactions": 28
+    },
+    {
+        "IA2UniqueID": -1128,
+        "nvda_name": "Content guidelines & reporting",
+        "nvda_value": "https://www.agoda.com/en-gb/info/eu-digital-services-act.html#CM",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div/ul/li[10]/a",
+        "key_interactions": 29
+    },
+    {
+        "IA2UniqueID": -1130,
+        "nvda_name": "Modern Slavery Statement",
+        "nvda_value": "https://www.bookingholdings.com/modern-slavery-statement/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[2]/ul/li/a",
+        "key_interactions": 30
+    },
+    {
+        "IA2UniqueID": -1144,
+        "nvda_name": "About us",
+        "nvda_value": "https://www.agoda.com/en-gb/about-agoda",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[2]/ul/li[2]/a",
+        "key_interactions": 31
+    },
+    {
+        "IA2UniqueID": -1146,
+        "nvda_name": "Careers",
+        "nvda_value": "https://careersatagoda.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[2]/ul/li[3]/a",
+        "key_interactions": 32
+    },
+    {
+        "IA2UniqueID": -1148,
+        "nvda_name": "Press",
+        "nvda_value": "https://mediaroom.agoda.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[2]/ul/li[4]/a",
+        "key_interactions": 33
+    },
+    {
+        "IA2UniqueID": -1150,
+        "nvda_name": "Blog",
+        "nvda_value": "https://www.agoda.com/blog",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[2]/ul/li[5]/a",
+        "key_interactions": 34
+    },
+    {
+        "IA2UniqueID": -1152,
+        "nvda_name": "PointsMAX",
+        "nvda_value": "https://www.agoda.com/en-gb/pointsmax.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[3]/ul/li/a",
+        "key_interactions": 35
+    },
+    {
+        "IA2UniqueID": -1161,
+        "nvda_name": "Countries/Territories",
+        "nvda_value": "https://www.agoda.com/en-gb/world.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[3]/ul/li[2]/a",
+        "key_interactions": 36
+    },
+    {
+        "IA2UniqueID": -1163,
+        "nvda_name": "All Flight Routes",
+        "nvda_value": "https://www.agoda.com/en-gb/flights/world.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[4]/ul/li/a",
+        "key_interactions": 37
+    },
+    {
+        "IA2UniqueID": -1169,
+        "nvda_name": "YCS partner portal",
+        "nvda_value": "https://ycs.agoda.com/en-gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[4]/ul/li[2]/a",
+        "key_interactions": 38
+    },
+    {
+        "IA2UniqueID": -1171,
+        "nvda_name": "Partner Hub",
+        "nvda_value": "https://partnerhub.agoda.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[4]/ul/li[3]/a",
+        "key_interactions": 39
+    },
+    {
+        "IA2UniqueID": -1173,
+        "nvda_name": "Advertise on Agoda",
+        "nvda_value": "https://partnerhub.agoda.com/advertising-solutions/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[4]/ul/li[4]/a",
+        "key_interactions": 40
+    },
+    {
+        "IA2UniqueID": -1175,
+        "nvda_name": "Affiliates",
+        "nvda_value": "https://partners.agoda.com/en-gb/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[4]/ul/li[5]/a",
+        "key_interactions": 41
+    },
+    {
+        "IA2UniqueID": -1177,
+        "nvda_name": "Agoda API Documentation",
+        "nvda_value": "https://developer.agoda.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[5]/ul/li/a",
+        "key_interactions": 42
+    },
+    {
+        "IA2UniqueID": -1186,
+        "nvda_name": "iOS app",
+        "nvda_value": "https://app.appsflyer.com/id440676901?pid=direct&c=hotel_page_footer&af_siteid=1716632&site_id=1716632&af_sub1=desktop",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section/div/div/div[5]/ul/li[2]/a",
+        "key_interactions": 43
+    },
+    {
+        "IA2UniqueID": -1188,
+        "nvda_name": "Android app",
+        "nvda_value": "https://app.appsflyer.com/com.agoda.mobile.consumer?pid=direct&c=hotel_page_footer&af_siteid=1716632&site_id=1716632&af_sub1=desktop",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[2]/a",
+        "key_interactions": 44
+    },
+    {
+        "IA2UniqueID": -1211,
+        "nvda_name": "Bali Hotels",
+        "nvda_value": "https://www.agoda.com/city/bali-id.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[3]/a",
+        "key_interactions": 45
+    },
+    {
+        "IA2UniqueID": -1213,
+        "nvda_name": "Bandung Hotels",
+        "nvda_value": "https://www.agoda.com/city/bandung-id.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[4]/a",
+        "key_interactions": 46
+    },
+    {
+        "IA2UniqueID": -1215,
+        "nvda_name": "Bangkok Hotels",
+        "nvda_value": "https://www.agoda.com/city/bangkok-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[5]/a",
+        "key_interactions": 47
+    },
+    {
+        "IA2UniqueID": -1217,
+        "nvda_name": "Boracay Island Hotels",
+        "nvda_value": "https://www.agoda.com/city/boracay-island-ph.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[6]/a",
+        "key_interactions": 48
+    },
+    {
+        "IA2UniqueID": -1219,
+        "nvda_name": "Busan Hotels",
+        "nvda_value": "https://www.agoda.com/city/busan-kr.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[7]/a",
+        "key_interactions": 49
+    },
+    {
+        "IA2UniqueID": -1221,
+        "nvda_name": "Cebu Hotels",
+        "nvda_value": "https://www.agoda.com/city/cebu-ph.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[8]/a",
+        "key_interactions": 50
+    },
+    {
+        "IA2UniqueID": -1223,
+        "nvda_name": "Chiang Mai Hotels",
+        "nvda_value": "https://www.agoda.com/city/chiang-mai-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[9]/a",
+        "key_interactions": 51
+    },
+    {
+        "IA2UniqueID": -1225,
+        "nvda_name": "Da Nang Hotels",
+        "nvda_value": "https://www.agoda.com/city/da-nang-vn.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[10]/a",
+        "key_interactions": 52
+    },
+    {
+        "IA2UniqueID": -1227,
+        "nvda_name": "Fukuoka Hotels",
+        "nvda_value": "https://www.agoda.com/city/fukuoka-jp.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[11]/a",
+        "key_interactions": 53
+    },
+    {
+        "IA2UniqueID": -1229,
+        "nvda_name": "Hanoi Hotels",
+        "nvda_value": "https://www.agoda.com/city/hanoi-vn.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[12]/a",
+        "key_interactions": 54
+    },
+    {
+        "IA2UniqueID": -1231,
+        "nvda_name": "Hat Yai Hotels",
+        "nvda_value": "https://www.agoda.com/city/hat-yai-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[13]/a",
+        "key_interactions": 55
+    },
+    {
+        "IA2UniqueID": -1233,
+        "nvda_name": "Ho Chi Minh City Hotels",
+        "nvda_value": "https://www.agoda.com/city/ho-chi-minh-city-vn.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[14]/a",
+        "key_interactions": 56
+    },
+    {
+        "IA2UniqueID": -1235,
+        "nvda_name": "Hoi An Hotels",
+        "nvda_value": "https://www.agoda.com/city/hoi-an-vn.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[15]/a",
+        "key_interactions": 57
+    },
+    {
+        "IA2UniqueID": -1237,
+        "nvda_name": "Hong Kong Hotels",
+        "nvda_value": "https://www.agoda.com/city/hong-kong-hk.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[16]/a",
+        "key_interactions": 58
+    },
+    {
+        "IA2UniqueID": -1239,
+        "nvda_name": "Hua Hin Hotels",
+        "nvda_value": "https://www.agoda.com/city/hua-hin-cha-am-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[17]/a",
+        "key_interactions": 59
+    },
+    {
+        "IA2UniqueID": -1241,
+        "nvda_name": "Hualien Hotels",
+        "nvda_value": "https://www.agoda.com/city/hualien-tw.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[18]/a",
+        "key_interactions": 60
+    },
+    {
+        "IA2UniqueID": -1243,
+        "nvda_name": "Ipoh Hotels",
+        "nvda_value": "https://www.agoda.com/city/ipoh-my.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[19]/a",
+        "key_interactions": 61
+    },
+    {
+        "IA2UniqueID": -1245,
+        "nvda_name": "Jakarta Hotels",
+        "nvda_value": "https://www.agoda.com/city/jakarta-id.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[20]/a",
+        "key_interactions": 62
+    },
+    {
+        "IA2UniqueID": -1247,
+        "nvda_name": "Jeju Island Hotels",
+        "nvda_value": "https://www.agoda.com/city/jeju-island-kr.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[21]/a",
+        "key_interactions": 63
+    },
+    {
+        "IA2UniqueID": -1249,
+        "nvda_name": "Johor Bahru Hotels",
+        "nvda_value": "https://www.agoda.com/city/johor-bahru-my.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[22]/a",
+        "key_interactions": 64
+    },
+    {
+        "IA2UniqueID": -1251,
+        "nvda_name": "Kaohsiung Hotels",
+        "nvda_value": "https://www.agoda.com/city/kaohsiung-tw.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[23]/a",
+        "key_interactions": 65
+    },
+    {
+        "IA2UniqueID": -1253,
+        "nvda_name": "Kota Kinabalu Hotels",
+        "nvda_value": "https://www.agoda.com/city/kota-kinabalu-my.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[24]/a",
+        "key_interactions": 66
+    },
+    {
+        "IA2UniqueID": -1255,
+        "nvda_name": "Krabi Hotels",
+        "nvda_value": "https://www.agoda.com/city/krabi-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[25]/a",
+        "key_interactions": 67
+    },
+    {
+        "IA2UniqueID": -1257,
+        "nvda_name": "Kuala Lumpur Hotels",
+        "nvda_value": "https://www.agoda.com/city/kuala-lumpur-my.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[26]/a",
+        "key_interactions": 68
+    },
+    {
+        "IA2UniqueID": -1259,
+        "nvda_name": "Kuantan Hotels",
+        "nvda_value": "https://www.agoda.com/city/kuantan-my.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td/ul[2]/li[27]/a",
+        "key_interactions": 69
+    },
+    {
+        "IA2UniqueID": -1261,
+        "nvda_name": "Kyoto Hotels",
+        "nvda_value": "https://www.agoda.com/city/kyoto-jp.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[2]/a",
+        "key_interactions": 70
+    },
+    {
+        "IA2UniqueID": -1266,
+        "nvda_name": "Macau Hotels",
+        "nvda_value": "https://www.agoda.com/city/macau-mo.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[3]/a",
+        "key_interactions": 71
+    },
+    {
+        "IA2UniqueID": -1268,
+        "nvda_name": "Malacca Hotels",
+        "nvda_value": "https://www.agoda.com/city/malacca-my.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[4]/a",
+        "key_interactions": 72
+    },
+    {
+        "IA2UniqueID": -1270,
+        "nvda_name": "Manila Hotels",
+        "nvda_value": "https://www.agoda.com/city/manila-ph.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[5]/a",
+        "key_interactions": 73
+    },
+    {
+        "IA2UniqueID": -1272,
+        "nvda_name": "Nagoya Hotels",
+        "nvda_value": "https://www.agoda.com/city/nagoya-jp.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[6]/a",
+        "key_interactions": 74
+    },
+    {
+        "IA2UniqueID": -1274,
+        "nvda_name": "Nha Trang Hotels",
+        "nvda_value": "https://www.agoda.com/city/nha-trang-vn.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[7]/a",
+        "key_interactions": 75
+    },
+    {
+        "IA2UniqueID": -1276,
+        "nvda_name": "Okinawa Hotels",
+        "nvda_value": "https://www.agoda.com/city/okinawa-main-island-jp.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[8]/a",
+        "key_interactions": 76
+    },
+    {
+        "IA2UniqueID": -1278,
+        "nvda_name": "Osaka Hotels",
+        "nvda_value": "https://www.agoda.com/city/osaka-jp.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[9]/a",
+        "key_interactions": 77
+    },
+    {
+        "IA2UniqueID": -1280,
+        "nvda_name": "Pattaya Hotels",
+        "nvda_value": "https://www.agoda.com/city/pattaya-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[10]/a",
+        "key_interactions": 78
+    },
+    {
+        "IA2UniqueID": -1282,
+        "nvda_name": "Penang Hotels",
+        "nvda_value": "https://www.agoda.com/city/penang-my.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[11]/a",
+        "key_interactions": 79
+    },
+    {
+        "IA2UniqueID": -1284,
+        "nvda_name": "Phuket Hotels",
+        "nvda_value": "https://www.agoda.com/city/phuket-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[12]/a",
+        "key_interactions": 80
+    },
+    {
+        "IA2UniqueID": -1286,
+        "nvda_name": "Sapporo Hotels",
+        "nvda_value": "https://www.agoda.com/city/sapporo-jp.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[13]/a",
+        "key_interactions": 81
+    },
+    {
+        "IA2UniqueID": -1288,
+        "nvda_name": "Seoul Hotels",
+        "nvda_value": "https://www.agoda.com/city/seoul-kr.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[14]/a",
+        "key_interactions": 82
+    },
+    {
+        "IA2UniqueID": -1290,
+        "nvda_name": "Shanghai Hotels",
+        "nvda_value": "https://www.agoda.com/city/shanghai-cn.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[15]/a",
+        "key_interactions": 83
+    },
+    {
+        "IA2UniqueID": -1292,
+        "nvda_name": "Singapore Hotels",
+        "nvda_value": "https://www.agoda.com/city/singapore-sg.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[16]/a",
+        "key_interactions": 84
+    },
+    {
+        "IA2UniqueID": -1294,
+        "nvda_name": "Surabaya Hotels",
+        "nvda_value": "https://www.agoda.com/city/surabaya-id.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[17]/a",
+        "key_interactions": 85
+    },
+    {
+        "IA2UniqueID": -1296,
+        "nvda_name": "Taichung Hotels",
+        "nvda_value": "https://www.agoda.com/city/taichung-tw.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[18]/a",
+        "key_interactions": 86
+    },
+    {
+        "IA2UniqueID": -1298,
+        "nvda_name": "Tainan Hotels",
+        "nvda_value": "https://www.agoda.com/city/tainan-tw.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[19]/a",
+        "key_interactions": 87
+    },
+    {
+        "IA2UniqueID": -1300,
+        "nvda_name": "Taipei Hotels",
+        "nvda_value": "https://www.agoda.com/city/taipei-tw.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[20]/a",
+        "key_interactions": 88
+    },
+    {
+        "IA2UniqueID": -1302,
+        "nvda_name": "Tokyo Hotels",
+        "nvda_value": "https://www.agoda.com/city/tokyo-jp.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[21]/a",
+        "key_interactions": 89
+    },
+    {
+        "IA2UniqueID": -1304,
+        "nvda_name": "Yilan Hotels",
+        "nvda_value": "https://www.agoda.com/city/yilan-tw.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul/li[22]/a",
+        "key_interactions": 90
+    },
+    {
+        "IA2UniqueID": -1306,
+        "nvda_name": "Yogyakarta Hotels",
+        "nvda_value": "https://www.agoda.com/city/yogyakarta-id.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul[2]/li[2]/a",
+        "key_interactions": 91
+    },
+    {
+        "IA2UniqueID": -1311,
+        "nvda_name": "London Hotels",
+        "nvda_value": "https://www.agoda.com/city/london-gb.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul[2]/li[3]/a",
+        "key_interactions": 92
+    },
+    {
+        "IA2UniqueID": -1313,
+        "nvda_name": "Paris Hotels",
+        "nvda_value": "https://www.agoda.com/city/paris-fr.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[2]/ul[3]/li[2]/a",
+        "key_interactions": 93
+    },
+    {
+        "IA2UniqueID": -1318,
+        "nvda_name": "Dubai Hotels",
+        "nvda_value": "https://www.agoda.com/city/dubai-ae.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[2]/li[2]/a",
+        "key_interactions": 94
+    },
+    {
+        "IA2UniqueID": -1327,
+        "nvda_name": "Morocco Hotels",
+        "nvda_value": "https://www.agoda.com/country/morocco.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[2]/li[3]/a",
+        "key_interactions": 95
+    },
+    {
+        "IA2UniqueID": -1329,
+        "nvda_name": "South Africa Hotels",
+        "nvda_value": "https://www.agoda.com/country/south-africa.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[3]/li[2]/a",
+        "key_interactions": 96
+    },
+    {
+        "IA2UniqueID": -1334,
+        "nvda_name": "Argentina Hotels",
+        "nvda_value": "https://www.agoda.com/country/argentina.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[3]/li[3]/a",
+        "key_interactions": 97
+    },
+    {
+        "IA2UniqueID": -1336,
+        "nvda_name": "Brazil Hotels",
+        "nvda_value": "https://www.agoda.com/country/brazil.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[3]/li[4]/a",
+        "key_interactions": 98
+    },
+    {
+        "IA2UniqueID": -1338,
+        "nvda_name": "Canada Hotels",
+        "nvda_value": "https://www.agoda.com/country/canada.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[3]/li[5]/a",
+        "key_interactions": 99
+    },
+    {
+        "IA2UniqueID": -1340,
+        "nvda_name": "Mexico Hotels",
+        "nvda_value": "https://www.agoda.com/country/mexico.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[3]/li[6]/a",
+        "key_interactions": 100
+    },
+    {
+        "IA2UniqueID": -1342,
+        "nvda_name": "United States Hotels",
+        "nvda_value": "https://www.agoda.com/country/united-states.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[3]/li[7]/a",
+        "key_interactions": 101
+    },
+    {
+        "IA2UniqueID": -1344,
+        "nvda_name": "Venezuela Hotels",
+        "nvda_value": "https://www.agoda.com/country/venezuela.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[2]/a",
+        "key_interactions": 102
+    },
+    {
+        "IA2UniqueID": -1349,
+        "nvda_name": "Cambodia Hotels",
+        "nvda_value": "https://www.agoda.com/country/cambodia.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[3]/a",
+        "key_interactions": 103
+    },
+    {
+        "IA2UniqueID": -1351,
+        "nvda_name": "China Hotels",
+        "nvda_value": "https://www.agoda.com/country/china.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[4]/a",
+        "key_interactions": 104
+    },
+    {
+        "IA2UniqueID": -1353,
+        "nvda_name": "India Hotels",
+        "nvda_value": "https://www.agoda.com/country/india.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[5]/a",
+        "key_interactions": 105
+    },
+    {
+        "IA2UniqueID": -1355,
+        "nvda_name": "Indonesia Hotels",
+        "nvda_value": "https://www.agoda.com/country/indonesia.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[6]/a",
+        "key_interactions": 106
+    },
+    {
+        "IA2UniqueID": -1357,
+        "nvda_name": "Japan Hotels",
+        "nvda_value": "https://www.agoda.com/country/japan.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[7]/a",
+        "key_interactions": 107
+    },
+    {
+        "IA2UniqueID": -1359,
+        "nvda_name": "Laos Hotels",
+        "nvda_value": "https://www.agoda.com/country/laos.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[8]/a",
+        "key_interactions": 108
+    },
+    {
+        "IA2UniqueID": -1361,
+        "nvda_name": "Malaysia Hotels",
+        "nvda_value": "https://www.agoda.com/country/malaysia.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[9]/a",
+        "key_interactions": 109
+    },
+    {
+        "IA2UniqueID": -1363,
+        "nvda_name": "Myanmar Hotels",
+        "nvda_value": "https://www.agoda.com/country/myanmar.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[10]/a",
+        "key_interactions": 110
+    },
+    {
+        "IA2UniqueID": -1365,
+        "nvda_name": "Nepal Hotels",
+        "nvda_value": "https://www.agoda.com/country/nepal.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[11]/a",
+        "key_interactions": 111
+    },
+    {
+        "IA2UniqueID": -1367,
+        "nvda_name": "Philippines Hotels",
+        "nvda_value": "https://www.agoda.com/country/philippines.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[12]/a",
+        "key_interactions": 112
+    },
+    {
+        "IA2UniqueID": -1369,
+        "nvda_name": "South Korea Hotels",
+        "nvda_value": "https://www.agoda.com/country/south-korea.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[13]/a",
+        "key_interactions": 113
+    },
+    {
+        "IA2UniqueID": -1371,
+        "nvda_name": "Sri Lanka Hotels",
+        "nvda_value": "https://www.agoda.com/country/sri-lanka.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[14]/a",
+        "key_interactions": 114
+    },
+    {
+        "IA2UniqueID": -1373,
+        "nvda_name": "Taiwan Hotels",
+        "nvda_value": "https://www.agoda.com/country/taiwan.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[15]/a",
+        "key_interactions": 115
+    },
+    {
+        "IA2UniqueID": -1375,
+        "nvda_name": "Thailand Hotels",
+        "nvda_value": "https://www.agoda.com/country/thailand.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[3]/ul[4]/li[16]/a",
+        "key_interactions": 116
+    },
+    {
+        "IA2UniqueID": -1377,
+        "nvda_name": "Vietnam Hotels",
+        "nvda_value": "https://www.agoda.com/country/vietnam.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[2]/a",
+        "key_interactions": 117
+    },
+    {
+        "IA2UniqueID": -1383,
+        "nvda_name": "Austria Hotels",
+        "nvda_value": "https://www.agoda.com/country/austria.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[3]/a",
+        "key_interactions": 118
+    },
+    {
+        "IA2UniqueID": -1385,
+        "nvda_name": "Czech Republic Hotels",
+        "nvda_value": "https://www.agoda.com/country/czech-republic.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[4]/a",
+        "key_interactions": 119
+    },
+    {
+        "IA2UniqueID": -1387,
+        "nvda_name": "Denmark Hotels",
+        "nvda_value": "https://www.agoda.com/country/denmark.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[5]/a",
+        "key_interactions": 120
+    },
+    {
+        "IA2UniqueID": -1389,
+        "nvda_name": "Finland Hotels",
+        "nvda_value": "https://www.agoda.com/country/finland.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[6]/a",
+        "key_interactions": 121
+    },
+    {
+        "IA2UniqueID": -1391,
+        "nvda_name": "France Hotels",
+        "nvda_value": "https://www.agoda.com/country/france.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[7]/a",
+        "key_interactions": 122
+    },
+    {
+        "IA2UniqueID": -1393,
+        "nvda_name": "Germany Hotels",
+        "nvda_value": "https://www.agoda.com/country/germany.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[8]/a",
+        "key_interactions": 123
+    },
+    {
+        "IA2UniqueID": -1395,
+        "nvda_name": "Greece Hotels",
+        "nvda_value": "https://www.agoda.com/country/greece.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[9]/a",
+        "key_interactions": 124
+    },
+    {
+        "IA2UniqueID": -1397,
+        "nvda_name": "Hungary Hotels",
+        "nvda_value": "https://www.agoda.com/country/hungary.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[10]/a",
+        "key_interactions": 125
+    },
+    {
+        "IA2UniqueID": -1399,
+        "nvda_name": "Ireland Hotels",
+        "nvda_value": "https://www.agoda.com/country/ireland.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[11]/a",
+        "key_interactions": 126
+    },
+    {
+        "IA2UniqueID": -1401,
+        "nvda_name": "Italy Hotels",
+        "nvda_value": "https://www.agoda.com/country/italy.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[12]/a",
+        "key_interactions": 127
+    },
+    {
+        "IA2UniqueID": -1403,
+        "nvda_name": "Netherlands Hotels",
+        "nvda_value": "https://www.agoda.com/country/netherlands.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[13]/a",
+        "key_interactions": 128
+    },
+    {
+        "IA2UniqueID": -1405,
+        "nvda_name": "Russia Hotels",
+        "nvda_value": "https://www.agoda.com/country/russia.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[14]/a",
+        "key_interactions": 129
+    },
+    {
+        "IA2UniqueID": -1407,
+        "nvda_name": "Spain Hotels",
+        "nvda_value": "https://www.agoda.com/country/spain.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[15]/a",
+        "key_interactions": 130
+    },
+    {
+        "IA2UniqueID": -1409,
+        "nvda_name": "Sweden Hotels",
+        "nvda_value": "https://www.agoda.com/country/sweden.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[16]/a",
+        "key_interactions": 131
+    },
+    {
+        "IA2UniqueID": -1411,
+        "nvda_name": "Switzerland Hotels",
+        "nvda_value": "https://www.agoda.com/country/switzerland.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul/li[17]/a",
+        "key_interactions": 132
+    },
+    {
+        "IA2UniqueID": -1413,
+        "nvda_name": "United Kingdom Hotels",
+        "nvda_value": "https://www.agoda.com/country/united-kingdom.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul[2]/li[2]/a",
+        "key_interactions": 133
+    },
+    {
+        "IA2UniqueID": -1418,
+        "nvda_name": "Bahrain Hotels",
+        "nvda_value": "https://www.agoda.com/country/bahrain.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul[2]/li[3]/a",
+        "key_interactions": 134
+    },
+    {
+        "IA2UniqueID": -1420,
+        "nvda_name": "Egypt Hotels",
+        "nvda_value": "https://www.agoda.com/country/egypt.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul[2]/li[4]/a",
+        "key_interactions": 135
+    },
+    {
+        "IA2UniqueID": -1422,
+        "nvda_name": "Israel Hotels",
+        "nvda_value": "https://www.agoda.com/country/israel.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul[2]/li[5]/a",
+        "key_interactions": 136
+    },
+    {
+        "IA2UniqueID": -1424,
+        "nvda_name": "United Arab Emirates Hotels",
+        "nvda_value": "https://www.agoda.com/country/united-arab-emirates.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul[3]/li[2]/a",
+        "key_interactions": 137
+    },
+    {
+        "IA2UniqueID": -1429,
+        "nvda_name": "Australia Hotels",
+        "nvda_value": "https://www.agoda.com/country/australia.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[4]/ul[3]/li[3]/a",
+        "key_interactions": 138
+    },
+    {
+        "IA2UniqueID": -1431,
+        "nvda_name": "New Zealand Hotels",
+        "nvda_value": "https://www.agoda.com/country/new-zealand.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul/li[2]/a",
+        "key_interactions": 139
+    },
+    {
+        "IA2UniqueID": -1437,
+        "nvda_name": "Destination Guides Home",
+        "nvda_value": "https://www.agoda.com/travel-guides",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[2]/a",
+        "key_interactions": 140
+    },
+    {
+        "IA2UniqueID": -1442,
+        "nvda_name": "Bali Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/indonesia/bali",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[3]/a",
+        "key_interactions": 141
+    },
+    {
+        "IA2UniqueID": -1444,
+        "nvda_name": "Thailand Events and Festivals",
+        "nvda_value": "https://www.agoda.com/special-editions/thailand-events-and-festivals",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[4]/a",
+        "key_interactions": 142
+    },
+    {
+        "IA2UniqueID": -1446,
+        "nvda_name": "Hong Kong Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/hong-kong",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[5]/a",
+        "key_interactions": 143
+    },
+    {
+        "IA2UniqueID": -1448,
+        "nvda_name": "Jakarta Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/indonesia/jakarta",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[6]/a",
+        "key_interactions": 144
+    },
+    {
+        "IA2UniqueID": -1450,
+        "nvda_name": "Jeju Island Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/south-korea/jeju-island",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[7]/a",
+        "key_interactions": 145
+    },
+    {
+        "IA2UniqueID": -1452,
+        "nvda_name": "Kuala Lumpur Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/malaysia/kuala-lumpur",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[8]/a",
+        "key_interactions": 146
+    },
+    {
+        "IA2UniqueID": -1454,
+        "nvda_name": "Kyoto Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/japan/kyoto",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[9]/a",
+        "key_interactions": 147
+    },
+    {
+        "IA2UniqueID": -1456,
+        "nvda_name": "Kyushu Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/japan/kyushu",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[10]/a",
+        "key_interactions": 148
+    },
+    {
+        "IA2UniqueID": -1458,
+        "nvda_name": "Malacca Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/malaysia/malacca",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[11]/a",
+        "key_interactions": 149
+    },
+    {
+        "IA2UniqueID": -1460,
+        "nvda_name": "Philippines Guide",
+        "nvda_value": "https://www.agoda.com/special-editions/philippines/love-the-philippines-top-places-to-visit-and-stay-in-the-tropical-paradise",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[12]/a",
+        "key_interactions": 150
+    },
+    {
+        "IA2UniqueID": -1462,
+        "nvda_name": "Nara Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/japan/nara",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[13]/a",
+        "key_interactions": 151
+    },
+    {
+        "IA2UniqueID": -1464,
+        "nvda_name": "Osaka Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/japan/osaka",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[14]/a",
+        "key_interactions": 152
+    },
+    {
+        "IA2UniqueID": -1466,
+        "nvda_name": "Phuket Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/thailand/phuket",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[15]/a",
+        "key_interactions": 153
+    },
+    {
+        "IA2UniqueID": -1468,
+        "nvda_name": "Sapporo Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/japan/sapporo",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[16]/a",
+        "key_interactions": 154
+    },
+    {
+        "IA2UniqueID": -1470,
+        "nvda_name": "Seoul Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/south-korea/seoul",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[17]/a",
+        "key_interactions": 155
+    },
+    {
+        "IA2UniqueID": -1472,
+        "nvda_name": "Singapore Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/singapore",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[18]/a",
+        "key_interactions": 156
+    },
+    {
+        "IA2UniqueID": -1474,
+        "nvda_name": "Taichung Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/taiwan/taichung",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[19]/a",
+        "key_interactions": 157
+    },
+    {
+        "IA2UniqueID": -1476,
+        "nvda_name": "Taipei Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/taiwan/taipei",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[20]/a",
+        "key_interactions": 158
+    },
+    {
+        "IA2UniqueID": -1478,
+        "nvda_name": "Tokyo Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/japan/tokyo",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[2]/li[21]/a",
+        "key_interactions": 159
+    },
+    {
+        "IA2UniqueID": -1480,
+        "nvda_name": "Goa Guide",
+        "nvda_value": "https://www.agoda.com/special-editions/goa",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[3]/li[2]/a",
+        "key_interactions": 160
+    },
+    {
+        "IA2UniqueID": -1485,
+        "nvda_name": "Paris Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/france/paris",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[4]/li[2]/a",
+        "key_interactions": 161
+    },
+    {
+        "IA2UniqueID": -1490,
+        "nvda_name": "Dubai Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/united-arab-emirates-uae/dubai",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[4]/li[3]/a",
+        "key_interactions": 162
+    },
+    {
+        "IA2UniqueID": -1492,
+        "nvda_name": "Jeddah Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/saudi-arabia/jeddah",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[4]/li[4]/a",
+        "key_interactions": 163
+    },
+    {
+        "IA2UniqueID": -1494,
+        "nvda_name": "Saudi Arabia Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/saudi-arabia",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[5]/li[2]/a",
+        "key_interactions": 164
+    },
+    {
+        "IA2UniqueID": -1499,
+        "nvda_name": "Brisbane Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/australia/brisbane",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[5]/li[3]/a",
+        "key_interactions": 165
+    },
+    {
+        "IA2UniqueID": -1501,
+        "nvda_name": "Melbourne Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/australia/melbourne",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[5]/ul[5]/li[4]/a",
+        "key_interactions": 166
+    },
+    {
+        "IA2UniqueID": -1503,
+        "nvda_name": "Sydney Guide",
+        "nvda_value": "https://www.agoda.com/travel-guides/australia/sydney",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[2]/li[2]/a",
+        "key_interactions": 167
+    },
+    {
+        "IA2UniqueID": -1512,
+        "nvda_name": "Bangkok Apartments",
+        "nvda_value": "https://www.agoda.com/theme/apartments/city/bangkok-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[2]/li[3]/a",
+        "key_interactions": 168
+    },
+    {
+        "IA2UniqueID": -1514,
+        "nvda_name": "Kuala Lumpur Apartments",
+        "nvda_value": "https://www.agoda.com/theme/apartments/city/kuala-lumpur-my.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[2]/li[4]/a",
+        "key_interactions": 169
+    },
+    {
+        "IA2UniqueID": -1516,
+        "nvda_name": "Manila Apartments",
+        "nvda_value": "https://www.agoda.com/theme/apartments/city/manila-ph.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[2]/li[5]/a",
+        "key_interactions": 170
+    },
+    {
+        "IA2UniqueID": -1518,
+        "nvda_name": "Osaka Apartments",
+        "nvda_value": "https://www.agoda.com/theme/apartments/city/osaka-jp.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[2]/li[6]/a",
+        "key_interactions": 171
+    },
+    {
+        "IA2UniqueID": -1520,
+        "nvda_name": "Pattaya Apartments",
+        "nvda_value": "https://www.agoda.com/theme/apartments/city/pattaya-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[2]/li[7]/a",
+        "key_interactions": 172
+    },
+    {
+        "IA2UniqueID": -1522,
+        "nvda_name": "Tokyo Apartments",
+        "nvda_value": "https://www.agoda.com/theme/apartments/city/tokyo-jp.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[3]/li[2]/a",
+        "key_interactions": 173
+    },
+    {
+        "IA2UniqueID": -1527,
+        "nvda_name": "Bali Bungalows",
+        "nvda_value": "https://www.agoda.com/bungalows/city/bali-id.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[3]/li[3]/a",
+        "key_interactions": 174
+    },
+    {
+        "IA2UniqueID": -1529,
+        "nvda_name": "Koh Kood Bungalows",
+        "nvda_value": "https://www.agoda.com/bungalows/city/koh-kood-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[3]/li[4]/a",
+        "key_interactions": 175
+    },
+    {
+        "IA2UniqueID": -1531,
+        "nvda_name": "Koh Lanta Bungalows",
+        "nvda_value": "https://www.agoda.com/bungalows/city/koh-lanta-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[3]/li[5]/a",
+        "key_interactions": 176
+    },
+    {
+        "IA2UniqueID": -1533,
+        "nvda_name": "Koh Phangan Bungalows",
+        "nvda_value": "https://www.agoda.com/bungalows/city/koh-phangan-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[3]/li[6]/a",
+        "key_interactions": 177
+    },
+    {
+        "IA2UniqueID": -1535,
+        "nvda_name": "Koh Samet Bungalows",
+        "nvda_value": "https://www.agoda.com/bungalows/city/koh-samet-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[3]/li[7]/a",
+        "key_interactions": 178
+    },
+    {
+        "IA2UniqueID": -1537,
+        "nvda_name": "Phu Quoc Island Bungalows",
+        "nvda_value": "https://www.agoda.com/bungalows/city/phu-quoc-island-vn.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[4]/li[2]/a",
+        "key_interactions": 179
+    },
+    {
+        "IA2UniqueID": -1542,
+        "nvda_name": "Bali Villas",
+        "nvda_value": "https://www.agoda.com/theme/villas/city/bali-id.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[4]/li[3]/a",
+        "key_interactions": 180
+    },
+    {
+        "IA2UniqueID": -1544,
+        "nvda_name": "Phuket Villas",
+        "nvda_value": "https://www.agoda.com/theme/villas/city/phuket-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[4]/li[4]/a",
+        "key_interactions": 181
+    },
+    {
+        "IA2UniqueID": -1546,
+        "nvda_name": "Pattaya Villas",
+        "nvda_value": "https://www.agoda.com/theme/villas/city/pattaya-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[4]/li[5]/a",
+        "key_interactions": 182
+    },
+    {
+        "IA2UniqueID": -1548,
+        "nvda_name": "Hua Hin / Cha-am Villas",
+        "nvda_value": "https://www.agoda.com/theme/villas/city/hua-hin-cha-am-th.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[4]/li[6]/a",
+        "key_interactions": 183
+    },
+    {
+        "IA2UniqueID": -1550,
+        "nvda_name": "Seoul Villas",
+        "nvda_value": "https://www.agoda.com/theme/villas/city/seoul-kr.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[4]/li[7]/a",
+        "key_interactions": 184
+    },
+    {
+        "IA2UniqueID": -1552,
+        "nvda_name": "Port Dickson Villas",
+        "nvda_value": "https://www.agoda.com/theme/villas/city/port-dickson-my.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[5]/li[2]/a",
+        "key_interactions": 185
+    },
+    {
+        "IA2UniqueID": -1557,
+        "nvda_name": "Tokyo Vacation Rentals",
+        "nvda_value": "https://www.agoda.com/vacation-rentals/city/tokyo-jp.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[4]/footer/section[2]/div/table/tbody/tr/td[6]/ul[5]/li[3]/a",
+        "key_interactions": 186
+    },
+    {
+        "IA2UniqueID": -2239,
+        "nvda_name": "",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/section/section/div/div[2]/div[2]/div/div/div/div/div[2]/div/div/div[2]",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -2475,
+        "nvda_name": "Check-in 18 May 2025 Sunday",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/section/section/div/div[2]/div[2]/div/div/div/div/div[2]/div/div/div[3]",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -2476,
+        "nvda_name": "Check-out 19 May 2025 Monday",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/section/section/div/div[2]/div[2]/div/div/div/div/div[2]/div/div/div[4]",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -2477,
+        "nvda_name": "Guests and rooms 2\u00a0adults 1\u00a0room",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/section/section/div/div[2]/div[2]/div/div/div[2]/div/button",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -2488,
+        "nvda_name": "SEARCH",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section/div[2]/div/div/div[2]/button",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -2668,
+        "nvda_name": "Next destination",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[3]/div[2]/div/div/div/div[2]/button",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -2654,
+        "nvda_name": "Next Flights/Activities Promotion",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/section[4]/div[2]/div/div/div[2]/button",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -2900,
+        "nvda_name": "Next destination",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div[2]/main/div/div[3]/div/div/button",
+        "key_interactions": 7
+    }
+]

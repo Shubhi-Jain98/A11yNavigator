@@ -1,0 +1,1686 @@
+{
+    "count by default selenium driver": 1130,
+    "total_count based on actionable selectors": 210,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/a[1]",
+            "text": "Skip to main content",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions#content"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/a[2]",
+            "text": "Stack Overflow",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/ol[1]/li[1]/a[1]",
+            "text": "About",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/header[1]/div[1]/ol[1]/li[2]/button[1]",
+            "text": "Products",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/ol[1]/li[3]/a[1]",
+            "text": "OverflowAI",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/header[1]/div[1]/form[1]/div[1]/input[1]",
+            "text": "Search",
+            "aria-label": "Search",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/ol[1]/li[3]/a[1]",
+            "text": "Log in",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/ol[1]/li[4]/a[1]",
+            "text": "Sign up",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/signup?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[1]/a[1]",
+            "text": "Home",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[2]/a[1]",
+            "text": "Questions",
+            "aria-label": "",
+            "id": "nav-questions",
+            "href": "https://stackoverflow.com/questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[3]/a[1]",
+            "text": "Tags",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/tags"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[5]/a[1]",
+            "text": "Discussions\nLabs",
+            "aria-label": "",
+            "id": "nav-labs-discussions",
+            "href": "https://stackoverflow.com/beta/discussions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[6]/a[1]",
+            "text": "Chat",
+            "aria-label": "",
+            "id": "nav-chat",
+            "href": "https://chat.stackoverflow.com/?tab=all&sort=active"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[7]/a[1]",
+            "text": "Users",
+            "aria-label": "",
+            "id": "nav-users",
+            "href": "https://stackoverflow.com/users"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[9]/a[1]",
+            "text": "Jobs",
+            "aria-label": "",
+            "id": "nav-labs-jobs",
+            "href": "https://stackoverflow.com/jobs?source=so-left-nav"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[10]/a[1]",
+            "text": "Companies",
+            "aria-label": "",
+            "id": "nav-companies",
+            "href": "https://stackoverflow.com/jobs/companies?so_medium=stackoverflow&so_source=SiteNav"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[11]/div[1]/a[1]",
+            "text": "COLLECTIVES",
+            "aria-label": "",
+            "id": "",
+            "href": "javascript:void(0)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[1]/ol[1]/li[12]/p[1]/a[1]",
+            "text": "Explore all Collectives",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/collectives-all"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[2]/div[2]/a[1]",
+            "text": "Try Teams for free",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflowteams.com/teams/create/free/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[2]/div[1]/nav[1]/ol[1]/li[2]/div[2]/a[2]",
+            "text": "Explore Teams",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.co/teams/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Ask Question",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/ask"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Newest",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=Newest"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[2]",
+            "text": "Active",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=Active"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/button[1]",
+            "text": "More",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/button[1]",
+            "text": "Filter",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/h3[1]/a[1]",
+            "text": "Transparent sprite in PictureBox (WinForms) shows unwanted border/frame",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571777/transparent-sprite-in-picturebox-winforms-shows-unwanted-border-frame"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "c#",
+            "aria-label": "show questions tagged 'c#'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/c%23"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "winforms",
+            "aria-label": "show questions tagged 'winforms'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/winforms"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/18287101/danyos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "DanyOS",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/18287101/danyos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/h3[1]/a[1]",
+            "text": "How to set a custom migrations history table name using builder.AddNpgsqlDbContext<AppDbContext>() method in .NET Aspire?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571775/how-to-set-a-custom-migrations-history-table-name-using-builder-addnpgsqldbconte"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "c#",
+            "aria-label": "show questions tagged 'c#'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/c%23"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "entity-framework",
+            "aria-label": "show questions tagged 'entity-framework'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/entity-framework"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "npgsql",
+            "aria-label": "show questions tagged 'npgsql'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/npgsql"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "dotnet-aspire",
+            "aria-label": "show questions tagged 'dotnet-aspire'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/dotnet-aspire"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/2900318/geothachankary"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "geothachankary",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/2900318/geothachankary"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/h3[1]/a[1]",
+            "text": "WooCommerce blocks - add description below each shipping method",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571769/woocommerce-blocks-add-description-below-each-shipping-method"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/collectives/php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "php",
+            "aria-label": "show questions tagged 'php'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "reactjs",
+            "aria-label": "show questions tagged 'reactjs'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/reactjs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "woocommerce",
+            "aria-label": "show questions tagged 'woocommerce'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/woocommerce"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/28694192/adem007"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "adem007",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/28694192/adem007"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/h3[1]/a[1]",
+            "text": "How to create a table for every user to store timesheets data in Django",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571767/how-to-create-a-table-for-every-user-to-store-timesheets-data-in-django"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "django",
+            "aria-label": "show questions tagged 'django'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/django"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "sqlite",
+            "aria-label": "show questions tagged 'sqlite'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/sqlite"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/20260607/sap-asflash"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "SAP ASFlash",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/20260607/sap-asflash"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/h3[1]/a[1]",
+            "text": "I want to return a 10% random sample for every employee that completed work for the previous day",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571766/i-want-to-return-a-10-random-sample-for-every-employee-that-completed-work-for"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "random",
+            "aria-label": "show questions tagged 'random'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/random"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "sample",
+            "aria-label": "show questions tagged 'sample'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/sample"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/30260368/sql-newbie"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "SQL Newbie",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/30260368/sql-newbie"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/h3[1]/a[1]",
+            "text": "TurboModuleRegistry.getEnforcing: 'PlatformConstants' could not be found",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571764/turbomoduleregistry-getenforcing-platformconstants-could-not-be-found"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/collectives/mobile-dev"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "ios",
+            "aria-label": "show questions tagged 'ios'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/ios"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "react-native",
+            "aria-label": "show questions tagged 'react-native'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/react-native"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "react-native-turbomodule",
+            "aria-label": "show questions tagged 'react-native-turbomodule'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/react-native-turbomodule"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/26016358/%ec%b6%94%ec%84%b1%ec%9a%b0"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "\ucd94\uc131\uc6b0",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/26016358/%ec%b6%94%ec%84%b1%ec%9a%b0"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/h3[1]/a[1]",
+            "text": "How to get focus from onRotateEvent",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571761/how-to-get-focus-from-onrotateevent"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/collectives/mobile-dev"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "android",
+            "aria-label": "show questions tagged 'android'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/android"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "kotlin",
+            "aria-label": "show questions tagged 'kotlin'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/kotlin"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "focus",
+            "aria-label": "show questions tagged 'focus'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/focus"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "wear-os",
+            "aria-label": "show questions tagged 'wear-os'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/wear-os"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/28845412/alexander-fedorov"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Alexander Fedorov",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/28845412/alexander-fedorov"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/h3[1]/a[1]",
+            "text": "Is there a fix for this \"Access is denied\" issue in SQL Server log shipping?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571757/is-there-a-fix-for-this-access-is-denied-issue-in-sql-server-log-shipping"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "sql-server",
+            "aria-label": "show questions tagged 'sql-server'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/sql-server"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "log-shipping",
+            "aria-label": "show questions tagged 'log-shipping'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/log-shipping"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/19519467/ahmed"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Ahmed",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/19519467/ahmed"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/h3[1]/a[1]",
+            "text": "vscode color theme of Python class reference",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571756/vscode-color-theme-of-python-class-reference"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "visual-studio-code",
+            "aria-label": "show questions tagged 'visual-studio-code'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/visual-studio-code"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "color-scheme",
+            "aria-label": "show questions tagged 'color-scheme'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/color-scheme"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "ide-customization",
+            "aria-label": "show questions tagged 'ide-customization'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/ide-customization"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "vs-color-theme-editor",
+            "aria-label": "show questions tagged 'vs-color-theme-editor'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/vs-color-theme-editor"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/5273790/tgreen"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "tgreen",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/5273790/tgreen"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/h3[1]/a[1]",
+            "text": "Project is not compatible con net8.0 (.NETCoreApp,Version=v8.0). The project admits: net8.0-windows10.0.26100 (.NETCoreApp,Version=v8.0)",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571755/project-is-not-compatible-con-net8-0-netcoreapp-version-v8-0-the-project-adm"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "asp.net-core",
+            "aria-label": "show questions tagged 'asp.net-core'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/asp.net-core"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "visual-studio-2022",
+            "aria-label": "show questions tagged 'visual-studio-2022'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/visual-studio-2022"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": ".net-8.0",
+            "aria-label": "show questions tagged '.net-8.0'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/.net-8.0"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/1048588/jstuardo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "jstuardo",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/1048588/jstuardo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/h3[1]/a[1]",
+            "text": "How to centrize the one element only in the div?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571754/how-to-centrize-the-one-element-only-in-the-div"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "javascript",
+            "aria-label": "show questions tagged 'javascript'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/javascript"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "html",
+            "aria-label": "show questions tagged 'html'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "css",
+            "aria-label": "show questions tagged 'css'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/css"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/1942868/whitebear"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "whitebear",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/1942868/whitebear"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/h3[1]/a[1]",
+            "text": "How to catch findTransformECC error (-7:Iterations do not converge)",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571751/how-to-catch-findtransformecc-error-7iterations-do-not-converge"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "python",
+            "aria-label": "show questions tagged 'python'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/python"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "opencv",
+            "aria-label": "show questions tagged 'opencv'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/opencv"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "computer-vision",
+            "aria-label": "show questions tagged 'computer-vision'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/computer-vision"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/9506773/mike-b"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Mike B",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/9506773/mike-b"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/h3[1]/a[1]",
+            "text": "Shared Hosting idea to run php artisan queue work for Laravel in shared hosting",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571747/shared-hosting-idea-to-run-php-artisan-queue-work-for-laravel-in-shared-hosting"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "cpanel",
+            "aria-label": "show questions tagged 'cpanel'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/cpanel"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "laravel-12",
+            "aria-label": "show questions tagged 'laravel-12'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/laravel-12"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/23550600/arthur-cervania"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Arthur Cervania",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/23550600/arthur-cervania"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/h3[1]/a[1]",
+            "text": "Char pointers in C [duplicate]",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571742/char-pointers-in-c"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "c",
+            "aria-label": "show questions tagged 'c'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/c"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "pointers",
+            "aria-label": "show questions tagged 'pointers'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/pointers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/30260444/gurkirpa-singh-sarao"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Gurkirpa Singh Sarao",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/30260444/gurkirpa-singh-sarao"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/h3[1]/a[1]",
+            "text": "Sorting Mysql Select Data Columns based on YEAR Colum Data Type Issue [closed]",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/79571740/sorting-mysql-select-data-columns-based-on-year-colum-data-type-issue"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/collectives/php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "php",
+            "aria-label": "show questions tagged 'php'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "sql",
+            "aria-label": "show questions tagged 'sql'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/sql"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "mysql",
+            "aria-label": "show questions tagged 'mysql'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/mysql"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "select",
+            "aria-label": "show questions tagged 'select'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/select"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "sql-order-by",
+            "aria-label": "show questions tagged 'sql-order-by'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/sql-order-by"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/9816360/kenochola"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "kenochola",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/users/9816360/kenochola"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[1]",
+            "text": "15",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=newest&pagesize=15"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[2]",
+            "text": "30",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=newest&pagesize=30"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[3]",
+            "text": "50",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=newest&pagesize=50"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[1]",
+            "text": "2",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=newest&page=2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[2]",
+            "text": "3",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=newest&page=3"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[3]",
+            "text": "4",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=newest&page=4"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[4]",
+            "text": "5",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=newest&page=5"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[5]",
+            "text": "1615843",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=newest&page=1615843"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[6]",
+            "text": "Next",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions?tab=newest&page=2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[2]/div[2]/a[1]",
+            "text": "How do you fact-check an AI?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.blog/2025/04/11/how-do-you-fact-check-an-ai/?cb=1"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[4]/div[2]/a[1]",
+            "text": "Changes to reporting for the [status-review] escalation process",
+            "aria-label": "",
+            "id": "",
+            "href": "https://meta.stackexchange.com/questions/407927/changes-to-reporting-for-the-status-review-escalation-process?cb=1"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[5]/div[2]/a[1]",
+            "text": "Policy: Generative AI (e.g., ChatGPT) is banned",
+            "aria-label": "",
+            "id": "",
+            "href": "https://meta.stackoverflow.com/questions/421831/policy-generative-ai-e-g-chatgpt-is-banned?cb=1"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[6]/div[2]/a[1]",
+            "text": "A discussion about closed (and potentially useful) posts on Stack Overflow",
+            "aria-label": "",
+            "id": "",
+            "href": "https://meta.stackoverflow.com/questions/433466/a-discussion-about-closed-and-potentially-useful-posts-on-stack-overflow?cb=1"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[1]/a[1]",
+            "text": "see all",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/collectives-all"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "AWS",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/collectives/aws"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "Microsoft Azure",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/collectives/azure"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[4]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "Mobile Development",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/collectives/mobile-dev"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[4]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[3]/div[1]/div[2]/button[1]",
+            "text": "Report this ad",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[3]/div[2]/div[2]/button[1]",
+            "text": "Report this ad",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[1]/a[1]",
+            "text": "javascript",
+            "aria-label": "show questions tagged 'javascript'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/javascript"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[2]/a[1]",
+            "text": "python",
+            "aria-label": "show questions tagged 'python'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/python"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[3]/a[1]",
+            "text": "java",
+            "aria-label": "show questions tagged 'java'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/java"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[4]/a[1]",
+            "text": "c#",
+            "aria-label": "show questions tagged 'c#'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/c%23"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[5]/a[1]",
+            "text": "php",
+            "aria-label": "show questions tagged 'php'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[6]/a[1]",
+            "text": "android",
+            "aria-label": "show questions tagged 'android'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/android"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[7]/a[1]",
+            "text": "html",
+            "aria-label": "show questions tagged 'html'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[8]/a[1]",
+            "text": "jquery",
+            "aria-label": "show questions tagged 'jquery'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/jquery"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[9]/a[1]",
+            "text": "c++",
+            "aria-label": "show questions tagged 'c++'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/c%2b%2b"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[10]/a[1]",
+            "text": "css",
+            "aria-label": "show questions tagged 'css'",
+            "id": "",
+            "href": "https://stackoverflow.com/questions/tagged/css"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/a[1]",
+            "text": "more related tags",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions#"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/h4[1]/a[1]",
+            "text": "Hot Network Questions",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackexchange.com/questions?tab=hot"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[1]/a[1]",
+            "text": "Unknown Building, Des Moines Iowa",
+            "aria-label": "",
+            "id": "",
+            "href": "https://history.stackexchange.com/questions/77681/unknown-building-des-moines-iowa"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[2]/a[1]",
+            "text": "Power of Renaming in Frege propositional proof systems",
+            "aria-label": "",
+            "id": "",
+            "href": "https://cstheory.stackexchange.com/questions/55291/power-of-renaming-in-frege-propositional-proof-systems"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[3]/a[1]",
+            "text": "Which Hyrule Compendium entries can be missed?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://gaming.stackexchange.com/questions/411849/which-hyrule-compendium-entries-can-be-missed"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[4]/a[1]",
+            "text": "What is the meaning of \u3066\u3057\u307e\u3046 in these sentences?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://japanese.stackexchange.com/questions/107471/what-is-the-meaning-of-%e3%81%a6%e3%81%97%e3%81%be%e3%81%86-in-these-sentences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[5]/a[1]",
+            "text": "Difference in weights between two submerged objects",
+            "aria-label": "",
+            "id": "",
+            "href": "https://physics.stackexchange.com/questions/847515/difference-in-weights-between-two-submerged-objects"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[6]/a[1]",
+            "text": "Rhetorical argument commonly used in our everyday lives as a way of persuasion - is it valid?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://philosophy.stackexchange.com/questions/124139/rhetorical-argument-commonly-used-in-our-everyday-lives-as-a-way-of-persuasion"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[7]/a[1]",
+            "text": "Turn a string into a snake",
+            "aria-label": "",
+            "id": "",
+            "href": "https://codegolf.stackexchange.com/questions/279140/turn-a-string-into-a-snake"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[8]/a[1]",
+            "text": "Could a Planet have an Ocean of Lava",
+            "aria-label": "",
+            "id": "",
+            "href": "https://worldbuilding.stackexchange.com/questions/265869/could-a-planet-have-an-ocean-of-lava"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[9]/a[1]",
+            "text": "Is there anything like a carryback contribution for charitable donations?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://money.stackexchange.com/questions/165791/is-there-anything-like-a-carryback-contribution-for-charitable-donations"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[10]/a[1]",
+            "text": "How can I travel to Jamaica without going through the USA, UK, or Canada?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://travel.stackexchange.com/questions/194811/how-can-i-travel-to-jamaica-without-going-through-the-usa-uk-or-canada"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[11]/a[1]",
+            "text": "When do verifications of attestations take place over the beacon chain?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://ethereum.stackexchange.com/questions/168580/when-do-verifications-of-attestations-take-place-over-the-beacon-chain"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[12]/a[1]",
+            "text": "Why doesn't Cantor's diagonal argument prove only that the reals are not recursively enumerable?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://math.stackexchange.com/questions/5054973/why-doesnt-cantors-diagonal-argument-prove-only-that-the-reals-are-not-recursi"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[13]/a[1]",
+            "text": "Why are Arab leaders practically silent or inactive when it comes to saving Palestinians from Israeli bombing?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://politics.stackexchange.com/questions/91365/why-are-arab-leaders-practically-silent-or-inactive-when-it-comes-to-saving-pale"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[14]/a[1]",
+            "text": "If Jesus knew all about the fig tree, why was he ignorant about it not being in season? Matthew 21:18-20 cf. Matthew 24:32-33",
+            "aria-label": "",
+            "id": "",
+            "href": "https://hermeneutics.stackexchange.com/questions/103175/if-jesus-knew-all-about-the-fig-tree-why-was-he-ignorant-about-it-not-being-in"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[15]/a[1]",
+            "text": "Avoiding overflow when computing tetration",
+            "aria-label": "",
+            "id": "",
+            "href": "https://mathematica.stackexchange.com/questions/312097/avoiding-overflow-when-computing-tetration"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[16]/a[1]",
+            "text": "Why does the United States want to move all manufacturing to within itself?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://politics.stackexchange.com/questions/91394/why-does-the-united-states-want-to-move-all-manufacturing-to-within-itself"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[17]/a[1]",
+            "text": "I'm trying to waterproof a wood post for my mailbox, and I want to make sure I'm not setting myself up for failure",
+            "aria-label": "",
+            "id": "",
+            "href": "https://diy.stackexchange.com/questions/316836/im-trying-to-waterproof-a-wood-post-for-my-mailbox-and-i-want-to-make-sure-im"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[18]/a[1]",
+            "text": "Avoiding alligators with primitive technology?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://worldbuilding.stackexchange.com/questions/265871/avoiding-alligators-with-primitive-technology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[19]/a[1]",
+            "text": "Make winter tent wood stove fire last all night?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://outdoors.stackexchange.com/questions/30149/make-winter-tent-wood-stove-fire-last-all-night"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[20]/a[1]",
+            "text": "Why does Arrian always specify who was archon of Athens when giving a date?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://literature.stackexchange.com/questions/29071/why-does-arrian-always-specify-who-was-archon-of-athens-when-giving-a-date"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[21]/a[1]",
+            "text": "Tattoo question - \"Sic tamen operabimur\"",
+            "aria-label": "",
+            "id": "",
+            "href": "https://latin.stackexchange.com/questions/24583/tattoo-question-sic-tamen-operabimur"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[22]/a[1]",
+            "text": "How does the mathematical community handle minor, non-critical errors in published papers?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://mathoverflow.net/questions/490868/how-does-the-mathematical-community-handle-minor-non-critical-errors-in-publish"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[23]/a[1]",
+            "text": "Was the existence of intelligent alien life common knowledge before the Nostromo crew's discovery in Alien?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://movies.stackexchange.com/questions/125069/was-the-existence-of-intelligent-alien-life-common-knowledge-before-the-nostromo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[24]/a[1]",
+            "text": "How to make chocolate easter egg without a mould?",
+            "aria-label": "",
+            "id": "",
+            "href": "https://cooking.stackexchange.com/questions/130461/how-to-make-chocolate-easter-egg-without-a-mould"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/a[1]",
+            "text": "Stack Overflow",
+            "aria-label": "Stack Overflow",
+            "id": "",
+            "href": "https://stackoverflow.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/h5[1]/a[1]",
+            "text": "STACK OVERFLOW",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Questions",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Help",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Chat",
+            "aria-label": "",
+            "id": "",
+            "href": "https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/h5[1]/a[1]",
+            "text": "PRODUCTS",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.co/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Teams",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.co/teams/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=teams"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Advertising",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.co/advertising/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=advertising"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Talent",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.co/advertising/employer-branding/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=talent"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/h5[1]/a[1]",
+            "text": "COMPANY",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.co/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "About",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.co/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Press",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.co/company/press/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Work Here",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.co/company/work-here/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Legal",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/legal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "Privacy Policy",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/legal/privacy-policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[6]/a[1]",
+            "text": "Terms of Service",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/legal/terms-of-service/public"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[7]/a[1]",
+            "text": "Contact Us",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/contact"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[8]/button[1]",
+            "text": "Your Privacy Choices",
+            "aria-label": "",
+            "id": "",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[9]/a[1]",
+            "text": "Cookie Policy",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/legal/cookie-policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/h5[1]/a[1]",
+            "text": "STACK EXCHANGE NETWORK",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackexchange.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Technology",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackexchange.com/sites#technology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Culture & recreation",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackexchange.com/sites#culturerecreation"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Life & arts",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackexchange.com/sites#lifearts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Science",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackexchange.com/sites#science"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Professional",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackexchange.com/sites#professional"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Business",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackexchange.com/sites#business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "API",
+            "aria-label": "",
+            "id": "",
+            "href": "https://api.stackexchange.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "Data",
+            "aria-label": "",
+            "id": "",
+            "href": "https://data.stackexchange.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Blog",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.blog/?blb=1"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Facebook",
+            "aria-label": "",
+            "id": "",
+            "href": "https://www.facebook.com/officialstackoverflow/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Twitter",
+            "aria-label": "",
+            "id": "",
+            "href": "https://twitter.com/stackoverflow"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "LinkedIn",
+            "aria-label": "",
+            "id": "",
+            "href": "https://linkedin.com/company/stack-overflow"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Instagram",
+            "aria-label": "",
+            "id": "",
+            "href": "https://www.instagram.com/thestackoverflow"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "CC BY-SA",
+            "aria-label": "",
+            "id": "",
+            "href": "https://stackoverflow.com/help/licensing"
+        }
+    ]
+}

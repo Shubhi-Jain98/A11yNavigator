@@ -1,0 +1,32 @@
+{
+    "count of missing paths": 3,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/div[2]/div[1]/header[1]/div[1]/section[1]/a[1]",
+            "text": "Learn about DuckDuckGo",
+            "aria-label": "Learn about DuckDuckGo",
+            "id": "",
+            "placeholder": null,
+            "href": "https://duckduckgo.com/about"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/div[2]/div[1]/header[1]/div[1]/section[2]/form[1]/div[1]/div[1]/input[1]",
+            "text": "Search with DuckDuckGo",
+            "aria-label": "Search with DuckDuckGo",
+            "id": "searchbox_input",
+            "placeholder": "Search without being tracked",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://duckduckgo.com/#features"
+        }
+    ]
+}

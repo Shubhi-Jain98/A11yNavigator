@@ -1,0 +1,454 @@
+[
+    {
+        "IA2UniqueID": null,
+        "nvda_name": "Task Switcher",
+        "nvda_value": "None",
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div/yt-icon-button[2]/button"
+    },
+    {
+        "IA2UniqueID": -1324,
+        "nvda_name": "Guide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div/ytd-topbar-logo-renderer/a"
+    },
+    {
+        "IA2UniqueID": -1325,
+        "nvda_name": "YouTube Home",
+        "nvda_value": "https://www.youtube.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div/div/ytd-button-renderer/yt-button-shape/button"
+    },
+    {
+        "IA2UniqueID": -1326,
+        "nvda_name": "Skip navigation",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[2]/yt-searchbox/div/form/input"
+    },
+    {
+        "IA2UniqueID": -1298,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[2]/yt-searchbox/button"
+    },
+    {
+        "IA2UniqueID": -1327,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[2]/div/ytd-button-renderer/yt-button-shape/button"
+    },
+    {
+        "IA2UniqueID": -1328,
+        "nvda_name": "Search with your voice",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[3]/div[2]/ytd-button-renderer/yt-button-shape/button"
+    },
+    {
+        "IA2UniqueID": -1329,
+        "nvda_name": "Create",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[3]/div[2]/ytd-notification-topbar-button-renderer/yt-icon-button/button"
+    },
+    {
+        "IA2UniqueID": -1331,
+        "nvda_name": "Notifications",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/div[2]/ytd-masthead/div[4]/div[3]/div[2]/ytd-topbar-menu-button-renderer/button"
+    },
+    {
+        "IA2UniqueID": -1332,
+        "nvda_name": "Account menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "HASPOPUP (8192)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer"
+    },
+    {
+        "IA2UniqueID": -1459,
+        "nvda_name": "Home",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[2]"
+    },
+    {
+        "IA2UniqueID": -1467,
+        "nvda_name": "Shorts",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[3]"
+    },
+    {
+        "IA2UniqueID": -1483,
+        "nvda_name": "You",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer"
+    },
+    {
+        "IA2UniqueID": -1483,
+        "nvda_name": "You",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-mini-guide-renderer/div/ytd-mini-guide-entry-renderer[4]"
+    },
+    {
+        "IA2UniqueID": -1509,
+        "nvda_name": "Music",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer[2]"
+    },
+    {
+        "IA2UniqueID": -1512,
+        "nvda_name": "Mixes",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer[4]"
+    },
+    {
+        "IA2UniqueID": -1512,
+        "nvda_name": "Mixes",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer[3]"
+    },
+    {
+        "IA2UniqueID": -1515,
+        "nvda_name": "Sitcoms",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer[5]"
+    },
+    {
+        "IA2UniqueID": -1521,
+        "nvda_name": "Dramedy",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer[7]"
+    },
+    {
+        "IA2UniqueID": -1521,
+        "nvda_name": "Dramedy",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer[6]"
+    },
+    {
+        "IA2UniqueID": -1524,
+        "nvda_name": "Pop Music",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer[8]"
+    },
+    {
+        "IA2UniqueID": -1530,
+        "nvda_name": "Recently uploaded",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer[10]"
+    },
+    {
+        "IA2UniqueID": -1530,
+        "nvda_name": "Recently uploaded",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div/ytd-feed-filter-chip-bar-renderer/div/div/div[3]/iron-selector/yt-chip-cloud-chip-renderer[9]"
+    },
+    {
+        "IA2UniqueID": -1533,
+        "nvda_name": "New to you",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div[3]/div/div/yt-decorated-avatar-view-model/yt-avatar-shape/div"
+    },
+    {
+        "IA2UniqueID": -1339,
+        "nvda_name": "These 90 Year Olds' Life Advice Will Break Your Heart... by Sprouht 33,371 views 1 day ago 9 minutes, 7 seconds",
+        "nvda_value": "https://www.youtube.com/watch?v=Um2ueozKWpg",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div[3]/div[2]/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a"
+    },
+    {
+        "IA2UniqueID": -1340,
+        "nvda_name": "Sprouht",
+        "nvda_value": "https://www.youtube.com/@Sprouht",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer/div/ytd-rich-grid-media/div/div[3]/div[3]/ytd-menu-renderer/yt-icon-button/button"
+    },
+    {
+        "IA2UniqueID": -1342,
+        "nvda_name": "Action menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div[3]/div/div/yt-decorated-avatar-view-model/yt-avatar-shape/div"
+    },
+    {
+        "IA2UniqueID": -1344,
+        "nvda_name": "Tap to watch live",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div[3]/div[2]/h3/a"
+    },
+    {
+        "IA2UniqueID": -1345,
+        "nvda_name": "DeepSeek Rout Is Largest in Market History | Bloomberg: The Close 1/27/2025 by Bloomberg Television 553 views 35 minutes ago 1 hour, 33 minutes",
+        "nvda_value": "https://www.youtube.com/watch?v=waHjBOQNV3Y",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div[3]/div[2]/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a"
+    },
+    {
+        "IA2UniqueID": -1346,
+        "nvda_name": "Bloomberg Television",
+        "nvda_value": "https://www.youtube.com/@markets",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[2]/div/ytd-rich-grid-media/div/div[3]/div[3]/ytd-menu-renderer/yt-icon-button/button"
+    },
+    {
+        "IA2UniqueID": -1348,
+        "nvda_name": "Action menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div[3]/div/div/yt-decorated-avatar-view-model/yt-avatar-shape/div"
+    },
+    {
+        "IA2UniqueID": -1350,
+        "nvda_name": "Go to channel",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div[3]/div[2]/h3/a"
+    },
+    {
+        "IA2UniqueID": -1351,
+        "nvda_name": "FRIENDS - Marshmello (Lyrics) Clean Bandit, House Of Say, David Guetta (Mixlyrics) by Midnight Groove 657 views 5 days ago 24 minutes",
+        "nvda_value": "https://www.youtube.com/watch?v=UTtNv2PSErM",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div[3]/div[2]/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a"
+    },
+    {
+        "IA2UniqueID": -1352,
+        "nvda_name": "Midnight Groove",
+        "nvda_value": "https://www.youtube.com/@MidnightGroove123",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[3]/div/ytd-rich-grid-media/div/div[3]/div[3]/ytd-menu-renderer/yt-icon-button/button"
+    },
+    {
+        "IA2UniqueID": -1354,
+        "nvda_name": "Action menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div[3]/div/div/yt-decorated-avatar-view-model/yt-avatar-shape/div"
+    },
+    {
+        "IA2UniqueID": -1356,
+        "nvda_name": "Tap to watch live",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div[3]/div[2]/h3/a"
+    },
+    {
+        "IA2UniqueID": -1357,
+        "nvda_name": "Smooth Jazz Music at Cozy Winter Coffee Shop Ambience for Work \u26c4 Relaxing Jazz Instrumental Music by Relax Jazz Cafe 99,174 views Streamed 3 days ago 11 hours, 54 minutes",
+        "nvda_value": "https://www.youtube.com/watch?v=NPe-ID12D4M",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div[3]/div[2]/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a"
+    },
+    {
+        "IA2UniqueID": -1358,
+        "nvda_name": "Relax Jazz Cafe",
+        "nvda_value": "https://www.youtube.com/@RelaxJazzCafe1990",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[4]/div/ytd-rich-grid-media/div/div[3]/div[3]/ytd-menu-renderer/yt-icon-button/button"
+    },
+    {
+        "IA2UniqueID": -1360,
+        "nvda_name": "Action menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div[3]/div/div/yt-decorated-avatar-view-model/yt-avatar-shape/div"
+    },
+    {
+        "IA2UniqueID": -1362,
+        "nvda_name": "Go to channel",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div[3]/div[2]/h3/a"
+    },
+    {
+        "IA2UniqueID": -1363,
+        "nvda_name": "Taylor Swift - Blank Space (Lyrics) || spring gang, Lord Huron, Ed Sheeran...[MIX LYRICS] by Playback Vibes 616 views 4 days ago 24 minutes",
+        "nvda_value": "https://www.youtube.com/watch?v=v3W5WuyTGZE",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div[3]/div[2]/ytd-video-meta-block/div/div/ytd-channel-name/div/div/yt-formatted-string/a"
+    },
+    {
+        "IA2UniqueID": -1364,
+        "nvda_name": "Playback Vibes",
+        "nvda_value": "https://www.youtube.com/@playback_musicvibes",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/ytd-app/div/ytd-page-manager/ytd-browse/ytd-two-column-browse-results-renderer/div/ytd-rich-grid-renderer/div[6]/ytd-rich-item-renderer[5]/div/ytd-rich-grid-media/div/div[3]/div[3]/ytd-menu-renderer/yt-icon-button/button"
+    }
+]

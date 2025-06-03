@@ -1,0 +1,546 @@
+{
+    "count by default selenium driver": 580,
+    "total_count based on actionable selectors": 109,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/span[1]/a[1]",
+            "text": "Cookie Privacy Statement"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/a[2]",
+            "text": "Accept and Continue"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/a[3]",
+            "text": "Set Your Preferences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+            "text": "What We Offer"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]",
+            "text": "Who We Serve"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+            "text": "Why ADP"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
+            "text": "Resources"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+            "text": "About"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]",
+            "text": "Search Site"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Support"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[2]",
+            "text": "Sign In"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/div[3]/div[1]/span[1]/strong[1]/a[1]",
+            "text": "844-246-2152"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "Get Pricing"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[6]/div[1]/section[1]/div[2]/div[1]/div[1]/input[1]",
+            "text": "Number of Employees"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[6]/div[1]/section[1]/div[2]/div[1]/div[2]/div[1]/input[1]",
+            "text": "select an option"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[2]/section[1]/div[1]/div[1]/a[1]",
+            "text": "1-49 Employees"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[2]/section[1]/div[1]/div[1]/a[2]",
+            "text": "50+ Employees"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[3]/section[1]/a[1]",
+            "text": "Get Pricing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Small business\nPayroll"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[2]",
+            "text": "Professional Employer Organization (PEO)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[3]",
+            "text": "Time & Attendance"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[4]",
+            "text": "Retirement"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "MORE SMALL BUSINESS SOLUTIONS"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Midsized business\nPayroll"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[2]",
+            "text": "Professional Employer Organization (PEO)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[3]",
+            "text": "Time & Attendance"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]",
+            "text": "Retirement"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": "MORE MIDSIZED BUSINESS SOLUTIONS"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Integrated HCM"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/a[2]",
+            "text": "Large business\nPayroll"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/a[3]",
+            "text": "Workforce Management"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/a[4]",
+            "text": "Retirement"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[4]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/a[1]",
+            "text": "MORE LARGE BUSINESS SOLUTIONS"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[5]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Learn More"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[5]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Download Now"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[5]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Learn More"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[6]/div[6]/section[1]/div[1]/button[1]",
+            "text": "Previous"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[6]/div[6]/section[1]/div[1]/button[2]",
+            "text": "Next"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[6]/div[6]/section[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Go to slide 1"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[6]/div[6]/section[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Go to slide 2"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[6]/div[6]/section[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "Go to slide 3"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[6]/div[6]/section[1]/div[1]/ul[1]/li[4]/button[1]",
+            "text": "Go to slide 4"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[7]/div[1]/div[1]/p[2]/a[1]",
+            "text": "Watch Now"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[7]/div[2]/a[1]",
+            "text": "Small Business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[7]/div[2]/a[2]",
+            "text": "Midsized Business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[7]/div[2]/a[3]",
+            "text": "Large Business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[1]/p[2]/a[1]",
+            "text": "844-246-2152"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[1]/input[3]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[2]/input[3]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[3]/input[3]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[4]/input[3]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[5]/input[3]",
+            "text": ""
+        },
+        {
+            "tag_name": "select",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[6]/select[1]",
+            "text": "Afghanistan\n        Aland Islands\n        Albania\n        Algeria\n        Andorra\n        Angola\n        Anguilla\n        Antarctica\n        Antigua and Barbuda\n        Argentina\n        Armenia\n        Aruba\n        Australia\n        Austria\n        Azerbaijan\n        Bahamas\n        Bahrain\n        Bangladesh\n        Barbados\n        Belarus\n        Belgium\n        Belize\n        Benin\n        Bermuda\n        Bhutan\n        Bolivia\n        Bonaire\n        Bosnia and Herzegovina\n        Botswana\n        Bouvet Island\n        Brazil\n        British Indian Ocean Territory\n        Brunei Darussalam\n        Bulgaria\n        Burkina Faso\n        Burundi\n        Cambodia\n        Cameroon\n        Canada\n        Cape Verde\n        Cayman Islands\n        Central African Republic\n        Chad\n        Chile\n        China\n        Christmas Island\n        Cocos Islands\n        Colombia\n        Comoros\n        Cook Islands\n        Costa Rica\n        Cote dIvoire\n        Croatia\n        Cuba\n        Curacao\n        Cyprus\n        Czech Republic\n        Denmark\n        Djibouti\n        Dominica\n        Dominican Republic\n        Ecuador\n        Egypt\n        El Salvador\n        Equatorial Guinea\n        Eritrea\n        Estonia\n        Ethiopia\n        Falkland Islands\n        Faroe Islands\n        Fiji\n        Finland\n        France\n        French Guiana\n        French Polynesia\n        French Southern Territories\n        Gabon\n        Gambia\n        Georgia\n        Germany\n        Ghana\n        Gibraltar\n        Greece\n        Greenland\n        Grenada\n        Guadeloupe\n        Guatemala\n        Guernsey\n        Guinea\n        Guinea-Bissau\n        Guyana\n        Haiti\n        Heard and McDonald Islands\n        Holy See\n        Honduras\n        Hong Kong S.A.R.\n        Hungary\n        Iceland\n        India\n        Indonesia\n        Iran\n        Iraq\n        Ireland\n        Isle of Man\n        Israel\n        Italy\n        Jamaica\n        Japan\n        Jersey\n        Jordan\n        Kazakhstan\n        Kenya\n        Kiribati\n        Korea Republic of\n        Kuwait\n        Kyrgyzstan\n        Lao Peoples Democratic Republic\n        Latvia\n        Lebanon\n        Lesotho\n        Liberia\n        Libyan Arab Jamahiriya\n        Liechtenstein\n        Lithuania\n        Luxembourg\n        Macao\n        Macedonia\n        Madagascar\n        Malawi\n        Malaysia\n        Maldives\n        Mali\n        Malta\n        Martinique\n        Mauritania\n        Mauritius\n        Mayotte\n        Mexico\n        Moldova\n        Monaco\n        Mongolia\n        Montenegro\n        Montserrat\n        Morocco\n        Mozambique\n        Myanmar\n        Namibia\n        Nauru\n        Nepal\n        Netherlands\n        New Caledonia\n        New Zealand\n        Nicaragua\n        Niger\n        Nigeria\n        Niue\n        Norfolk Island\n        Norway\n        Oman\n        Pakistan\n        Palestine\n        Panama\n        Papua New Guinea\n        Paraguay\n        Peru\n        Philippines\n        Pitcairn\n        Poland\n        Portugal\n        Qatar\n        Reunion\n        Romania\n        Rwanda\n        Saint Barthelemy\n        Saint Helena\n        Saint Kitts and Nevis\n        Saint Lucia\n        Saint Martin\n        Saint Pierre and Miquelon\n        Saint Vincent and the Grenadines\n        Samoa\n        San Marino\n        Sao Tome and Principe\n        Saudi Arabia\n        Senegal\n        Serbia\n        Seychelles\n        Sierra Leone\n        Singapore\n        Sint Maarten\n        Slovakia\n        Slovenia\n        Solomon Islands\n        Somalia\n        South Africa\n        S. Georgia and S. Sandwich Is.\n        South Sudan\n        Spain\n        Sri Lanka\n        Sudan\n        Suriname\n        Svalbard and Jan Mayen\n        Swaziland\n        Sweden\n        Switzerland\n        Syrian Arab Republic\n        Taiwan\n        Tajikistan\n        Tanzania\n        Thailand\n        Timor-Leste\n        Togo\n        Tokelau\n        Tonga\n        Trinidad and Tobago\n        Tunisia\n        Turkey\n        Turkmenistan\n        Turks and Caicos Islands\n        Tuvalu\n        Uganda\n        Ukraine\n        United Arab Emirates\n        United Kingdom\n        United States\n        Uruguay\n        Uzbekistan\n        Vanuatu\n        Venezuela\n        Vietnam\n        Virgin Islands\n        Wallis and Futuna\n        Western Sahara\n        Yemen\n        Zambia\n        Zimbabwe"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[8]/fieldset[1]/label[1]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[8]/fieldset[1]/label[2]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[10]/p[1]/a[1]",
+            "text": "Privacy Statement"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[10]/p[1]/a[2]",
+            "text": "Terms of Use"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[2]/div[1]/form[1]/div[10]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[6]/div[9]/div[1]/div[3]/p[1]/a[1]",
+            "text": "privacy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Contact Us"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Talk to Sales \u2014 844-246-2152"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Get Support"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Sign In"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "What We Offer"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
+            "text": "Payroll"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[2]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+            "text": "Time and Attendance"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[2]/ul[1]/li[1]/ul[1]/li[3]/a[1]",
+            "text": "Talent"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[2]/ul[1]/li[1]/ul[1]/li[4]/a[1]",
+            "text": "Benefits"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[2]/ul[1]/li[1]/ul[1]/li[5]/a[1]",
+            "text": "HR Services"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[2]/ul[1]/li[1]/ul[1]/li[6]/a[1]",
+            "text": "HR Outsourcing and PEO"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[2]/ul[1]/li[1]/ul[1]/li[7]/a[1]",
+            "text": "Integrations"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[2]/ul[1]/li[1]/ul[1]/li[8]/a[1]",
+            "text": "App Marketplace"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[2]/ul[1]/li[1]/ul[1]/li[9]/a[1]",
+            "text": "Products by Name"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "Who We Serve"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[3]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
+            "text": "Business Size"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[3]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+            "text": "Industry"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[3]/ul[1]/li[1]/ul[1]/li[3]/a[1]",
+            "text": "Partners"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[4]/ul[1]/li[1]/a[1]",
+            "text": "Resources"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[4]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
+            "text": "Small Business Resources"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[4]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+            "text": "Midsized & Enterprise Business Resources"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[4]/ul[1]/li[1]/ul[1]/li[3]/a[1]",
+            "text": "Tools"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[4]/ul[1]/li[1]/ul[1]/li[4]/a[1]",
+            "text": "Webinars & Events"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/a[1]",
+            "text": "About ADP"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
+            "text": "Worldwide Locations"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+            "text": "Careers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[3]/a[1]",
+            "text": "Corporate Social Responsibility"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[4]/a[1]",
+            "text": "Awards and Recognition"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[5]/a[1]",
+            "text": "Leadership"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[6]/a[1]",
+            "text": "Data Security"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[7]/a[1]",
+            "text": "Data Privacy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[8]/a[1]",
+            "text": "Artificial Intelligence"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[9]/a[1]",
+            "text": "ADP Ventures"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[10]/a[1]",
+            "text": "Investors"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/ul[1]/li[11]/a[1]",
+            "text": "Media"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/p[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "select",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/select[1]",
+            "text": "United States\n Argentina\n Australia\n Brazil\n Canada (English)\n Canada (French)\n Chile\n China\n France\n Germany\n Hong Kong\n       \n India\n Italy\n         Japan\n Netherlands\n Peru\n Philippines\n Poland\n Singapore\n Spain\n Switzerland\n United Kingdom"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/p[2]/a[1]",
+            "text": "All Worldwide Locations"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "ADP Facebook Page"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "ADP X (Twitter) Page"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "ADP YouTube Channel"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "ADP LinkedIn Page"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[2]/li[1]/a[1]",
+            "text": "Terms"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[2]/li[2]/a[1]",
+            "text": "Site Map"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[2]/li[3]/a[1]",
+            "text": "Privacy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[2]/li[4]/a[1]",
+            "text": "Modern Slavery Statement"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[2]/li[5]/a[1]",
+            "text": "Web Accessibility Statement"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/button[1]",
+            "text": "Cookie Preferences | Do Not Share My Information"
+        }
+    ]
+}

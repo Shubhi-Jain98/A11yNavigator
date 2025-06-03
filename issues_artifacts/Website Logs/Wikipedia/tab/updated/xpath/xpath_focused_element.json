@@ -1,0 +1,375 @@
+[
+    {
+        "IA2UniqueID": -535,
+        "nvda_name": "Search Wikipedia",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[2]/form/fieldset/div/div/div/select"
+    },
+    {
+        "IA2UniqueID": -537,
+        "nvda_name": "EN",
+        "nvda_value": "English",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/main/div[2]/form/fieldset/button"
+    },
+    {
+        "IA2UniqueID": -708,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav[2]/div/button"
+    },
+    {
+        "IA2UniqueID": -711,
+        "nvda_name": "Read Wikipedia in your language ",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -1066,
+        "nvda_name": "You can support our work with a donation.",
+        "nvda_value": "https://donate.wikimedia.org/?wmf_medium=portal&wmf_campaign=portalFooter&wmf_source=portalFooter",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div[2]/div/div/strong/a"
+    },
+    {
+        "IA2UniqueID": -1072,
+        "nvda_name": "Download Wikipedia for Android or iOS",
+        "nvda_value": "https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div[2]/div/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -1076,
+        "nvda_name": "Google Play Store",
+        "nvda_value": "https://play.google.com/store/apps/details?id=org.wikipedia&referrer=utm_source%3Dportal%26utm_medium%3Dbutton%26anid%3Dadmob",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div[2]/div/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -1078,
+        "nvda_name": "Apple App Store",
+        "nvda_value": "https://itunes.apple.com/app/apple-store/id324715238?pt=208305&ct=portal&mt=8",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div/a"
+    },
+    {
+        "IA2UniqueID": -1081,
+        "nvda_name": "Commons Free media collection",
+        "nvda_value": "https://commons.wikimedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -1086,
+        "nvda_name": "Wikivoyage Free travel guide",
+        "nvda_value": "https://www.wikivoyage.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -1091,
+        "nvda_name": "Wiktionary Free dictionary",
+        "nvda_value": "https://www.wiktionary.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[4]/a"
+    },
+    {
+        "IA2UniqueID": -548,
+        "nvda_name": "Wikibooks Free textbooks",
+        "nvda_value": "https://www.wikibooks.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/a"
+    },
+    {
+        "IA2UniqueID": -1100,
+        "nvda_name": "Wikinews Free news source",
+        "nvda_value": "https://www.wikinews.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[6]/a"
+    },
+    {
+        "IA2UniqueID": -1105,
+        "nvda_name": "Wikidata Free knowledge base",
+        "nvda_value": "https://www.wikidata.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[7]/a"
+    },
+    {
+        "IA2UniqueID": -1110,
+        "nvda_name": "Wikiversity Free learning resources",
+        "nvda_value": "https://www.wikiversity.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[8]/a"
+    },
+    {
+        "IA2UniqueID": -1115,
+        "nvda_name": "Wikiquote Free quote compendium",
+        "nvda_value": "https://www.wikiquote.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[9]/a"
+    },
+    {
+        "IA2UniqueID": -1120,
+        "nvda_name": "MediaWiki Free & open wiki software",
+        "nvda_value": "https://www.mediawiki.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[10]/a"
+    },
+    {
+        "IA2UniqueID": -1125,
+        "nvda_name": "Wikisource Free content library",
+        "nvda_value": "https://www.wikisource.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[11]/a"
+    },
+    {
+        "IA2UniqueID": -1130,
+        "nvda_name": "Wikispecies Free species directory",
+        "nvda_value": "https://species.wikimedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[12]/a"
+    },
+    {
+        "IA2UniqueID": -540,
+        "nvda_name": "Wikifunctions Free function library",
+        "nvda_value": "https://www.wikifunctions.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[13]/a"
+    },
+    {
+        "IA2UniqueID": -1139,
+        "nvda_name": "Meta-Wiki Community coordination & documentation",
+        "nvda_value": "https://meta.wikimedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/p/small/a"
+    },
+    {
+        "IA2UniqueID": -1146,
+        "nvda_name": "Creative Commons Attribution-ShareAlike License",
+        "nvda_value": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/p/small[2]/a"
+    },
+    {
+        "IA2UniqueID": -1148,
+        "nvda_name": "Terms of Use",
+        "nvda_value": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/p/small[3]/a"
+    },
+    {
+        "IA2UniqueID": -477,
+        "nvda_name": "Bookmark this tab",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav/div/a"
+    },
+    {
+        "IA2UniqueID": -586,
+        "nvda_name": "English 6,942,000+ articles",
+        "nvda_value": "https://en.wikipedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -590,
+        "nvda_name": "\u65e5\u672c\u8a9e 1,445,000+ \u8a18\u4e8b",
+        "nvda_value": "https://ja.wikipedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -594,
+        "nvda_name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 2\u00a0020\u00a0000+ \u0441\u0442\u0430\u0442\u0435\u0439",
+        "nvda_value": "https://ru.wikipedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav/div[4]/a"
+    },
+    {
+        "IA2UniqueID": -598,
+        "nvda_name": "Deutsch 2.979.000+ Artikel",
+        "nvda_value": "https://de.wikipedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav/div[5]/a"
+    },
+    {
+        "IA2UniqueID": -602,
+        "nvda_name": "Espa\u00f1ol 2.003.000+ art\u00edculos",
+        "nvda_value": "https://es.wikipedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav/div[6]/a"
+    },
+    {
+        "IA2UniqueID": -606,
+        "nvda_name": "Fran\u00e7ais 2\u202f659\u202f000+ articles",
+        "nvda_value": "https://fr.wikipedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav/div[7]/a"
+    },
+    {
+        "IA2UniqueID": -610,
+        "nvda_name": "Italiano 1.900.000+ voci",
+        "nvda_value": "https://it.wikipedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav/div[8]/a"
+    },
+    {
+        "IA2UniqueID": -614,
+        "nvda_name": "\u4e2d\u6587 1,459,000+ \u6761\u76ee / \u689d\u76ee",
+        "nvda_value": "https://zh.wikipedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav/div[9]/a"
+    },
+    {
+        "IA2UniqueID": -618,
+        "nvda_name": "\u0641\u0627\u0631\u0633\u06cc \u06f1\u066c\u06f0\u06f2\u06f6\u066c\u06f0\u06f0\u06f0+ \u0645\u0642\u0627\u0644\u0647",
+        "nvda_value": "https://fa.wikipedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/nav/div[10]/a"
+    },
+    {
+        "IA2UniqueID": -622,
+        "nvda_name": "Polski 1\u00a0645\u00a0000+ hase\u0142",
+        "nvda_value": "https://pl.wikipedia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[2]/form/fieldset/div/input"
+    }
+]

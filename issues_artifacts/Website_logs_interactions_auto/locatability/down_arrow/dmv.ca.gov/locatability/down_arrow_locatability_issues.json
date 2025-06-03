@@ -1,0 +1,23 @@
+{
+    "count of missing paths": 2,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/a[1]",
+            "text": "Get Started",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.dmv.ca.gov/portal/dmv-assistance-for-californians-impacted-by-the-socal-wildfires/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/div[3]/div[1]/button[2]",
+            "text": "2",
+            "aria-label": "Carousel Page 2",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        }
+    ]
+}

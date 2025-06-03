@@ -1,0 +1,1230 @@
+[
+    {
+        "IA2UniqueID": -573,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div/div[2]/div[2]/div/a",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -776,
+        "nvda_name": "Sign In",
+        "nvda_value": "https://identity.doordash.com/auth?client_id=1666519390426295040&intl=en-US&layout=consumer_web&prompt=none&redirect_uri=https%3A%2F%2Fwww.doordash.com%2Fpost-login%2F&response_type=code&scope=%2A&state=%2Fhome%7C%7Cb81d193b-6cc7-401d-bbb5-10381ce2e410",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div/div[2]/div[2]/div/a[2]",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -782,
+        "nvda_name": "Sign Up",
+        "nvda_value": "https://identity.doordash.com/auth/user/signup?client_id=1666519390426295040&intl=en-US&layout=consumer_web&prompt=none&redirect_uri=https%3A%2F%2Fwww.doordash.com%2Fpost-login%2F&response_type=code&scope=%2A&state=%2Fhome%7C%7Cb81d193b-6cc7-401d-bbb5-10381ce2e410",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div[2]/div/div/div/div/div/div/a",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -2213,
+        "nvda_name": "Find restaurants",
+        "nvda_value": "https://www.doordash.com/restaurants-near-me/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div[2]/div[2]/div/div/div[2]/div/div/a",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -2228,
+        "nvda_name": "Get DashPass",
+        "nvda_value": "https://www.doordash.com/dashpass/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div[2]/div[3]/div/div/div/a",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -2241,
+        "nvda_name": "Shop Groceries",
+        "nvda_value": "https://www.doordash.com/p/grocery-delivery/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div[2]/div[4]/div/div/div/div/div/a",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -2252,
+        "nvda_name": "Shop Now",
+        "nvda_value": "https://www.doordash.com/cuisine/convenience-store-near-me/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div[2]/div[6]/div/div/div[2]/div/a",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -2268,
+        "nvda_name": "Try Package Pickup",
+        "nvda_value": "https://www.doordash.com/package-pickup/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div[2]/div[6]/div/div[2]/div[2]/div/a",
+        "key_interactions": 7
+    },
+    {
+        "IA2UniqueID": -2279,
+        "nvda_name": "Send Flowers",
+        "nvda_value": "https://www.doordash.com/p/flower-delivery",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div[2]/div[6]/div/div[3]/div[2]/div/a",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -2290,
+        "nvda_name": "Shop Alcohol",
+        "nvda_value": "https://www.doordash.com/p/alcohol-delivery",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div[2]/div[6]/div/div[4]/div[2]/div/a",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -2302,
+        "nvda_name": "Get Pet Supplies",
+        "nvda_value": "https://www.doordash.com/p/pet-store-near-me",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div[2]/div[8]/div/div/div/div/div/a",
+        "key_interactions": 10
+    },
+    {
+        "IA2UniqueID": -2318,
+        "nvda_name": "Become a Dasher",
+        "nvda_value": "https://dasher.doordash.com/en-us/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div[2]/div[9]/div/div/div[2]/div/div/a",
+        "key_interactions": 11
+    },
+    {
+        "IA2UniqueID": -2333,
+        "nvda_name": "Become a Partner",
+        "nvda_value": "https://get.doordash.com/en-us/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div/a",
+        "key_interactions": 12
+    },
+    {
+        "IA2UniqueID": -1872,
+        "nvda_name": "Alcohol Australia",
+        "nvda_value": "https://www.doordash.com/p/alcohol-australia/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div/a[2]",
+        "key_interactions": 13
+    },
+    {
+        "IA2UniqueID": -1873,
+        "nvda_name": "Alcohol Delivery Australia",
+        "nvda_value": "https://www.doordash.com/p/alcohol-delivery-australia/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div/a[3]",
+        "key_interactions": 14
+    },
+    {
+        "IA2UniqueID": -1874,
+        "nvda_name": "Back To School Delivery",
+        "nvda_value": "https://www.doordash.com/p/back-to-school-delivery/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div/a[4]",
+        "key_interactions": 15
+    },
+    {
+        "IA2UniqueID": -1875,
+        "nvda_name": "Battle Of The Brands",
+        "nvda_value": "https://www.doordash.com/p/battle-of-the-brands/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div/a[5]",
+        "key_interactions": 16
+    },
+    {
+        "IA2UniqueID": -1876,
+        "nvda_name": "Beauty Stores",
+        "nvda_value": "https://www.doordash.com/p/beauty-stores/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div/a[6]",
+        "key_interactions": 17
+    },
+    {
+        "IA2UniqueID": -1877,
+        "nvda_name": "Beauty Supply",
+        "nvda_value": "https://www.doordash.com/p/beauty-supply/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div/a[7]",
+        "key_interactions": 18
+    },
+    {
+        "IA2UniqueID": -1878,
+        "nvda_name": "Catering Near Me",
+        "nvda_value": "https://www.doordash.com/p/catering-near-me/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div/a[8]",
+        "key_interactions": 19
+    },
+    {
+        "IA2UniqueID": -1879,
+        "nvda_name": "Chips Ahoy Big Cookie",
+        "nvda_value": "https://www.doordash.com/p/chips-ahoy-big-cookie/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[2]/a",
+        "key_interactions": 20
+    },
+    {
+        "IA2UniqueID": -1888,
+        "nvda_name": "Convenience Stores Canada",
+        "nvda_value": "https://www.doordash.com/p/convenience-stores-canada/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[2]/a[2]",
+        "key_interactions": 21
+    },
+    {
+        "IA2UniqueID": -1889,
+        "nvda_name": "Dashmart Near Me",
+        "nvda_value": "https://www.doordash.com/p/dashmart-near-me/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[2]/a[3]",
+        "key_interactions": 22
+    },
+    {
+        "IA2UniqueID": -1890,
+        "nvda_name": "Deck The Doorstep",
+        "nvda_value": "https://www.doordash.com/p/deck-the-doorstep/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[2]/a[4]",
+        "key_interactions": 23
+    },
+    {
+        "IA2UniqueID": -1891,
+        "nvda_name": "Diageo Holiday",
+        "nvda_value": "https://www.doordash.com/p/diageo-holiday/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[2]/a[5]",
+        "key_interactions": 24
+    },
+    {
+        "IA2UniqueID": -1892,
+        "nvda_name": "Drugstores Canada",
+        "nvda_value": "https://www.doordash.com/p/drugstores-canada/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[2]/a[6]",
+        "key_interactions": 25
+    },
+    {
+        "IA2UniqueID": -1893,
+        "nvda_name": "Flower Delivery",
+        "nvda_value": "https://www.doordash.com/p/flower-delivery/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[2]/a[7]",
+        "key_interactions": 26
+    },
+    {
+        "IA2UniqueID": -1894,
+        "nvda_name": "Grocery Delivery Canada",
+        "nvda_value": "https://www.doordash.com/p/grocery-delivery-canada/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[2]/a[8]",
+        "key_interactions": 27
+    },
+    {
+        "IA2UniqueID": -1895,
+        "nvda_name": "Haleon Well Within Reach",
+        "nvda_value": "https://www.doordash.com/p/haleon-well-within-reach/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[3]/a",
+        "key_interactions": 28
+    },
+    {
+        "IA2UniqueID": -1904,
+        "nvda_name": "Halloween",
+        "nvda_value": "https://www.doordash.com/p/halloween/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[3]/a[2]",
+        "key_interactions": 29
+    },
+    {
+        "IA2UniqueID": -1905,
+        "nvda_name": "Holiday Hosting",
+        "nvda_value": "https://www.doordash.com/p/holiday-hosting/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[3]/a[3]",
+        "key_interactions": 30
+    },
+    {
+        "IA2UniqueID": -1906,
+        "nvda_name": "Hsa Bank",
+        "nvda_value": "https://www.doordash.com/p/hsa-bank/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[3]/a[4]",
+        "key_interactions": 31
+    },
+    {
+        "IA2UniqueID": -1907,
+        "nvda_name": "Hsa Fsa Store",
+        "nvda_value": "https://www.doordash.com/p/hsa-fsa-store/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[3]/a[5]",
+        "key_interactions": 32
+    },
+    {
+        "IA2UniqueID": -1908,
+        "nvda_name": "Large Group Orders",
+        "nvda_value": "https://www.doordash.com/p/large-group-orders/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[3]/a[6]",
+        "key_interactions": 33
+    },
+    {
+        "IA2UniqueID": -1909,
+        "nvda_name": "Local Eats Deserve Pepsi",
+        "nvda_value": "https://www.doordash.com/p/local-eats-deserve-pepsi/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[3]/a[7]",
+        "key_interactions": 34
+    },
+    {
+        "IA2UniqueID": -1910,
+        "nvda_name": "Make It Date Night",
+        "nvda_value": "https://www.doordash.com/p/make-it-date-night/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[3]/a[8]",
+        "key_interactions": 35
+    },
+    {
+        "IA2UniqueID": -1911,
+        "nvda_name": "Medicine Delivery",
+        "nvda_value": "https://www.doordash.com/p/medicine-delivery/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[4]/a",
+        "key_interactions": 36
+    },
+    {
+        "IA2UniqueID": -1920,
+        "nvda_name": "Mothers Day",
+        "nvda_value": "https://www.doordash.com/p/mothers-day/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[4]/a[2]",
+        "key_interactions": 37
+    },
+    {
+        "IA2UniqueID": -1921,
+        "nvda_name": "Pet Store Near Me",
+        "nvda_value": "https://www.doordash.com/p/pet-store-near-me/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[4]/a[3]",
+        "key_interactions": 38
+    },
+    {
+        "IA2UniqueID": -1922,
+        "nvda_name": "Play For An Ultra",
+        "nvda_value": "https://www.doordash.com/p/play-for-an-ultra/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[4]/a[4]",
+        "key_interactions": 39
+    },
+    {
+        "IA2UniqueID": -1923,
+        "nvda_name": "Retail Stores Near Me",
+        "nvda_value": "https://www.doordash.com/p/retail-stores-near-me/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[4]/a[5]",
+        "key_interactions": 40
+    },
+    {
+        "IA2UniqueID": -1924,
+        "nvda_name": "Seasonal Holidays",
+        "nvda_value": "https://www.doordash.com/p/seasonal-holidays/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[4]/a[6]",
+        "key_interactions": 41
+    },
+    {
+        "IA2UniqueID": -1925,
+        "nvda_name": "Snap Ebt",
+        "nvda_value": "https://www.doordash.com/p/snap-ebt/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[4]/a[7]",
+        "key_interactions": 42
+    },
+    {
+        "IA2UniqueID": -1926,
+        "nvda_name": "Valentines Day",
+        "nvda_value": "https://www.doordash.com/p/valentines-day/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div/div/div[4]/a[8]",
+        "key_interactions": 43
+    },
+    {
+        "IA2UniqueID": -1927,
+        "nvda_name": "Winter Holidays",
+        "nvda_value": "https://www.doordash.com/p/winter-holidays/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a",
+        "key_interactions": 44
+    },
+    {
+        "IA2UniqueID": -1949,
+        "nvda_name": "About Us",
+        "nvda_value": "https://www.doordash.com/about/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[2]",
+        "key_interactions": 45
+    },
+    {
+        "IA2UniqueID": -1950,
+        "nvda_name": "Careers",
+        "nvda_value": "https://careers.doordash.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[3]",
+        "key_interactions": 46
+    },
+    {
+        "IA2UniqueID": -1951,
+        "nvda_name": "Investors",
+        "nvda_value": "https://ir.doordash.com/overview/default.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[4]",
+        "key_interactions": 47
+    },
+    {
+        "IA2UniqueID": -1952,
+        "nvda_name": "Company Blog",
+        "nvda_value": "https://blog.doordash.com/en-us",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[5]",
+        "key_interactions": 48
+    },
+    {
+        "IA2UniqueID": -1953,
+        "nvda_name": "Engineering Blog",
+        "nvda_value": "https://doordash.engineering/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[6]",
+        "key_interactions": 49
+    },
+    {
+        "IA2UniqueID": -1954,
+        "nvda_name": "Merchant Blog",
+        "nvda_value": "https://merchants.doordash.com/en-us/blog?utm_source=footer_v2",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[7]",
+        "key_interactions": 50
+    },
+    {
+        "IA2UniqueID": -1955,
+        "nvda_name": "Gift Cards",
+        "nvda_value": "https://www.doordash.com/gift-cards/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[8]",
+        "key_interactions": 51
+    },
+    {
+        "IA2UniqueID": -1956,
+        "nvda_name": "Package Pickup",
+        "nvda_value": "https://www.doordash.com/package-pickup/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[9]",
+        "key_interactions": 52
+    },
+    {
+        "IA2UniqueID": -1957,
+        "nvda_name": "Promotions",
+        "nvda_value": "https://www.doordash.com/promos/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[10]",
+        "key_interactions": 53
+    },
+    {
+        "IA2UniqueID": -1958,
+        "nvda_name": "Dasher Central",
+        "nvda_value": "https://dasher.doordash.com/en-us?utm_source=dx_signup_text_cx_home",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[11]",
+        "key_interactions": 54
+    },
+    {
+        "IA2UniqueID": -1959,
+        "nvda_name": "LinkedIn",
+        "nvda_value": "https://www.linkedin.com/company/doordash",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[12]",
+        "key_interactions": 55
+    },
+    {
+        "IA2UniqueID": -1960,
+        "nvda_name": "Glassdoor",
+        "nvda_value": "https://www.glassdoor.com/Reviews/DoorDash-Reviews-E813073.htm",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[13]",
+        "key_interactions": 56
+    },
+    {
+        "IA2UniqueID": -1961,
+        "nvda_name": "Accessibility",
+        "nvda_value": "https://www.doordash.com/accessibility/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div/a[14]",
+        "key_interactions": 57
+    },
+    {
+        "IA2UniqueID": -1962,
+        "nvda_name": "Newsroom",
+        "nvda_value": "https://doordash.news/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div[2]/a",
+        "key_interactions": 58
+    },
+    {
+        "IA2UniqueID": -1967,
+        "nvda_name": "Account Details",
+        "nvda_value": "https://www.doordash.com/consumer/edit_profile/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div[2]/a[2]",
+        "key_interactions": 59
+    },
+    {
+        "IA2UniqueID": -1968,
+        "nvda_name": "Order History",
+        "nvda_value": "https://www.doordash.com/orders/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div[2]/a[3]",
+        "key_interactions": 60
+    },
+    {
+        "IA2UniqueID": -1969,
+        "nvda_name": "Help",
+        "nvda_value": "https://help.doordash.com/s/?language=en_US",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div[3]/a",
+        "key_interactions": 61
+    },
+    {
+        "IA2UniqueID": -1975,
+        "nvda_name": "Become a Dasher",
+        "nvda_value": "https://dasher.doordash.com/en-us?utm_source=dx_signup_text_cx_home",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div[3]/a[2]",
+        "key_interactions": 62
+    },
+    {
+        "IA2UniqueID": -1976,
+        "nvda_name": "DoorDash Merchant",
+        "nvda_value": "https://merchants.doordash.com/en-us?utm_source=footer_v2",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div[3]/a[3]",
+        "key_interactions": 63
+    },
+    {
+        "IA2UniqueID": -1977,
+        "nvda_name": "Get Dashers for Deliveries",
+        "nvda_value": "https://merchants.doordash.com/en-us/products/drive?utm_source=footer_v2",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div/div[3]/a[4]",
+        "key_interactions": 64
+    },
+    {
+        "IA2UniqueID": -1978,
+        "nvda_name": "Get DoorDash for Business",
+        "nvda_value": "https://work.doordash.com/en-us",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div[2]/div/a",
+        "key_interactions": 65
+    },
+    {
+        "IA2UniqueID": -1984,
+        "nvda_name": "Download on the App Store",
+        "nvda_value": "https://app.adjust.com/bo0s4gx?engagement_type=fallback_click&tracker_limit=100000",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div[2]/div/a[2]",
+        "key_interactions": 66
+    },
+    {
+        "IA2UniqueID": -1985,
+        "nvda_name": "Download on the Google Play Store",
+        "nvda_value": "https://7wmw.adj.st/?adjust_t=9ick0eu&adjust_campaign=CX_US_DR_WB_DS_ACQ_CUSXXX__+FooterWeb&adjust_deeplink=doordash%3A%2F%2F&adjust_fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.dd.doordash&adj_redirect_macos=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.dd.doordash",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[3]/div/a",
+        "key_interactions": 67
+    },
+    {
+        "IA2UniqueID": -1995,
+        "nvda_name": "DoorDash Home Page",
+        "nvda_value": "https://www.doordash.com/home",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[3]/div/a[2]",
+        "key_interactions": 68
+    },
+    {
+        "IA2UniqueID": -1996,
+        "nvda_name": "Terms of Service",
+        "nvda_value": "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[3]/div/a[3]",
+        "key_interactions": 69
+    },
+    {
+        "IA2UniqueID": -1997,
+        "nvda_name": "Privacy",
+        "nvda_value": "https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[3]/div/a[4]",
+        "key_interactions": 70
+    },
+    {
+        "IA2UniqueID": -1998,
+        "nvda_name": "Delivery Locations",
+        "nvda_value": "https://www.doordash.com/food-delivery/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[3]/div/a[5]",
+        "key_interactions": 71
+    },
+    {
+        "IA2UniqueID": -1999,
+        "nvda_name": "Do Not Sell or Share My Personal Information",
+        "nvda_value": "https://www.doordash.com/consumer/personalize",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[3]/div[3]/a",
+        "key_interactions": 72
+    },
+    {
+        "IA2UniqueID": -2020,
+        "nvda_name": "DoorDash on Facebook",
+        "nvda_value": "https://facebook.com/doordash",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[3]/div[3]/a[2]",
+        "key_interactions": 73
+    },
+    {
+        "IA2UniqueID": -2021,
+        "nvda_name": "DoorDash on Twitter",
+        "nvda_value": "https://twitter.com/doordash",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[3]/div[3]/a[3]",
+        "key_interactions": 74
+    },
+    {
+        "IA2UniqueID": -4971,
+        "nvda_name": "Enter delivery address",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div/div[2]/div[3]/div/div/div/form/div/div/div/div/div[2]/input",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -4971,
+        "nvda_name": "Enter delivery address",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div/div[2]/div[3]/div/div/div/form/div/div/div/div/div[3]/div/button",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -4972,
+        "nvda_name": "Find Restaurants",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div/div[2]/div[3]/button",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -3474,
+        "nvda_name": "Sign in for saved address",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div/div/div/div/div[2]/button",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -4574,
+        "nvda_name": "Start earning",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div/div/div/div[2]/div[2]/button",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -4580,
+        "nvda_name": "Sign up for DoorDash",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[4]/div/div/div/div[3]/div[2]/button",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -10655,
+        "nvda_name": "Enter delivery address",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[3]/div[2]/div/div/div/div/div/div/div[2]/div/select",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -12695,
+        "nvda_name": "Enter delivery address",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[2]/div[2]/div[3]/div/div/div/form/div/div/div/div/div[2]/input",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -15056,
+        "nvda_name": "Enter delivery address",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -14555,
+        "nvda_name": "New York",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[2]",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -14556,
+        "nvda_name": "Los Angeles",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[3]",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -14557,
+        "nvda_name": "Toronto",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[4]",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -14558,
+        "nvda_name": "Chicago",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[5]",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -14559,
+        "nvda_name": "Houston",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[6]",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -14560,
+        "nvda_name": "Brooklyn",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[7]",
+        "key_interactions": 7
+    },
+    {
+        "IA2UniqueID": -14561,
+        "nvda_name": "San Diego",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[8]",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -14562,
+        "nvda_name": "Las Vegas",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[9]",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -14563,
+        "nvda_name": "San Francisco",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[10]",
+        "key_interactions": 10
+    },
+    {
+        "IA2UniqueID": -14564,
+        "nvda_name": "Seattle",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[11]",
+        "key_interactions": 11
+    },
+    {
+        "IA2UniqueID": -14565,
+        "nvda_name": "Atlanta",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[12]",
+        "key_interactions": 12
+    },
+    {
+        "IA2UniqueID": -14566,
+        "nvda_name": "Queens",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[13]",
+        "key_interactions": 13
+    },
+    {
+        "IA2UniqueID": -14567,
+        "nvda_name": "Vancouver, BC",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[14]",
+        "key_interactions": 14
+    },
+    {
+        "IA2UniqueID": -14568,
+        "nvda_name": "Miami",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div/a[15]",
+        "key_interactions": 15
+    },
+    {
+        "IA2UniqueID": -16666,
+        "nvda_name": "Get the app",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[5]/div/div/div[2]/div[2]/button",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -19305,
+        "nvda_name": "En savoir plus",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/main/main/div[2]/div[6]/div/div/footer/div[2]/div[2]/div/div/div/div/div/div/div[2]/div/select",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -18453,
+        "nvda_name": "Choisir la langue",
+        "nvda_value": "Fran\u00e7ais (CA)",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/div[2]/div[3]/button",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -18176,
+        "nvda_name": "Fermer",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/div[2]/div[3]/button[2]",
+        "key_interactions": 10
+    }
+]

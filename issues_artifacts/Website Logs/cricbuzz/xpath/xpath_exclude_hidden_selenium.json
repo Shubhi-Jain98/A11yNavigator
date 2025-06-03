@@ -1,0 +1,607 @@
+{
+    "count by default selenium driver": 280,
+    "total_count based on actionable selectors": 120,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/a[2]",
+            "text": "Live Scores"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/a[3]",
+            "text": "Schedule"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/a[4]",
+            "text": "Archives"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/div[1]/a[1]",
+            "text": "News"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/div[2]/a[1]",
+            "text": "Series"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/div[3]/a[1]",
+            "text": "Teams"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/div[4]/a[1]",
+            "text": "Videos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/div[5]/a[1]",
+            "text": "Rankings"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/a[5]",
+            "text": "Willow By Cricbuzz"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/div[7]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/nav[1]/a[1]",
+            "text": "MATCHES"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/nav[1]/a[2]",
+            "text": "IND vs ENG - Preview"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/nav[1]/a[3]",
+            "text": "DSG vs PR - PR Won"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/nav[1]/a[4]",
+            "text": "SYT vs HBH - HBH Won"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/nav[1]/a[5]",
+            "text": "MIE vs DV - MIE Won"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/nav[1]/a[6]",
+            "text": "INDWU19 vs SCOWU19 - Preview"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/nav[1]/span[1]/a[1]",
+            "text": "ALL"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "T20I\nIndia\nEngland\nTuesday, 28 Jan, 05:30 AM"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/a[2]",
+            "text": "FANTASY HANDBOOK"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "SCHEDULE"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "T20\n\u25b6\nWATCH NOW\nDSG\n143-7 (20)\nPR\n147-4 (19.5)\nPaarl Royals won by 6 wkts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/div[1]/a[2]",
+            "text": "FANTASY"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/div[2]/a[1]",
+            "text": "TABLE"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/div[3]/a[1]",
+            "text": "SCHEDULE"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "T20\n\u25b6\nWATCH NOW\nSYT\n182-7 (20)\nHBH\n185-3 (14.1)\nHobart Hurricanes won by 7 wkts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/div[1]/a[2]",
+            "text": "FANTASY"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/div[2]/a[1]",
+            "text": "TABLE"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/div[3]/a[1]",
+            "text": "SCHEDULE"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[5]/nav[1]/div[1]/a[1]",
+            "text": "Willow by Cricbuzz"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[5]/nav[1]/div[1]/a[2]",
+            "text": "See Plans"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[5]/nav[1]/div[1]/a[3]",
+            "text": "Team India"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Murphy, Kuhnemann reunite with a shared fixation"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Bruised and battered at Boland Park"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[3]/a[1]",
+            "text": "CSK withdraw from The Hundred race; MI, LSG, SRH, DC vying for teams"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[4]/a[1]",
+            "text": "Mitchell Owen ton powers Hobart Hurricanes to maiden BBL title"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[5]/a[1]",
+            "text": "Brathwaite proud of West Indies' Test win in challenging conditions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[6]/a[1]",
+            "text": "Kohli heads to Delhi for Ranji game after training with Bangar in Alibaug"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[7]/a[1]",
+            "text": "Inability to dismiss tail-enders an 'area of concern': Masood"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[8]/a[1]",
+            "text": "Australia toy with a 'total cricket' idea through a flexible batting order"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[9]/a[1]",
+            "text": "Durbar Rajshahi field only local players against Rangpur RIders"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[10]/a[1]",
+            "text": "Red hot Root puts Paarl in playoffs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[11]/a[1]",
+            "text": "More News.."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Australia vs India, 5th Test, Day 3\nSun, Jan 05 2025"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[2]/div[1]/div[2]/a[1]",
+            "text": "Australia vs India, 5th Test, Day 1\nFri, Jan 03 2025"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[2]/div[1]/div[3]/a[1]",
+            "text": "Australia vs India, 4th Test, Day 5\nMon, Dec 30 2024"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[2]/div[1]/div[4]/a[1]",
+            "text": "Australia vs India, 4th Test, Day 4\nSun, Dec 29 2024"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[2]/div[1]/div[5]/a[1]",
+            "text": "Australia vs India, 4th Test, Day 3\nSat, Dec 28 2024"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[2]/div[1]/div[6]/a[1]",
+            "text": "Australia vs India, 4th Test, Day 2\nFri, Dec 27 2024"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[2]/div[1]/div[7]/a[1]",
+            "text": "More Photos.."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[6]/div[3]/div[1]/div[11]/a[1]",
+            "text": "More Matches.."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[1]/h2[1]/a[1]",
+            "text": "India look to seal series in possible run-fest in Rajkot"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[1]/div[3]/a[1]",
+            "text": "Tilak's gear tweaks ushers India through testing terrain"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[1]/div[4]/a[1]",
+            "text": "Nitish ruled out of England T20Is; Dube, Ramandeep called up"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[2]/h2[1]/a[1]",
+            "text": "CSK withdraw from The Hundred race; MI, LSG, SRH, DC vying for teams"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[3]/h2[1]/a[1]",
+            "text": "Kohli heads to Delhi for Ranji game after training with Bangar in Alibaug"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[4]/h2[1]/a[1]",
+            "text": "Australia toy with a 'total cricket' idea through a flexible batting order"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[5]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[5]/h2[1]/a[1]",
+            "text": "Warrican fifer powers West Indies' first win in Pakistan in 34 years"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[5]/div[3]/a[1]",
+            "text": "Inability to dismiss tail-enders an 'area of concern': Masood"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[5]/div[4]/a[1]",
+            "text": "Brathwaite proud of West Indies' Test win in challenging conditions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[6]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[6]/h2[1]/a[1]",
+            "text": "Mitchell Owen ton powers Hobart Hurricanes to maiden BBL title"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[7]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[7]/h2[1]/a[1]",
+            "text": "Two-Tier Test system: New impetus but is it sustainable?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[8]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[8]/h2[1]/a[1]",
+            "text": "Sophie Devine set to miss WPL as she takes a break from domestic cricket"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[9]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[9]/h2[1]/a[1]",
+            "text": "Ruthless Australia edge closer to Ashes cleansweep"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[9]/div[3]/a[1]",
+            "text": "Healy picked for Ashes D/N Test as pure batter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[10]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[10]/div[3]/h3[1]/a[1]",
+            "text": "Durbar Rajshahi field only local players against Rangpur RIders"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[11]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[11]/h2[1]/a[1]",
+            "text": "Kauthankar, Bakhale lead Goa to comfortable win in Plate final"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[11]/div[3]/a[1]",
+            "text": "Sai Kishore, Ajith Ram spin TN to massive win"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[11]/div[4]/a[1]",
+            "text": "Rahane lauds Jammu and Kashmir bowlers after huge upset"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[12]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[12]/div[3]/h3[1]/a[1]",
+            "text": "Pant will be an X-factor for India in CT: Zaheer Khan"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[13]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[13]/h2[1]/a[1]",
+            "text": "Ruthless JSK end Sunrisers' winning streak"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[13]/div[3]/a[1]",
+            "text": "Joe Root's all-round show downs Pretoria Capitals"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[14]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[14]/div[3]/h3[1]/a[1]",
+            "text": "Dottin, Matthews power WI to big win in 1st T20I"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[15]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[15]/div[3]/h3[1]/a[1]",
+            "text": "Banton slams ton in MI Emirates' massive win"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[16]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[7]/div[2]/div[16]/h2[1]/a[1]",
+            "text": "BCB suspend all activities of constitutional reform committee"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[3]/div[1]/a[1]",
+            "text": "3:36\n\u25b6\nWant England to play entertaining cricket but with brains: Vaughan"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[3]/div[2]/a[1]",
+            "text": "4:13\n\u25b6\nShami needs game time before Champions Trophy: Zaheer Khan"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[3]/div[3]/a[1]",
+            "text": "4:04\n\u25b6\nArshdeep seizing the opportunity as Bumrah, Siraj rest: Zaheer Khan"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[3]/div[4]/a[1]",
+            "text": "More Videos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[5]/div[1]/a[1]",
+            "text": "January 2025 - News Digest"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[5]/div[2]/a[1]",
+            "text": "Sacrifice over showcase: Behind Nitish Reddy's journey to India colours"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[5]/div[3]/a[1]",
+            "text": "Ben Stokes sees the finishing line"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[5]/div[4]/a[1]",
+            "text": "Breaching Bastions: Young and the extraordinary"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[5]/div[5]/a[1]",
+            "text": "McSweeney and Doggett: The bond of brothers that transcended borders"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[5]/div[6]/a[1]",
+            "text": "Shakib's Test match legacy - one of the game's greatest all-rounders"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[5]/div[7]/a[1]",
+            "text": "How the ICC academy bounced back from a desert flood"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[5]/div[8]/a[1]",
+            "text": "Joe Root - England's Numero Uno"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[8]/div[5]/div[9]/a[1]",
+            "text": "India's World Cup win wasn't a feeling, it was an emotion"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "m.cricbuzz.com"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Android"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "iOS"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "facebook"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "twitter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "youtube"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Pinterest"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]",
+            "text": "Careers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+            "text": "Advertise"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[4]/ul[1]/li[3]/a[1]",
+            "text": "Privacy Policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[4]/ul[1]/li[4]/a[1]",
+            "text": "Terms of Use"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[4]/ul[1]/li[5]/a[1]",
+            "text": "Cricbuzz TV Ads"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[5]/a[1]",
+            "text": "The Times of India"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[5]/a[2]",
+            "text": "Navbharat Times"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "text": "",
+            "event_listener": "yes"
+        }
+    ]
+}

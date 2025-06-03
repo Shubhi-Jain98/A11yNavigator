@@ -1,0 +1,18 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "IA2UniqueID": -156872,
+            "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[2]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "POPULAR Auto Average savings of over $800Read the associated disclosure for this savings claim.",
+            "nvda_value": "https://www.progressive.com/#l",
+            "nvda_states": [
+                "LINKED (4096)",
+                "HASPOPUP_DIALOG (140737488355328)",
+                "FOCUSED (2)",
+                "FOCUSABLE (16777216)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "count by default selenium driver": 148,
+    "total_count based on actionable selectors": 16,
+    "actionableElements": [
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[1]/yt-icon-button[2]/button[1]",
+            "text": "Guide",
+            "aria-label": "Guide",
+            "id": "button",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[1]/ytd-topbar-logo-renderer[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "logo",
+            "placeholder": null,
+            "href": "https://www.youtube.com/"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[2]/yt-searchbox[1]/div[1]/form[1]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": "Search",
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[2]/yt-searchbox[1]/button[1]",
+            "text": "Search",
+            "aria-label": "Search",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[2]/div[1]/ytd-button-renderer[1]/yt-button-shape[1]/button[1]",
+            "text": "Search with your voice",
+            "aria-label": "Search with your voice",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[3]/div[2]/ytd-topbar-menu-button-renderer[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[3]/div[2]/ytd-topbar-menu-button-renderer[1]/div[1]/a[1]/yt-icon-button[1]/button[1]",
+            "text": "Settings",
+            "aria-label": "Settings",
+            "id": "button",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[3]/div[2]/ytd-button-renderer[1]/yt-button-shape[1]/a[1]",
+            "text": "Sign in",
+            "aria-label": "Sign in",
+            "id": "",
+            "placeholder": null,
+            "href": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en-GB&ec=65620"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[1]/a[1]",
+            "text": "Home",
+            "aria-label": "",
+            "id": "endpoint",
+            "placeholder": null,
+            "href": "https://www.youtube.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[2]/a[1]",
+            "text": "Shorts",
+            "aria-label": "",
+            "id": "endpoint",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[3]/a[1]",
+            "text": "Subscriptions",
+            "aria-label": "",
+            "id": "endpoint",
+            "placeholder": null,
+            "href": "https://www.youtube.com/feed/subscriptions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[4]/a[1]",
+            "text": "You",
+            "aria-label": "",
+            "id": "endpoint",
+            "placeholder": null,
+            "href": "https://www.youtube.com/feed/you"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[5]/a[1]",
+            "text": "History",
+            "aria-label": "",
+            "id": "endpoint",
+            "placeholder": null,
+            "href": "https://www.youtube.com/feed/history"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[1]/div[1]/ytd-button-renderer[1]/yt-button-shape[1]/button[1]/yt-touch-feedback-shape[1]/div[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[2]/div[1]/ytd-button-renderer[1]/yt-button-shape[1]/button[1]/yt-touch-feedback-shape[1]/div[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/ytd-app[1]/div[1]/div[2]/ytd-masthead[1]/div[4]/div[3]/div[2]/ytd-button-renderer[1]/yt-button-shape[1]/a[1]/yt-touch-feedback-shape[1]/div[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        }
+    ]
+}

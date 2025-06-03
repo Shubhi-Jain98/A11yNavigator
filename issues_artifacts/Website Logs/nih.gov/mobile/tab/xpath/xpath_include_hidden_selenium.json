@@ -1,0 +1,981 @@
+{
+    "count by default selenium driver": 195,
+    "total_count based on actionable selectors": 195,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/div[2]/a[2]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/div[2]/a[3]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/div[2]/a[4]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[2]/div[1]/div[2]/a[5]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/a[1]",
+            "text": "Skip to main content"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/form[1]/div[1]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/form[1]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/form[1]/input[2]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/form[1]/input[3]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/button[2]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/div[1]/button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[1]/button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[1]/p[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[2]/form[1]/div[1]/div[1]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[2]/form[1]/div[1]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[2]/form[1]/div[1]/input[2]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[2]/form[1]/div[1]/input[3]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[2]/form[1]/div[1]/input[4]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[1]/button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[1]/ul[1]/li[8]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[1]/ul[1]/li[9]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[1]/p[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[1]/button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[1]/p[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[1]/button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[1]/ul[1]/li[8]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[1]/ul[1]/li[9]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[1]/p[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[2]/div[2]/ul[1]/li[5]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[1]/button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[1]/p[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[5]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[6]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[7]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[8]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[9]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[10]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[11]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[12]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[13]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[14]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[15]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[16]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[17]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[18]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[19]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[20]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[21]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[22]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[23]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[24]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[25]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[26]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[2]/div[2]/ul[1]/li[27]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[1]/button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[1]/p[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[2]/div[2]/ul[1]/li[5]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[2]/h3[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[2]/p[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[2]/h3[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[2]/p[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[2]/h3[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[2]/p[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[2]/h3[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[2]/p[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[2]/h3[1]/a[1]",
+            "text": "2024 Research Highlights"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[2]/p[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[5]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Previous"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/a[1]",
+            "text": "Children and Nearsightedness"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/h4[1]/a[1]",
+            "text": "Cancer Screening"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/h4[1]/a[1]",
+            "text": "Environmental Dementia Risk"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/h4[1]/a[1]",
+            "text": "Building a Better Flu Vaccine"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "virtual-tour-screenshot-square.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/h4[1]/a[1]",
+            "text": "Take the Virtual Tour"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "what-we-do-lymphocyte-attacking-cancer-cell.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/h4[1]/a[1]",
+            "text": "What We Do"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "nih-at-a-glance-funding.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/h4[1]/a[1]",
+            "text": "Funding for Research"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "nih-at-a-glance-labs.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/h4[1]/a[1]",
+            "text": "Labs at NIH"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "improving-health-collage.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[5]/h4[1]/a[1]",
+            "text": "Impact of NIH Research"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "researcher-holding-petri-dish.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[6]/h4[1]/a[1]",
+            "text": "Jobs at NIH"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/a[1]",
+            "text": "Anti-Sexual Harassment"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/h4[1]/a[1]",
+            "text": "All of Us Research Program"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[3]/h4[1]/a[1]",
+            "text": "NIH HEAL Initiative"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[4]/h4[1]/a[1]",
+            "text": "Clinical Trials"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[5]/h4[1]/a[1]",
+            "text": "Accelerating Medicines Partnership"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[6]/h4[1]/a[1]",
+            "text": "Medical Research Initiatives"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[7]/h4[1]/a[1]",
+            "text": "Training at NIH"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[8]/h4[1]/a[1]",
+            "text": "RECOVER\n(link is external)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Contact Us"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "X\n(link is external)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Facebook\n(link is external)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Instagram\n(link is external)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "YouTube\n(link is external)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Flickr\n(link is external)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "More Social Media from NIH"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[1]/a[1]",
+            "text": "NIH Home"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[2]/a[1]",
+            "text": "Virtual Tour"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[3]/a[1]",
+            "text": "En Espa\u00f1ol"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[4]/a[1]",
+            "text": "Visitor Information"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[5]/a[1]",
+            "text": "Frequently Asked Questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[6]/a[1]",
+            "text": "Privacy Policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[7]/a[1]",
+            "text": "Disclaimers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[8]/a[1]",
+            "text": "Accessibility"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[9]/a[1]",
+            "text": "NIH Website Archives"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[1]/a[1]",
+            "text": "Nondiscrimination Notice"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[2]/a[1]",
+            "text": "Freedom of Information Act"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[3]/a[1]",
+            "text": "No Fear Act"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[4]/a[1]",
+            "text": "HHS Vulnerability Disclosure\n(link is external)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[5]/a[1]",
+            "text": "Office of Inspector General\n(link is external)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[6]/a[1]",
+            "text": "USA.gov\n(link is external)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/p[3]/a[1]",
+            "text": "U.S. Department of Health and Human Services\n(link is external)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[4]/a[1]",
+            "text": ""
+        }
+    ]
+}

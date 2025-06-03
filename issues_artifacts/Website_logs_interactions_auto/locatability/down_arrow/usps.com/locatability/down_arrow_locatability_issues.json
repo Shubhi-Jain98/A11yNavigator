@@ -1,0 +1,32 @@
+{
+    "count of missing paths": 3,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "http://www.pinterest.com/uspsstamps/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/ul[1]/li[6]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.youtube.com/usps"
+        }
+    ]
+}

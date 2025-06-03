@@ -1,0 +1,73 @@
+function highlightElementsByXPaths(xpaths, borderStyle = "3px solid green", scrollToFirst = true) {
+  let foundCount = 0;
+  let firstFoundElement = null;
+  
+  // Process each XPath in the list
+  xpaths.forEach((xpath, index) => {
+    try {
+      const element = document.evaluate(
+        xpath,
+        document,
+        null,
+        XPathResult.FIRST_ORDERED_NODE_TYPE,
+        null
+      ).singleNodeValue;
+      
+      if (element) {
+        // Highlight the element
+        element.style.border = borderStyle;
+        
+        // Save the first found element for scrolling later
+        if (foundCount === 0) {
+          firstFoundElement = element;
+        }
+        
+        console.log(`Element #${index + 1} found and highlighted:`, element);
+        foundCount++;
+      } else {
+        console.log(`No element found for XPath #${index + 1}: ${xpath}`);
+      }
+    } catch (error) {
+      console.error(`Error processing XPath #${index + 1}: ${xpath}`, error);
+    }
+  });
+  
+  // Scroll to the first found element if requested and any were found
+  if (scrollToFirst && firstFoundElement) {
+    firstFoundElement.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+  
+  console.log(`Total elements highlighted: ${foundCount} out of ${xpaths.length}`);
+  return foundCount;
+}
+
+// Example usage:
+const xpathList = [
+    "/html/body/div/div/a",
+    "/html/body/div/div/a[2]",
+    "/html/body/div/div/div/div/header/div/div/a",
+    "/html/body/div/div/div/div/header/div/div[2]/a",
+    "/html/body/div/div/div/div/header/div[2]/div/a",
+    "/html/body/div/div/div/div/header/div[3]/a",
+    "/html/body/div/div[3]/form/div/div/div/div/div[2]/textarea",
+    "/html/body/div/div[3]/form/div/div/div/div/div[3]/div[2]",
+    "/html/body/div/div[3]/form/div/div/div/div/div[3]/div[3]",
+    "/html/body/div/div[3]/form/div/div/div[3]/center/input",
+    "/html/body/div/div[3]/form/div/div/div[3]/center/input[2]",
+    "/html/body/div/div[4]/div/div/div/div/div[3]/div/promo-middle-slot/div/a",
+    "/html/body/div/div[6]/div/div/div/a",
+    "/html/body/div/div[6]/div/div/div/a[2]",
+    "/html/body/div/div[6]/div/div/div/a[3]",
+    "/html/body/div/div[6]/div/div/div[2]/a",
+    "/html/body/div/div[6]/div/div/div[3]/a",
+    "/html/body/div/div[6]/div/div/div[3]/a[2]",
+    "/html/body/div/div[6]/div/div/div[3]/span/span/g-popup/div",
+    "/html/body/div/div[3]/dialog/div/button",
+    "/html/body/div/div[6]/div/div/div[3]/span/span/g-popup/div[2]/g-menu/g-menu-item/div/a",
+    "/html/body/div/div[6]/div/div/div[3]/span/span/g-popup/div[2]/g-menu/g-menu-item[2]/div/a",
+    "/html/body/div/div[6]/div/div/div[3]/span/span/g-popup/div[2]/g-menu/g-menu-item[3]/div/a",
+    "/html/body/div/div[6]/div/div/div[3]/span/span/g-popup/div[2]/g-menu/g-menu-item[4]/div/a",
+    "/html/body/div/div[6]/div/div/div[3]/span/span/g-popup/div[2]/g-menu/g-menu-item[5]/div/a"
+];
+
+highlightElementsByXPaths(xpathList);

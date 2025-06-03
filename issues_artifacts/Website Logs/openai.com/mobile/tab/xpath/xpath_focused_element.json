@@ -1,0 +1,1412 @@
+[
+    {
+        "IA2UniqueID": null,
+        "nvda_name": "MSN",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "READONLY (128)"
+        ],
+        "xpath": "/html/body/div/header/nav/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -653,
+        "nvda_name": "OpenAI Home",
+        "nvda_value": "https://openai.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/header/nav/div[2]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -656,
+        "nvda_name": "Open Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/span"
+    },
+    {
+        "IA2UniqueID": -709,
+        "nvda_name": "OpenAI",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[2]/div/div/div[2]/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -617,
+        "nvda_name": "Ask ChatGPT anything",
+        "nvda_value": "https://chatgpt.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[2]/div/div/div[2]/div/div/div/div[2]/form/div/input"
+    },
+    {
+        "IA2UniqueID": -634,
+        "nvda_name": "Ask ChatGPT anything",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[2]/div/div/div[3]/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -827,
+        "nvda_name": "12 Days of OpenAI",
+        "nvda_value": "https://openai.com/12-days/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[2]/div/div/div[4]/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -870,
+        "nvda_name": "Sora",
+        "nvda_value": "https://openai.com/sora/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[2]/div/div/div[4]/div/div/div/div[2]/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -878,
+        "nvda_name": "Learn more",
+        "nvda_value": "https://openai.com/sora/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[2]/div/div/div[5]/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -886,
+        "nvda_name": "OpenAI o1",
+        "nvda_value": "https://openai.com/o1/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[2]/div/div/div[6]/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -900,
+        "nvda_name": "ChatGPT on your desktop",
+        "nvda_value": "https://openai.com/chatgpt/desktop/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[3]/ol/li/button"
+    },
+    {
+        "IA2UniqueID": -917,
+        "nvda_name": "Show slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[3]/ol/li[2]/button"
+    },
+    {
+        "IA2UniqueID": -919,
+        "nvda_name": "Show slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[3]/ol/li[3]/button"
+    },
+    {
+        "IA2UniqueID": -921,
+        "nvda_name": "Show slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[3]/ol/li[4]/button"
+    },
+    {
+        "IA2UniqueID": -923,
+        "nvda_name": "Show slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[3]/ol/li[5]/button"
+    },
+    {
+        "IA2UniqueID": -925,
+        "nvda_name": "Show slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div/div/div/div/h2/a"
+    },
+    {
+        "IA2UniqueID": -932,
+        "nvda_name": "Products",
+        "nvda_value": "https://openai.com/chatgpt/overview/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[2]/a/div[2]/div/div"
+    },
+    {
+        "IA2UniqueID": -951,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -1013,
+        "nvda_name": "Introducing ChatGPT Pro",
+        "nvda_value": "https://openai.com/index/introducing-chatgpt-pro/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[5]/a"
+    },
+    {
+        "IA2UniqueID": -1042,
+        "nvda_name": "Introducing canvas, a new way to write and code with ChatGPT.",
+        "nvda_value": "https://openai.com/index/introducing-canvas/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[7]/a"
+    },
+    {
+        "IA2UniqueID": -1071,
+        "nvda_name": "ChatGPT",
+        "nvda_value": "https://openai.com/chatgpt/overview/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[8]/a"
+    },
+    {
+        "IA2UniqueID": -1086,
+        "nvda_name": "ChatGPT for teams",
+        "nvda_value": "https://openai.com/chatgpt/team/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[9]/a"
+    },
+    {
+        "IA2UniqueID": -1101,
+        "nvda_name": "ChatGPT for enterprise",
+        "nvda_value": "https://openai.com/chatgpt/enterprise/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[11]/a"
+    },
+    {
+        "IA2UniqueID": -1130,
+        "nvda_name": "ChatGPT Education",
+        "nvda_value": "https://openai.com/chatgpt/education/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[12]/a"
+    },
+    {
+        "IA2UniqueID": -1145,
+        "nvda_name": "Improvements to data analysis in ChatGPT",
+        "nvda_value": "https://openai.com/index/improvements-to-data-analysis-in-chatgpt/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[13]/a"
+    },
+    {
+        "IA2UniqueID": -1160,
+        "nvda_name": "ChatGPT can now see, hear, and speak",
+        "nvda_value": "https://openai.com/index/chatgpt-can-now-see-hear-and-speak/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[14]/a"
+    },
+    {
+        "IA2UniqueID": -1236,
+        "nvda_name": "Introducing the GPT Store",
+        "nvda_value": "https://openai.com/index/introducing-the-gpt-store/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div/div/div/div/h2/a"
+    },
+    {
+        "IA2UniqueID": -1258,
+        "nvda_name": "Research",
+        "nvda_value": "https://openai.com/research/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -1264,
+        "nvda_name": "Deliberative alignment: reasoning enables safer language models",
+        "nvda_value": "https://openai.com/index/deliberative-alignment/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[4]/a"
+    },
+    {
+        "IA2UniqueID": -1296,
+        "nvda_name": "OpenAI o1 System Card",
+        "nvda_value": "https://openai.com/index/openai-o1-system-card/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[5]/a"
+    },
+    {
+        "IA2UniqueID": -1313,
+        "nvda_name": "Learning to reason with LLMs",
+        "nvda_value": "https://openai.com/index/learning-to-reason-with-llms/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[6]/a"
+    },
+    {
+        "IA2UniqueID": -1330,
+        "nvda_name": "GPT-4o System Card",
+        "nvda_value": "https://openai.com/index/gpt-4o-system-card/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[8]/a"
+    },
+    {
+        "IA2UniqueID": -1364,
+        "nvda_name": "Improving Model Safety Behavior with Rule-Based Rewards",
+        "nvda_value": "https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[10]/a"
+    },
+    {
+        "IA2UniqueID": -1396,
+        "nvda_name": "Hello GPT-4o",
+        "nvda_value": "https://openai.com/index/hello-gpt-4o/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[11]/a"
+    },
+    {
+        "IA2UniqueID": -1413,
+        "nvda_name": "Sora",
+        "nvda_value": "https://openai.com/index/sora/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[12]/a"
+    },
+    {
+        "IA2UniqueID": -1490,
+        "nvda_name": "Building an early warning system for LLM-aided biological threat creation",
+        "nvda_value": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[14]/a"
+    },
+    {
+        "IA2UniqueID": -1520,
+        "nvda_name": "GPT-4",
+        "nvda_value": "https://openai.com/index/gpt-4-research/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[15]/a"
+    },
+    {
+        "IA2UniqueID": -1535,
+        "nvda_name": "GPT-4V(ision) system card",
+        "nvda_value": "https://openai.com/index/gpt-4v-system-card/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[4]/div/div/div/div/h2/a"
+    },
+    {
+        "IA2UniqueID": -1557,
+        "nvda_name": "For Business",
+        "nvda_value": "https://openai.com/business/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[4]/div[2]/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -1563,
+        "nvda_name": "OpenAI for Business",
+        "nvda_value": "https://openai.com/business/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[4]/div[2]/div/div/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -1577,
+        "nvda_name": "ChatGPT for enterprise",
+        "nvda_value": "https://openai.com/chatgpt/enterprise/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[4]/div[2]/div/div/div[4]/a"
+    },
+    {
+        "IA2UniqueID": -1592,
+        "nvda_name": "ChatGPT for teams",
+        "nvda_value": "https://openai.com/chatgpt/team/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[4]/div[2]/div/div/div[5]/a"
+    },
+    {
+        "IA2UniqueID": -1607,
+        "nvda_name": "API platform",
+        "nvda_value": "https://openai.com/api/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[4]/div[2]/div/div/div[6]/a"
+    },
+    {
+        "IA2UniqueID": -1622,
+        "nvda_name": "Contact sales",
+        "nvda_value": "https://openai.com/contact-sales/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[4]/div[2]/div/div/div[7]/a"
+    },
+    {
+        "IA2UniqueID": -1637,
+        "nvda_name": "New compliance and administrative tools for ChatGPT Enterprise",
+        "nvda_value": "https://openai.com/index/new-tools-for-chatgpt-enterprise/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[4]/div[2]/div/div/div[8]/a"
+    },
+    {
+        "IA2UniqueID": -1651,
+        "nvda_name": "ChatGPT can now see, hear, and speak",
+        "nvda_value": "https://openai.com/index/chatgpt-can-now-see-hear-and-speak/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div/div/div/div/h2/a"
+    },
+    {
+        "IA2UniqueID": -1734,
+        "nvda_name": "For Developers",
+        "nvda_value": "https://openai.com/api/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -1740,
+        "nvda_name": "OpenAI o1 and new tools for developers",
+        "nvda_value": "https://openai.com/index/o1-and-new-tools-for-developers/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -1757,
+        "nvda_name": "Introducing the Realtime API",
+        "nvda_value": "https://openai.com/index/introducing-the-realtime-api/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[4]/a"
+    },
+    {
+        "IA2UniqueID": -1774,
+        "nvda_name": "Introducing vision to the fine-tuning API",
+        "nvda_value": "https://openai.com/index/introducing-vision-to-the-fine-tuning-api/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[6]/a"
+    },
+    {
+        "IA2UniqueID": -1808,
+        "nvda_name": "Model Distillation in the API",
+        "nvda_value": "https://openai.com/index/api-model-distillation/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[8]/a"
+    },
+    {
+        "IA2UniqueID": -1841,
+        "nvda_name": "Introducing Structured Outputs in the API",
+        "nvda_value": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[9]/a"
+    },
+    {
+        "IA2UniqueID": -1857,
+        "nvda_name": "API platform",
+        "nvda_value": "https://openai.com/api/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[10]/a"
+    },
+    {
+        "IA2UniqueID": -1872,
+        "nvda_name": "Get up and running with our API (opens in a new window)",
+        "nvda_value": "https://platform.openai.com/docs/quickstart?context=python",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[12]/a"
+    },
+    {
+        "IA2UniqueID": -1906,
+        "nvda_name": "Let your imagination run wild (opens in a new window)",
+        "nvda_value": "https://platform.openai.com/playground?mode=chat",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[13]/a"
+    },
+    {
+        "IA2UniqueID": -1923,
+        "nvda_name": "Explore what\u2019s possible with the Cookbook (opens in a new window)",
+        "nvda_value": "https://cookbook.openai.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[6]/div/div/div/div/h2/a"
+    },
+    {
+        "IA2UniqueID": -1947,
+        "nvda_name": "Stories",
+        "nvda_value": "https://openai.com/news/stories/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[6]/div[2]/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -1953,
+        "nvda_name": "Delivering high-performance customer support",
+        "nvda_value": "https://openai.com/index/decagon/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[6]/div[2]/div/div/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -1967,
+        "nvda_name": "Building agent + human collaboration with GPT-4o",
+        "nvda_value": "https://openai.com/index/altera/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[6]/div[2]/div/div/div[4]/a"
+    },
+    {
+        "IA2UniqueID": -1981,
+        "nvda_name": "Minnesota\u2019s Enterprise Translation Office uses ChatGPT to bridge language gaps",
+        "nvda_value": "https://openai.com/index/state-of-minnesota/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[6]/div[2]/div/div/div[5]/a"
+    },
+    {
+        "IA2UniqueID": -1995,
+        "nvda_name": "Introducing Verdi, an AI dev platform powered by GPT-4o",
+        "nvda_value": "https://openai.com/index/mercado-libre/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[6]/div[2]/div/div/div[6]/a"
+    },
+    {
+        "IA2UniqueID": -2009,
+        "nvda_name": "Genmab launches \u201cAI Everywhere\u201d",
+        "nvda_value": "https://openai.com/index/genmab/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[6]/div[2]/div/div/div[7]/a"
+    },
+    {
+        "IA2UniqueID": -2023,
+        "nvda_name": "Using GPT-4 to improve teaching and learning in Brazil",
+        "nvda_value": "https://openai.com/index/arco-education/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[6]/div[2]/div/div/div[8]/a"
+    },
+    {
+        "IA2UniqueID": -2037,
+        "nvda_name": "Using GPT-4 to deliver a new customer service standard",
+        "nvda_value": "https://openai.com/index/ada/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[6]/div[2]/div/div/div[9]/a"
+    },
+    {
+        "IA2UniqueID": -2051,
+        "nvda_name": "Improving ecommerce data quality",
+        "nvda_value": "https://openai.com/index/lowes/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div/div/div/div/h2/a"
+    },
+    {
+        "IA2UniqueID": -2072,
+        "nvda_name": "News",
+        "nvda_value": "https://openai.com/news/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[2]/a/div[2]/div/div"
+    },
+    {
+        "IA2UniqueID": -2091,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[4]/a"
+    },
+    {
+        "IA2UniqueID": -2167,
+        "nvda_name": "Introducing canvas, a new way to write and code with ChatGPT.",
+        "nvda_value": "https://openai.com/index/introducing-canvas/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[6]/a"
+    },
+    {
+        "IA2UniqueID": -2196,
+        "nvda_name": "OpenAI and Apple announce partnership",
+        "nvda_value": "https://openai.com/index/openai-and-apple-announce-partnership/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[7]/a"
+    },
+    {
+        "IA2UniqueID": -2212,
+        "nvda_name": "Introducing the Model Spec",
+        "nvda_value": "https://openai.com/index/introducing-the-model-spec/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[8]/a"
+    },
+    {
+        "IA2UniqueID": -2228,
+        "nvda_name": "Global news partnerships: Le Monde and Prisa Media",
+        "nvda_value": "https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[9]/a/div[2]/div/div"
+    },
+    {
+        "IA2UniqueID": -2260,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[10]/a"
+    },
+    {
+        "IA2UniqueID": -2323,
+        "nvda_name": "Introducing improvements to the fine-tuning API and expanding our custom models program",
+        "nvda_value": "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[12]/a"
+    },
+    {
+        "IA2UniqueID": -2357,
+        "nvda_name": "Navigating the challenges and opportunities of synthetic voices",
+        "nvda_value": "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/section/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -2396,
+        "nvda_name": "Try ChatGPT (opens in a new window)",
+        "nvda_value": "https://chatgpt.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2410,
+        "nvda_name": "Index",
+        "nvda_value": "https://openai.com/news/research/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2417,
+        "nvda_name": "OpenAI o1-mini",
+        "nvda_value": "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -2421,
+        "nvda_name": "GPT-4o mini",
+        "nvda_value": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -2423,
+        "nvda_name": "DALL\u00b7E 3",
+        "nvda_value": "https://openai.com/index/dall-e-3/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div[2]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -2425,
+        "nvda_name": "Sora",
+        "nvda_value": "https://openai.com/index/sora/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[2]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2431,
+        "nvda_name": "For Everyone",
+        "nvda_value": "https://openai.com/chatgpt/overview/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[2]/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -2435,
+        "nvda_name": "For Enterprises",
+        "nvda_value": "https://openai.com/chatgpt/enterprise/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[2]/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -2437,
+        "nvda_name": "ChatGPT login (opens in a new window)",
+        "nvda_value": "https://chatgpt.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[2]/div/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -2441,
+        "nvda_name": "Download",
+        "nvda_value": "https://openai.com/chatgpt/download/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[2]/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2448,
+        "nvda_name": "Pricing",
+        "nvda_value": "https://openai.com/api/pricing/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[2]/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -2454,
+        "nvda_name": "API login (opens in a new window)",
+        "nvda_value": "https://platform.openai.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[2]/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2463,
+        "nvda_name": "Stories",
+        "nvda_value": "https://openai.com/news/stories/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[4]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2475,
+        "nvda_name": "About us",
+        "nvda_value": "https://openai.com/about/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[4]/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -2479,
+        "nvda_name": "Our Charter",
+        "nvda_value": "https://openai.com/charter/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[4]/div/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -2483,
+        "nvda_name": "Residency",
+        "nvda_value": "https://openai.com/residency/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[5]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2491,
+        "nvda_name": "Terms of use",
+        "nvda_value": "https://openai.com/policies/terms-of-use/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[5]/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -2494,
+        "nvda_name": "Brand guidelines",
+        "nvda_value": "https://openai.com/brand/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div[2]/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -2504,
+        "nvda_name": "X",
+        "nvda_value": "https://x.com/OpenAI",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div[2]/div[2]/a[3]"
+    },
+    {
+        "IA2UniqueID": -2510,
+        "nvda_name": "LinkedIn",
+        "nvda_value": "https://www.linkedin.com/company/openai",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div[2]/div[2]/a[5]"
+    },
+    {
+        "IA2UniqueID": -2516,
+        "nvda_name": "Instagram",
+        "nvda_value": "https://www.instagram.com/openai/?hl=en",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div[2]/div[2]/a[7]"
+    },
+    {
+        "IA2UniqueID": -477,
+        "nvda_name": "Bookmark this tab",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/a"
+    },
+    {
+        "IA2UniqueID": -656,
+        "nvda_name": "Open Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/header/nav/div[2]/div/div/button[2]"
+    },
+    {
+        "IA2UniqueID": -886,
+        "nvda_name": "OpenAI o1",
+        "nvda_value": "https://openai.com/o1/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[2]/div/div/div[5]/div/div/div/div[2]/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -925,
+        "nvda_name": "Show slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -1160,
+        "nvda_name": "ChatGPT can now see, hear, and speak",
+        "nvda_value": "https://openai.com/index/chatgpt-can-now-see-hear-and-speak/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/div/div[13]/a/div[2]/div/div"
+    },
+    {
+        "IA2UniqueID": -1258,
+        "nvda_name": "Research",
+        "nvda_value": "https://openai.com/research/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -1313,
+        "nvda_name": "Learning to reason with LLMs",
+        "nvda_value": "https://openai.com/index/learning-to-reason-with-llms/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[7]/a"
+    },
+    {
+        "IA2UniqueID": -1413,
+        "nvda_name": "Sora",
+        "nvda_value": "https://openai.com/index/sora/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[11]/a/div[2]/div/div"
+    },
+    {
+        "IA2UniqueID": -1426,
+        "nvda_name": "sora paper-airplanes",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[3]/div[2]/div/div/div[13]/a"
+    },
+    {
+        "IA2UniqueID": -1637,
+        "nvda_name": "New compliance and administrative tools for ChatGPT Enterprise",
+        "nvda_value": "https://openai.com/index/new-tools-for-chatgpt-enterprise/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[4]/div[2]/div/div/div[8]/a/div[2]/div/div"
+    },
+    {
+        "IA2UniqueID": -1757,
+        "nvda_name": "Introducing the Realtime API",
+        "nvda_value": "https://openai.com/index/introducing-the-realtime-api/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[5]/a"
+    },
+    {
+        "IA2UniqueID": -1791,
+        "nvda_name": "Prompt Caching in the API",
+        "nvda_value": "https://openai.com/index/api-prompt-caching/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[7]/a"
+    },
+    {
+        "IA2UniqueID": -1857,
+        "nvda_name": "API platform",
+        "nvda_value": "https://openai.com/api/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[5]/div[2]/div/div/div[11]/a"
+    },
+    {
+        "IA2UniqueID": -2167,
+        "nvda_name": "Introducing canvas, a new way to write and code with ChatGPT.",
+        "nvda_value": "https://openai.com/index/introducing-canvas/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[5]/a"
+    },
+    {
+        "IA2UniqueID": -2260,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[11]/a"
+    },
+    {
+        "IA2UniqueID": -2340,
+        "nvda_name": "OpenAI announces new members to board of directors",
+        "nvda_value": "https://openai.com/index/openai-announces-new-members-to-board-of-directors/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[7]/div[2]/div/div/div[13]/a"
+    },
+    {
+        "IA2UniqueID": -2373,
+        "nvda_name": "Democratic inputs to AI grant program: lessons learned and implementation plans",
+        "nvda_value": "https://openai.com/index/democratic-inputs-to-ai-grant-program-update/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2417,
+        "nvda_name": "OpenAI o1-mini",
+        "nvda_value": "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -2437,
+        "nvda_name": "ChatGPT login (opens in a new window)",
+        "nvda_value": "https://chatgpt.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[2]/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2463,
+        "nvda_name": "Stories",
+        "nvda_value": "https://openai.com/news/stories/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[3]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -2469,
+        "nvda_name": "Safety overview",
+        "nvda_value": "https://openai.com/safety/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[4]/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2477,
+        "nvda_name": "News",
+        "nvda_value": "https://openai.com/news/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[4]/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -2481,
+        "nvda_name": "Security",
+        "nvda_value": "https://openai.com/security-and-privacy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[4]/div/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -2491,
+        "nvda_name": "Terms of use",
+        "nvda_value": "https://openai.com/policies/terms-of-use/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[5]/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -2493,
+        "nvda_name": "Privacy policy",
+        "nvda_value": "https://openai.com/policies/privacy-policy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[5]/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -2496,
+        "nvda_name": "Other policies",
+        "nvda_value": "https://openai.com/policies/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div[2]/div[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -2507,
+        "nvda_name": "YouTube",
+        "nvda_value": "https://www.youtube.com/OpenAI",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div[2]/div[2]/a[4]"
+    },
+    {
+        "IA2UniqueID": -2513,
+        "nvda_name": "GitHub",
+        "nvda_value": "https://github.com/openai",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div[2]/div[2]/a[6]"
+    },
+    {
+        "IA2UniqueID": -2519,
+        "nvda_name": "TikTok",
+        "nvda_value": "https://www.tiktok.com/@openai?lang=en",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div[2]/div[3]/div/select"
+    },
+    {
+        "IA2UniqueID": -827,
+        "nvda_name": "12 Days of OpenAI",
+        "nvda_value": "https://openai.com/12-days/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div/div[2]/div/div/div[3]/div/div/div/div[2]/div[2]/a"
+    }
+]

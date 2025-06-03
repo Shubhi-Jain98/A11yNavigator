@@ -1,0 +1,17 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "IA2UniqueID": -1580307,
+            "xpath": "/html/body/header/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Skip to main content",
+            "nvda_value": "https://stackoverflow.com/questions#content",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

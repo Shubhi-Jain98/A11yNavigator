@@ -1,0 +1,1061 @@
+[
+    {
+        "IA2UniqueID": -100305,
+        "nvda_name": "Credit Card, Mortgage, Banking, Auto | Chase Online | Chase.com",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div/div/div/div/p/a"
+    },
+    {
+        "IA2UniqueID": -195956,
+        "nvda_name": "Chase.co.uk",
+        "nvda_value": "https://www.chase.co.uk/gb/en/?utm_source=jpmc&utm_medium=usbanner&utm_campaign=us_website_banner_redirect_homepage&pid=jpmc&af_channel=usbanner&c=us_website_banner_redirect_homepage",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[5]/div/div/header/section/div/section[2]/a"
+    },
+    {
+        "IA2UniqueID": -194721,
+        "nvda_name": "Chase logo, links to Chase home",
+        "nvda_value": "https://www.chase.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[5]/div/div/header/section/div/section[3]/a"
+    },
+    {
+        "IA2UniqueID": -195686,
+        "nvda_name": "Sign In",
+        "nvda_value": "https://secure.chase.com/web/auth/dashboard",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -100903,
+        "nvda_name": "Business",
+        "nvda_value": "https://www.chase.com/business",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -100907,
+        "nvda_name": "Credit cards",
+        "nvda_value": "https://creditcards.chase.com/?CELL=6TKX%20%20",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -100911,
+        "nvda_name": "Travel",
+        "nvda_value": "https://www.chase.com/personal/travel",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -100915,
+        "nvda_name": "Checking",
+        "nvda_value": "https://personal.chase.com/personal/checking",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -100919,
+        "nvda_name": "Savings",
+        "nvda_value": "https://www.chase.com/savings",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -100923,
+        "nvda_name": "Home loans",
+        "nvda_value": "https://www.chase.com/personal/mortgage",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -100927,
+        "nvda_name": "Auto",
+        "nvda_value": "https://autofinance.chase.com/auto-finance/home?offercode=WDXDPXXX01",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -100931,
+        "nvda_name": "Investments",
+        "nvda_value": "https://www.chase.com/personal/investments",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -100935,
+        "nvda_name": "Commercial",
+        "nvda_value": "https://www.jpmorgan.com/commercial-banking",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li[10]/a"
+    },
+    {
+        "IA2UniqueID": -100939,
+        "nvda_name": "Schedule a meeting",
+        "nvda_value": "https://www.chase.com/meeting-scheduler/getstarted",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[2]/div/section/nav/ul/li[11]/a"
+    },
+    {
+        "IA2UniqueID": -100943,
+        "nvda_name": "Free credit score",
+        "nvda_value": "https://www.chase.com/personal/credit-cards/free-credit-score",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[3]/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -101120,
+        "nvda_name": "Chase Freedom Unlimited Registered. Limited-time offer: Earn a $250 bonus, previously $200. Plus, earn unlimited 1.5% cash back or more on all purchases, including 3% on dining and drugstores \u2014 all with no annual fee. Learn more. Start of Topic End of Topic",
+        "nvda_value": "https://creditcards.chase.com/cash-back-credit-cards/chase-freedom-unlimited?CELL=6VFQ&jp_aid_a=T_52157&jp_aid_p=chasehome_3/trip1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[3]/div/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -101139,
+        "nvda_name": "Chase Secure Banking Service Mark. Enjoy $100 on us. For new Chase checking customers when you open a Chase Secure Banking account with qualifying transactions. Open an account. Start of Topic End of Topic",
+        "nvda_value": "https://account.chase.com/consumer/banking/secure?jp_aid_a=T_88088&jp_aid_p=chasehome_3/trip2",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[3]/div/div[3]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -101141,
+        "nvda_name": "J.P. Morgan. Don\u2019t go it alone. Partner with a J.P. Morgan Private Client Advisor, dedicated to helping you reach your individual investment goals. Continue. Start of Topic End of Topic",
+        "nvda_value": "https://www.chase.com/personal/investments/advisor-contact-form?jp_aid_a=T_90577&jp_aid_p=chasehome_3/trip3",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[4]/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -110490,
+        "nvda_name": "Start of Topic Get up to a $500 bonus for your new account Earn up to $500 with qualifying activities When you open a Chase Business Complete Checking\u00ae account with qualifying activities. For new business checking customers only. Open now End of Topic",
+        "nvda_value": "https://account.chase.com/consumer/business/NP67272?jp_aid_a=T_87764&jp_aid_p=chasehome_3/tile1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[5]/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -110537,
+        "nvda_name": "Start of Topic College students: This offer is for you Enjoy $100 As a new Chase checking customer, earn $100 when you open Chase College Checking\u2120 and complete 10 qualifying transactions. $0 Monthly Service Fee while in school (5 years maximum). Ages 17-24. Continue End of Topic",
+        "nvda_value": "https://account.chase.com/consumer/banking/studentLPchampion?jp_aid_a=T_60606&jp_aid_p=chasehome_3/tile2",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div[6]/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -110560,
+        "nvda_name": "Start of Topic Commission-free online trades \u2014 plus a bonus Get up to $700 This is your invitation to get up to $700 when you open a J.P. Morgan Self-Directed Investing account \u2014 a trading experience that puts you in control. Continue End of Topic",
+        "nvda_value": "https://account.chase.com/investing/self-directedoffer?jp_aid_a=T_89505&jp_aid_p=chasehome_3/tile3",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100664,
+        "nvda_name": "checking account",
+        "nvda_value": "https://personal.chase.com/personal/checking",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100665,
+        "nvda_name": "Chase Total Checking\u00ae",
+        "nvda_value": "https://account.chase.com/consumer/banking/seo",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[2]/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100671,
+        "nvda_name": "Open a savings account",
+        "nvda_value": "https://personal.chase.com/personal/savings",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[2]/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100672,
+        "nvda_name": "see interest rates",
+        "nvda_value": "https://www.chase.com/personal/savings/bank-cd",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[3]/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100677,
+        "nvda_name": "credit cards",
+        "nvda_value": "https://creditcards.chase.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[3]/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100678,
+        "nvda_name": "offer rewards",
+        "nvda_value": "https://creditcards.chase.com/rewards-credit-cards",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[3]/div/div[2]/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -100679,
+        "nvda_name": "cash back",
+        "nvda_value": "https://creditcards.chase.com/cash-back-credit-cards",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[3]/div/div[2]/p/a[4]"
+    },
+    {
+        "IA2UniqueID": -100680,
+        "nvda_name": "travel-related",
+        "nvda_value": "https://creditcards.chase.com/travel-credit-cards",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[3]/div/div[2]/p/a[5]"
+    },
+    {
+        "IA2UniqueID": -100681,
+        "nvda_name": "free credit score",
+        "nvda_value": "https://www.chase.com/personal/credit-cards/free-credit-score",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[4]/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100687,
+        "nvda_name": "mortgage",
+        "nvda_value": "https://www.chase.com/personal/mortgage",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[4]/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100688,
+        "nvda_name": "refinance your mortgage",
+        "nvda_value": "https://www.chase.com/personal/mortgage/mortgage-refinance",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[4]/div/div[2]/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -100689,
+        "nvda_name": "mortgage rates",
+        "nvda_value": "https://www.chase.com/personal/mortgage/mortgage-rates",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[4]/div/div[2]/p/a[4]"
+    },
+    {
+        "IA2UniqueID": -100690,
+        "nvda_name": "mortgage calculator",
+        "nvda_value": "https://www.chase.com/personal/mortgage/calculators-resources/mortgage-calculator",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[4]/div/div[2]/p/a[5]"
+    },
+    {
+        "IA2UniqueID": -100691,
+        "nvda_name": "Education Center",
+        "nvda_value": "https://www.chase.com/personal/mortgage/education",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[5]/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100697,
+        "nvda_name": "Chase Auto",
+        "nvda_value": "https://autofinance.chase.com/?offercode=WDXDPXXX02",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[5]/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100698,
+        "nvda_name": "auto financing",
+        "nvda_value": "https://autofinance.chase.com/auto-finance/auto-loans?offercode=WDXDPXXX02",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[5]/div/div[2]/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -100699,
+        "nvda_name": "payment calculator",
+        "nvda_value": "https://www.chase.com/personal/auto/payment-calculator",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[5]/div/div[2]/p/a[4]"
+    },
+    {
+        "IA2UniqueID": -100700,
+        "nvda_name": "Chase Auto Education Center",
+        "nvda_value": "https://www.chase.com/personal/auto/education?offercode=WDXDPXXX02",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[6]/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100706,
+        "nvda_name": "business checking",
+        "nvda_value": "https://www.chase.com/business/banking/checking",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[6]/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100707,
+        "nvda_name": "small business loans",
+        "nvda_value": "https://www.chase.com/business/banking/loans",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[6]/div/div[2]/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -100708,
+        "nvda_name": "business credit cards",
+        "nvda_value": "https://creditcards.chase.com/business-credit-cards",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[6]/div/div[2]/p/a[4]"
+    },
+    {
+        "IA2UniqueID": -100709,
+        "nvda_name": "merchant services",
+        "nvda_value": "https://www.chase.com/business/payments",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[6]/div/div[2]/p/a[5]"
+    },
+    {
+        "IA2UniqueID": -100710,
+        "nvda_name": "business resource center",
+        "nvda_value": "https://www.chase.com/business/knowledge-center",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[7]/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100715,
+        "nvda_name": "Invest on your own",
+        "nvda_value": "https://account.chase.com/investing/self-directedoffer",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[7]/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100716,
+        "nvda_name": "work with an advisor",
+        "nvda_value": "https://www.chase.com/personal/investments/advisor-services",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[7]/div/div[2]/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -100717,
+        "nvda_name": "products",
+        "nvda_value": "https://www.chase.com/personal/investments/product-overview",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[7]/div/div[2]/p/a[4]"
+    },
+    {
+        "IA2UniqueID": -100718,
+        "nvda_name": "technology",
+        "nvda_value": "https://www.chase.com/personal/investments/digital-capabilities",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[7]/div/div[2]/p/a[5]"
+    },
+    {
+        "IA2UniqueID": -100719,
+        "nvda_name": "investment education",
+        "nvda_value": "https://www.chase.com/personal/investments/learning-and-insights",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[7]/div/div[2]/p/a[6]"
+    },
+    {
+        "IA2UniqueID": -100720,
+        "nvda_name": "Wealth Management Branch",
+        "nvda_value": "https://jpmorganwealthmanagement.chase.com/advisor",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[7]/div/div[2]/p/a[7]"
+    },
+    {
+        "IA2UniqueID": -100721,
+        "nvda_name": "offers, promotions, and coupons",
+        "nvda_value": "https://account.chase.com/investing/self-directedoffer",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[8]/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100736,
+        "nvda_name": "no everyday banking fees",
+        "nvda_value": "https://www.chase.com/personal/checking/private-client#personalized-financial-relationship",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[8]/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100737,
+        "nvda_name": "dedicated team",
+        "nvda_value": "https://www.chase.com/personal/checking/private-client/team",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[8]/div/div[2]/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -100738,
+        "nvda_name": "special perks and benefits",
+        "nvda_value": "https://www.chase.com/personal/checking/private-client/perks",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[8]/div/div[2]/p/a[4]"
+    },
+    {
+        "IA2UniqueID": -100739,
+        "nvda_name": "Chase branch",
+        "nvda_value": "https://locator.chase.com/?locale=en_US",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[9]/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100757,
+        "nvda_name": "Chase online",
+        "nvda_value": "https://www.chase.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[9]/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100758,
+        "nvda_name": "Banking Education Center",
+        "nvda_value": "https://www.chase.com/personal/banking/education",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[9]/div/div[2]/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -100759,
+        "nvda_name": "Chase customer service",
+        "nvda_value": "https://www.chase.com/digital/customer-service",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[9]/div/div[2]/p/a[4]"
+    },
+    {
+        "IA2UniqueID": -100760,
+        "nvda_name": "Chase complaints and feedback",
+        "nvda_value": "https://www.chase.com/digital/resources/complaints-feedback",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[9]/div/div[2]/p/a[5]"
+    },
+    {
+        "IA2UniqueID": -100761,
+        "nvda_name": "Chase Community Reinvestment Act Public File",
+        "nvda_value": "https://www.chase.com/digital/resources/about-chase/cra-public-file",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[10]/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100767,
+        "nvda_name": "Chase Experiences",
+        "nvda_value": "https://www.chase.com/personal/events/experiences",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[10]/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100768,
+        "nvda_name": "US Open",
+        "nvda_value": "https://www.chase.com/personal/events/us-open",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[10]/div/div[2]/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -100769,
+        "nvda_name": "Madison Square Garden (Opens Overlay)",
+        "nvda_value": "https://www.msg.com/madison-square-garden",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[10]/div/div[2]/p/a[4]"
+    },
+    {
+        "IA2UniqueID": -100523,
+        "nvda_name": "Chase Center",
+        "nvda_value": "https://www.chase.com/personal/events/chase-center",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[11]/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -100775,
+        "nvda_name": "suite of security features",
+        "nvda_value": "https://www.chase.com/digital/resources/privacy-security",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[11]/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -100776,
+        "nvda_name": "help you protect",
+        "nvda_value": "https://www.chase.com/digital/resources/privacy-security/security/how-you-can-protect",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[11]/div/div[2]/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -100777,
+        "nvda_name": "protect you",
+        "nvda_value": "https://www.chase.com/digital/resources/privacy-security/security/how-we-protect-you",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[11]/div/div[2]/p/a[4]"
+    },
+    {
+        "IA2UniqueID": -100778,
+        "nvda_name": "financial abuse",
+        "nvda_value": "https://www.chase.com/digital/resources/privacy-security/financial-abuse",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[11]/div/div[2]/p/a[5]"
+    },
+    {
+        "IA2UniqueID": -100779,
+        "nvda_name": "learn about the common tricks scammers are using",
+        "nvda_value": "https://www.chase.com/digital/resources/privacy-security/security/how-to-spot-scams",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div/div/div[11]/div/div[2]/p/a[6]"
+    },
+    {
+        "IA2UniqueID": -100780,
+        "nvda_name": "report fraud",
+        "nvda_value": "https://www.chase.com/digital/resources/privacy-security/security/report-fraud",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -100784,
+        "nvda_name": "Deposit Account Agreements",
+        "nvda_value": "https://www.chase.com/personal/branch-disclosures",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -100786,
+        "nvda_name": "Mobile Banking",
+        "nvda_value": "https://www.chase.com/digital/mobile-banking",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -100788,
+        "nvda_name": "Online Banking",
+        "nvda_value": "https://www.chase.com/digital/online-banking",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -100790,
+        "nvda_name": "Student Center",
+        "nvda_value": "https://www.chase.com/personal/financial-goals/life-moments",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div/div[2]/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -100792,
+        "nvda_name": "Zelle\u00ae",
+        "nvda_value": "https://www.chase.com/personal/zelle",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/div/p[5]/a"
+    },
+    {
+        "IA2UniqueID": -100804,
+        "nvda_name": "FINRA (Opens Overlay)",
+        "nvda_value": "https://www.finra.org/#/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/div/p[5]/a[2]"
+    },
+    {
+        "IA2UniqueID": -100805,
+        "nvda_name": "SIPC (Opens Overlay)",
+        "nvda_value": "https://www.sipc.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -100810,
+        "nvda_name": "About Chase",
+        "nvda_value": "https://www.chase.com/digital/resources/about-chase",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -100812,
+        "nvda_name": "J.P. Morgan",
+        "nvda_value": "https://www.jpmorgan.com/global",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -100814,
+        "nvda_name": "JPMorgan Chase & Co.",
+        "nvda_value": "https://www.jpmorganchase.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -100816,
+        "nvda_name": "Media Center",
+        "nvda_value": "https://media.chase.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -100818,
+        "nvda_name": "Careers",
+        "nvda_value": "https://careers.jpmorgan.com/US/en/chase",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -100820,
+        "nvda_name": "Site map",
+        "nvda_value": "https://www.chase.com/digital/resources/sitemap",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -100822,
+        "nvda_name": "Privacy & Security",
+        "nvda_value": "https://www.chase.com/digital/resources/privacy-security",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -100824,
+        "nvda_name": "Terms of use",
+        "nvda_value": "https://www.chase.com/digital/resources/terms-of-use",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -100826,
+        "nvda_name": "Accessibility",
+        "nvda_value": "https://www.chase.com/digital/resources/accessibility",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[10]/a"
+    },
+    {
+        "IA2UniqueID": -100828,
+        "nvda_name": "AdChoices (Opens Overlay)",
+        "nvda_value": "https://youradchoices.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[11]/a"
+    },
+    {
+        "IA2UniqueID": -196021,
+        "nvda_name": "Chase.co.uk",
+        "nvda_value": "https://www.chase.co.uk/gb/en/?utm_source=jpmc&utm_medium=usbanner&utm_campaign=us_website_banner_redirect_homepage&pid=jpmc&af_channel=usbanner&c=us_website_banner_redirect_homepage",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/a"
+    },
+    {
+        "IA2UniqueID": -100530,
+        "nvda_name": "Skip to main content",
+        "nvda_value": "https://www.chase.com/#main",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -196023,
+        "nvda_name": "Close",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[5]/div/div/header/section/div/section/a"
+    },
+    {
+        "IA2UniqueID": -194719,
+        "nvda_name": "Open Side Menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div[2]/div/div[2]/div/div/div/div/div[3]/div/div/div[2]/div[4]/a"
+    },
+    {
+        "IA2UniqueID": -101173,
+        "nvda_name": "Open an account",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -100642,
+        "nvda_name": "\ue61c Facebook (Opens Overlay)",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -100645,
+        "nvda_name": "\ue620 Instagram (Opens Overlay)",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -100648,
+        "nvda_name": "\ue94c X, formerly Twitter (Opens Overlay)",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -100651,
+        "nvda_name": "\ue639 YouTube (Opens Overlay)",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -100654,
+        "nvda_name": "\ue625 LinkedIn (Opens Overlay)",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div/div[2]/ul/li[6]/a"
+    }
+]

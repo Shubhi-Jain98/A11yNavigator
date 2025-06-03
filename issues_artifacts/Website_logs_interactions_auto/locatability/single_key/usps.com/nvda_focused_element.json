@@ -1,0 +1,23 @@
+{
+    "IA2UniqueID": -33618,
+    "name": "USPS.com Search Bar",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "EDITABLE (67108864)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "description": "Search or Enter a Tracking Number",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "ARIA_DESCRIBED_BY (aria-describedby)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "Search USPS.com or Enter Tracking Number(s)"
+}

@@ -1,0 +1,510 @@
+{
+    "count of missing paths": 56,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/nav[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[1]/div[1]/a[1]",
+            "text": "Sign up for free",
+            "aria-label": "",
+            "id": "acop_link",
+            "placeholder": null,
+            "href": "https://zerodha.com/open-account"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "Our philosophies.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/about/philosophy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[4]/p[1]/a[1]",
+            "text": "Nudge",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://support.zerodha.com/category/trading-and-markets/kite-features/nudges/articles/what-is-nudge"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[4]/p[1]/a[2]",
+            "text": "Kill Switch",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://support.zerodha.com/category/console/profile/killswitch/articles/what-is-the-kill-switch"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/products"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "Explore our products",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/products"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[2]/p[1]/a[2]",
+            "text": "Try Kite demo",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://kite-demo.zerodha.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/media"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[3]/div[1]/p[1]/a[1]",
+            "text": "See pricing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/charges/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[4]/div[1]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/varsity/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[4]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Varsity",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/varsity"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[4]/div[1]/div[1]/div[2]/a[2]",
+            "text": "TradingQ&A",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://tradingqna.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/section[1]/div[1]/a[1]",
+            "text": "Sign up for free",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/open-account/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://twitter.com/zerodhaonline"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://facebook.com/zerodha.social"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://instagram.com/zerodhaonline/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://linkedin.com/company/zerodha"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[2]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.youtube.com/@zerodhaonline"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[2]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://whatsapp.com/channel/0029Va8tzF0EquiIIb9j791g"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[2]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://t.me/zerodhain"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "About",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/about/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Products",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/products/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Pricing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/pricing/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Referral programme",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/refer/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "Careers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://careers.zerodha.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[7]/a[1]",
+            "text": "Zerodha.tech",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.tech/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[8]/a[1]",
+            "text": "Open source",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/open-source/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[9]/a[1]",
+            "text": "Press & media",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/media/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[10]/a[1]",
+            "text": "Zerodha Cares (CSR)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/cares/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Contact us",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/contact/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Support portal",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://support.zerodha.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Z-Connect blog",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/z-connect/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "List of charges",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/charges/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[6]/a[1]",
+            "text": "Downloads & resources",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/resources/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[7]/a[1]",
+            "text": "Videos",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/videos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[8]/a[1]",
+            "text": "Market overview",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://stocks.zerodha.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[9]/a[1]",
+            "text": "How to file a complaint?",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://support.zerodha.com/category/your-zerodha-account/your-profile/ticket-creation/articles/how-do-i-create-a-ticket-at-zerodha"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[10]/a[1]",
+            "text": "Status of your complaints",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://support.zerodha.com/category/your-zerodha-account/your-profile/ticket-creation/articles/track-complaints-or-tickets"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+            "text": "Open an account",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/open-account/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[4]/ul[1]/li[3]/a[1]",
+            "text": "Fund transfer",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/fund-transfer/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "complaints@zerodha.com",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "mailto:complaints@zerodha.com"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[1]/a[2]",
+            "text": "dp@zerodha.com",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "mailto:dp@zerodha.com"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[2]/a[1]",
+            "text": "SEBI SCORES",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://scores.sebi.gov.in/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[3]/a[1]",
+            "text": "Smart Online Dispute Resolution",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://smartodr.in/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[3]/a[2]",
+            "text": "Grievances Redressal Mechanism",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha-common.s3.ap-south-1.amazonaws.com/Downloads-and-resources/Smart%20ODR%20info.pdf"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[6]/a[1]",
+            "text": "create a ticket here",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://support.zerodha.com/category/your-zerodha-account/your-profile/articles/how-do-i-place-a-complaint-at-zerodha"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "NSE",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://nseindia.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "BSE",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.bseindia.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "MCX",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.mcxindia.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Terms & conditions",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/terms-and-conditions/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "Policies & procedures",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/policies-and-procedures/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[7]/a[1]",
+            "text": "Disclosure",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/disclosure/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[8]/a[1]",
+            "text": "For investor's attention",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/investor-attention/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[9]/a[1]",
+            "text": "Investor charter",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/tos/investor-charter/"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/nav[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/div[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "menu_btn",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        }
+    ]
+}

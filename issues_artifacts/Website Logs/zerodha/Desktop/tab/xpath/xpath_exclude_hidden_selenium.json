@@ -1,0 +1,311 @@
+{
+    "count by default selenium driver": 82,
+    "total_count based on actionable selectors": 61,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/nav[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/nav[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Signup"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/nav[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "About"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/nav[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Products"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/nav[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Pricing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/nav[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Support"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[1]/div[1]/a[1]",
+            "text": "Sign up for free"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[4]/p[1]/a[1]",
+            "text": "Nudge"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[4]/p[1]/a[2]",
+            "text": "Kill Switch"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "Explore our products"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[2]/p[1]/a[2]",
+            "text": "Try Kite demo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[3]/div[1]/p[1]/a[1]",
+            "text": "See pricing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[4]/div[1]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[4]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Varsity"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[4]/div[1]/div[1]/div[2]/a[2]",
+            "text": "TradingQ&A"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/section[1]/div[1]/a[1]",
+            "text": "Sign up for free"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[2]/li[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[2]/li[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[2]/li[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "About"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Products"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Pricing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Referral programme"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "Careers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[7]/a[1]",
+            "text": "Zerodha.tech"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[8]/a[1]",
+            "text": "Open source"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[9]/a[1]",
+            "text": "Press & media"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[2]/ul[1]/li[10]/a[1]",
+            "text": "Zerodha Cares (CSR)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Contact us"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Support portal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Z-Connect blog"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "List of charges"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[6]/a[1]",
+            "text": "Downloads & resources"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[7]/a[1]",
+            "text": "Videos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[8]/a[1]",
+            "text": "Market overview"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[9]/a[1]",
+            "text": "How to file a complaint?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[3]/ul[1]/li[10]/a[1]",
+            "text": "Status of your complaints"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+            "text": "Open an account"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[1]/div[4]/ul[1]/li[3]/a[1]",
+            "text": "Fund transfer"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "complaints@zerodha.com"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[1]/a[2]",
+            "text": "dp@zerodha.com"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[2]/a[1]",
+            "text": "SEBI SCORES"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[3]/a[1]",
+            "text": "Smart Online Dispute Resolution"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[3]/a[2]",
+            "text": "Grievances Redressal Mechanism"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[6]/a[1]",
+            "text": "create a ticket here"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "NSE"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "BSE"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "MCX"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Terms & conditions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "Policies & procedures"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[6]/a[1]",
+            "text": "Privacy policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[7]/a[1]",
+            "text": "Disclosure"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[8]/a[1]",
+            "text": "For investor's attention"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[3]/ul[1]/li[9]/a[1]",
+            "text": "Investor charter"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/nav[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/div[1]",
+            "text": ""
+        }
+    ]
+}

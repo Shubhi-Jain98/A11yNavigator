@@ -1,0 +1,951 @@
+{
+    "count by default selenium driver": 1135,
+    "total_count based on actionable selectors": 189,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/a[1]",
+            "text": "Skip to main content"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/a[2]",
+            "text": "Stack Overflow"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/header[1]/div[1]/ol[1]/li[2]/button[1]",
+            "text": "Products"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/ol[1]/li[2]/button[1]",
+            "text": "Search"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/ol[1]/li[3]/a[1]",
+            "text": "Log in"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/ol[1]/li[4]/a[1]",
+            "text": "Sign up"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Ask Question"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Newest"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[2]",
+            "text": "Active"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/button[1]",
+            "text": "More"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/button[1]",
+            "text": "Filter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/h3[1]/a[1]",
+            "text": "DialogParentMessageReceived not triggering event handler after MessageChild method used to send message to dialog"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "office-js"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "outlook-web-addins"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Mani"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/h3[1]/a[1]",
+            "text": "Space-Saving Y-Axis on Faceted Chart"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "vega-lite"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "cwollett"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/h3[1]/a[1]",
+            "text": "Apple Silicon zsh: command not found after restart"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "macos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "terminal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "homebrew"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "zsh"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "George Heints"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/h3[1]/a[1]",
+            "text": "Excel VBA connect to postgres with run-time error at recordset.Open"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "excel"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "vba"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "postgresql"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "runtime-error"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "odbc"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "bejo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/h3[1]/a[1]",
+            "text": "Facing an issue with mapping configuration"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "quarkus"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "soheil_ptr"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/h3[1]/a[1]",
+            "text": "Image alt captions showing as 'undefined' on modal image"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "javascript"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "onclick"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "innerhtml"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "caption"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Louis Cairns"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/h3[1]/a[1]",
+            "text": "Download button in R shiny not responding"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "r"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "function"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "shiny"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "download"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "sutsabs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/h3[1]/a[1]",
+            "text": "Why isn't the create method in my custom manager working?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "django"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Jacob Torres"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/h3[1]/a[1]",
+            "text": "403 forbidden using websockets with spring boot"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "java"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "angular"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "spring"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "spring-boot"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "websocket"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Abas jama"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/h3[1]/a[1]",
+            "text": "Using LINQ extensions, how do I include multiple sub-details"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "linq"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Joe"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/h3[1]/a[1]",
+            "text": "SFTP Download Files From Directory"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "c#"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": ".net"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "powershell"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "ssh"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "sftp"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "user3147607"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/h3[1]/a[1]",
+            "text": "How to set the default JavaFX version when creating a JavaFX application"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "java"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "macos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "intellij-idea"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "javafx"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "yuchen han"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/h3[1]/a[1]",
+            "text": "You cannot access body after reading from request's data stream while reading JSON"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "python"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "json"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "django"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "django-rest-framework"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Sebastien D"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/h3[1]/a[1]",
+            "text": "How do I hide/show a <text> element within <g> giving a sibling elements width?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "javascript"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "css"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "reactjs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "svg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "gh0st"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/h3[1]/a[1]",
+            "text": "Power Pivot for Excel system error: Mismatch, Datatype conversion failed"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "excel"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "types"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "data-conversion"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "powerpivot"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "John Hendrick"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[1]",
+            "text": "15"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[2]",
+            "text": "30"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[3]",
+            "text": "50"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[1]",
+            "text": "2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[2]",
+            "text": "3"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[3]",
+            "text": "4"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[4]",
+            "text": "5"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[5]",
+            "text": "1616981"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[6]",
+            "text": "Next"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[2]/div[2]/a[1]",
+            "text": "Research roadmap update, February 2025"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[3]/div[2]/a[1]",
+            "text": "One quality every engineering manager should have? Empathy."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[5]/div[2]/a[1]",
+            "text": "Join us for our first community-wide AMA (Ask Me Anything) with Stack..."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[6]/div[2]/a[1]",
+            "text": "bigbird and Frog have joined us as Community Managers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[7]/div[2]/a[1]",
+            "text": "Stacks Editor development and testing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[8]/div[2]/a[1]",
+            "text": "Is it better to redirect users who attempt to perform actions they can't yet..."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[9]/div[2]/a[1]",
+            "text": "Policy: Generative AI (e.g., ChatGPT) is banned"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[1]/a[1]",
+            "text": "see all"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "Google Cloud"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "AWS"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[4]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "CI/CD"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[4]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[3]/div[2]/div[2]/button[1]",
+            "text": "Report this ad"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[1]/a[1]",
+            "text": "javascript"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[2]/a[1]",
+            "text": "python"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[3]/a[1]",
+            "text": "java"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[4]/a[1]",
+            "text": "c#"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[5]/a[1]",
+            "text": "php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[6]/a[1]",
+            "text": "android"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[7]/a[1]",
+            "text": "html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[8]/a[1]",
+            "text": "jquery"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[9]/a[1]",
+            "text": "c++"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[10]/a[1]",
+            "text": "css"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/a[1]",
+            "text": "more related tags"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/h4[1]/a[1]",
+            "text": "Hot Network Questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[1]/a[1]",
+            "text": "Should my paper cite my own personal blog if the paper is based on preliminary work originally published on the blog?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[2]/a[1]",
+            "text": "What was the most complete encoding for English before Unicode?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[3]/a[1]",
+            "text": "How can I transparently process std::vector of T and std::vector of std::shared_ptr<T> in a template?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[4]/a[1]",
+            "text": "Structuring multiple teams within an organisation"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[5]/a[1]",
+            "text": "Adding dedicated GFCI circuit, no room for neutral/ ground on bars"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[6]/a[1]",
+            "text": "Trig function inside Neural Network"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[7]/a[1]",
+            "text": "A weaker version of Rabin's irreducibility test for modular polynomials?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[8]/a[1]",
+            "text": "How does the ISS ammonia cooling loop compare to a ground-based ammonia cooling system?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[9]/a[1]",
+            "text": "How can I use GSX in Turbo Pascal for CP/M-80?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[10]/a[1]",
+            "text": "\"Ownership of\" vs \"ownership by\""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[11]/a[1]",
+            "text": "Lost eth0 device, instead I have \"enxb827ebe00d07\" How to fix this?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[12]/a[1]",
+            "text": "Does such chess proverb comparing Bishop and Knight exist?"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/a[1]",
+            "text": "more hot questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/h5[1]/a[1]",
+            "text": "STACK OVERFLOW"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Chat"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/h5[1]/a[1]",
+            "text": "PRODUCTS"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Teams"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Advertising"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Talent"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/h5[1]/a[1]",
+            "text": "COMPANY"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "About"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Press"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Work Here"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Legal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "Privacy Policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[6]/a[1]",
+            "text": "Terms of Service"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[7]/a[1]",
+            "text": "Contact Us"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[8]/button[1]",
+            "text": "Cookie Settings"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[9]/a[1]",
+            "text": "Cookie Policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/h5[1]/a[1]",
+            "text": "STACK EXCHANGE NETWORK"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Technology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Culture & recreation"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Life & arts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Science"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Professional"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "API"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "Data"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Blog"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Facebook"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Twitter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "LinkedIn"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Instagram"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "CC BY-SA"
+        }
+    ]
+}

@@ -1,0 +1,662 @@
+[
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/a[1]",
+        "text": "Skip to content",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/#main",
+        "number_of_keypresses": [
+            2,
+            11
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+        "text": "State of California",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.ca.gov/",
+        "number_of_keypresses": [
+            4,
+            13
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+        "text": "State of California Department of Motor Vehicles",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/",
+        "number_of_keypresses": [
+            6,
+            15
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[1]/a[1]",
+        "text": "REAL ID",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/",
+        "number_of_keypresses": [
+            7,
+            16
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]",
+        "text": "Online Services",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/dmv-online/",
+        "number_of_keypresses": [
+            8,
+            17,
+            63
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]",
+        "text": "Translate",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/#",
+        "number_of_keypresses": [
+            9,
+            18
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[4]/a[1]",
+        "text": "MyDMV",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/mydmv",
+        "number_of_keypresses": [
+            10,
+            19
+        ]
+    },
+    {
+        "tag_name": "button",
+        "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/button[1]",
+        "text": "Submit search form",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            24
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[1]/a[1]",
+        "text": "Vehicle Registration",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/#menu-item__sub-menu-0",
+        "number_of_keypresses": [
+            25
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]",
+        "text": "Driver's License & ID Cards",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/#menu-item__sub-menu-1",
+        "number_of_keypresses": [
+            26
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]",
+        "text": "Vehicle Industry Services",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/#menu-item__sub-menu-2",
+        "number_of_keypresses": [
+            27
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[4]/a[1]",
+        "text": "Driver Education & Safety",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/#menu-item__sub-menu-3",
+        "number_of_keypresses": [
+            28
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[5]/a[1]",
+        "text": "Appointments",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/appointments/",
+        "number_of_keypresses": [
+            29
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/header[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[6]/a[1]",
+        "text": "Locations",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/locations/",
+        "number_of_keypresses": [
+            30
+        ]
+    },
+    {
+        "tag_name": "button",
+        "xpath": "/body[1]/main[1]/div[1]/div[1]/div[3]/div[1]/button[1]",
+        "text": "1",
+        "aria-label": "Carousel Page 1",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            37
+        ]
+    },
+    {
+        "tag_name": "button",
+        "xpath": "/body[1]/main[1]/div[1]/div[1]/div[3]/div[1]/button[3]",
+        "text": "3",
+        "aria-label": "Carousel Page 3",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            37
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/a[1]",
+        "text": "Renew Registration",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-renewal/",
+        "number_of_keypresses": [
+            44
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/a[1]",
+        "text": "Renew Placard",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/dmv-virtual-office/dppp-renewal/",
+        "number_of_keypresses": [
+            48
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[1]",
+        "text": "Learn more",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/senior-drivers/",
+        "number_of_keypresses": [
+            53
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/a[1]",
+        "text": "Start your journey",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/teen-drivers/",
+        "number_of_keypresses": [
+            57
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/a[1]",
+        "text": "Login",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/mydmv/",
+        "number_of_keypresses": [
+            61
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/a[1]",
+        "text": "See all online services",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/dmv-online/",
+        "number_of_keypresses": [
+            65
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/a[1]",
+        "text": "Find a DMV partner near you",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/locations/business-partners/",
+        "number_of_keypresses": [
+            75
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[1]/div[1]/div[2]/div[2]/div[2]/a[1]",
+        "text": "Find a kiosk near you",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/locations/kiosks/",
+        "number_of_keypresses": [
+            79
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[1]/a[1]",
+        "text": "View the New to California guide",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/new-to-california/",
+        "number_of_keypresses": [
+            98
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[2]/div[2]/div[1]/div[2]/div[1]/p[1]/a[1]",
+        "text": "View the Teen Driver guide",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/teen-drivers/",
+        "number_of_keypresses": [
+            103
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[2]/div[2]/div[1]/div[3]/div[1]/p[1]/a[1]",
+        "text": "View the Senior Drivers guide",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/senior-drivers/",
+        "number_of_keypresses": [
+            108
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[2]/div[2]/div[1]/div[4]/div[1]/p[1]/a[1]",
+        "text": "View the People With Disabilities guide",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/people-with-disabilities/",
+        "number_of_keypresses": [
+            113
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[2]/div[2]/div[1]/div[5]/div[1]/p[1]/a[1]",
+        "text": "View the Veterans & Active Military guide",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/veterans-and-active-duty-military/",
+        "number_of_keypresses": [
+            118
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[2]/div[2]/div[1]/div[6]/div[1]/p[1]/a[1]",
+        "text": "View the Motorcyclists guide",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/motorcyclists-guide/",
+        "number_of_keypresses": [
+            122
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[2]/div[2]/div[1]/div[7]/div[1]/p[1]/a[1]",
+        "text": "View the Truck Drivers guide",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/truck-drivers/",
+        "number_of_keypresses": [
+            126
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[2]/div[2]/div[1]/div[8]/div[1]/p[1]/a[1]",
+        "text": "View the Boat & Vessel Owners guide",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/boat-vessel-owners/",
+        "number_of_keypresses": [
+            130
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/section[2]/div[2]/div[1]/div[9]/div[1]/p[1]/a[1]",
+        "text": "View the Bicyclists & Pedestrians guide",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/bicyclists-pedestrians/",
+        "number_of_keypresses": [
+            134
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+        "text": "About DMV",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/about-the-california-department-of-motor-vehicles/",
+        "number_of_keypresses": [
+            136
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]",
+        "text": "Privacy Policy",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/privacy-and-security/",
+        "number_of_keypresses": [
+            137
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+        "text": "Conditions of Use",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/conditions-of-use/",
+        "number_of_keypresses": [
+            138
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
+        "text": "Site Map",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/site-map/",
+        "number_of_keypresses": [
+            139
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+        "text": "Accessibility",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/accessibility/",
+        "number_of_keypresses": [
+            140
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]",
+        "text": "Forms",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.dmv.ca.gov/portal/forms/",
+        "number_of_keypresses": [
+            141
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+        "text": "Logo",
+        "aria-label": "Follow California DMV on Facebook",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.facebook.com/CADMV",
+        "number_of_keypresses": [
+            142
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/a[1]",
+        "text": "Logo",
+        "aria-label": "Follow California DMV on X",
+        "id": "",
+        "placeholder": null,
+        "href": "https://x.com/ca_dmv",
+        "number_of_keypresses": [
+            143
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+        "text": "Logo",
+        "aria-label": "Follow California DMV on Youtube",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.youtube.com/user/CaliforniaDMV",
+        "number_of_keypresses": [
+            144
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
+        "text": "Logo",
+        "aria-label": "Follow California DMV on Instagram",
+        "id": "",
+        "placeholder": null,
+        "href": "https://instagram.com/ca_dmv/",
+        "number_of_keypresses": [
+            145
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/footer[1]/div[2]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+        "text": "Logo",
+        "aria-label": "Follow California DMV on LinkedIn",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.linkedin.com/company/ca-department-of-motor-vehicles",
+        "number_of_keypresses": [
+            146
+        ]
+    },
+    {
+        "tag_name": "input",
+        "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[2]/input[1]",
+        "text": "",
+        "aria-label": "",
+        "id": "site-header-search-input",
+        "placeholder": "Search here...",
+        "href": "",
+        "number_of_keypresses": [
+            21
+        ]
+    },
+    {
+        "tag_name": "input",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/center[1]/form[1]/input[1]",
+        "text": "",
+        "aria-label": "",
+        "id": "usertext",
+        "placeholder": "Start here",
+        "href": "",
+        "number_of_keypresses": [
+            39
+        ]
+    },
+    {
+        "tag_name": "button",
+        "xpath": "/body[1]/main[1]/div[1]/div[1]/div[3]/button[1]",
+        "text": "",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            36
+        ]
+    },
+    {
+        "tag_name": "button",
+        "xpath": "/body[1]/main[1]/div[1]/div[1]/div[3]/div[1]/button[4]",
+        "text": "4",
+        "aria-label": "Carousel Page 4 (Current Slide)",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            37
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[2]/div[1]/figure[1]/div[1]/lite-youtube[1]/a[1]",
+        "text": "Completing your vehicle registration has never been easier!\n0:15",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            45,
+            45,
+            58,
+            58,
+            62,
+            62,
+            66,
+            66
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[3]/div[1]/figure[1]/div[1]/lite-youtube[1]/a[1]",
+        "text": "Tips To Pass Your Driving Test\n5:26",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            45,
+            45,
+            58,
+            58,
+            62,
+            62,
+            66,
+            66
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[3]/div[2]/figure[1]/div[1]/lite-youtube[1]/a[1]",
+        "text": "Enjoy a New MyDMV Experience with Garage feature\n1:33",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            45,
+            45,
+            58,
+            58,
+            62,
+            62,
+            66,
+            66
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[3]/div[3]/figure[1]/div[1]/lite-youtube[1]/a[1]",
+        "text": "Skip the trip to the DMV office!\n0:15",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            45,
+            45,
+            58,
+            58,
+            62,
+            62,
+            66,
+            66
+        ]
+    }
+]

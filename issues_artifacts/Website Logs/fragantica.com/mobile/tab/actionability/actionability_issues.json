@@ -1,0 +1,16 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "IA2UniqueID": -1624030,
+            "xpath": "/html/body/div[2]/div[2]/div[4]/div[12]/button",
+            "nvda_role": "BUTTON (9)",
+            "nvda_name": "Privacy Manager",
+            "nvda_value": null,
+            "nvda_states": [
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,641 @@
+{
+    "count by default selenium driver": 192,
+    "total_count based on actionable selectors": 70,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/a[1]",
+            "text": "Skip to main content",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/#main-content"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "U.S. Department of Health & Human Services",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.hhs.gov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/form[1]/input[2]",
+            "text": "",
+            "aria-label": "",
+            "id": "query",
+            "placeholder": "Search NIH",
+            "href": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/form[1]/input[3]",
+            "text": "Search",
+            "aria-label": "",
+            "id": "",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Virtual Tour",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/virtual-tour"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/header[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "En Espa\u00f1ol",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://salud.nih.gov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[1]/a[1]",
+            "text": "Health Information",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/health-information"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[1]/a[1]",
+            "text": "Grants & Funding",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/grants-funding"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[1]/a[1]",
+            "text": "News & Events",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/news-events"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[1]/a[1]",
+            "text": "Research & Training",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/research-training"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/div[1]/a[1]",
+            "text": "Institutes at NIH",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/institutes-nih"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/div[1]/a[1]",
+            "text": "About NIH",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/about-nih"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[2]/h3[1]/a[1]",
+            "text": "75 Years of Advancing Neuroscience",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.ninds.nih.gov/about-ninds/75th-anniversary"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[2]/p[2]/a[1]",
+            "text": "Learn more \u00bb",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.ninds.nih.gov/about-ninds/75th-anniversary"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[1]/a[1]",
+            "text": "1",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[2]/a[1]",
+            "text": "2",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[3]/a[1]",
+            "text": "3",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[4]/a[1]",
+            "text": "4",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[5]/a[1]",
+            "text": "5",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/a[1]",
+            "text": "Cancer Incidence",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/news-events/news-releases/incidence-rates-some-cancer-types-have-risen-people-under-age-50"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/h4[1]/a[1]",
+            "text": "Understanding Alzheimer\u2019s",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/news-events/nih-research-matters/new-biomarker-tracks-cognitive-decline-alzheimer-s-disease"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/h4[1]/a[1]",
+            "text": "Inherited Blinding Diseases",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/news-events/news-releases/repurposing-blood-pressure-drug-may-prevent-vision-loss-inherited-blinding-diseases"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/h4[1]/a[1]",
+            "text": "Smoking Cessation",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/news-events/nih-research-matters/smoking-cessation-pill-may-help-youth-quit-vaping"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "virtual-tour-screenshot-square.jpg",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/about-nih/virtual-tour-screenshot-square.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/h4[1]/a[1]",
+            "text": "Take the Virtual Tour",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/virtual-tour"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "jay-bhattacharya-thumb.jpg",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/nih-director/jay-bhattacharya-thumb.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/h4[1]/a[1]",
+            "text": "NIH Director",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/about-nih/who-we-are/nih-director"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "nih-at-a-glance-funding.jpg",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/glance/nih-glance-funding.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/h4[1]/a[1]",
+            "text": "Funding for Research",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "http://grants.nih.gov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "nih-at-a-glance-labs.jpg",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/glance/nih-glance-labs.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/h4[1]/a[1]",
+            "text": "Labs at NIH",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "http://irp.nih.gov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "improving-health-collage.jpg",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/impact/improving-health-collage.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[5]/h4[1]/a[1]",
+            "text": "Impact of NIH Research",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/about-nih/what-we-do/impact-nih-research"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "researcher-holding-petri-dish.jpg",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/about-nih/researcher-holding-petri-dish.jpg"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[6]/h4[1]/a[1]",
+            "text": "Jobs at NIH",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "http://www.jobs.nih.gov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/a[1]",
+            "text": "NIH HEAL Initiative",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://heal.nih.gov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/h4[1]/a[1]",
+            "text": "Clinical Trials",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/health-information/nih-clinical-research-trials-you"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[3]/h4[1]/a[1]",
+            "text": "Accelerating Medicines Partnership",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/research-training/accelerating-medicines-partnership-amp"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[4]/h4[1]/a[1]",
+            "text": "Medical Research Initiatives",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/research-training/medical-research-initiatives"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[5]/h4[1]/a[1]",
+            "text": "Training at NIH",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/research-training/training-opportunities"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[6]/h4[1]/a[1]",
+            "text": "RECOVER\n(link is external)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://recovercovid.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Contact Us",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/about-nih/contact-us"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "X\n(link is external)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://twitter.com/NIH"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Facebook\n(link is external)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.facebook.com/nih.gov"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Instagram\n(link is external)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.instagram.com/nihgov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "YouTube\n(link is external)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.youtube.com/user/nihod"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Flickr\n(link is external)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.flickr.com/photos/nihgov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "More Social Media from NIH",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/news-events/social-media-outreach"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[1]/a[1]",
+            "text": "NIH Home",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[2]/a[1]",
+            "text": "Virtual Tour",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/virtual-tour"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[3]/a[1]",
+            "text": "En Espa\u00f1ol",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://salud.nih.gov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[4]/a[1]",
+            "text": "Visitor Information",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/about-nih/visitor-information"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[5]/a[1]",
+            "text": "Frequently Asked Questions",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/about-nih/frequently-asked-questions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[6]/a[1]",
+            "text": "Privacy Policy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/privacy-policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[7]/a[1]",
+            "text": "Disclaimers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/disclaimers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[8]/a[1]",
+            "text": "Accessibility",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/accessibility"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[1]/li[9]/a[1]",
+            "text": "NIH Website Archives",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/nih-website-archives"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[1]/a[1]",
+            "text": "Nondiscrimination Notice",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/nondiscrimination-notice"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[2]/a[1]",
+            "text": "Freedom of Information Act",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[3]/a[1]",
+            "text": "No Fear Act",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://eeo.nih.gov/no-fear-act"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[4]/a[1]",
+            "text": "HHS Vulnerability Disclosure\n(link is external)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[5]/a[1]",
+            "text": "Office of Inspector General\n(link is external)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://oig.hhs.gov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/ul[2]/li[6]/a[1]",
+            "text": "USA.gov\n(link is external)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usa.gov/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[1]/div[3]/footer[1]/p[3]/a[1]",
+            "text": "U.S. Department of Health and Human Services\n(link is external)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.hhs.gov/"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        }
+    ]
+}

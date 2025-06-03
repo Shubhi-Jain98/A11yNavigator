@@ -1,0 +1,1548 @@
+{
+    "count by default selenium driver": 167,
+    "total_count based on actionable selectors": 161,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/a[1]",
+            "text": "Skip to main content",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/#main"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/a[1]",
+            "text": "ScienceDirect home page",
+            "aria-label": "ScienceDirect home page",
+            "id": "gh-branding",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[4]/div[1]/button[1]",
+            "text": "Toggle mobile menu",
+            "aria-label": "Toggle mobile menu",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/h2[1]/a[1]",
+            "text": "open access",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/#open-access"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/input[1]",
+            "text": "Find articles with these terms",
+            "aria-label": "Find articles with these terms",
+            "id": "qs",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]/div[1]/input[1]",
+            "text": "In this journal or book title",
+            "aria-label": "In this journal or book title",
+            "id": "pub",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[3]/div[1]/input[1]",
+            "text": "Author(s)",
+            "aria-label": "Author(s)",
+            "id": "authors",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[2]/a[1]",
+            "text": "Advanced search",
+            "aria-label": "Open advanced search",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/search/entry?origin=home&zone=qSearch"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[2]/button[1]",
+            "text": "Search",
+            "aria-label": "Submit quick search",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Explore ScienceDirect AI",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://elsevier.shorthandstories.com/sciencedirect-ai/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[1]/button[1]",
+            "text": "ScienceDirect AI slide",
+            "aria-label": "ScienceDirect AI slide",
+            "id": "tab-0",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[2]/button[1]",
+            "text": "Confidence in research slide",
+            "aria-label": "Confidence in research slide",
+            "id": "tab-1",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[3]/button[1]",
+            "text": "Climate change slide",
+            "aria-label": "Climate change slide",
+            "id": "tab-2",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[1]/button[1]",
+            "text": "Physical Sciences and Engineering",
+            "aria-label": "",
+            "id": "168834-accordion-tab-0",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[2]/button[1]",
+            "text": "Life Sciences",
+            "aria-label": "",
+            "id": "168834-accordion-tab-1",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[3]/button[1]",
+            "text": "Health Sciences",
+            "aria-label": "",
+            "id": "168834-accordion-tab-2",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]/div[1]/ol[1]/li[4]/button[1]",
+            "text": "Social Sciences and Humanities",
+            "aria-label": "",
+            "id": "168834-accordion-tab-3",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "A",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/a"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "B",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/b"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "C",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/c"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "D",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/d"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "E",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/e"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "F",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/f"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[7]/a[1]",
+            "text": "G",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/g"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[8]/a[1]",
+            "text": "H",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/h"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[9]/a[1]",
+            "text": "I",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/i"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[10]/a[1]",
+            "text": "J",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/j"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[11]/a[1]",
+            "text": "K",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/k"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[12]/a[1]",
+            "text": "L",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/l"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[13]/a[1]",
+            "text": "M",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/m"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[14]/a[1]",
+            "text": "N",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/n"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[15]/a[1]",
+            "text": "O",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/o"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[16]/a[1]",
+            "text": "P",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/p"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[17]/a[1]",
+            "text": "Q",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/q"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[18]/a[1]",
+            "text": "R",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/r"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[19]/a[1]",
+            "text": "S",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/s"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[20]/a[1]",
+            "text": "T",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/t"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[21]/a[1]",
+            "text": "U",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/u"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[22]/a[1]",
+            "text": "V",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/v"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[23]/a[1]",
+            "text": "W",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/w"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[24]/a[1]",
+            "text": "X",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/x"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[25]/a[1]",
+            "text": "Y",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/y"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[26]/a[1]",
+            "text": "Z",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/z"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[27]/a[1]",
+            "text": "0-9",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books/0-9"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "list of full open access journals and books",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?accessType=openAccess"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "publications with open access articles (includes hybrid journals)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?accessType=openAccess&accessType=containsOpenAccess"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Elsevier\u2019s open access publishing choices",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/openaccess"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Help",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://service.elsevier.com/app/home/supporthub/sciencedirect/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Online video tutorials",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://service.elsevier.com/app/answers/detail/a_id/10263/supporthub/sciencedirect/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Privacy principles",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/about/policies-and-standards/privacy-principles"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Accessibility",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://service.elsevier.com/app/answers/detail/a_id/37160/supporthub/sciencedirect/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Content syndication on ScienceDirect",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/org"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Create and manage alerts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/user/alerts/journal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Receive personalized recommendations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/research-recommendations"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Browse by topic",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/topics"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "Elsevier Connect",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/connect"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Publish with Elsevier",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/authors"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Scopus",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/online-tools/scopus"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Mendeley",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.mendeley.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[1]/a[1]",
+            "text": "Elsevier home page (opens in a new tab)",
+            "aria-label": "Elsevier home page (opens in a new tab)",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "About ScienceDirect",
+            "aria-label": "",
+            "id": "els-footer-about-science-direct",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/solutions/sciencedirect"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Remote access",
+            "aria-label": "",
+            "id": "els-footer-remote-access",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/user/institution/login?targetURL=%2F"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Advertise",
+            "aria-label": "",
+            "id": "els-footer-advertise",
+            "placeholder": null,
+            "href": "https://www.elsmediakits.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Contact and support",
+            "aria-label": "",
+            "id": "els-footer-contact-support",
+            "placeholder": null,
+            "href": "https://service.elsevier.com/app/contact/supporthub/sciencedirect/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Terms and conditions",
+            "aria-label": "",
+            "id": "els-footer-terms-condition",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/legal/elsevier-website-terms-and-conditions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Privacy policy",
+            "aria-label": "",
+            "id": "els-footer-privacy-policy",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/legal/privacy-policy"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/p[1]/button[1]",
+            "text": "Cookie settings",
+            "aria-label": "",
+            "id": "ot-sdk-btn",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[3]/a[1]",
+            "text": "RELX home page (opens in a new tab)",
+            "aria-label": "RELX home page (opens in a new tab)",
+            "id": "els-footer-relx",
+            "placeholder": null,
+            "href": "https://www.relx.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "http://www.lib.uci.edu/",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "gh-journals-books-link",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[2]/ul[1]/li[1]/div[1]/div[1]/div[1]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "gh-myaccount-btn",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/user/login?targetURL=%2F&from=globalheader",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[3]/div[1]/div[1]/button[1]",
+            "text": "Institutional Access",
+            "aria-label": "Institutional Access",
+            "id": "gh-inst-icon-btn",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[2]/button[1]/span[1]/span[1]",
+            "text": "Search",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[1]",
+            "text": "Explore ScienceDirect AI",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://confidenceinresearch.elsevier.com/",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/connect/net-zero-report",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[1]/button[1]/span[1]/span[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[2]/button[1]/span[1]/span[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[3]/button[1]/span[1]/span[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/#chemical-engineering",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/#agricultural-and-biological-sciences",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/#medicine-and-dentistry",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/#arts-and-humanities",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "chemical-engineering",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=chemical-engineering",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "chemistry",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=chemistry",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "computer-science",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=computer-science",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "earth-and-planetary-sciences",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=earth-and-planetary-sciences",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "energy",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=energy",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "engineering",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=engineering",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[7]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "materials-science",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=materials-science",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[8]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "mathematics",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=mathematics",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[9]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "physics-and-astronomy",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=physics-and-astronomy",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Physical Sciences and Engineering journals and books",
+            "aria-label": "Physical Sciences and Engineering journals and books",
+            "id": "physical-sciences-and-engineering-link",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=physical-sciences-and-engineering",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S2090123221001491",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S2666603022000136",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S0957417424010339",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/energy-conversion-and-management/vol/336/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/flow-measurement-and-instrumentation/vol/104/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/control-engineering-practice/vol/157/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/user/register",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "agricultural-and-biological-sciences",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=agricultural-and-biological-sciences",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "biochemistry-genetics-and-molecular-biology",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=biochemistry-genetics-and-molecular-biology",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "environmental-science",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=environmental-science",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "immunology-and-microbiology",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=immunology-and-microbiology",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "neuroscience",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=neuroscience",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Life Sciences journals and books",
+            "aria-label": "Life Sciences journals and books",
+            "id": "life-sciences-link",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=life-sciences",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S0960982214003145",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S0014579309010850",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S0960982213004181",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/cell-stress-and-chaperones/vol/30/issue/3",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/cancer-letters/vol/624/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/neuroscience/vol/576/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/user/register",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "medicine-and-dentistry",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=medicine-and-dentistry",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "nursing-and-health-professions",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=nursing-and-health-professions",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "pharmacology-toxicology-and-pharmaceutical-science",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=pharmacology-toxicology-and-pharmaceutical-science",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "veterinary-science-and-veterinary-medicine",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=veterinary-science-and-veterinary-medicine",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Health Sciences journals and books",
+            "aria-label": "Health Sciences journals and books",
+            "id": "health-sciences-link",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=health-sciences",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S0213911108753470",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S1043661820315152",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S0014579309010850",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/resuscitation/vol/211/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/thrombosis-research/vol/250/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/clinical-imaging/vol/122/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/user/register",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "arts-and-humanities",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=arts-and-humanities",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "business-management-and-accounting",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=business-management-and-accounting",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "decision-sciences",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=decision-sciences",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "economics-econometrics-and-finance",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=economics-econometrics-and-finance",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "psychology",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=psychology",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "social-sciences",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=social-sciences",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Social Sciences and Humanities journals and books",
+            "aria-label": "Social Sciences and Humanities journals and books",
+            "id": "social-sciences-and-humanities-link",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/browse/journals-and-books?subject=social-sciences-and-humanities",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S0148296319304564",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S0213911108753470",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/science/article/pii/S2666412722000137",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/cognition/vol/261/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/research-in-transportation-business-and-management/vol/60/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/journal/neuropsychologia/vol/212/suppl/C",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.sciencedirect.com/user/register",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/legal/cookienotice",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/div[2]/a[2]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://support.google.com/admanager/answer/9012903",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/div[2]/a[3]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.elsevier.com/legal/privacy-policy",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "accept-recommended-btn-handler",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/section[1]/div[1]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/section[1]/div[1]/div[2]/div[1]/button[1]",
+            "text": "Strictly Necessary Cookies - Cookie Details List",
+            "aria-label": "Strictly Necessary Cookies - Cookie Details List",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/section[1]/div[2]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/section[1]/div[2]/div[2]/div[1]/button[1]",
+            "text": "Functional Cookies - Cookie Details List",
+            "aria-label": "Functional Cookies - Cookie Details List",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/section[1]/div[3]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/section[1]/div[3]/div[2]/div[1]/button[1]",
+            "text": "Performance Cookies - Cookie Details List",
+            "aria-label": "Performance Cookies - Cookie Details List",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/section[1]/div[4]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[2]/section[1]/div[4]/div[2]/div[1]/button[1]",
+            "text": "Targeting Cookies - Cookie Details List",
+            "aria-label": "Targeting Cookies - Cookie Details List",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/button[1]",
+            "text": "Back",
+            "aria-label": "Back",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[2]/div[2]/button[1]",
+            "text": "Filter",
+            "aria-label": "Filter",
+            "id": "filter-btn-handler",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[2]/section[1]/div[1]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "clear-filters-handler",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[2]/section[1]/div[1]/div[2]/div[2]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "filter-apply-handler",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/section[1]/div[1]/div[2]/section[1]/div[1]/div[2]/div[2]/button[2]",
+            "text": "",
+            "aria-label": "",
+            "id": "filter-cancel-handler",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/div[1]/div[3]/div[2]/a[1]",
+            "text": "Powered by OneTrust Opens in a new Tab",
+            "aria-label": "Powered by OneTrust Opens in a new Tab",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.onetrust.com/products/cookie-consent/",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/button[1]",
+            "text": "Feedback",
+            "aria-label": "Feedback",
+            "id": "_pendo-badge_9BcFvkCLLiElWp6hocDK3ZG6Z4E",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        }
+    ]
+}

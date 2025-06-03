@@ -1,0 +1,20 @@
+(function(){
+  var u = document.URL,a=u.match(/samsung_beusably_viewer=([^&#]*)/),b=u.match(/samsung_staging_viewer=([^&#]*)/);
+  if(a&&a[1]) { __beusablerumclient__.load("//samsung.beusably.net/script/" + a[1]); } else if(b&&b[1]) { __beusablerumclient__.load("//staging-samsung.beusably.net/script/" + (b&&b[1])); }else {
+    if(!window['__samsungrumclient__']) window.__samsungrumclient__ = {load : function(src){ var b = document.createElement("script"); b.src = src; b.defer=true; b.type = "text/javascript"; document.getElementsByTagName("head")[0].appendChild(b); }};
+    (function(){
+    __samsungrumclient__.sid='56e427737d';__samsungrumclient__._code_v=2;__samsungrumclient__.samplingRate=100;
+    __samsungrumclient__.device='desktop';
+    __samsungrumclient__.aid='';
+    __samsungrumclient__._timeout==null ? __samsungrumclient__._timeout=100 : '';
+    window['require'] && typeof require === 'function' && typeof require.specified === 'function' ? __samsungrumclient__.load('//samsungscript.beusable.net/rum.v1.0.0.withrequire.min.js') : __samsungrumclient__.load('//samsungscript.beusable.net/rum.v1.0.0.min.js');
+  })();
+      (function () {
+        window.__baclient__ = {_code_v:2, load:__beusablerumclient__.load, device: "desktop"};
+        var a="//script.beusable.net/ba.v1.0.0.min.js",b="//script.beusable.net/bapv.v1.0.0.min.js";
+        __baclient__.sid="f7f94f69d5";__baclient__.rootDomain="samsung.com";__baclient__.samplingRate=100;__baclient__.baApplies=[];__baclient__.beuCustomId="digitalData.page.pageInfo.pageTrack";__baclient__.beuCustomUserId=null;__baclient__.load(a);
+        
+      })()
+    
+  }
+  })()

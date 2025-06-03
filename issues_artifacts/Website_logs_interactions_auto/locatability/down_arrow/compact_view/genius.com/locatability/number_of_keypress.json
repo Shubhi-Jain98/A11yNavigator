@@ -1,0 +1,61 @@
+[
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
+        "text": "Terms of Use",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://openai.com/policies/terms-of-use/",
+        "number_of_keypresses": [
+            235
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
+        "text": "Privacy Policy",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://openai.com/policies/privacy-policy/",
+        "number_of_keypresses": [
+            226
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[1]",
+        "text": "(opens in a new window)",
+        "aria-label": "X",
+        "id": "",
+        "placeholder": null,
+        "href": "https://x.com/OpenAI",
+        "number_of_keypresses": [
+            261
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[3]/ul[1]/li[1]/a[1]",
+        "text": "News",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://openai.com/news/",
+        "number_of_keypresses": [
+            27,
+            30,
+            33,
+            36,
+            127,
+            130,
+            139,
+            142,
+            145,
+            154,
+            157,
+            160
+        ]
+    }
+]

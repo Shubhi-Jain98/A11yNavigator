@@ -1,0 +1,305 @@
+[
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/a[1]",
+            "text": "About"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "About",
+            "location": {
+                "x": 21,
+                "y": 17
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/a[2]",
+            "text": "Store"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Store",
+            "location": {
+                "x": 78,
+                "y": 17
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Gmail"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Gmail",
+            "location": {
+                "x": 1019,
+                "y": 18
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Images"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Google apps"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 1125,
+                "y": 10
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Sign in"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "textarea",
+            "xpath": "/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[2]/textarea[1]",
+            "text": "Search"
+        },
+        "focused_element_properties": {
+            "tag_name": "textarea",
+            "text": "",
+            "location": {
+                "x": 401,
+                "y": 260
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]",
+            "text": "Search by voice"
+        },
+        "focused_element_properties": {
+            "tag_name": "div",
+            "text": "",
+            "location": {
+                "x": 849,
+                "y": 260
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[3]",
+            "text": "Search by image"
+        },
+        "focused_element_properties": {
+            "tag_name": "div",
+            "text": "",
+            "location": {
+                "x": 889,
+                "y": 260
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[3]/center[1]/input[1]",
+            "text": "Google Search"
+        },
+        "focused_element_properties": {
+            "tag_name": "input",
+            "text": "",
+            "location": {
+                "x": 505,
+                "y": 335
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[3]/center[1]/input[2]",
+            "text": "I'm Feeling Lucky"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Advertising"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Advertising",
+            "location": {
+                "x": 20,
+                "y": 686
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Business"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Business",
+            "location": {
+                "x": 119,
+                "y": 686
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/a[3]",
+            "text": "How Search works"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "How Search works",
+            "location": {
+                "x": 206,
+                "y": 686
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Our third decade of climate action: join us"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Our third decade of climate action: join us",
+            "location": {
+                "x": 492,
+                "y": 686
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[6]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Privacy"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Privacy",
+            "location": {
+                "x": 1046,
+                "y": 686
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[6]/div[1]/div[1]/div[3]/a[2]",
+            "text": "Terms"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Terms",
+            "location": {
+                "x": 1122,
+                "y": 686
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[6]/div[1]/div[1]/div[3]/span[1]/span[1]/g-popup[1]/div[1]",
+            "text": "Settings"
+        },
+        "focused_element_properties": {
+            "tag_name": "div",
+            "text": "Settings",
+            "location": {
+                "x": 1190,
+                "y": 686
+            }
+        },
+        "focus_verification": null
+    }
+]

@@ -1,0 +1,1041 @@
+{
+    "count by default selenium driver": 117,
+    "total_count based on actionable selectors": 115,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/picture[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[1]/a[1]",
+            "text": "KJV Standard",
+            "aria-label": "",
+            "id": "nav1",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]",
+            "text": "KJV 1611",
+            "aria-label": "",
+            "id": "nav2",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1611-Bible/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[3]/a[1]",
+            "text": "Mobile",
+            "aria-label": "",
+            "id": "nav3",
+            "placeholder": null,
+            "href": "https://m.kingjamesbibleonline.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[4]/a[1]",
+            "text": "Bible Trivia",
+            "aria-label": "",
+            "id": "nav4",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Bible-Trivia-Questions/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[5]/a[1]",
+            "text": "Discussion",
+            "aria-label": "",
+            "id": "nav4",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/All-Discussion/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[6]/a[1]",
+            "text": "More...",
+            "aria-label": "",
+            "id": "nav5",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Sitemap.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Sign In",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/my-account/sign-in.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a[1]",
+            "text": "(Advanced)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/search-advanced.php"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/span[1]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": "Search words or verses...",
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/form[1]/button[1]",
+            "text": "Search",
+            "aria-label": "Search",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[1]/a[1]",
+            "text": "(Index)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Bible-Books/"
+        },
+        {
+            "tag_name": "select",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/select[1]",
+            "text": "Genesis\n   Exodus\n   Leviticus\n   Numbers\n   Deuteronomy\n   Joshua\n   Judges\n   Ruth\n   1 Samuel\n   2 Samuel\n   1 Kings\n   2 Kings\n   1 Chronicles\n   2 Chronicles\n   Ezra\n   Nehemiah\n   Esther\n   Job\n   Psalms\n   Proverbs\n   Ecclesiastes\n   Song of Solomon\n   Isaiah\n   Jeremiah\n   Lamentations\n   Ezekiel\n   Daniel\n   Hosea\n   Joel\n   Amos\n   Obadiah\n   Jonah\n   Micah\n   Nahum\n   Habakkuk\n   Zephaniah\n   Haggai\n   Zechariah\n   Malachi\n   ----------------------\n   Matthew\n   Mark\n   Luke\n   John\n   Acts\n   Romans\n   1 Corinthians\n   2 Corinthians\n   Galatians\n   Ephesians\n   Philippians\n   Colossians\n   1 Thessalonians\n   2 Thessalonians\n   1 Timothy\n   2 Timothy\n   Titus\n   Philemon\n   Hebrews\n   James\n   1 Peter\n   2 Peter\n   1 John\n   2 John\n   3 John\n   Jude\n   Revelation",
+            "aria-label": "",
+            "id": "books",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "select",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[2]/select[1]",
+            "text": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50",
+            "aria-label": "",
+            "id": "chapters",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "select",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[3]/select[1]",
+            "text": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31",
+            "aria-label": "",
+            "id": "verses",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[2]/form[1]/button[1]",
+            "text": "Find",
+            "aria-label": "Find",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Verse of the Day",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/verse-of-day.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[2]/p[1]/a[1]",
+            "text": "\u201cRejoicing in hope; patient in tribulation; continuing instant in prayer;\u201d\nRomans 12:12 (KJV)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/verse-of-day.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Genesis",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Genesis-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Exodus",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Exodus-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Leviticus",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Leviticus-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Numbers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Numbers-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Deuteronomy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Deuteronomy-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Joshua",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Joshua-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "Judges",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Judges-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "Ruth",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Ruth-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[9]/a[1]",
+            "text": "1 Samuel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1-Samuel-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[10]/a[1]",
+            "text": "2 Samuel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/2-Samuel-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[11]/a[1]",
+            "text": "1 Kings",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1-Kings-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[12]/a[1]",
+            "text": "2 Kings",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/2-Kings-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[13]/a[1]",
+            "text": "1 Chronicles",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1-Chronicles-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[14]/a[1]",
+            "text": "2 Chronicles",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/2-Chronicles-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[15]/a[1]",
+            "text": "Ezra",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Ezra-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[16]/a[1]",
+            "text": "Nehemiah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Nehemiah-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[17]/a[1]",
+            "text": "Esther",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Esther-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[18]/a[1]",
+            "text": "Job",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Job-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[19]/a[1]",
+            "text": "Psalms",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Psalms-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[20]/a[1]",
+            "text": "Proverbs",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Proverbs-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[21]/a[1]",
+            "text": "Ecclesiastes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Ecclesiastes-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[22]/a[1]",
+            "text": "Song of Solomon",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Song-of-Solomon-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[23]/a[1]",
+            "text": "Isaiah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Isaiah-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[24]/a[1]",
+            "text": "Jeremiah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Jeremiah-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[25]/a[1]",
+            "text": "Lamentations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Lamentations-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[26]/a[1]",
+            "text": "Ezekiel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Ezekiel-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[27]/a[1]",
+            "text": "Daniel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Daniel-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[28]/a[1]",
+            "text": "Hosea",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Hosea-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[29]/a[1]",
+            "text": "Joel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Joel-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[30]/a[1]",
+            "text": "Amos",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Amos-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[31]/a[1]",
+            "text": "Obadiah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Obadiah-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[32]/a[1]",
+            "text": "Jonah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Jonah-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[33]/a[1]",
+            "text": "Micah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Micah-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[34]/a[1]",
+            "text": "Nahum",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Nahum-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[35]/a[1]",
+            "text": "Habakkuk",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Habakkuk-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[36]/a[1]",
+            "text": "Zephaniah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Zephaniah-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[37]/a[1]",
+            "text": "Haggai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Haggai-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[38]/a[1]",
+            "text": "Zechariah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Zechariah-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[39]/a[1]",
+            "text": "Malachi",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Malachi-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Matthew",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Matthew-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Mark",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Mark-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Luke",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Luke-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "John",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/John-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Acts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Acts-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Romans",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Romans-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "1 Corinthians",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1-Corinthians-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "2 Corinthians",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/2-Corinthians-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[9]/a[1]",
+            "text": "Galatians",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Galatians-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[10]/a[1]",
+            "text": "Ephesians",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Ephesians-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[11]/a[1]",
+            "text": "Philippians",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Philippians-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[12]/a[1]",
+            "text": "Colossians",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Colossians-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[1]/a[1]",
+            "text": "1 Thessalonians",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1-Thessalonians-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[2]/a[1]",
+            "text": "2 Thessalonians",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/2-Thessalonians-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[3]/a[1]",
+            "text": "1 Timothy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1-Timothy-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[4]/a[1]",
+            "text": "2 Timothy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/2-Timothy-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[5]/a[1]",
+            "text": "Titus",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Titus-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[6]/a[1]",
+            "text": "Philemon",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Philemon-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[7]/a[1]",
+            "text": "Hebrews",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Hebrews-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[8]/a[1]",
+            "text": "James",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/James-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[9]/a[1]",
+            "text": "1 Peter",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1-Peter-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[10]/a[1]",
+            "text": "2 Peter",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/2-Peter-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[11]/a[1]",
+            "text": "1 John",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1-John-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[12]/a[1]",
+            "text": "2 John",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/2-John-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[13]/a[1]",
+            "text": "3 John",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/3-John-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[14]/a[1]",
+            "text": "Jude",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Jude-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/ul[2]/li[15]/a[1]",
+            "text": "Revelation",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Revelation-Chapter-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/strong[1]/a[1]",
+            "text": "KJV Standard",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/index.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "KJV 1611",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1611-Bible/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "KJV Introduction",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/1769-King-James-Bible-Introduction/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "KJV Apocrypha",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Apocrypha-Books/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "KJV Mobile Site",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://m.kingjamesbibleonline.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "KJV Store",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/King-James-Bible-Store/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/strong[1]/a[1]",
+            "text": "Bible Trivia Questions",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Bible-Trivia-Questions/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Verse of the Day",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/verse-of-day.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Inspirational Images",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Inspirational-Images/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Popular Bible Verses",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Popular-Bible-Verses.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Bible Verses by Topic",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Bible-Verses/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "Bible Stories",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/bible-stories/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[7]/a[1]",
+            "text": "Bible in a Year Reading",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Bible-in-Year.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[8]/a[1]",
+            "text": "Bible Commentaries",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/bible-commentaries/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Bible Questions",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Bible-Questions/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Bible Discussion",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Bible-Discussion/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Christian Testimonies",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Share-Testimony/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Add KJV to your Website",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Add-Bible-to-Your-Website.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Bible in a Year Reading",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Bible-in-Year.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "King James Bible Store",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/King-James-Bible-Store/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "Donate or Volunteer",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Donate.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "Become a Christian",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/become-a-christian.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "About KJV",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/King-James-Version/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "About KJV English",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/King-James-Bible-English/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "About Website",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/About.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "FAQ",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/FAQ.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Sitemap",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Sitemap.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "Contact Us",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Contact_Us.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Privacy Policy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/Privacy-Policy.php"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.facebook.com/KingJamesBibleOnline"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[2]/div[1]/div[3]/a[1]",
+            "text": "\u25b2 Top",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.kingjamesbibleonline.org/#top"
+        }
+    ]
+}

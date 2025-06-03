@@ -1,0 +1,85 @@
+[
+    {
+        "IA2UniqueID": -590,
+        "nvda_name": "Credit Card, Mortgage, Banking, Auto | Chase Online | Chase.com",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div/div/div/div/p/a",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -640,
+        "nvda_name": "Chase.co.uk",
+        "nvda_value": "https://www.chase.co.uk/gb/en/?utm_source=jpmc&utm_medium=usbanner&utm_campaign=us_website_banner_redirect_homepage&pid=jpmc&af_channel=usbanner&c=us_website_banner_redirect_homepage",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div/div[2]/a",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -642,
+        "nvda_name": "Close",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[4]/div/div/header/section[2]/section/section/nav/ul/li/a",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -658,
+        "nvda_name": "Personal , selected",
+        "nvda_value": "https://www.chase.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[4]/div/div/header/section[2]/section/section/nav/ul/li[2]/a",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -661,
+        "nvda_name": "Business",
+        "nvda_value": "https://www.chase.com/business",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[4]/div/div/header/section[2]/section/section/nav/ul/li[3]/a",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -663,
+        "nvda_name": "Commercial",
+        "nvda_value": "https://www.jpmorgan.com/commercial-banking",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[4]/div/div/header/section[2]/section/section[2]/nav/ul/li/a",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -666,
+        "nvda_name": "Schedule a meeting",
+        "nvda_value": "https://www.chase.com/meeting-scheduler/getstarted",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[4]/div/div/header/section[2]/section/section[2]/nav/ul/li[2]/a",
+        "key_interactions": 6
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "IA2UniqueID": -536,
+        "nvda_name": "Welcome | USPS",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -615,
+        "nvda_name": "Skip to Main Content",
+        "nvda_value": "https://www.usps.com/#endnav",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -540,
+        "nvda_name": "Current language: English",
+        "nvda_value": "https://www.usps.com/#",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/a[4]"
+    },
+    {
+        "IA2UniqueID": -537,
+        "nvda_name": "Locations",
+        "nvda_value": "https://tools.usps.com/locations/?_gl=1*1rzf4sx*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/a[5]"
+    },
+    {
+        "IA2UniqueID": -541,
+        "nvda_name": "Support",
+        "nvda_value": "https://www.usps.com/help/contact-us.htm",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/a[6]"
+    },
+    {
+        "IA2UniqueID": -538,
+        "nvda_name": "Informed Delivery",
+        "nvda_value": "https://informeddelivery.usps.com/?_gl=1*1rzf4sx*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/a[7]"
+    },
+    {
+        "IA2UniqueID": -551,
+        "nvda_name": "Register / Sign In",
+        "nvda_value": "https://reg.usps.com/entreg/LoginAction_input?app=Phoenix&appURL=https://www.usps.com/&_gl=1*1rzf4sx*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -621,
+        "nvda_name": "Image of USPS.com logo.",
+        "nvda_value": "https://www.usps.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[2]/div/nav/ul/li/a[2]"
+    },
+    {
+        "IA2UniqueID": -553,
+        "nvda_name": "Quick Tools",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[2]/div/nav/ul/li[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -554,
+        "nvda_name": "Send",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[2]/div/nav/ul/li[3]/a[2]"
+    },
+    {
+        "IA2UniqueID": -555,
+        "nvda_name": "Receive",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[2]/div/nav/ul/li[4]/a[2]"
+    },
+    {
+        "IA2UniqueID": -556,
+        "nvda_name": "Shop",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[2]/div/nav/ul/li[5]/a[2]"
+    },
+    {
+        "IA2UniqueID": -557,
+        "nvda_name": "Business",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[2]/div/nav/ul/li[6]/a[2]"
+    },
+    {
+        "IA2UniqueID": -558,
+        "nvda_name": "International",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[2]/div/nav/ul/li[7]/a[2]"
+    },
+    {
+        "IA2UniqueID": -559,
+        "nvda_name": "Help",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[2]/div/nav/ul/li[8]/a[2]"
+    },
+    {
+        "IA2UniqueID": -560,
+        "nvda_name": "Search USPS.com",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[2]/div/div[2]/form/span/div/input"
+    },
+    {
+        "IA2UniqueID": -595,
+        "nvda_name": "Enter Search term for Search USPS.com",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div[2]/div/div[2]/form/span/div/input[2]"
+    },
+    {
+        "IA2UniqueID": -753,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[2]/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -757,
+        "nvda_name": "None",
+        "nvda_value": "https://www.usps.com/#",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -758,
+        "nvda_name": "Sign Up for Free",
+        "nvda_value": "https://informeddelivery.usps.com/?_gl=1*1pn6scj*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/p[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -585,
+        "nvda_name": "Sign In",
+        "nvda_value": "https://reg.usps.com/informeddelivery/login?_gl=1*1pn6scj*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div/div/div/div/form/span/div/input"
+    },
+    {
+        "IA2UniqueID": -567,
+        "nvda_name": "USPS.com Search Bar",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div/div/div/div/form/span/div/div/button"
+    },
+    {
+        "IA2UniqueID": -545,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -759,
+        "nvda_name": "Printer Icon Link for Click-N-Ship",
+        "nvda_value": "https://cns.usps.com/?_gl=1*w0varp*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div/div/div/div[2]/div/h3/a"
+    },
+    {
+        "IA2UniqueID": -587,
+        "nvda_name": "Click-N-Ship\u00ae",
+        "nvda_value": "https://cns.usps.com/?_gl=1*w0varp*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div/div/div/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -760,
+        "nvda_name": "Stamp Icon Link for Buy Stamps",
+        "nvda_value": "https://store.usps.com/?_gl=1*w0varp*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div/div/div/div[3]/div/h3/a"
+    },
+    {
+        "IA2UniqueID": -590,
+        "nvda_name": "Stamps & Supplies",
+        "nvda_value": "https://store.usps.com/?_gl=1*w0varp*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div/div/div/div[4]/div/a"
+    },
+    {
+        "IA2UniqueID": -761,
+        "nvda_name": "Mail Carrier Icon Link for Informed Delivery",
+        "nvda_value": "https://informeddelivery.usps.com/?_gl=1*w0varp*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div/div/div/div[4]/div/h3/a"
+    },
+    {
+        "IA2UniqueID": -592,
+        "nvda_name": "Informed Delivery\u00ae",
+        "nvda_value": "https://informeddelivery.usps.com/?_gl=1*1bykw8p*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[7]/div/div[2]/div[2]/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -762,
+        "nvda_name": "Buy Love Forever Stamps Now",
+        "nvda_value": "https://store.usps.com/store/product/love-2025-stamps-S_581804?_gl=1*1bykw8p*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..#content",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[7]/div/div[3]/div[2]/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -763,
+        "nvda_name": "Order Now",
+        "nvda_value": "https://store.usps.com/store/results/free-shipping-supplies/shipping-supplies/_/N-alnx4jZ7d0v8v?_gl=1*1bykw8p*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..#content",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[7]/div/div[4]/div[2]/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -764,
+        "nvda_name": "Learn More about mailing your tax returns",
+        "nvda_value": "https://www.usps.com/taxes",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[7]/div/div[5]/div[2]/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -765,
+        "nvda_name": "Schedule an Appointment for Passport Services",
+        "nvda_value": "https://tools.usps.com/rcas.htm?_gl=1*1bykw8p*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[7]/div/div[6]/div[2]/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -766,
+        "nvda_name": "Go Now for PO Box Online Services",
+        "nvda_value": "https://www.usps.com/manage/po-boxes.htm",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div/div/div/div/div/div/div/p[3]/a"
+    },
+    {
+        "IA2UniqueID": -767,
+        "nvda_name": "Shop Now",
+        "nvda_value": "https://store.usps.com/store/stamps/forever/_/N-1uq0tor?_gl=1*6ij9x8*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..#content",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -768,
+        "nvda_name": "Previous Slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[9]/div/div/div/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -769,
+        "nvda_name": "Next Slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[11]/div/div[2]/div/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -770,
+        "nvda_name": "Find Out More",
+        "nvda_value": "https://about.usps.com/careers/?_gl=1*6ij9x8*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[11]/div/div[2]/div[2]/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -771,
+        "nvda_name": "Learn What You Need To Do",
+        "nvda_value": "https://www.usps.com/international/new-eu-customs-rules.htm",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/a"
+    },
+    {
+        "IA2UniqueID": -772,
+        "nvda_name": "None",
+        "nvda_value": "https://www.usps.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol/li/ol/li/a"
+    },
+    {
+        "IA2UniqueID": -773,
+        "nvda_name": "Contact Us",
+        "nvda_value": "https://www.usps.com/help/contact-us.htm",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol/li/ol/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -774,
+        "nvda_name": "Site Index",
+        "nvda_value": "https://www.usps.com/globals/site-index.htm",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol/li/ol/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -775,
+        "nvda_name": "FAQs",
+        "nvda_value": "https://faq.usps.com/s/?_gl=1*1jpn69s*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol/li/ol/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -776,
+        "nvda_name": "Feedback",
+        "nvda_value": "https://www.usps.com/#",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol/li/ol/li[5]/ol/li/a"
+    },
+    {
+        "IA2UniqueID": -777,
+        "nvda_name": "Careers",
+        "nvda_value": "https://about.usps.com/careers/?_gl=1*1fysvnb*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li/ol/li/a"
+    },
+    {
+        "IA2UniqueID": -778,
+        "nvda_name": "About USPS Home",
+        "nvda_value": "https://about.usps.com/?_gl=1*1fysvnb*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li/ol/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -779,
+        "nvda_name": "Newsroom",
+        "nvda_value": "https://about.usps.com/newsroom/?_gl=1*1fysvnb*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li/ol/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -780,
+        "nvda_name": "USPS Service Updates",
+        "nvda_value": "https://about.usps.com/newsroom/service-alerts/?_gl=1*s0mmh7*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li/ol/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -781,
+        "nvda_name": "Forms & Publications",
+        "nvda_value": "https://about.usps.com/resources/?_gl=1*s0mmh7*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li/ol/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -782,
+        "nvda_name": "Government Services",
+        "nvda_value": "https://about.usps.com/what/government-services/?_gl=1*s0mmh7*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[2]/ol/li/a"
+    },
+    {
+        "IA2UniqueID": -783,
+        "nvda_name": "Business Customer Gateway",
+        "nvda_value": "https://gateway.usps.com/?_gl=1*s0mmh7*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[2]/ol/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -784,
+        "nvda_name": "Postal Inspectors",
+        "nvda_value": "https://www.uspis.gov/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[2]/ol/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -785,
+        "nvda_name": "Inspector General",
+        "nvda_value": "https://www.uspsoig.gov/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[2]/ol/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -786,
+        "nvda_name": "Postal Explorer",
+        "nvda_value": "https://pe.usps.com/?_gl=1*1pz0vpq*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[2]/ol/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -787,
+        "nvda_name": "National Postal Museum",
+        "nvda_value": "https://postalmuseum.si.edu/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[2]/ol/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -788,
+        "nvda_name": "Resources for Developers",
+        "nvda_value": "https://www.usps.com/business/web-tools-apis/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[2]/ol/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -789,
+        "nvda_name": "PostalPro",
+        "nvda_value": "https://postalpro.usps.com/?_gl=1*1pz0vpq*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[3]/ol/li/a"
+    },
+    {
+        "IA2UniqueID": -790,
+        "nvda_name": "Privacy Policy",
+        "nvda_value": "https://about.usps.com/who/legal/privacy-policy/?_gl=1*94vle*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[3]/ol/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -791,
+        "nvda_name": "Terms of Use",
+        "nvda_value": "https://about.usps.com/who/legal/terms-of-use.htm?_gl=1*94vle*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[3]/ol/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -792,
+        "nvda_name": "FOIA",
+        "nvda_value": "https://about.usps.com/who/legal/foia/?_gl=1*94vle*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[3]/ol/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -793,
+        "nvda_name": "No FEAR Act/EEO Contacts",
+        "nvda_value": "https://about.usps.com/who/legal/no-fear-act/?_gl=1*94vle*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[3]/ol/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -794,
+        "nvda_name": "Fair Chance Act",
+        "nvda_value": "https://about.usps.com/who/legal/fair-chance-act/?_gl=1*94vle*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/nav/ol[2]/li[3]/ol/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -795,
+        "nvda_name": "Accessibility Statement",
+        "nvda_value": "https://about.usps.com/who/legal/accessibility-statement/?_gl=1*fmxn1c*_ga*MTMzNTc2ODYxMi4xNzM4MDI4NzUx*_ga_QM3XHZ2B95*MTczODA0OTA5MS4yLjAuMTczODA0OTA5NC4wLjAuMA..*_gcl_au*NDIwMDI1MDMxLjE3MzgwMjg3NTE.*_ga_3NXP3C8S9V*MTczODA0OTA5MS4yLjEuMTczODA0OTM4My4wLjAuMA..",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -796,
+        "nvda_name": "Image of Facebook social media icon.",
+        "nvda_value": "https://www.facebook.com/USPS?rf=108501355848630",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -797,
+        "nvda_name": "Image of instagram social media icon.",
+        "nvda_value": "https://www.instagram.com/uspostalservice/?hl=en",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -798,
+        "nvda_name": "Image of Pinterest social media icon.",
+        "nvda_value": "http://www.pinterest.com/uspsstamps/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -799,
+        "nvda_name": "Image of Threads social media icon.",
+        "nvda_value": "https://www.threads.net/@uspostalservice?hl=en",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -800,
+        "nvda_name": "Image of X social media icon.",
+        "nvda_value": "https://twitter.com/usps",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[13]/footer/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -801,
+        "nvda_name": "Image of Youtube social media icon.",
+        "nvda_value": "https://www.youtube.com/usps",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/span/button"
+    }
+]

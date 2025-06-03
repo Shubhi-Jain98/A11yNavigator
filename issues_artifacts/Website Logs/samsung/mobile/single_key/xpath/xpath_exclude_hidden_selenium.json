@@ -1,0 +1,636 @@
+{
+    "count by default selenium driver": 923,
+    "total_count based on actionable selectors": 126,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/a[1]",
+            "text": "Samsung"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[2]/div[5]/div[1]/button[1]",
+            "text": "Search"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[2]/div[5]/div[2]/a[1]",
+            "text": "Cart"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[2]/div[5]/div[3]/a[1]",
+            "text": "Sign in/Create Account"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[2]/div[5]/div[5]/button[1]",
+            "text": "Navigation"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/a[1]",
+            "text": "Accessible Carousel"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Buy Galaxy A26"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Buy Galaxy A36"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[4]/div[1]/button[1]",
+            "text": "Buy Galaxy A36"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/button[1]",
+            "text": "stop"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[1]",
+            "text": "Bespoke AI"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[2]",
+            "text": "Vision AI TV"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[3]",
+            "text": "Galaxy A36 | A26"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[4]",
+            "text": "Reserve Monitor"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[5]",
+            "text": "Galaxy Tab S10 FE+ | FE"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[6]",
+            "text": "Why buy direct"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[2]/a[1]",
+            "text": "View All Offers"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "For You"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Mobile"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "TV & Audio"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
+            "text": "Home Appliances"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/button[1]",
+            "text": "Computing"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/button[1]",
+            "text": "Tournament Tech"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "New\n85\" Neo QLED 8K QN900F Vision AI Smart TV (2025)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "New\nBespoke AI Vented Laundry Combo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Galaxy Buds3 Pro"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/a[1]",
+            "text": "65\"The Frame QLED 4K"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/a[1]",
+            "text": "32\" Odyssey Neo G7 4K UHD 165Hz 1ms Curved Gaming Monitor"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/a[1]",
+            "text": "Bespoke 5.3 cu. ft. All-in-One AI Laundry Combo Ultra Capacity Washer and Ventless Heat Pump Dryer"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Pre-order now"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/button[2]",
+            "text": "Next"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]",
+            "text": "ft12_feature column carousel_home specific|index"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[2]",
+            "text": "ft12_feature column carousel_home specific|index"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[3]",
+            "text": "ft12_feature column carousel_home specific|index"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Shop now"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/button[2]",
+            "text": "Next"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]",
+            "text": "ft12_feature column carousel_home specific|index"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[2]",
+            "text": "ft12_feature column carousel_home specific|index"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[3]",
+            "text": "ft12_feature column carousel_home specific|index"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Galaxy S25 Ultra"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Galaxy Z Fold6"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "Galaxy Tab S10 Ultra"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
+            "text": "Galaxy Ring"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Shop all phone deals"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[2]",
+            "text": "Buy now"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Samsung AI Vision"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Neo QLED 8K QN900F"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "Neo QLED 4K QN90F"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Learn more"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[2]",
+            "text": "Shop now"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Bespoke Laundry"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Bespoke Refrigerators"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "Bespoke Vacuums"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
+            "text": "Bespoke Dishwashers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Shop all appliance deals"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[2]",
+            "text": "Pre-order now"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Watch bands\nWatch bands to match your mood and your fit."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Galaxy Buds3\nBlock distractions throughout the day with rich audio."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Galaxy S25 Ultra Accessories\n\nFind accessories designed to elevate your device."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/a[1]",
+            "text": "Powerful portability\nCharge any device swiftly."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/a[1]",
+            "text": "Double the speed\nBoost your charging efficiency."
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Learn more"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/button[2]",
+            "text": "Next"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]",
+            "text": "ft12_feature column carousel_home specific|index"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[2]",
+            "text": "ft12_feature column carousel_home specific|index"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[3]",
+            "text": "ft12_feature column carousel_home specific|index"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[4]",
+            "text": "ft12_feature column carousel_home specific|index"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[21]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Learn more"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[23]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Certified Re-Newed"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[23]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Trade-in Recycling Program"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[23]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Learn more"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "Explore more \u2013 Shop smarter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Learn more"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/button[1]",
+            "text": "Let our products ease your day"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/button[2]",
+            "text": "How to choose the best Galaxy AI phone experience for your lifestyle"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/button[3]",
+            "text": "Empowering a better you"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/button[4]",
+            "text": "Step into spring refreshed and recharged"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/button[5]",
+            "text": "Discover how our AI empowers you"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/form[1]/fieldset[1]/div[1]/div[1]/div[1]/input[1]",
+            "text": "Search"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/form[1]/fieldset[1]/div[1]/button[1]",
+            "text": "search"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Galaxy S25 Ultra"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Galaxy S25+"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "Galaxy S25"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
+            "text": "Galaxy Z Flip6"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[5]/button[1]",
+            "text": "The Frame"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[6]/button[1]",
+            "text": "BESPOKE Refrigerator"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[7]/button[1]",
+            "text": "Accessories"
+        },
+        {
+            "tag_name": "p",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/p[1]",
+            "text": "Mobile Disclosures:"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "terms and conditions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[3]/div[1]/a[2]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "p",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[5]/p[1]",
+            "text": "Home Appliance Disclosures:"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[5]/div[2]/div[1]/a[1]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[5]/div[3]/div[1]/a[1]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[5]/div[4]/div[1]/a[1]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[5]/div[5]/div[1]/a[1]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "p",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/p[1]",
+            "text": "Home Entertainment Disclosures:"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[1]/div[1]/a[1]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[2]/div[1]/a[1]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "p",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[3]/p[1]",
+            "text": "Stand Alone Disclosures:"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[3]/div[1]/div[1]/a[1]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "p",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[4]/p[1]",
+            "text": "Computing Disclosures:"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[4]/div[1]/div[1]/a[1]",
+            "text": "Samsung.com"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[4]/div[1]/div[1]/a[2]",
+            "text": "Show More"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "open"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "open"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "open"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "text": "open"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[2]/a[1]",
+            "text": "open"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[2]/a[1]",
+            "text": "USA/ENGLISH"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Privacy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Do Not Sell Or Share My Personal Information"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Washington Privacy Notice"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Legal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Accessibility Help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "Sitemap"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "Facebook"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Twitter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Instagram"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "YouTube"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "Email to"
+        }
+    ]
+}

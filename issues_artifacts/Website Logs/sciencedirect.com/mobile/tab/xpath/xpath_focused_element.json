@@ -1,0 +1,794 @@
+[
+    {
+        "IA2UniqueID": -533,
+        "nvda_name": "ScienceDirect.com | Science, health and medical journals, full text articles and books.",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div/header/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -557,
+        "nvda_name": "The UC Irvine Libraries",
+        "nvda_value": "http://www.lib.uci.edu/",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div/div/div/header/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -559,
+        "nvda_name": "ScienceDirect home page",
+        "nvda_value": "https://www.sciencedirect.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div/div/div/header/div[2]/div[4]/div/button"
+    },
+    {
+        "IA2UniqueID": -2424,
+        "nvda_name": "Toggle mobile menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div/div/h2/a"
+    },
+    {
+        "IA2UniqueID": -589,
+        "nvda_name": "open access",
+        "nvda_value": "https://www.sciencedirect.com/#open-access",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div/div/div/form/div/div/div/input"
+    },
+    {
+        "IA2UniqueID": -539,
+        "nvda_name": "Find articles with these terms",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div/div/div/form/div/div[2]/div/div/div/input"
+    },
+    {
+        "IA2UniqueID": -541,
+        "nvda_name": "",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div/div/div/form/div/div[3]/div/input"
+    },
+    {
+        "IA2UniqueID": -542,
+        "nvda_name": "Author(s)",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div/div/div/form/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -1913,
+        "nvda_name": "Open advanced search",
+        "nvda_value": "https://www.sciencedirect.com/search/entry?origin=home&zone=qSearch",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div/div/div/form/div[2]/button"
+    },
+    {
+        "IA2UniqueID": -617,
+        "nvda_name": "Submit quick search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[2]/div/div/div/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -628,
+        "nvda_name": "Explore stories Opens in new window",
+        "nvda_value": "https://confidenceinresearch.elsevier.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[2]/div/div[2]/ul/li/button"
+    },
+    {
+        "IA2UniqueID": -633,
+        "nvda_name": "Confidence in research slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div/div[3]/div/ol/li/button"
+    },
+    {
+        "IA2UniqueID": -633,
+        "nvda_name": "Confidence in research slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[2]/div/div[2]/ul/li[2]/button"
+    },
+    {
+        "IA2UniqueID": -636,
+        "nvda_name": "Climate change slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[2]/div/div[2]/ul/li[3]/button"
+    },
+    {
+        "IA2UniqueID": -2429,
+        "nvda_name": "Physical Sciences and Engineering",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "SELECTABLE (8388608)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div/div[3]/div/ol/li[2]/button"
+    },
+    {
+        "IA2UniqueID": -2435,
+        "nvda_name": "Health Sciences",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "SELECTABLE (8388608)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div/div[3]/div/ol/li[4]/button"
+    },
+    {
+        "IA2UniqueID": -2435,
+        "nvda_name": "Health Sciences",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "SELECTABLE (8388608)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div/div[3]/div/ol/li[3]/button"
+    },
+    {
+        "IA2UniqueID": -2438,
+        "nvda_name": "Social Sciences and Humanities",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "SELECTABLE (8388608)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -872,
+        "nvda_name": "A",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -874,
+        "nvda_name": "B",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/b",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -876,
+        "nvda_name": "C",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/c",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -878,
+        "nvda_name": "D",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/d",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -880,
+        "nvda_name": "E",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/e",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -882,
+        "nvda_name": "F",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/f",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -884,
+        "nvda_name": "G",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/g",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -886,
+        "nvda_name": "H",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/h",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -888,
+        "nvda_name": "I",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/i",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[10]/a"
+    },
+    {
+        "IA2UniqueID": -890,
+        "nvda_name": "J",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/j",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[11]/a"
+    },
+    {
+        "IA2UniqueID": -892,
+        "nvda_name": "K",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/k",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[12]/a"
+    },
+    {
+        "IA2UniqueID": -894,
+        "nvda_name": "L",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/l",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[13]/a"
+    },
+    {
+        "IA2UniqueID": -896,
+        "nvda_name": "M",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/m",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[14]/a"
+    },
+    {
+        "IA2UniqueID": -898,
+        "nvda_name": "N",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/n",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[15]/a"
+    },
+    {
+        "IA2UniqueID": -900,
+        "nvda_name": "O",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/o",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[16]/a"
+    },
+    {
+        "IA2UniqueID": -902,
+        "nvda_name": "P",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/p",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[17]/a"
+    },
+    {
+        "IA2UniqueID": -904,
+        "nvda_name": "Q",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/q",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[18]/a"
+    },
+    {
+        "IA2UniqueID": -906,
+        "nvda_name": "R",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/r",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[19]/a"
+    },
+    {
+        "IA2UniqueID": -908,
+        "nvda_name": "S",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/s",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[20]/a"
+    },
+    {
+        "IA2UniqueID": -910,
+        "nvda_name": "T",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/t",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[21]/a"
+    },
+    {
+        "IA2UniqueID": -912,
+        "nvda_name": "U",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/u",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[22]/a"
+    },
+    {
+        "IA2UniqueID": -914,
+        "nvda_name": "V",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/v",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[23]/a"
+    },
+    {
+        "IA2UniqueID": -916,
+        "nvda_name": "W",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/w",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[24]/a"
+    },
+    {
+        "IA2UniqueID": -918,
+        "nvda_name": "X",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/x",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[25]/a"
+    },
+    {
+        "IA2UniqueID": -920,
+        "nvda_name": "Y",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/y",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[26]/a"
+    },
+    {
+        "IA2UniqueID": -922,
+        "nvda_name": "Z",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/z",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[27]/a"
+    },
+    {
+        "IA2UniqueID": -924,
+        "nvda_name": "0-9",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books/0-9",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[4]/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -934,
+        "nvda_name": "list of full open access journals and books",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books?accessType=openAccess",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[4]/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -936,
+        "nvda_name": "publications with open access articles (includes hybrid journals)",
+        "nvda_value": "https://www.sciencedirect.com/browse/journals-and-books?accessType=openAccess&accessType=containsOpenAccess",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[4]/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -938,
+        "nvda_name": "Elsevier\u2019s open access publishing choices Opens in new window",
+        "nvda_value": "https://www.elsevier.com/openaccess",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -947,
+        "nvda_name": "Help Opens in new window",
+        "nvda_value": "https://service.elsevier.com/app/home/supporthub/sciencedirect/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -950,
+        "nvda_name": "Online video tutorials Opens in new window",
+        "nvda_value": "https://service.elsevier.com/app/answers/detail/a_id/10263/supporthub/sciencedirect/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -953,
+        "nvda_name": "Privacy principles Opens in new window",
+        "nvda_value": "https://www.elsevier.com/about/policies-and-standards/privacy-principles",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -956,
+        "nvda_name": "Accessibility Opens in new window",
+        "nvda_value": "https://service.elsevier.com/app/answers/detail/a_id/37160/supporthub/sciencedirect/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -962,
+        "nvda_name": "Content syndication on ScienceDirect",
+        "nvda_value": "https://www.sciencedirect.com/org",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -964,
+        "nvda_name": "Create and manage alerts",
+        "nvda_value": "https://www.sciencedirect.com/user/alerts/journal",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -966,
+        "nvda_name": "Receive personalized recommendations",
+        "nvda_value": "https://www.sciencedirect.com/research-recommendations",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -968,
+        "nvda_name": "Browse by topic",
+        "nvda_value": "https://www.sciencedirect.com/topics",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -973,
+        "nvda_name": "Elsevier Connect Opens in new window",
+        "nvda_value": "https://www.elsevier.com/connect",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -976,
+        "nvda_name": "Publish with Elsevier Opens in new window",
+        "nvda_value": "https://www.elsevier.com/authors",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div[3]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -979,
+        "nvda_name": "Scopus Opens in new window",
+        "nvda_value": "https://www.elsevier.com/online-tools/scopus",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div[2]/div[5]/div/div[3]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -982,
+        "nvda_name": "Mendeley Opens in new window",
+        "nvda_value": "https://www.mendeley.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/footer/div/a"
+    },
+    {
+        "IA2UniqueID": -987,
+        "nvda_name": "Elsevier home page (opens in a new tab)",
+        "nvda_value": "https://www.elsevier.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/footer/div[2]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -993,
+        "nvda_name": "About ScienceDirect Opens in new window",
+        "nvda_value": "https://www.elsevier.com/solutions/sciencedirect",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/footer/div[2]/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -997,
+        "nvda_name": "Remote access",
+        "nvda_value": "https://www.sciencedirect.com/user/institution/login?targetURL=%2F",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/footer/div[2]/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -1000,
+        "nvda_name": "Shopping cart Opens in new window",
+        "nvda_value": "https://sd-cart.elsevier.com/?",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/footer/div[2]/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -1004,
+        "nvda_name": "Advertise Opens in new window",
+        "nvda_value": "https://www.elsmediakits.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/footer/div[2]/div/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -1008,
+        "nvda_name": "Contact and support Opens in new window",
+        "nvda_value": "https://service.elsevier.com/app/contact/supporthub/sciencedirect/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/footer/div[2]/div/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -1012,
+        "nvda_name": "Terms and conditions Opens in new window",
+        "nvda_value": "https://www.elsevier.com/legal/elsevier-website-terms-and-conditions",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/footer/div[2]/div/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -1016,
+        "nvda_name": "Privacy policy Opens in new window",
+        "nvda_value": "https://www.elsevier.com/legal/privacy-policy",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/footer/div[2]/p/button"
+    },
+    {
+        "IA2UniqueID": -1020,
+        "nvda_name": "Cookie settings | Your Privacy Choices",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/footer/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -1023,
+        "nvda_name": "RELX home page (opens in a new tab)",
+        "nvda_value": "https://www.relx.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/button"
+    },
+    {
+        "IA2UniqueID": -477,
+        "nvda_name": "Bookmark this tab",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/a"
+    }
+]

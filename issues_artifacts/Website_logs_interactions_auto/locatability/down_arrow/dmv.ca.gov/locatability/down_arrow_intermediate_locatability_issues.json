@@ -1,0 +1,95 @@
+{
+    "count of missing paths": 10,
+    "missing paths": [
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[2]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "site-header-search-input",
+            "placeholder": "Search here...",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/a[1]",
+            "text": "Get Started",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.dmv.ca.gov/portal/dmv-assistance-for-californians-impacted-by-the-socal-wildfires/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/div[3]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/div[3]/div[1]/button[2]",
+            "text": "2",
+            "aria-label": "Carousel Page 2",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/div[3]/div[1]/button[4]",
+            "text": "4",
+            "aria-label": "Carousel Page 4 (Current Slide)",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/center[1]/form[1]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "usertext",
+            "placeholder": "Start here",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[2]/div[1]/figure[1]/div[1]/lite-youtube[1]/a[1]",
+            "text": "Completing your vehicle registration has never been easier!\n0:15",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[3]/div[1]/figure[1]/div[1]/lite-youtube[1]/a[1]",
+            "text": "Tips To Pass Your Driving Test\n5:26",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[3]/div[2]/figure[1]/div[1]/lite-youtube[1]/a[1]",
+            "text": "Enjoy a New MyDMV Experience with Garage feature\n1:33",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/div[3]/div[1]/div[1]/div[3]/div[3]/figure[1]/div[1]/lite-youtube[1]/a[1]",
+            "text": "Skip the trip to the DMV office!\n0:15",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        }
+    ]
+}

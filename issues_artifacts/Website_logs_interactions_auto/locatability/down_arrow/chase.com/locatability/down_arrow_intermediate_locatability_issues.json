@@ -1,0 +1,59 @@
+{
+    "count of missing paths": 6,
+    "missing paths": [
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[2]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "userId-text-input-field",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[3]/div[1]/div[1]/div[1]/div[2]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "password-text-input-field",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]",
+            "text": "Show",
+            "aria-label": "",
+            "id": "show-hide-btn",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Start of Topic\nEnd of Topic",
+            "aria-label": "",
+            "id": "DA_729757859255",
+            "placeholder": null,
+            "href": "https://account.chase.com/consumer/business/TC77292?jp_aid_a=T_87765&jp_aid_p=chasehome_3/trip1"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Start of Topic\nEnd of Topic",
+            "aria-label": "",
+            "id": "DA_528819304328",
+            "placeholder": null,
+            "href": "https://secure.chase.com/web/oao/application/retail?cfgCode=060001#/?offercode=OMSHOPF001&jp_aid_a=T_92082&jp_aid_p=chasehome_3/trip2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[3]/div[1]/div[1]/a[1]",
+            "text": "Start of Topic\nEnd of Topic",
+            "aria-label": "",
+            "id": "DA_827594652869",
+            "placeholder": null,
+            "href": "https://creditcards.chase.com/cash-back-credit-cards/chase-freedom-unlimited?CELL=6VFQ&jp_aid_a=T_52157&jp_aid_p=chasehome_3/trip3"
+        }
+    ]
+}

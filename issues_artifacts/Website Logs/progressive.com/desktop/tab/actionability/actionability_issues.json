@@ -1,0 +1,17 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "IA2UniqueID": -153843,
+            "xpath": "/html/body/div/div/header/nav/ul[2]/li[2]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Log In",
+            "nvda_value": "https://www.progressive.com/rp/login?cntgrp=A",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,662 @@
+[
+    {
+        "IA2UniqueID": -569,
+        "nvda_name": "Zerodha: Online brokerage platform for stock trading & investing",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/nav/div/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -1329,
+        "nvda_name": "Signup",
+        "nvda_value": "https://zerodha.com/open-account/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/nav/div/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -1331,
+        "nvda_name": "About",
+        "nvda_value": "https://zerodha.com/about/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/nav/div/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -1333,
+        "nvda_name": "Products",
+        "nvda_value": "https://zerodha.com/products/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/nav/div/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -1335,
+        "nvda_name": "Pricing",
+        "nvda_value": "https://zerodha.com/pricing/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/nav/div/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -1337,
+        "nvda_name": "Support",
+        "nvda_value": "https://support.zerodha.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section/div/a"
+    },
+    {
+        "IA2UniqueID": -573,
+        "nvda_name": "Sign up for free",
+        "nvda_value": "https://zerodha.com/open-account",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section[2]/div/div/div/div[4]/p/a"
+    },
+    {
+        "IA2UniqueID": -613,
+        "nvda_name": "Nudge",
+        "nvda_value": "https://support.zerodha.com/category/trading-and-markets/kite-features/nudges/articles/what-is-nudge",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section[2]/div/div/div/div[4]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -614,
+        "nvda_name": "Kill Switch",
+        "nvda_value": "https://support.zerodha.com/category/console/profile/killswitch/articles/what-is-the-kill-switch",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section[2]/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -617,
+        "nvda_name": "The Zerodha Universe",
+        "nvda_value": "https://zerodha.com/products",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section[2]/div/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -620,
+        "nvda_name": "Explore our products\ue804",
+        "nvda_value": "https://zerodha.com/products",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section[2]/div/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -622,
+        "nvda_name": "Try Kite demo \ue804",
+        "nvda_value": "https://kite-demo.zerodha.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section[2]/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -625,
+        "nvda_name": "To get missing image descriptions, open the context menu.",
+        "nvda_value": "https://zerodha.com/media",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section[3]/div/p/a"
+    },
+    {
+        "IA2UniqueID": -644,
+        "nvda_name": "See pricing \ue804",
+        "nvda_value": "https://zerodha.com/charges/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section[4]/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -650,
+        "nvda_name": "None",
+        "nvda_value": "https://zerodha.com/varsity/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section[4]/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -655,
+        "nvda_name": "Varsity \ue804",
+        "nvda_value": "https://zerodha.com/varsity",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/div/section[4]/div/div/div[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -658,
+        "nvda_name": "TradingQ&A \ue804",
+        "nvda_value": "https://tradingqna.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/main/section/div/a"
+    },
+    {
+        "IA2UniqueID": -664,
+        "nvda_name": "Sign up for free",
+        "nvda_value": "https://zerodha.com/open-account/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -674,
+        "nvda_name": "None",
+        "nvda_value": "https://twitter.com/zerodhaonline",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -676,
+        "nvda_name": "\uf230",
+        "nvda_value": "https://facebook.com/zerodha.social",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -679,
+        "nvda_name": "\uf16d",
+        "nvda_value": "https://instagram.com/zerodhaonline/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -682,
+        "nvda_name": "\uf0e1",
+        "nvda_value": "https://linkedin.com/company/zerodha",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div/ul[2]/li/a"
+    },
+    {
+        "IA2UniqueID": -687,
+        "nvda_name": "None",
+        "nvda_value": "https://www.youtube.com/@zerodhaonline",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div/ul[2]/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -689,
+        "nvda_name": "None",
+        "nvda_value": "https://whatsapp.com/channel/0029Va8tzF0EquiIIb9j791g",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div/ul[2]/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -691,
+        "nvda_name": "\uf2c6",
+        "nvda_value": "https://t.me/zerodhain",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -697,
+        "nvda_name": "About",
+        "nvda_value": "https://zerodha.com/about/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -699,
+        "nvda_name": "Products",
+        "nvda_value": "https://zerodha.com/products/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -701,
+        "nvda_name": "Pricing",
+        "nvda_value": "https://zerodha.com/pricing/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -703,
+        "nvda_name": "Referral programme",
+        "nvda_value": "https://zerodha.com/refer/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[2]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -705,
+        "nvda_name": "Careers",
+        "nvda_value": "https://careers.zerodha.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[2]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -707,
+        "nvda_name": "Zerodha.tech",
+        "nvda_value": "https://zerodha.tech/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[2]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -709,
+        "nvda_name": "Open source",
+        "nvda_value": "https://zerodha.com/open-source/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[2]/ul/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -711,
+        "nvda_name": "Press & media",
+        "nvda_value": "https://zerodha.com/media/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[2]/ul/li[10]/a"
+    },
+    {
+        "IA2UniqueID": -713,
+        "nvda_name": "Zerodha Cares (CSR)",
+        "nvda_value": "https://zerodha.com/cares/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -718,
+        "nvda_name": "Contact us",
+        "nvda_value": "https://zerodha.com/contact/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[3]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -720,
+        "nvda_name": "Support portal",
+        "nvda_value": "https://support.zerodha.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[3]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -722,
+        "nvda_name": "Z-Connect blog",
+        "nvda_value": "https://zerodha.com/z-connect/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[3]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -724,
+        "nvda_name": "List of charges",
+        "nvda_value": "https://zerodha.com/charges/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[3]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -726,
+        "nvda_name": "Downloads & resources",
+        "nvda_value": "https://zerodha.com/resources/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[3]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -728,
+        "nvda_name": "Videos",
+        "nvda_value": "https://zerodha.com/videos",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[3]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -730,
+        "nvda_name": "Market overview",
+        "nvda_value": "https://stocks.zerodha.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[3]/ul/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -732,
+        "nvda_name": "How to file a complaint?",
+        "nvda_value": "https://support.zerodha.com/category/your-zerodha-account/your-profile/ticket-creation/articles/how-do-i-create-a-ticket-at-zerodha",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[3]/ul/li[10]/a"
+    },
+    {
+        "IA2UniqueID": -734,
+        "nvda_name": "Status of your complaints",
+        "nvda_value": "https://support.zerodha.com/category/your-zerodha-account/your-profile/ticket-creation/articles/track-complaints-or-tickets",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[4]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -739,
+        "nvda_name": "Open an account",
+        "nvda_value": "https://zerodha.com/open-account/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/div[4]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -741,
+        "nvda_name": "Fund transfer",
+        "nvda_value": "https://zerodha.com/fund-transfer/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -744,
+        "nvda_name": "complaints@zerodha.com",
+        "nvda_value": "mailto:complaints@zerodha.com",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -745,
+        "nvda_name": "dp@zerodha.com",
+        "nvda_value": "mailto:dp@zerodha.com",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -747,
+        "nvda_name": "SEBI SCORES",
+        "nvda_value": "https://scores.sebi.gov.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/p[3]/a"
+    },
+    {
+        "IA2UniqueID": -749,
+        "nvda_name": "Smart Online Dispute Resolution",
+        "nvda_value": "https://smartodr.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/p[3]/a[2]"
+    },
+    {
+        "IA2UniqueID": -750,
+        "nvda_name": "Grievances Redressal Mechanism",
+        "nvda_value": "https://zerodha-common.s3.ap-south-1.amazonaws.com/Downloads-and-resources/Smart%20ODR%20info.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/p[6]/a"
+    },
+    {
+        "IA2UniqueID": -754,
+        "nvda_name": "create a ticket here",
+        "nvda_value": "https://support.zerodha.com/category/your-zerodha-account/your-profile/articles/how-do-i-place-a-complaint-at-zerodha",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -758,
+        "nvda_name": "NSE",
+        "nvda_value": "https://nseindia.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -760,
+        "nvda_name": "BSE",
+        "nvda_value": "https://www.bseindia.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[3]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -762,
+        "nvda_name": "MCX",
+        "nvda_value": "https://www.mcxindia.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[3]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -764,
+        "nvda_name": "Terms & conditions",
+        "nvda_value": "https://zerodha.com/terms-and-conditions/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[3]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -766,
+        "nvda_name": "Policies & procedures",
+        "nvda_value": "https://zerodha.com/policies-and-procedures/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[3]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -768,
+        "nvda_name": "Privacy policy",
+        "nvda_value": "https://zerodha.com/privacy-policy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[3]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -770,
+        "nvda_name": "Disclosure",
+        "nvda_value": "https://zerodha.com/disclosure/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[3]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -772,
+        "nvda_name": "For investor's attention",
+        "nvda_value": "https://zerodha.com/investor-attention/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div[3]/ul/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -1329,
+        "nvda_name": "Signup",
+        "nvda_value": "https://zerodha.com/open-account/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/nav/div/div/div/a"
+    }
+]

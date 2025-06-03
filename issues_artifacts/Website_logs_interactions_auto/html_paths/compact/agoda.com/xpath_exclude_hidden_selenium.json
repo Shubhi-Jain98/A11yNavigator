@@ -1,0 +1,2207 @@
+{
+    "count by default selenium driver": 238,
+    "total_count based on actionable selectors": 243,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[1]/nav[1]/div[1]/a[1]",
+            "text": "Agoda logo Home link",
+            "aria-label": "Agoda logo Home link",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[2]/div[1]/div[1]/div[1]/button[1]",
+            "text": "List your place",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[2]/div[1]/div[2]/div[1]/div[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[2]/div[1]/div[2]/div[2]/div[1]",
+            "text": "USD",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[2]/div[1]/div[3]/div[1]/div[1]/button[1]",
+            "text": "Sign in",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[2]/div[1]/div[3]/div[2]/div[1]/button[1]",
+            "text": "Create account",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[2]/div[3]/div[1]/button[1]",
+            "text": "Shopping cart",
+            "aria-label": "Shopping cart",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[2]/div[4]/div[1]/span[1]/button[1]",
+            "text": "Menu",
+            "aria-label": "Menu",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[1]/ul[1]/li[1]",
+            "text": "Hotels",
+            "aria-label": "",
+            "id": "tab-all-rooms-tab",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[1]/ul[1]/li[2]",
+            "text": "Homes & Apts",
+            "aria-label": "",
+            "id": "tab-home",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[1]/ul[1]/li[3]",
+            "text": "Long stays",
+            "aria-label": "",
+            "id": "tab-long-stay-tab",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[1]/ul[1]/li[4]",
+            "text": "Flights",
+            "aria-label": "",
+            "id": "tab-flight-tab",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[1]/ul[1]/li[5]",
+            "text": "New!\nActivities",
+            "aria-label": "",
+            "id": "tab-activities-tab",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[1]/ul[1]/li[6]",
+            "text": "Airport transfer",
+            "aria-label": "",
+            "id": "tab-journey-tab",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]",
+            "text": "Enter a destination or property",
+            "aria-label": "Enter a destination or property",
+            "id": "textInput",
+            "placeholder": "Enter a destination or property",
+            "href": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+            "text": "26 May 2025\nMonday",
+            "aria-label": "Check-in 26 May 2025 Monday",
+            "id": "check-in-box",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+            "text": "27 May 2025\nTuesday",
+            "aria-label": "Check-out 27 May 2025 Tuesday",
+            "id": "check-out-box",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+            "text": "2 adults\n1 room",
+            "aria-label": "Guests and rooms 2\u00a0adults 1\u00a0room",
+            "id": "occupancy-box",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/section[1]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/button[1]",
+            "text": "SEARCH",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/a[1]",
+            "text": "Las Vegas (NV)\n1,113 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/las-vegas-nv-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/a[1]",
+            "text": "New York (NY)\n3,049 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/new-york-ny-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]/a[1]",
+            "text": "Los Angeles (CA)\n4,491 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/los-angeles-ca-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[5]/div[1]/div[1]/a[1]",
+            "text": "Chicago (IL)\n1,444 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/chicago-il-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[6]/div[1]/div[1]/a[1]",
+            "text": "Miami (FL)\n2,355 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/miami-fl-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[7]/div[1]/div[1]/a[1]",
+            "text": "Dallas (TX)\n1,813 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/dallas-tx-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[8]/div[1]/div[1]/a[1]",
+            "text": "Miami Beach (FL)\n1,651 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/miami-beach-fl-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[9]/div[1]/div[1]/a[1]",
+            "text": "San Francisco (CA)\n1,357 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/san-francisco-ca-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[10]/div[1]/div[1]/a[1]",
+            "text": "Washington D.C.\n697 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/washington-d-c-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[11]/div[1]/div[1]/a[1]",
+            "text": "Houston (TX)\n2,359 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/houston-tx-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/a[1]",
+            "text": "Phoenix (AZ)\n3,922 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/phoenix-az-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[13]/div[1]/div[1]/a[1]",
+            "text": "Atlanta (GA)\n1,630 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/atlanta-ga-us.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[14]/div[1]/div[1]/a[1]",
+            "text": "Fort Lauderdale (FL)\n2,806 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/fort-lauderdale-fl-us.html"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[2]/button[1]",
+            "text": "Next destination",
+            "aria-label": "Next destination",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[2]/div[1]/div[1]/a[1]",
+            "text": "View all",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/deals"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/div[1]/section[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "http://www.agoda.com/deals?cid=1916891"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[3]/div[2]/div[1]/div[1]/div[1]/div[1]/section[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/c/Agoda20thbdayactivities?siteid=1908885"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[3]/div[2]/div[1]/div[1]/div[1]/div[1]/section[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/activities/detail?activityId=1262142&cid=1908885"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[3]/div[2]/div[1]/div[1]/div[1]/div[1]/section[4]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/activities/detail?view=nativeapp&activityId=1289439&cid=1908885"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[3]/div[2]/div[1]/div[1]/div[1]/div[1]/section[5]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/activities/detail?activityId=1107568&cid=1908885"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[3]/div[2]/div[1]/div[1]/div[1]/div[1]/section[6]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "http://www.agoda.com/activities?cid=1915785"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[3]/div[2]/div[1]/div[1]/div[1]/div[2]/button[1]",
+            "text": "Next Flights/Activities Promotion",
+            "aria-label": "Next Flights/Activities Promotion",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/a[1]",
+            "text": "London\n24,105 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/london-gb.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/a[1]",
+            "text": "Bangkok\n12,048 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/bangkok-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]/a[1]",
+            "text": "Dubai\n19,464 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/dubai-ae.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[5]/div[1]/div[1]/a[1]",
+            "text": "Manila\n13,223 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/manila-ph.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[6]/div[1]/div[1]/a[1]",
+            "text": "Penang\n5,161 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/penang-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[7]/div[1]/div[1]/a[1]",
+            "text": "Bali\n32,908 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/bali-id.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[8]/div[1]/div[1]/a[1]",
+            "text": "Sydney\n5,420 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/sydney-au.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[9]/div[1]/div[1]/a[1]",
+            "text": "Johor Bahru\n6,994 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/johor-bahru-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[10]/div[1]/div[1]/a[1]",
+            "text": "Melbourne\n5,189 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/melbourne-au.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[11]/div[1]/div[1]/a[1]",
+            "text": "Malacca\n5,883 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/malacca-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[12]/div[1]/div[1]/a[1]",
+            "text": "Rome\n16,362 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/rome-it.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[13]/div[1]/div[1]/a[1]",
+            "text": "Kota Kinabalu\n3,417 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/kota-kinabalu-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[14]/div[1]/div[1]/a[1]",
+            "text": "Jakarta\n14,249 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/jakarta-id.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[15]/div[1]/div[1]/a[1]",
+            "text": "Nagoya\n1,183 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/nagoya-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[16]/div[1]/div[1]/a[1]",
+            "text": "Phuket\n12,290 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/phuket-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[17]/div[1]/div[1]/a[1]",
+            "text": "Milan\n9,808 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/milan-it.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[18]/div[1]/div[1]/a[1]",
+            "text": "Berlin\n2,365 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/berlin-de.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[19]/div[1]/div[1]/a[1]",
+            "text": "Pattaya\n11,909 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/pattaya-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[20]/div[1]/div[1]/a[1]",
+            "text": "Frankfurt am Main\n658 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/frankfurt-am-main-de.html"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[2]/button[1]",
+            "text": "Next destination",
+            "aria-label": "Next destination",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/div[3]/div[1]/div[1]/button[1]",
+            "text": "Close",
+            "aria-label": "Close",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Help center",
+            "aria-label": "",
+            "id": "footer-contact-us",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/info/contact.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "FAQs",
+            "aria-label": "",
+            "id": "footer-faqs",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/info/contact.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Privacy policy",
+            "aria-label": "",
+            "id": "footer-privacy-policy",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/info/privacy.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Do Not Sell or Share My Personal Information",
+            "aria-label": "",
+            "id": "footer-ccpa",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/ccpa.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Cookie policy",
+            "aria-label": "",
+            "id": "footer-cookie-policy",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/info/privacy.html#cookies"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Terms of use",
+            "aria-label": "",
+            "id": "footer-terms-of-service",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/info/termsofuse.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "Manage cookie settings",
+            "aria-label": "",
+            "id": "footer-manage-cookie-setting",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/privacy-settings"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "Digital Services Act (EU)",
+            "aria-label": "",
+            "id": "eu-digital-services-act",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/info/eu-digital-services-act.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[9]/a[1]",
+            "text": "Content guidelines & reporting",
+            "aria-label": "",
+            "id": "content-guideline-and-reporting",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/info/eu-digital-services-act.html#CM"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[10]/a[1]",
+            "text": "Modern Slavery Statement",
+            "aria-label": "",
+            "id": "modern-slavery-statement",
+            "placeholder": null,
+            "href": "https://www.bookingholdings.com/modern-slavery-statement/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "About us",
+            "aria-label": "",
+            "id": "footer-new-about-us",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/about-agoda"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Careers",
+            "aria-label": "",
+            "id": "footer-careers",
+            "placeholder": null,
+            "href": "https://careersatagoda.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Press",
+            "aria-label": "",
+            "id": "footer-media",
+            "placeholder": null,
+            "href": "https://mediaroom.agoda.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Blog",
+            "aria-label": "",
+            "id": "footer-blog",
+            "placeholder": null,
+            "href": "https://www.agoda.com/blog"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "PointsMAX",
+            "aria-label": "",
+            "id": "footer-points-max",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/pointsmax.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "Countries/Territories",
+            "aria-label": "",
+            "id": "footer-destination-countries",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/world.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "All Flight Routes",
+            "aria-label": "",
+            "id": "footer-flights-all-routes",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/flights/world.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]",
+            "text": "YCS partner portal",
+            "aria-label": "",
+            "id": "footer-partner-hotels",
+            "placeholder": null,
+            "href": "https://ycs.agoda.com/en-gb"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+            "text": "Partner Hub",
+            "aria-label": "",
+            "id": "footer-partner-hub",
+            "placeholder": null,
+            "href": "https://partnerhub.agoda.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[4]/ul[1]/li[3]/a[1]",
+            "text": "Advertise on Agoda",
+            "aria-label": "",
+            "id": "footer-partner-advertise",
+            "placeholder": null,
+            "href": "https://partnerhub.agoda.com/advertising-solutions/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[4]/ul[1]/li[4]/a[1]",
+            "text": "Affiliates",
+            "aria-label": "",
+            "id": "footer-partner-affiliates",
+            "placeholder": null,
+            "href": "https://partners.agoda.com/en-gb/index.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[4]/ul[1]/li[5]/a[1]",
+            "text": "Agoda API Documentation",
+            "aria-label": "",
+            "id": "footer-partner-affiliates",
+            "placeholder": null,
+            "href": "https://developer.agoda.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[5]/ul[1]/li[1]/a[1]",
+            "text": "iOS app",
+            "aria-label": "",
+            "id": "footer-mobile-app-ios",
+            "placeholder": null,
+            "href": "https://app.appsflyer.com/id440676901?pid=direct&c=hotel_page_footer&af_siteid=1716632&site_id=1716632&af_sub1=desktop"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[1]/div[1]/div[1]/div[5]/ul[1]/li[2]/a[1]",
+            "text": "Android app",
+            "aria-label": "",
+            "id": "footer-mobile-app-andriod",
+            "placeholder": null,
+            "href": "https://app.appsflyer.com/com.agoda.mobile.consumer?pid=direct&c=hotel_page_footer&af_siteid=1716632&site_id=1716632&af_sub1=desktop"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[2]/a[1]",
+            "text": "Bali Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/bali-id.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[3]/a[1]",
+            "text": "Bandung Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/bandung-id.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[4]/a[1]",
+            "text": "Bangkok Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/bangkok-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[5]/a[1]",
+            "text": "Boracay Island Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/boracay-island-ph.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[6]/a[1]",
+            "text": "Busan Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/busan-kr.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[7]/a[1]",
+            "text": "Cebu Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/cebu-ph.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[8]/a[1]",
+            "text": "Chiang Mai Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/chiang-mai-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[9]/a[1]",
+            "text": "Da Nang Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/da-nang-vn.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[10]/a[1]",
+            "text": "Fukuoka Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/fukuoka-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[11]/a[1]",
+            "text": "Hanoi Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/hanoi-vn.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[12]/a[1]",
+            "text": "Hat Yai Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/hat-yai-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[13]/a[1]",
+            "text": "Ho Chi Minh City Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/ho-chi-minh-city-vn.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[14]/a[1]",
+            "text": "Hoi An Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/hoi-an-vn.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[15]/a[1]",
+            "text": "Hong Kong Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/hong-kong-hk.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[16]/a[1]",
+            "text": "Hua Hin Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/hua-hin-cha-am-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[17]/a[1]",
+            "text": "Hualien Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/hualien-tw.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[18]/a[1]",
+            "text": "Ipoh Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/ipoh-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[19]/a[1]",
+            "text": "Jakarta Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/jakarta-id.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[20]/a[1]",
+            "text": "Jeju Island Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/jeju-island-kr.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[21]/a[1]",
+            "text": "Johor Bahru Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/johor-bahru-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[22]/a[1]",
+            "text": "Kaohsiung Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/kaohsiung-tw.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[23]/a[1]",
+            "text": "Kota Kinabalu Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/kota-kinabalu-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[24]/a[1]",
+            "text": "Krabi Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/krabi-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[25]/a[1]",
+            "text": "Kuala Lumpur Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/kuala-lumpur-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[26]/a[1]",
+            "text": "Kuantan Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/kuantan-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ul[2]/li[27]/a[1]",
+            "text": "Kyoto Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/kyoto-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[2]/a[1]",
+            "text": "Macau Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/macau-mo.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[3]/a[1]",
+            "text": "Malacca Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/malacca-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[4]/a[1]",
+            "text": "Manila Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/manila-ph.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[5]/a[1]",
+            "text": "Nagoya Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/nagoya-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[6]/a[1]",
+            "text": "Nha Trang Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/nha-trang-vn.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[7]/a[1]",
+            "text": "Okinawa Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/okinawa-main-island-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[8]/a[1]",
+            "text": "Osaka Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/osaka-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[9]/a[1]",
+            "text": "Pattaya Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/pattaya-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[10]/a[1]",
+            "text": "Penang Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/penang-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[11]/a[1]",
+            "text": "Phuket Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/phuket-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[12]/a[1]",
+            "text": "Sapporo Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/sapporo-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[13]/a[1]",
+            "text": "Seoul Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/seoul-kr.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[14]/a[1]",
+            "text": "Shanghai Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/shanghai-cn.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[15]/a[1]",
+            "text": "Singapore Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/singapore-sg.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[16]/a[1]",
+            "text": "Surabaya Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/surabaya-id.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[17]/a[1]",
+            "text": "Taichung Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/taichung-tw.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[18]/a[1]",
+            "text": "Tainan Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/tainan-tw.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[19]/a[1]",
+            "text": "Taipei Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/taipei-tw.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[20]/a[1]",
+            "text": "Tokyo Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/tokyo-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[21]/a[1]",
+            "text": "Yilan Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/yilan-tw.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[22]/a[1]",
+            "text": "Yogyakarta Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/yogyakarta-id.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[2]/li[2]/a[1]",
+            "text": "London Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/london-gb.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[2]/li[3]/a[1]",
+            "text": "Paris Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/paris-fr.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/ul[3]/li[2]/a[1]",
+            "text": "Dubai Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/city/dubai-ae.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[2]/li[2]/a[1]",
+            "text": "Morocco Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/morocco.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[2]/li[3]/a[1]",
+            "text": "South Africa Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/south-africa.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[3]/li[2]/a[1]",
+            "text": "Argentina Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/argentina.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[3]/li[3]/a[1]",
+            "text": "Brazil Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/brazil.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[3]/li[4]/a[1]",
+            "text": "Canada Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/canada.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[3]/li[5]/a[1]",
+            "text": "Mexico Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/mexico.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[3]/li[6]/a[1]",
+            "text": "United States Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/united-states.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[3]/li[7]/a[1]",
+            "text": "Venezuela Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/venezuela.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[2]/a[1]",
+            "text": "Cambodia Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/cambodia.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[3]/a[1]",
+            "text": "China Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/china.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[4]/a[1]",
+            "text": "India Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/india.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[5]/a[1]",
+            "text": "Indonesia Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/indonesia.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[6]/a[1]",
+            "text": "Japan Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/japan.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[7]/a[1]",
+            "text": "Laos Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/laos.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[8]/a[1]",
+            "text": "Malaysia Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/malaysia.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[9]/a[1]",
+            "text": "Myanmar Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/myanmar.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[10]/a[1]",
+            "text": "Nepal Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/nepal.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[11]/a[1]",
+            "text": "Philippines Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/philippines.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[12]/a[1]",
+            "text": "South Korea Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/south-korea.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[13]/a[1]",
+            "text": "Sri Lanka Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/sri-lanka.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[14]/a[1]",
+            "text": "Taiwan Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/taiwan.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[15]/a[1]",
+            "text": "Thailand Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/thailand.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/ul[4]/li[16]/a[1]",
+            "text": "Vietnam Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/vietnam.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[2]/a[1]",
+            "text": "Austria Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/austria.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[3]/a[1]",
+            "text": "Czech Republic Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/czech-republic.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[4]/a[1]",
+            "text": "Denmark Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/denmark.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[5]/a[1]",
+            "text": "Finland Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/finland.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[6]/a[1]",
+            "text": "France Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/france.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[7]/a[1]",
+            "text": "Germany Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/germany.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[8]/a[1]",
+            "text": "Greece Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/greece.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[9]/a[1]",
+            "text": "Hungary Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/hungary.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[10]/a[1]",
+            "text": "Ireland Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/ireland.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[11]/a[1]",
+            "text": "Italy Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/italy.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[12]/a[1]",
+            "text": "Netherlands Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/netherlands.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[13]/a[1]",
+            "text": "Russia Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/russia.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[14]/a[1]",
+            "text": "Spain Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/spain.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[15]/a[1]",
+            "text": "Sweden Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/sweden.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[16]/a[1]",
+            "text": "Switzerland Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/switzerland.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[17]/a[1]",
+            "text": "United Kingdom Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/united-kingdom.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[2]/li[2]/a[1]",
+            "text": "Bahrain Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/bahrain.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[2]/li[3]/a[1]",
+            "text": "Egypt Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/egypt.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[2]/li[4]/a[1]",
+            "text": "Israel Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/israel.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[2]/li[5]/a[1]",
+            "text": "United Arab Emirates Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/united-arab-emirates.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[3]/li[2]/a[1]",
+            "text": "Australia Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/australia.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/ul[3]/li[3]/a[1]",
+            "text": "New Zealand Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/country/new-zealand.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[2]/a[1]",
+            "text": "Destination Guides Home",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[2]/a[1]",
+            "text": "Bali Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/indonesia/bali"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[3]/a[1]",
+            "text": "Thailand Events and Festivals",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/special-editions/thailand-events-and-festivals"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[4]/a[1]",
+            "text": "Hong Kong Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/hong-kong"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[5]/a[1]",
+            "text": "Jakarta Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/indonesia/jakarta"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[6]/a[1]",
+            "text": "Jeju Island Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/south-korea/jeju-island"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[7]/a[1]",
+            "text": "Kuala Lumpur Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/malaysia/kuala-lumpur"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[8]/a[1]",
+            "text": "Kyoto Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/japan/kyoto"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[9]/a[1]",
+            "text": "Kyushu Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/japan/kyushu"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[10]/a[1]",
+            "text": "Malacca Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/malaysia/malacca"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[11]/a[1]",
+            "text": "Philippines Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/special-editions/philippines/love-the-philippines-top-places-to-visit-and-stay-in-the-tropical-paradise"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[12]/a[1]",
+            "text": "Nara Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/japan/nara"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[13]/a[1]",
+            "text": "Osaka Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/japan/osaka"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[14]/a[1]",
+            "text": "Phuket Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/thailand/phuket"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[15]/a[1]",
+            "text": "Sapporo Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/japan/sapporo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[16]/a[1]",
+            "text": "Seoul Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/south-korea/seoul"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[17]/a[1]",
+            "text": "Singapore Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/singapore"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[18]/a[1]",
+            "text": "Taichung Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/taiwan/taichung"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[19]/a[1]",
+            "text": "Taipei Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/taiwan/taipei"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[20]/a[1]",
+            "text": "Tokyo Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/japan/tokyo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[2]/li[21]/a[1]",
+            "text": "Goa Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/special-editions/goa"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[3]/li[2]/a[1]",
+            "text": "Paris Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/france/paris"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[4]/li[2]/a[1]",
+            "text": "Dubai Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/united-arab-emirates-uae/dubai"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[4]/li[3]/a[1]",
+            "text": "Jeddah Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/saudi-arabia/jeddah"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[4]/li[4]/a[1]",
+            "text": "Saudi Arabia Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/saudi-arabia"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[5]/li[2]/a[1]",
+            "text": "Brisbane Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/australia/brisbane"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[5]/li[3]/a[1]",
+            "text": "Melbourne Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/australia/melbourne"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/ul[5]/li[4]/a[1]",
+            "text": "Sydney Guide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides/australia/sydney"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[2]/li[2]/a[1]",
+            "text": "Bangkok Apartments",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/apartments/city/bangkok-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[2]/li[3]/a[1]",
+            "text": "Kuala Lumpur Apartments",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/apartments/city/kuala-lumpur-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[2]/li[4]/a[1]",
+            "text": "Manila Apartments",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/apartments/city/manila-ph.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[2]/li[5]/a[1]",
+            "text": "Osaka Apartments",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/apartments/city/osaka-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[2]/li[6]/a[1]",
+            "text": "Pattaya Apartments",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/apartments/city/pattaya-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[2]/li[7]/a[1]",
+            "text": "Tokyo Apartments",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/apartments/city/tokyo-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[3]/li[2]/a[1]",
+            "text": "Bali Bungalows",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/bungalows/city/bali-id.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[3]/li[3]/a[1]",
+            "text": "Koh Kood Bungalows",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/bungalows/city/koh-kood-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[3]/li[4]/a[1]",
+            "text": "Koh Lanta Bungalows",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/bungalows/city/koh-lanta-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[3]/li[5]/a[1]",
+            "text": "Koh Phangan Bungalows",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/bungalows/city/koh-phangan-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[3]/li[6]/a[1]",
+            "text": "Koh Samet Bungalows",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/bungalows/city/koh-samet-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[3]/li[7]/a[1]",
+            "text": "Phu Quoc Island Bungalows",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/bungalows/city/phu-quoc-island-vn.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[4]/li[2]/a[1]",
+            "text": "Bali Villas",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/villas/city/bali-id.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[4]/li[3]/a[1]",
+            "text": "Phuket Villas",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/villas/city/phuket-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[4]/li[4]/a[1]",
+            "text": "Pattaya Villas",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/villas/city/pattaya-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[4]/li[5]/a[1]",
+            "text": "Hua Hin / Cha-am Villas",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/villas/city/hua-hin-cha-am-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[4]/li[6]/a[1]",
+            "text": "Seoul Villas",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/villas/city/seoul-kr.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[4]/li[7]/a[1]",
+            "text": "Port Dickson Villas",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/theme/villas/city/port-dickson-my.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[5]/li[2]/a[1]",
+            "text": "Tokyo Vacation Rentals",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/vacation-rentals/city/tokyo-jp.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[4]/footer[1]/section[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/ul[5]/li[3]/a[1]",
+            "text": "Bangkok Vacation Rentals",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/vacation-rentals/city/bangkok-th.html"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/header[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/?ds=HSNv0h9ZU8lt%2BerP#HomeReactContainer",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[1]/nav[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[1]/nav[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[1]/nav[1]/div[2]/div[3]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/activities",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[1]/nav[1]/div[2]/div[4]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/deals",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[1]/nav[1]/div[2]/div[5]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/apartments",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[1]/nav[1]/div[2]/div[6]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/clickouts/esim?source=desktop&medium=-1&campaign=header_esim_link&currency=USD",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[1]/nav[1]/div[2]/div[7]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/travel-guides",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[1]/nav[1]/div[2]/div[8]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/traveltips/",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[9]/header[1]/section[1]/div[1]/nav[1]/div[2]/div[9]/div[1]/div[1]/div[1]/button[1]",
+            "text": "Menu",
+            "aria-label": "Menu",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/a[1]",
+            "text": "Orlando (FL)\n17,408 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/orlando-fl-us.html",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[3]/div[2]/div[1]/div[1]/div[1]/div[1]/section[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/c/Agoda20thbdayflights?siteid=1904136",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/section[4]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/a[1]",
+            "text": "Kuala Lumpur\n19,902 accommodations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.agoda.com/en-gb/city/kuala-lumpur-my.html",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[9]/div[2]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]",
+            "text": "Save 10% on your 1st app booking!\nJust scan the QR code for instant savings",
+            "aria-label": "",
+            "id": "bf21444cdbc6",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        }
+    ]
+}

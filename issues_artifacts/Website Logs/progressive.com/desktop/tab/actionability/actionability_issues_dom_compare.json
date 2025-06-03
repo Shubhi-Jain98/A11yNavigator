@@ -1,0 +1,15 @@
+{
+    "count of actionability issues": 2,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/header[1]/nav[1]/ul[2]/li[2]/a[1]",
+            "text": "Log In"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/main[1]/div[7]/ul[1]/li[2]/a[1]",
+            "text": "Diversity & Inclusion\u203a\nProgress \u2013 it\u2019s in our name and in our approach."
+        }
+    ]
+}

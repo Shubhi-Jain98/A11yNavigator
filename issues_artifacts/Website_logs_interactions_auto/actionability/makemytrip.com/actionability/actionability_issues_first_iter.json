@@ -1,0 +1,52 @@
+{
+    "count of actionability issues": 4,
+    "missing paths": [
+        {
+            "IA2UniqueID": -8500,
+            "xpath": "/html/body/div/div/div/div/div/a",
+            "nvda_role": "BUTTON (9)",
+            "nvda_name": "4",
+            "nvda_value": null,
+            "nvda_states": [
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -17666,
+            "xpath": "/html/body/div/div/div[2]/div/div/div/div/div[2]/div/div[2]/label/input",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "None",
+            "nvda_value": "https://www.instagram.com/makemytrip/?hl=en&open=outside",
+            "nvda_states": [
+                "OFFSCREEN (4194304)",
+                "LINKED (4096)",
+                "FOCUSED (2)",
+                "FOCUSABLE (16777216)"
+            ]
+        },
+        {
+            "IA2UniqueID": -161060,
+            "xpath": "/html/body/div/div/div[2]/div/div/div/div/div[2]/div/span",
+            "nvda_role": "-",
+            "nvda_name": "MakeMyTrip - #1 Travel Website for Flight & Hotel Booking",
+            "nvda_value": null,
+            "nvda_states": [
+                "READONLY (128)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -170,
+            "xpath": "/html/body/div/div/footer/div[2]/section/section/article/div/div/div/div",
+            "nvda_role": "MENUBUTTON (102)",
+            "nvda_name": "View site information",
+            "nvda_value": null,
+            "nvda_states": [
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

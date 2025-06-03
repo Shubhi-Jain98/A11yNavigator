@@ -1,0 +1,728 @@
+[
+    {
+        "IA2UniqueID": -538,
+        "nvda_name": "SEAL - Home Page",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/p/a"
+    },
+    {
+        "IA2UniqueID": -557,
+        "nvda_name": "Members",
+        "nvda_value": "https://seal.ics.uci.edu/members.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -558,
+        "nvda_name": "Publications",
+        "nvda_value": "https://seal.ics.uci.edu/publications.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -559,
+        "nvda_name": "Projects",
+        "nvda_value": "https://seal.ics.uci.edu/projects.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/p/a"
+    },
+    {
+        "IA2UniqueID": -562,
+        "nvda_name": "Prof. Sam Malek",
+        "nvda_value": "http://www.ics.uci.edu/~malek/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -563,
+        "nvda_name": "Informatics Department",
+        "nvda_value": "http://www.informatics.ics.uci.edu/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/p/a[3]"
+    },
+    {
+        "IA2UniqueID": -564,
+        "nvda_name": "School of Information and Computer Sciences",
+        "nvda_value": "http://www.ics.uci.edu/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -578,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/timestump/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -579,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/admole/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[3]"
+    },
+    {
+        "IA2UniqueID": -580,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/a11ypuppetry/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[4]"
+    },
+    {
+        "IA2UniqueID": -581,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/over_a11y/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[5]"
+    },
+    {
+        "IA2UniqueID": -582,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/groundhog/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[6]"
+    },
+    {
+        "IA2UniqueID": -547,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/latte/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[7]"
+    },
+    {
+        "IA2UniqueID": -583,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/ercatcher/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[8]"
+    },
+    {
+        "IA2UniqueID": -584,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/ase20empirical/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[9]"
+    },
+    {
+        "IA2UniqueID": -585,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/craftdroid/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[10]"
+    },
+    {
+        "IA2UniqueID": -586,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/darcy/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[11]"
+    },
+    {
+        "IA2UniqueID": -587,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/cobweb/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[12]"
+    },
+    {
+        "IA2UniqueID": -588,
+        "nvda_name": "None",
+        "nvda_value": "https://hammadmahmoud.github.io/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[13]"
+    },
+    {
+        "IA2UniqueID": -589,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/salma/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[14]"
+    },
+    {
+        "IA2UniqueID": -590,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/nemo/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[15]"
+    },
+    {
+        "IA2UniqueID": -591,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/terminator/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[16]"
+    },
+    {
+        "IA2UniqueID": -592,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/obfuscation/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[17]"
+    },
+    {
+        "IA2UniqueID": -593,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[18]"
+    },
+    {
+        "IA2UniqueID": -594,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[19]"
+    },
+    {
+        "IA2UniqueID": -595,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/letterbomb/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[20]"
+    },
+    {
+        "IA2UniqueID": -596,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/mu_droid/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[21]"
+    },
+    {
+        "IA2UniqueID": -597,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/patdroid/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[22]"
+    },
+    {
+        "IA2UniqueID": -598,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[23]"
+    },
+    {
+        "IA2UniqueID": -599,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/savasana/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[24]"
+    },
+    {
+        "IA2UniqueID": -600,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/droid-sec-taxonomy/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[25]"
+    },
+    {
+        "IA2UniqueID": -601,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/deldroid/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[26]"
+    },
+    {
+        "IA2UniqueID": -602,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/covert/2016dsn.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[27]"
+    },
+    {
+        "IA2UniqueID": -603,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/trimdroid/2016ICSE.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[28]"
+    },
+    {
+        "IA2UniqueID": -604,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/titanium/FSE2016Titanium.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/a[29]"
+    },
+    {
+        "IA2UniqueID": -605,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/energy-test-min/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -606,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/timestump/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -607,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/admole/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[3]"
+    },
+    {
+        "IA2UniqueID": -608,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/a11ypuppetry/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[4]"
+    },
+    {
+        "IA2UniqueID": -609,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/over_a11y/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[5]"
+    },
+    {
+        "IA2UniqueID": -610,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/groundhog/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[6]"
+    },
+    {
+        "IA2UniqueID": -611,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/latte/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[7]"
+    },
+    {
+        "IA2UniqueID": -612,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/ercatcher/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[8]"
+    },
+    {
+        "IA2UniqueID": -613,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/ase20empirical/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[9]"
+    },
+    {
+        "IA2UniqueID": -614,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/craftdroid/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[10]"
+    },
+    {
+        "IA2UniqueID": -615,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/darcy/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[11]"
+    },
+    {
+        "IA2UniqueID": -616,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/cobweb/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[12]"
+    },
+    {
+        "IA2UniqueID": -617,
+        "nvda_name": "None",
+        "nvda_value": "https://hammadmahmoud.github.io/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[13]"
+    },
+    {
+        "IA2UniqueID": -618,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/salma/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[14]"
+    },
+    {
+        "IA2UniqueID": -619,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/nemo/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[15]"
+    },
+    {
+        "IA2UniqueID": -620,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/terminator/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[16]"
+    },
+    {
+        "IA2UniqueID": -621,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/obfuscation/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[17]"
+    },
+    {
+        "IA2UniqueID": -622,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[18]"
+    },
+    {
+        "IA2UniqueID": -623,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[19]"
+    },
+    {
+        "IA2UniqueID": -624,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/letterbomb/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[20]"
+    },
+    {
+        "IA2UniqueID": -625,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/mu_droid/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[21]"
+    },
+    {
+        "IA2UniqueID": -626,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/patdroid/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[22]"
+    },
+    {
+        "IA2UniqueID": -627,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[23]"
+    },
+    {
+        "IA2UniqueID": -628,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/savasana/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[24]"
+    },
+    {
+        "IA2UniqueID": -629,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/droid-sec-taxonomy/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[25]"
+    },
+    {
+        "IA2UniqueID": -630,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/deldroid/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[26]"
+    },
+    {
+        "IA2UniqueID": -631,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/covert/2016dsn.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[27]"
+    },
+    {
+        "IA2UniqueID": -632,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/trimdroid/2016ICSE.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[28]"
+    },
+    {
+        "IA2UniqueID": -633,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/titanium/FSE2016Titanium.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/a[29]"
+    },
+    {
+        "IA2UniqueID": -634,
+        "nvda_name": "None",
+        "nvda_value": "https://seal.ics.uci.edu/projects/energy-test-min/index.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -642,
+        "nvda_name": "[seal's logo]",
+        "nvda_value": "http://www.ics.uci.edu/~seal/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[4]/a"
+    }
+]

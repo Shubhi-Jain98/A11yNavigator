@@ -1,0 +1,3619 @@
+[
+    {
+        "IA2UniqueID": -14338,
+        "nvda_name": "Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/header/div/div/a"
+    },
+    {
+        "IA2UniqueID": -14779,
+        "nvda_name": "Microsoft",
+        "nvda_value": "https://www.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/header/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -14348,
+        "nvda_name": "Microsoft 365",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/header/div/div/nav/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -14785,
+        "nvda_name": "Outlook",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/header/div/div/nav/ul/li[3]/div/button"
+    },
+    {
+        "IA2UniqueID": -14482,
+        "nvda_name": "Products \ue70d",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/header/div/div/nav/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -14484,
+        "nvda_name": "For business",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/outlook-for-business",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/header/div/div/nav/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -14486,
+        "nvda_name": "Plans and pricing",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/outlook-email-plan",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/header/div/div/nav/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -14488,
+        "nvda_name": "Support",
+        "nvda_value": "https://support.office.com/en-gb/outlook",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/header/div/div/div[4]/form/button"
+    },
+    {
+        "IA2UniqueID": -14436,
+        "nvda_name": "Search Microsoft.com",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/header/div/div/div[4]/div/nav/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -14791,
+        "nvda_name": "Buy now",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/business/compare-all-microsoft-365-business-products",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/header/div/div/div[4]/div/nav/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -14793,
+        "nvda_name": "Sign in",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkID=2125442&deeplink=owa%2F",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[7]/div/div/div[2]/div/div/div/div/div/div/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -14826,
+        "nvda_name": "Sign in to Outlook",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkID=2125442&deeplink=owa%2F",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[7]/div/div/div[2]/div/div/div/div/div/div/div[3]/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -14828,
+        "nvda_name": "Create free account on Outlook",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?linkid=2125440&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div/div/nav/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -14927,
+        "nvda_name": "OVERVIEW Your Outlook can change everything Back to tabs",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -14948,
+        "nvda_name": "Key benefits",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div"
+    },
+    {
+        "IA2UniqueID": -14948,
+        "nvda_name": "Key benefits",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/ul/li/div/div/button"
+    },
+    {
+        "IA2UniqueID": -14964,
+        "nvda_name": "\ue70d Together in one place",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/ul/li[2]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -14978,
+        "nvda_name": "\ue70d Connect your accounts",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/ul/li[3]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -14985,
+        "nvda_name": "\ue70d Write more effective emails",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/ul/li[4]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -14992,
+        "nvda_name": "\ue70d Easily access your files",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -14995,
+        "nvda_name": "Back to tabs",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#tabs-pill-bar-oc8375_tab0-tab",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[2]/div[3]/div/div/div[2]/div[2]/div/div/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -15029,
+        "nvda_name": "Connect your accounts",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "SELECTABLE (8388608)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[2]/div[3]/div/div/div[2]/div[2]/div/div[2]/div"
+    },
+    {
+        "IA2UniqueID": -15029,
+        "nvda_name": "Connect your accounts",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[2]/div[3]/div/div/div[2]/div[2]/div/div[2]/div/div/div/div[2]/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -15074,
+        "nvda_name": "Video about how to Connect Microsoft Outlook account",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[2]/div[3]/div/div/div[2]/div[2]/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -15077,
+        "nvda_name": "Back to tabs",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#tabs-ocbb5d_tab0-tab",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[6]/div[2]/div[2]/div/div/div/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -15114,
+        "nvda_name": "Download link of Outlook for Windows",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2260557&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[6]/div[2]/div[2]/div/div/div[2]/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -15131,
+        "nvda_name": "Download Microsoft Outlook Email and calendar for Mac",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2260803&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[6]/div[2]/div[2]/div/div/div[3]/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -15148,
+        "nvda_name": "Dowload Microsoft Outlook Secure Email, Calendar & Files for iphone ipad and apple watch",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2268478&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[6]/div[2]/div[2]/div/div/div[4]/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -15165,
+        "nvda_name": "Download Microsoft Outlook in google play",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2258336&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15186,
+        "nvda_name": "Yearly",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "SELECTABLE (8388608)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div"
+    },
+    {
+        "IA2UniqueID": -15186,
+        "nvda_name": "Yearly",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15199,
+        "nvda_name": "For Home",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div"
+    },
+    {
+        "IA2UniqueID": -15199,
+        "nvda_name": "For Home",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "SELECTABLE (8388608)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div/button[2]"
+    },
+    {
+        "IA2UniqueID": -15214,
+        "nvda_name": "Next Slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div/div/div"
+    },
+    {
+        "IA2UniqueID": -15220,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div/div/div[2]/div/div/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -15227,
+        "nvda_name": "Create a free Outlook account",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?linkid=2125440&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div/div/div[3]/ul/li[4]/div/div/div/div/div/div/span/sup/a"
+    },
+    {
+        "IA2UniqueID": -15260,
+        "nvda_name": "Footnote 5",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote5",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div/div/div[3]/ul/li[5]/div/div/div/div/div/div/span/a"
+    },
+    {
+        "IA2UniqueID": -15268,
+        "nvda_name": "Cloud storage: How does Microsoft storage work?",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2260558",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div/div/div[4]/ul/li/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15284,
+        "nvda_name": "",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[2]/div/div"
+    },
+    {
+        "IA2UniqueID": -15289,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[2]/div/div[2]/div/div/div[4]/span/a"
+    },
+    {
+        "IA2UniqueID": -15296,
+        "nvda_name": "See terms",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2265909",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[2]/div/div[2]/div/div/div[5]/div/a"
+    },
+    {
+        "IA2UniqueID": -15299,
+        "nvda_name": "Buy now Microsoft 365 Basic",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkID=2186361&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[2]/div/div[3]/ul/li[4]/div/div/div/div/div/div/span/sup/a"
+    },
+    {
+        "IA2UniqueID": -15332,
+        "nvda_name": "Footnote 5",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote5",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[2]/div/div[3]/ul/li[5]/div/div/div/div/div/div/span/a"
+    },
+    {
+        "IA2UniqueID": -15340,
+        "nvda_name": "cloud storage",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2260558",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[2]/div/div[4]/ul/li/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15363,
+        "nvda_name": "Popover Text 1",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "OFFSCREEN (4194304)",
+            "FOCUSED (2)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[2]/div/div[4]/ul/li[2]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15373,
+        "nvda_name": "Popover Text Card 2 Popover 1",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[2]/div/div/div[4]/span/a"
+    },
+    {
+        "IA2UniqueID": -15390,
+        "nvda_name": "See terms",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2265909",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[2]/div/div/div[5]/div/a"
+    },
+    {
+        "IA2UniqueID": -15393,
+        "nvda_name": "Buy now Microsoft 365 Personal",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkID=2111557&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[3]/ul/li[3]/div/div/div/div/div/div/span/sup/a"
+    },
+    {
+        "IA2UniqueID": -15419,
+        "nvda_name": "Footnote 5",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote5",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[3]/ul/li[4]/div/div/div/div/div/div/span/a"
+    },
+    {
+        "IA2UniqueID": -15427,
+        "nvda_name": "cloud storage ",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2260558",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[3]/ul/li[5]/div/div/div/div/div/div/span/sup/a[2]"
+    },
+    {
+        "IA2UniqueID": -15437,
+        "nvda_name": "Footnote 4",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote4",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[3]/ul/li[5]/div/div/div/div/div/div/span/sup/a[3]"
+    },
+    {
+        "IA2UniqueID": -15438,
+        "nvda_name": "Footnote 6",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote6",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[3]/ul/li[6]/div/div/div/div/div/div/span/sup/a"
+    },
+    {
+        "IA2UniqueID": -15447,
+        "nvda_name": "Footnote 4",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote4",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[4]/ul/li/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15484,
+        "nvda_name": "Popover Text",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[4]/ul/li[2]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15494,
+        "nvda_name": "Popover Text",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[4]/ul/li[3]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15504,
+        "nvda_name": "Excel icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[4]/ul/li[4]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15514,
+        "nvda_name": "Powerpoint icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[4]/ul/li[5]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15524,
+        "nvda_name": "Onenote icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[4]/ul/li[6]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15534,
+        "nvda_name": "Defender icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[4]/ul/li[7]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15544,
+        "nvda_name": "Onedrive icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[4]/ul/li[8]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15554,
+        "nvda_name": "Designer icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[4]/ul/li[9]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15564,
+        "nvda_name": "Clipchamp icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div"
+    },
+    {
+        "IA2UniqueID": -18118,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[2]/div/div/div[4]/span/a"
+    },
+    {
+        "IA2UniqueID": -15576,
+        "nvda_name": "See terms",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2265909",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[2]/div/div/div[5]/div/a"
+    },
+    {
+        "IA2UniqueID": -15579,
+        "nvda_name": "Buy now Microsoft 365 Family",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkID=2111639&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[2]/div/div/div[5]/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -15581,
+        "nvda_name": "Try Microsoft 365 Family for free",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/try",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[2]/div/div/div[6]/span/p/a"
+    },
+    {
+        "IA2UniqueID": -15585,
+        "nvda_name": "See all plan details ",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/outlook-email-plan?ocid=cmmroc71v8n",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[3]/ul/li[3]/div/div/div/div/div/div/span/sup/a"
+    },
+    {
+        "IA2UniqueID": -15613,
+        "nvda_name": "Footnote 5",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote5",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[3]/ul/li[4]/div/div/div/div/div/div/span/a"
+    },
+    {
+        "IA2UniqueID": -15621,
+        "nvda_name": "cloud storage",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2260558",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[3]/ul/li[5]/div/div/div/div/div/div/span/sup/a"
+    },
+    {
+        "IA2UniqueID": -15630,
+        "nvda_name": "Footnote 2",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote2",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[3]/ul/li[5]/div/div/div/div/div/div/span/sup/a[2]"
+    },
+    {
+        "IA2UniqueID": -15631,
+        "nvda_name": "Footnote 4",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote4",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[3]/ul/li[6]/div/div/div/div/div/div/span/a"
+    },
+    {
+        "IA2UniqueID": -15640,
+        "nvda_name": "Footnote 4",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote4",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[4]/ul/li/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15678,
+        "nvda_name": "Outlook icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "OFFSCREEN (4194304)",
+            "FOCUSED (2)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[4]/ul/li[2]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15688,
+        "nvda_name": "Word icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[4]/ul/li[3]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15698,
+        "nvda_name": "Excel icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[4]/ul/li[4]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15708,
+        "nvda_name": "Powerpoint icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[4]/ul/li[5]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15718,
+        "nvda_name": "Onenote icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[4]/ul/li[6]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15728,
+        "nvda_name": "Defender icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[4]/ul/li[7]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15738,
+        "nvda_name": "Onedrive icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[4]/ul/li[8]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15748,
+        "nvda_name": "Designer icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[4]/ul/li[9]/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -15758,
+        "nvda_name": "Clipchamp icon",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/a"
+    },
+    {
+        "IA2UniqueID": -15763,
+        "nvda_name": "Back to PRICING-Yearly-Home tab section",
+        "nvda_value": "javascript:void(0);",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -15926,
+        "nvda_name": "Back to home and business tabs",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#tabs-pill-bar-ocd5d8_tab0-tab",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16196,
+        "nvda_name": "back to yearly montly tabs",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#tabs-pill-bar-oc7ae8_tab0-tab",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[11]/div[3]/div/div/div/section/div/button[2]"
+    },
+    {
+        "IA2UniqueID": -16259,
+        "nvda_name": "Next Slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[11]/div[3]/div/div/div/section/div[2]/div/div"
+    },
+    {
+        "IA2UniqueID": -16264,
+        "nvda_name": " 1 of 9",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[11]/div[3]/div/div/div/section/div[2]/div/div/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -16278,
+        "nvda_name": "Learn more about Word: Document Editing with Microsoft Word",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/word",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[11]/div[3]/div/div/div/section/div[2]/div/div[2]"
+    },
+    {
+        "IA2UniqueID": -16282,
+        "nvda_name": " 2 of 9",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[11]/div[3]/div/div/div/section/div[2]/div/div[2]/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -16296,
+        "nvda_name": "Learn more about Excel: Spreadsheet Software: Microsoft Excel",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/excel",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[11]/div[3]/div/div/div/section/a"
+    },
+    {
+        "IA2UniqueID": -16427,
+        "nvda_name": "Back to MICROSOFT 365 APPS carousel section",
+        "nvda_value": "javascript:void(0);",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[12]/div[3]/div/div/div/div/div/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -16450,
+        "nvda_name": "What\u2019s new",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "SELECTABLE (8388608)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[12]/div[3]/div/div/div/div[2]/div/div/div"
+    },
+    {
+        "IA2UniqueID": -16450,
+        "nvda_name": "What\u2019s new",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[12]/div[3]/div/div/div/div[2]/div/div/div/div/div/div/section/div/button[2]"
+    },
+    {
+        "IA2UniqueID": -16467,
+        "nvda_name": "Next Slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[12]/div[3]/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div/div/div[2]/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -16486,
+        "nvda_name": "Learn more about new Outlook for Windows",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/outlook-for-windows?ocid=cmmfqsxct4k",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[12]/div[3]/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[2]"
+    },
+    {
+        "IA2UniqueID": -16490,
+        "nvda_name": "2 of 3",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[12]/div[3]/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[2]/div/div[2]/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -16506,
+        "nvda_name": "Learn more about Copilot in outlook",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2260452&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[12]/div[3]/div/div/div/div[2]/div/div/div/div/div/div/section/a"
+    },
+    {
+        "IA2UniqueID": -16531,
+        "nvda_name": "Back to NEWS AND TIPS-What's new tab section",
+        "nvda_value": "javascript:void(0);",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[12]/div[3]/div/div/div/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16538,
+        "nvda_name": "back to tabs",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#tabs-pill-bar-oc44a7_tab0-tab",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[13]/div[2]/div[2]/div/div/div/div[2]/div/button[2]"
+    },
+    {
+        "IA2UniqueID": -16560,
+        "nvda_name": "Collapse all",
+        "nvda_value": null,
+        "nvda_states": [
+            "PRESSED (16)",
+            "UNAVAILABLE (1)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[13]/div[2]/div[2]/div/div/ul/li/div/div/button"
+    },
+    {
+        "IA2UniqueID": -16567,
+        "nvda_name": "01/ How do I create an Outlook.com account?\u00a0 \ue710",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[13]/div[2]/div[2]/div/div/ul/li[2]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -16579,
+        "nvda_name": "02/ I have a Hotmail.com, Live.com, or MSN.com email account. Is that the same as Outlook? \ue710",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "OFFSCREEN (4194304)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[13]/div[2]/div[2]/div/div/ul/li[3]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -16591,
+        "nvda_name": "03/ I don\u2019t have an Outlook.com account. Can I still use Outlook apps? \ue710",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[13]/div[2]/div[2]/div/div/ul/li[4]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -16603,
+        "nvda_name": "04/ How does mailbox storage / Microsoft storage work for Outlook? \ue710",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[13]/div[2]/div[2]/div/div/ul/li[5]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -16615,
+        "nvda_name": "05/ Why do I see ads in my Outlook inbox? \ue710",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[13]/div[2]/div[2]/div/div/ul/li[6]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -16627,
+        "nvda_name": "06/ What do I get for Outlook with a Microsoft 365 subscription? \ue710",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[13]/div[2]/div[2]/div/div/ul/li[7]/div/div/button"
+    },
+    {
+        "IA2UniqueID": -16639,
+        "nvda_name": "07/ If I have a personal Office (one-time) license, will I be able to access desktop apps and have an ad-free Outlook experience? \ue710",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "OFFSCREEN (4194304)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[14]/div[2]/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -16704,
+        "nvda_name": "Create account on Outlook",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?linkid=2125440&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[14]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -16722,
+        "nvda_name": "Explore plans to Get the best Outlook experience with Microsoft 365",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/outlook-email-plan?ocid=cmmhk3ktunq",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16746,
+        "nvda_name": "Back to Footnote1",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[3]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16751,
+        "nvda_name": "Back to Footnote2",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#note2",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[4]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16756,
+        "nvda_name": "Back to Footnote3",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#note3",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[5]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16761,
+        "nvda_name": "Back to Footnote4",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#note4",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[5]/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16763,
+        "nvda_name": "Learn more about usage limits",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2280151",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[6]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16767,
+        "nvda_name": "Back to Footnote5",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#note5",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[6]/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16769,
+        "nvda_name": "Learn more about Microsoft storage ",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2260558",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[7]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16773,
+        "nvda_name": "Back to Footnote6",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#note6",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[8]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16778,
+        "nvda_name": "Back to Footnote8",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#note8",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[9]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16783,
+        "nvda_name": "Back to Footnote9",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#note9",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[9]/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -16785,
+        "nvda_name": "Learn how to cancel your Microsoft subscription",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?linkid=2202289",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[15]/div[2]/div[2]/div/div/ol/li[9]/div/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -16786,
+        "nvda_name": "Learn more about data retention, deletion, and destruction in Microsoft 365",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?linkid=2187524",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[9]/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/section/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -16819,
+        "nvda_name": "Follow Microsoft 365 on Linkedin",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2144764",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[9]/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/section/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -16822,
+        "nvda_name": "Go to the Microsoft 365 Twitter",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkId=2000804",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[9]/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/section/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -16825,
+        "nvda_name": "Go to the Microsoft 365 blog",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkID=2000803",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -16839,
+        "nvda_name": "Surface Pro What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/surface/devices/surface-pro-11th-edition",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -16841,
+        "nvda_name": "Surface Laptop What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/surface/devices/surface-laptop-7th-edition",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -16843,
+        "nvda_name": "Surface Laptop Studio 2 What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/d/Surface-Laptop-Studio-2/8rqr54krf1dZ",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -16845,
+        "nvda_name": "Surface Laptop Go 3 What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/d/Surface-Laptop-Go-3/8p0wwgj6c6l2",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -16849,
+        "nvda_name": "AI in Windows What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/windows/copilot-ai-features",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -16851,
+        "nvda_name": "Explore Microsoft products What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-products-and-apps",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -16853,
+        "nvda_name": "Windows 11 apps What's new",
+        "nvda_value": "https://www.microsoft.com/windows/windows-11-apps",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -16858,
+        "nvda_name": "Account profile Microsoft Store",
+        "nvda_value": "https://account.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -16862,
+        "nvda_name": "Microsoft Store Support Microsoft Store",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2139749",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -16864,
+        "nvda_name": "Returns Microsoft Store",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x809",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -16853,
+        "nvda_name": "Windows 11 apps What's new",
+        "nvda_value": "https://www.microsoft.com/windows/windows-11-apps",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -16866,
+        "nvda_name": "Order tracking Microsoft Store",
+        "nvda_value": "https://account.microsoft.com/orders",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -16868,
+        "nvda_name": "Microsoft Experience Centre Microsoft Store",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/locations/england/london/oxford-circus/store-1144?ICID=uhf_mec",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -16870,
+        "nvda_name": "Recycling Microsoft Store",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/b/recycling?icid=GlobalFooterNav",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -16872,
+        "nvda_name": "Microsoft Store Promise Microsoft Store",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -16872,
+        "nvda_name": "Microsoft Store Promise Microsoft Store",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -16879,
+        "nvda_name": "Devices for education Education",
+        "nvda_value": "https://www.microsoft.com/en-gb/education/devices/overview",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -16881,
+        "nvda_name": "Microsoft Teams for Education Education",
+        "nvda_value": "https://www.microsoft.com/en-gb/education/products/teams",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -16883,
+        "nvda_name": "Microsoft 365 Education Education",
+        "nvda_value": "https://www.microsoft.com/en-gb/education/products/microsoft-365",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -16885,
+        "nvda_name": "Office Education Education",
+        "nvda_value": "https://www.microsoft.com/en-gb/education/products/office",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -16887,
+        "nvda_name": "Educator training and development Education",
+        "nvda_value": "https://education.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -16889,
+        "nvda_name": "Deals for students and parents Education",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/b/student",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -16891,
+        "nvda_name": "Azure for students Education",
+        "nvda_value": "https://azure.microsoft.com/en-gb/free/students/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -16897,
+        "nvda_name": "Microsoft Cloud Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-cloud",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -16899,
+        "nvda_name": "Microsoft Security Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/security",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -16901,
+        "nvda_name": "Azure Business",
+        "nvda_value": "https://azure.microsoft.com/en-gb/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -16903,
+        "nvda_name": "Dynamics 365 Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/dynamics-365",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -16905,
+        "nvda_name": "Microsoft 365 Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/business",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -16907,
+        "nvda_name": "Microsoft 365 Copilot Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/copilot/copilot-for-work",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -16909,
+        "nvda_name": "Microsoft Teams Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-teams/group-chat-software",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -16911,
+        "nvda_name": "Small Business Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/b/business",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -16916,
+        "nvda_name": "Microsoft Developer Developer & IT",
+        "nvda_value": "https://developer.microsoft.com/en-gb/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -16918,
+        "nvda_name": "Documentation Developer & IT",
+        "nvda_value": "https://learn.microsoft.com/docs/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -16920,
+        "nvda_name": "Microsoft Learn Developer & IT",
+        "nvda_value": "https://learn.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -16922,
+        "nvda_name": "Microsoft Tech Community Developer & IT",
+        "nvda_value": "https://techcommunity.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -16924,
+        "nvda_name": "Azure Marketplace Developer & IT",
+        "nvda_value": "https://azuremarketplace.microsoft.com/en-gb/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -14760,
+        "nvda_name": "AppSource Developer & IT",
+        "nvda_value": "https://appsource.microsoft.com/en-gb/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -16927,
+        "nvda_name": "Microsoft Power Platform Developer & IT",
+        "nvda_value": "https://www.microsoft.com/en-gb/power-platform",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -16929,
+        "nvda_name": "Visual Studio Developer & IT",
+        "nvda_value": "https://visualstudio.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -16934,
+        "nvda_name": "Careers Company",
+        "nvda_value": "https://careers.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -16936,
+        "nvda_name": "About Microsoft Company",
+        "nvda_value": "https://www.microsoft.com/about",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -16938,
+        "nvda_name": "Company news Company",
+        "nvda_value": "https://news.microsoft.com/en-gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -16940,
+        "nvda_name": "Privacy at Microsoft Company",
+        "nvda_value": "https://privacy.microsoft.com/en-gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -16942,
+        "nvda_name": "Investors Company",
+        "nvda_value": "https://www.microsoft.com/investor/default.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/div/a"
+    },
+    {
+        "IA2UniqueID": -18585,
+        "nvda_name": "Microsoft 365 - choose your locale",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div/div[2]"
+    },
+    {
+        "IA2UniqueID": -27197,
+        "nvda_name": "Content Language Selector. Currently set to English (United Kingdom)",
+        "nvda_value": "https://www.microsoft.com/en-GB/microsoft-365/locale",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -27198,
+        "nvda_name": "Your Privacy Choices Opt-Out Icon Your Privacy Choices",
+        "nvda_value": "https://aka.ms/yourcaliforniaprivacychoices",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/div/a[3]"
+    },
+    {
+        "IA2UniqueID": -27201,
+        "nvda_name": "Consumer Health Privacy",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2259814",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -27206,
+        "nvda_name": "Contact Microsoft",
+        "nvda_value": "https://support.microsoft.com/contactus",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -27208,
+        "nvda_name": "Privacy",
+        "nvda_value": "https://go.microsoft.com/fwlink/?LinkId=521839",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -27210,
+        "nvda_name": "Terms of use",
+        "nvda_value": "https://go.microsoft.com/fwlink/?LinkID=206977",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -27212,
+        "nvda_name": "Trademarks",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2196228",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -27214,
+        "nvda_name": "About our ads",
+        "nvda_value": "https://choice.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -27216,
+        "nvda_name": "EU Compliance DoCs",
+        "nvda_value": "https://www.microsoft.com/en-ie/eucompliancedoc/default.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -477,
+        "nvda_name": "Bookmark this tab",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -25629,
+        "nvda_name": "cloud storage ",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2260558",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[3]/div/div[3]/ul/li[5]/div/div/div/div/div/div/span/sup/a"
+    },
+    {
+        "IA2UniqueID": -25786,
+        "nvda_name": "See all plan details ",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/outlook-email-plan?ocid=cmmroc71v8n",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[2]/div/div/div[6]/span/p[2]/sup/a"
+    },
+    {
+        "IA2UniqueID": -25871,
+        "nvda_name": "Footnote 4",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#footnote4",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div[4]/div/div[3]/ul/li[5]/div/div/div/div/div/div/span/sup/a[3]"
+    },
+    {
+        "IA2UniqueID": -26467,
+        "nvda_name": "back to yearly montly tabs",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#tabs-pill-bar-oc7ae8_tab0-tab",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[11]/div[2]/div/div/div/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -26640,
+        "nvda_name": "Next Slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[12]/div[3]/div/div/div/div[2]/div/div/div/div/div/div/section/div[2]/div/div"
+    },
+    {
+        "IA2UniqueID": -26688,
+        "nvda_name": "Back to NEWS AND TIPS-What's new tab section",
+        "nvda_value": "javascript:void(0);",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[13]/div[2]/div[2]/div/div/div/div[2]/div/button"
+    },
+    {
+        "IA2UniqueID": -27095,
+        "nvda_name": "Surface Laptop Go 3 What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/d/Surface-Laptop-Go-3/8p0wwgj6c6l2",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -27193,
+        "nvda_name": "Investors Company",
+        "nvda_value": "https://www.microsoft.com/investor/default.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -30525,
+        "nvda_name": "Yearly",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div/div/div/div/div/button[2]"
+    },
+    {
+        "IA2UniqueID": -30538,
+        "nvda_name": "For Home",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[7]/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/button[2]"
+    },
+    {
+        "IA2UniqueID": -32011,
+        "nvda_name": "06/ What do I get for Outlook with a Microsoft 365 subscription? \ue710",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[14]/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[3]/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -34395,
+        "nvda_name": "Microsoft 365 - choose your locale",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/div/div/header/div/div/nav/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -34569,
+        "nvda_name": "Plans and pricing",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/business/compare-all-microsoft-365-business-products",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/div/div/header/div/div/nav/ul/li[4]/div/button"
+    },
+    {
+        "IA2UniqueID": -34572,
+        "nvda_name": "Resources \ue70d",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/div/div/header/div/div/nav/ul/li[5]/div/button"
+    },
+    {
+        "IA2UniqueID": -34575,
+        "nvda_name": "Support \ue70d",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/div/div/header/div/div/div[4]/form/button"
+    },
+    {
+        "IA2UniqueID": -34599,
+        "nvda_name": "Search Microsoft 365",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/div/div/header/div/div/div[4]/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -34960,
+        "nvda_name": "Sign in to your account",
+        "nvda_value": "https://www.microsoft.com/cascadeauth/microsoft-365/account/signin?ru=https%3A%2F%2Fwww.microsoft.com%2Fen-GB%2Fmicrosoft-365%2Flocale",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p/a"
+    },
+    {
+        "IA2UniqueID": -34624,
+        "nvda_name": "\u010ce\u0161tina (\u010cesk\u00e1 republika)",
+        "nvda_value": "https://www.microsoft.com/cs-cz/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -34626,
+        "nvda_name": "Dansk (Danmark)",
+        "nvda_value": "https://www.microsoft.com/da-dk/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[3]/a"
+    },
+    {
+        "IA2UniqueID": -34628,
+        "nvda_name": "Deutsch (Deutschland)",
+        "nvda_value": "https://www.microsoft.com/de-de/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[4]/a"
+    },
+    {
+        "IA2UniqueID": -34630,
+        "nvda_name": "Deutsch (\u00d6sterreich)",
+        "nvda_value": "https://www.microsoft.com/de-at/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[5]/a"
+    },
+    {
+        "IA2UniqueID": -34632,
+        "nvda_name": "Deutsch (Schweiz)",
+        "nvda_value": "https://www.microsoft.com/de-ch/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[6]/a"
+    },
+    {
+        "IA2UniqueID": -34634,
+        "nvda_name": "Eesti (Eesti)",
+        "nvda_value": "https://www.microsoft.com/et-ee/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[7]/a"
+    },
+    {
+        "IA2UniqueID": -34636,
+        "nvda_name": "English (Australia)",
+        "nvda_value": "https://www.microsoft.com/en-au/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[8]/a"
+    },
+    {
+        "IA2UniqueID": -34638,
+        "nvda_name": "English (Canada)",
+        "nvda_value": "https://www.microsoft.com/en-ca/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[9]/a"
+    },
+    {
+        "IA2UniqueID": -34640,
+        "nvda_name": "English (India)",
+        "nvda_value": "https://www.microsoft.com/en-in/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[10]/a"
+    },
+    {
+        "IA2UniqueID": -34642,
+        "nvda_name": "English (International)",
+        "nvda_value": "https://www.microsoft.com/en/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[11]/a"
+    },
+    {
+        "IA2UniqueID": -34644,
+        "nvda_name": "English (Ireland)",
+        "nvda_value": "https://www.microsoft.com/en-ie/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[13]/a"
+    },
+    {
+        "IA2UniqueID": -34648,
+        "nvda_name": "English (New Zealand)",
+        "nvda_value": "https://www.microsoft.com/en-nz/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[14]/a"
+    },
+    {
+        "IA2UniqueID": -34650,
+        "nvda_name": "English (Singapore)",
+        "nvda_value": "https://www.microsoft.com/en-sg/microsoft-365/",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p/a"
+    },
+    {
+        "IA2UniqueID": -34657,
+        "nvda_name": "English (United Kingdom)",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -34659,
+        "nvda_name": "English (United States)",
+        "nvda_value": "https://www.microsoft.com/en-us/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[3]/a"
+    },
+    {
+        "IA2UniqueID": -34661,
+        "nvda_name": "Espa\u00f1ol (Argentina)",
+        "nvda_value": "https://www.microsoft.com/es-ar/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[4]/a"
+    },
+    {
+        "IA2UniqueID": -34663,
+        "nvda_name": "Espa\u00f1ol (Chile)",
+        "nvda_value": "https://www.microsoft.com/es-cl/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[5]/a"
+    },
+    {
+        "IA2UniqueID": -34665,
+        "nvda_name": "Espa\u00f1ol (Colombia)",
+        "nvda_value": "https://www.microsoft.com/es-co/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[6]/a"
+    },
+    {
+        "IA2UniqueID": -34667,
+        "nvda_name": "Espa\u00f1ol (Espa\u00f1a)",
+        "nvda_value": "https://www.microsoft.com/es-es/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[7]/a"
+    },
+    {
+        "IA2UniqueID": -34669,
+        "nvda_name": "Espa\u00f1ol (Latinoam\u00e9rica)",
+        "nvda_value": "https://www.microsoft.com/es/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[8]/a"
+    },
+    {
+        "IA2UniqueID": -34671,
+        "nvda_name": "Espa\u00f1ol (M\u00e9xico)",
+        "nvda_value": "https://www.microsoft.com/es-mx/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[9]/a"
+    },
+    {
+        "IA2UniqueID": -34673,
+        "nvda_name": "Fran\u00e7ais (Belgique)",
+        "nvda_value": "https://www.microsoft.com/fr-be/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[10]/a"
+    },
+    {
+        "IA2UniqueID": -34675,
+        "nvda_name": "Fran\u00e7ais (Canada)",
+        "nvda_value": "https://www.microsoft.com/fr-ca/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[11]/a"
+    },
+    {
+        "IA2UniqueID": -34677,
+        "nvda_name": "Fran\u00e7ais (France)",
+        "nvda_value": "https://www.microsoft.com/fr-fr/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[12]/a"
+    },
+    {
+        "IA2UniqueID": -34679,
+        "nvda_name": "Fran\u00e7ais (International)",
+        "nvda_value": "https://www.microsoft.com/fr/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[13]/a"
+    },
+    {
+        "IA2UniqueID": -34681,
+        "nvda_name": "Fran\u00e7ais (Suisse)",
+        "nvda_value": "https://www.microsoft.com/fr-ch/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[14]/a"
+    },
+    {
+        "IA2UniqueID": -34683,
+        "nvda_name": "Hrvatski (Hrvatska)",
+        "nvda_value": "https://www.microsoft.com/hr-hr/microsoft-365/",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[2]/div/div/p[15]/a"
+    },
+    {
+        "IA2UniqueID": -34685,
+        "nvda_name": "Indonesia (Indonesia)",
+        "nvda_value": "https://www.microsoft.com/id-id/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p/a"
+    },
+    {
+        "IA2UniqueID": -34690,
+        "nvda_name": "Italiano (Italia)",
+        "nvda_value": "https://www.microsoft.com/it-it/microsoft-365/",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -34692,
+        "nvda_name": "Latvie\u0161u (Latvija)",
+        "nvda_value": "https://www.microsoft.com/lv-lv/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[3]/a"
+    },
+    {
+        "IA2UniqueID": -34694,
+        "nvda_name": "Lietuvi\u0173 (Lietuva)",
+        "nvda_value": "https://www.microsoft.com/lt-lt/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[4]/a"
+    },
+    {
+        "IA2UniqueID": -34696,
+        "nvda_name": "Magyar (Magyarorsz\u00e1g)",
+        "nvda_value": "https://www.microsoft.com/hu-hu/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[5]/a"
+    },
+    {
+        "IA2UniqueID": -34698,
+        "nvda_name": "Nederlands (Belgi\u00eb)",
+        "nvda_value": "https://www.microsoft.com/nl-be/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[6]/a"
+    },
+    {
+        "IA2UniqueID": -34700,
+        "nvda_name": "Nederlands (Nederland)",
+        "nvda_value": "https://www.microsoft.com/nl-nl/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[7]/a"
+    },
+    {
+        "IA2UniqueID": -34702,
+        "nvda_name": "Norsk (Norge)",
+        "nvda_value": "https://www.microsoft.com/nb-no/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[8]/a"
+    },
+    {
+        "IA2UniqueID": -34704,
+        "nvda_name": "Polski (Polska)",
+        "nvda_value": "https://www.microsoft.com/pl-pl/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[9]/a"
+    },
+    {
+        "IA2UniqueID": -34706,
+        "nvda_name": "Portugu\u00eas (Brasil)",
+        "nvda_value": "https://www.microsoft.com/pt-br/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[10]/a"
+    },
+    {
+        "IA2UniqueID": -34708,
+        "nvda_name": "Portugu\u00eas (Portugal)",
+        "nvda_value": "https://www.microsoft.com/pt-pt/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[11]/a"
+    },
+    {
+        "IA2UniqueID": -34710,
+        "nvda_name": "Rom\u00e2n\u0103 (Rom\u00e2nia)",
+        "nvda_value": "https://www.microsoft.com/ro-ro/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[12]/a"
+    },
+    {
+        "IA2UniqueID": -34712,
+        "nvda_name": "Sloven\u010dina (Slovensk\u00e1 republika)",
+        "nvda_value": "https://www.microsoft.com/sk-sk/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[13]/a"
+    },
+    {
+        "IA2UniqueID": -34714,
+        "nvda_name": "Slovenski (Slovenija)",
+        "nvda_value": "https://www.microsoft.com/sl-si/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[14]/a"
+    },
+    {
+        "IA2UniqueID": -34716,
+        "nvda_name": "Srpski (Rep. Srbija i Rep. Crna Gora)",
+        "nvda_value": "https://www.microsoft.com/sr-latn-rs/microsoft-365/",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[3]/div/div/p[15]/a"
+    },
+    {
+        "IA2UniqueID": -34718,
+        "nvda_name": "Suomi (Suomi)",
+        "nvda_value": "https://www.microsoft.com/fi-fi/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p/a"
+    },
+    {
+        "IA2UniqueID": -34723,
+        "nvda_name": "Svenska (Sverige)",
+        "nvda_value": "https://www.microsoft.com/sv-se/microsoft-365/",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -34725,
+        "nvda_name": "Ti\u1ebfng Vi\u1ec7t (Vi\u1ec7t Nam)",
+        "nvda_value": "https://www.microsoft.com/vi-vn/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[3]/a"
+    },
+    {
+        "IA2UniqueID": -34727,
+        "nvda_name": "T\u00fcrk\u00e7e (T\u00fcrkiye)",
+        "nvda_value": "https://www.microsoft.com/tr-tr/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[4]/a"
+    },
+    {
+        "IA2UniqueID": -34729,
+        "nvda_name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac (\u0395\u03bb\u03bb\u03ac\u03b4\u03b1)",
+        "nvda_value": "https://www.microsoft.com/el-gr/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[5]/a"
+    },
+    {
+        "IA2UniqueID": -34731,
+        "nvda_name": "\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 (\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f)",
+        "nvda_value": "https://www.microsoft.com/bg-bg/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[7]/a"
+    },
+    {
+        "IA2UniqueID": -34735,
+        "nvda_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 (\u0423\u043a\u0440\u0430\u0457\u043d\u0430)",
+        "nvda_value": "https://www.microsoft.com/uk-ua/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[8]/a"
+    },
+    {
+        "IA2UniqueID": -34737,
+        "nvda_name": "\u05e2\u05d1\u05e8\u05d9\u05ea (\u05d9\u05e9\u05e8\u05d0\u05dc)",
+        "nvda_value": "https://www.microsoft.com/he-il/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[9]/a"
+    },
+    {
+        "IA2UniqueID": -34739,
+        "nvda_name": "\u0639\u0631\u0628\u064a (\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+        "nvda_value": "https://www.microsoft.com/ar/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[10]/a"
+    },
+    {
+        "IA2UniqueID": -34741,
+        "nvda_name": "\u0e44\u0e17\u0e22 (\u0e44\u0e17\u0e22)",
+        "nvda_value": "https://www.microsoft.com/th-th/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[11]/a"
+    },
+    {
+        "IA2UniqueID": -34743,
+        "nvda_name": "\ud55c\uad6d\uc5b4 (\ub300\ud55c\ubbfc\uad6d)",
+        "nvda_value": "https://www.microsoft.com/ko-kr/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[12]/a"
+    },
+    {
+        "IA2UniqueID": -34745,
+        "nvda_name": "\u4e2d\u6587(\u4e2d\u56fd)",
+        "nvda_value": "https://www.microsoft.com/zh-cn/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[13]/a"
+    },
+    {
+        "IA2UniqueID": -34747,
+        "nvda_name": "\u65e5\u672c\u8a9e (\u65e5\u672c)",
+        "nvda_value": "https://www.microsoft.com/ja-jp/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[14]/a"
+    },
+    {
+        "IA2UniqueID": -34749,
+        "nvda_name": "\u7e41\u9ad4\u4e2d\u6587 (\u53f0\u7063)",
+        "nvda_value": "https://www.microsoft.com/zh-tw/microsoft-365/",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[15]/a"
+    },
+    {
+        "IA2UniqueID": -34751,
+        "nvda_name": "\u7e41\u9ad4\u4e2d\u6587 (\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340)",
+        "nvda_value": "https://www.microsoft.com/zh-hk/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[5]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/section/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -34779,
+        "nvda_name": "Follow Microsoft 365 on Linkedin",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2144764",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[5]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/section/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -34782,
+        "nvda_name": "Go to the Microsoft 365 Twitter",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkId=2000804",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[5]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/section/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -34785,
+        "nvda_name": "Go to the Microsoft 365 blog",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkID=2000803",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -34799,
+        "nvda_name": "Surface Pro What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/surface/devices/surface-pro-11th-edition",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -34801,
+        "nvda_name": "Surface Laptop What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/surface/devices/surface-laptop-7th-edition",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -34803,
+        "nvda_name": "Surface Laptop Studio 2 What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/d/Surface-Laptop-Studio-2/8rqr54krf1dZ",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -34805,
+        "nvda_name": "Surface Laptop Go 3 What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/d/Surface-Laptop-Go-3/8p0wwgj6c6l2",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -34807,
+        "nvda_name": "Microsoft Copilot What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-copilot",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -34811,
+        "nvda_name": "Explore Microsoft products What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-products-and-apps",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -34813,
+        "nvda_name": "Windows 11 apps What's new",
+        "nvda_value": "https://www.microsoft.com/windows/windows-11-apps",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -34818,
+        "nvda_name": "Account profile Microsoft Store",
+        "nvda_value": "https://account.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -34820,
+        "nvda_name": "Download Center Microsoft Store",
+        "nvda_value": "https://www.microsoft.com/en-gb/download",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -34822,
+        "nvda_name": "Microsoft Store Support Microsoft Store",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2139749",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -34824,
+        "nvda_name": "Returns Microsoft Store",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x809",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -34826,
+        "nvda_name": "Order tracking Microsoft Store",
+        "nvda_value": "https://account.microsoft.com/orders",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -34828,
+        "nvda_name": "Microsoft Experience Centre Microsoft Store",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/locations/england/london/oxford-circus/store-1144?ICID=uhf_mec",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -34830,
+        "nvda_name": "Recycling Microsoft Store",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/b/recycling?icid=GlobalFooterNav",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[2]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -34832,
+        "nvda_name": "Microsoft Store Promise Microsoft Store",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -34837,
+        "nvda_name": "Microsoft in education Education",
+        "nvda_value": "https://www.microsoft.com/en-gb/education",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -34839,
+        "nvda_name": "Devices for education Education",
+        "nvda_value": "https://www.microsoft.com/en-gb/education/devices/overview",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -34841,
+        "nvda_name": "Microsoft Teams for Education Education",
+        "nvda_value": "https://www.microsoft.com/en-gb/education/products/teams",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -34845,
+        "nvda_name": "Office Education Education",
+        "nvda_value": "https://www.microsoft.com/en-gb/education/products/office",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -34847,
+        "nvda_name": "Educator training and development Education",
+        "nvda_value": "https://education.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -34849,
+        "nvda_name": "Deals for students and parents Education",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/b/student",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div[3]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -34851,
+        "nvda_name": "Azure for students Education",
+        "nvda_value": "https://azure.microsoft.com/en-gb/free/students/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -34857,
+        "nvda_name": "Microsoft Cloud Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-cloud",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -34859,
+        "nvda_name": "Microsoft Security Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/security",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -34861,
+        "nvda_name": "Azure Business",
+        "nvda_value": "https://azure.microsoft.com/en-gb/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -34863,
+        "nvda_name": "Dynamics 365 Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/dynamics-365",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -34865,
+        "nvda_name": "Microsoft 365 Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/business",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -34867,
+        "nvda_name": "Microsoft 365 Copilot Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/copilot/copilot-for-work",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -34869,
+        "nvda_name": "Microsoft Teams Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-teams/group-chat-software",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -34871,
+        "nvda_name": "Small Business Business",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/b/business",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -34876,
+        "nvda_name": "Microsoft Developer Developer & IT",
+        "nvda_value": "https://developer.microsoft.com/en-gb/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -34878,
+        "nvda_name": "Documentation Developer & IT",
+        "nvda_value": "https://learn.microsoft.com/docs/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -34880,
+        "nvda_name": "Microsoft Learn Developer & IT",
+        "nvda_value": "https://learn.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -34882,
+        "nvda_name": "Microsoft Tech Community Developer & IT",
+        "nvda_value": "https://techcommunity.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -34884,
+        "nvda_name": "Azure Marketplace Developer & IT",
+        "nvda_value": "https://azuremarketplace.microsoft.com/en-gb/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -34886,
+        "nvda_name": "AppSource Developer & IT",
+        "nvda_value": "https://appsource.microsoft.com/en-gb/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -34888,
+        "nvda_name": "Microsoft Power Platform Developer & IT",
+        "nvda_value": "https://www.microsoft.com/en-gb/power-platform",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[2]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -34890,
+        "nvda_name": "Visual Studio Developer & IT",
+        "nvda_value": "https://visualstudio.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -34895,
+        "nvda_name": "Careers Company",
+        "nvda_value": "https://careers.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -34897,
+        "nvda_name": "About Microsoft Company",
+        "nvda_value": "https://www.microsoft.com/about",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -34899,
+        "nvda_name": "Company news Company",
+        "nvda_value": "https://news.microsoft.com/en-gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -34903,
+        "nvda_name": "Investors Company",
+        "nvda_value": "https://www.microsoft.com/investor/default.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div[2]/div[3]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -34905,
+        "nvda_name": "Sustainability Company",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/b/shop-sustainably?icid=MSCOM-UHF-Footer-Store-Sustainability",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/div/a"
+    },
+    {
+        "IA2UniqueID": -36612,
+        "nvda_name": "Microsoft 365 - choose your locale",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -37124,
+        "nvda_name": "Your Privacy Choices Opt-Out Icon Your Privacy Choices",
+        "nvda_value": "https://aka.ms/yourcaliforniaprivacychoices",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/div/a[3]"
+    },
+    {
+        "IA2UniqueID": -37127,
+        "nvda_name": "Consumer Health Privacy",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2259814",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -37132,
+        "nvda_name": "Contact Microsoft",
+        "nvda_value": "https://support.microsoft.com/contactus",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -37134,
+        "nvda_name": "Privacy",
+        "nvda_value": "https://go.microsoft.com/fwlink/?LinkId=521839",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -37136,
+        "nvda_name": "Terms of use",
+        "nvda_value": "https://go.microsoft.com/fwlink/?LinkID=206977",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -37138,
+        "nvda_name": "Trademarks",
+        "nvda_value": "https://go.microsoft.com/fwlink/?linkid=2196228",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -37140,
+        "nvda_name": "About our ads",
+        "nvda_value": "https://choice.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -37142,
+        "nvda_name": "EU Compliance DoCs",
+        "nvda_value": "https://www.microsoft.com/en-ie/eucompliancedoc/default.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/div/nav/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -315,
+        "nvda_name": "Search with Google Lens",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -36776,
+        "nvda_name": "Skip to main content",
+        "nvda_value": "javascript:void(0)",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/div/div/header/div/div/a"
+    },
+    {
+        "IA2UniqueID": -36780,
+        "nvda_name": "Microsoft",
+        "nvda_value": "https://www.microsoft.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/div/div/header/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -36782,
+        "nvda_name": "Microsoft 365",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/div/div/header/div/div/nav/ul/li[2]/div/button"
+    },
+    {
+        "IA2UniqueID": -36802,
+        "nvda_name": "Support \ue70d",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div/div/div/div/header/div/div/div[4]/div/nav/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -36860,
+        "nvda_name": "English (Ireland)",
+        "nvda_value": "https://www.microsoft.com/en-ie/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[12]/a"
+    },
+    {
+        "IA2UniqueID": -36864,
+        "nvda_name": "English (New Zealand)",
+        "nvda_value": "https://www.microsoft.com/en-nz/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/p[15]/a"
+    },
+    {
+        "IA2UniqueID": -36947,
+        "nvda_name": "\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 (\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f)",
+        "nvda_value": "https://www.microsoft.com/bg-bg/microsoft-365/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main/div/div/div/div[2]/div/div/div/div[4]/div/div/p[6]/a"
+    },
+    {
+        "IA2UniqueID": -37021,
+        "nvda_name": "Surface Laptop Go 3 What's new",
+        "nvda_value": "https://www.microsoft.com/en-gb/d/Surface-Laptop-Go-3/8p0wwgj6c6l2",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[3]/div/div/div/footer/nav/div/div/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -37044,
+        "nvda_name": "Microsoft Experience Centre Microsoft Store",
+        "nvda_value": "https://www.microsoft.com/en-gb/store/locations/england/london/oxford-circus/store-1144?ICID=uhf_mec",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[3]/div/div[2]/main"
+    },
+    {
+        "IA2UniqueID": -4826,
+        "nvda_name": "Create free account on Outlook",
+        "nvda_value": "https://go.microsoft.com/fwlink/p/?linkid=2125440&clcid=0x809&culture=en-gb&country=gb",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div/div/nav/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -4860,
+        "nvda_name": "Take the tour",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#Take-the-tour",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div/div/nav/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -4880,
+        "nvda_name": "Plans and pricing",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#Plans-and-pricing",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div/div/nav/div/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -4900,
+        "nvda_name": "News & tips ",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#News-and-tips",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div/div/nav/div/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -4910,
+        "nvda_name": "Frequently Asked Questions",
+        "nvda_value": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#FAQ",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div/div/nav/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -4945,
+        "nvda_name": "Key benefits",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/button[2]"
+    },
+    {
+        "IA2UniqueID": -4946,
+        "nvda_name": "Get more from Outlook",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/button[3]"
+    }
+]

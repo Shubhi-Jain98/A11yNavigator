@@ -1,0 +1,69 @@
+{
+    "count of missing paths": 7,
+    "missing paths": [
+        {
+            "tag_name": "textarea",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/form[1]/label[1]/textarea[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[2]/button[1]",
+            "text": "Scroll to explore",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "OpenAI o3 and o4-mini\nRelease\n6 min read",
+            "aria-label": "OpenAI o3 and o4-mini - Release - Apr 16, 2025",
+            "id": "282yXxMfiMVjYVDHXM289b",
+            "placeholder": null,
+            "href": "https://openai.com/index/introducing-o3-and-o4-mini/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Introducing GPT-4.1 in the API\nProduct\n18 min read",
+            "aria-label": "Introducing GPT-4.1 in the API - Product - Apr 14, 2025",
+            "id": "4TSlqMoAGxwETeOuDAlhH9",
+            "placeholder": null,
+            "href": "https://openai.com/index/gpt-4-1/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Thinking with images\nRelease\nApr 16, 2025",
+            "aria-label": "Thinking with images - Release - Apr 16, 2025",
+            "id": "780qQjn8oFTFCB8fJTryeb",
+            "placeholder": null,
+            "href": "https://openai.com/index/thinking-with-images/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[3]/div[1]/a[1]",
+            "text": "Our updated Preparedness Framework\nPublication\nApr 15, 2025",
+            "aria-label": "Our updated Preparedness Framework - Publication - Apr 15, 2025",
+            "id": "1uPTRm2Vnd1BF6wfk2s0EG",
+            "placeholder": null,
+            "href": "https://openai.com/index/updating-our-preparedness-framework/"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/header[1]/div[3]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        }
+    ]
+}

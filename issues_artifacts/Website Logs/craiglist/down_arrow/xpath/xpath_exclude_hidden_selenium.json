@@ -1,0 +1,1336 @@
+{
+    "count by default selenium driver": 455,
+    "total_count based on actionable selectors": 266,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/nav[1]/div[1]/span[1]/a[1]",
+            "text": "post"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/nav[1]/div[1]/span[1]/a[2]",
+            "text": "acct"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/nav[1]/div[2]/h2[1]/div[1]/a[1]",
+            "text": "orange co"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "post an ad"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[1]/div[1]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/h4[1]/a[1]",
+            "text": "event calendar"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[1]/a[1]",
+            "text": "30"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/a[1]",
+            "text": "31"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[3]/a[1]",
+            "text": "1"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[4]/a[1]",
+            "text": "2"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[5]/a[1]",
+            "text": "3"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[6]/a[1]",
+            "text": "4"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[7]/a[1]",
+            "text": "5"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[1]/a[1]",
+            "text": "6"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[2]/a[1]",
+            "text": "7"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[3]/a[1]",
+            "text": "8"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[4]/a[1]",
+            "text": "9"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[5]/a[1]",
+            "text": "10"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[6]/a[1]",
+            "text": "11"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[7]/a[1]",
+            "text": "12"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[1]/a[1]",
+            "text": "13"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/a[1]",
+            "text": "14"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[3]/a[1]",
+            "text": "15"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[4]/a[1]",
+            "text": "16"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[5]/a[1]",
+            "text": "17"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[6]/a[1]",
+            "text": "18"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[7]/a[1]",
+            "text": "19"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[2]/li[1]/a[1]",
+            "text": "help, faq, abuse, legal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[2]/li[2]/a[1]",
+            "text": "avoid scams & fraud"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[2]/li[3]/a[1]",
+            "text": "personal safety tips"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[3]/li[1]/a[1]",
+            "text": "about craigslist"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[3]/li[2]/a[1]",
+            "text": "best-of-craigslist"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[3]/li[3]/a[1]",
+            "text": "craigslist is hiring"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[3]/li[4]/a[1]",
+            "text": "what's new"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[3]/li[5]/a[1]",
+            "text": "system status"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[4]/li[1]/a[1]",
+            "text": "craigslist charitable"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[4]/li[2]/a[1]",
+            "text": "\ud83c\udf0e\ud83d\udc2e\ud83d\udc37\ud83d\udc14\ud83d\udc1f"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[4]/li[3]/a[1]",
+            "text": "craig newmark\nphilanthropies"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/h3[1]/a[1]",
+            "text": "community"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "activities"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "artists"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "childcare"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "classes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "events"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "general"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "groups"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "local news"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]",
+            "text": "lost+found"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]",
+            "text": "missed connections"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]",
+            "text": "musicians"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]",
+            "text": "pets"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]",
+            "text": "politics"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]",
+            "text": "rants & raves"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]",
+            "text": "rideshare"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]",
+            "text": "volunteers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/h3[1]/a[1]",
+            "text": "services"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "automotive"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "beauty"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "cell/mobile"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "computer"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "creative"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "cycle"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "event"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "farm+garden"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[9]/a[1]",
+            "text": "financial"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[10]/a[1]",
+            "text": "health/well"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[11]/a[1]",
+            "text": "household"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[1]/a[1]",
+            "text": "labor/move"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[2]/a[1]",
+            "text": "legal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[3]/a[1]",
+            "text": "lessons"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[4]/a[1]",
+            "text": "marine"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[5]/a[1]",
+            "text": "pet"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[6]/a[1]",
+            "text": "real estate"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[7]/a[1]",
+            "text": "skilled trade"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[8]/a[1]",
+            "text": "sm biz ads"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[9]/a[1]",
+            "text": "travel/vac"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[10]/a[1]",
+            "text": "write/ed/tran"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/h3[1]/a[1]",
+            "text": "discussion forums"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "apple"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "arts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "atheist"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "autos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "beauty"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "bikes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "celebs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "comp"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[9]/a[1]",
+            "text": "cosmos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[10]/a[1]",
+            "text": "diet"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[11]/a[1]",
+            "text": "divorce"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[12]/a[1]",
+            "text": "dying"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[13]/a[1]",
+            "text": "eco"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[14]/a[1]",
+            "text": "feedbk"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[15]/a[1]",
+            "text": "film"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[16]/a[1]",
+            "text": "fixit"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[17]/a[1]",
+            "text": "food"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[1]/a[1]",
+            "text": "frugal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[2]/a[1]",
+            "text": "gaming"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[3]/a[1]",
+            "text": "garden"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[4]/a[1]",
+            "text": "haiku"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[5]/a[1]",
+            "text": "help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[6]/a[1]",
+            "text": "history"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[7]/a[1]",
+            "text": "housing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[8]/a[1]",
+            "text": "jobs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[9]/a[1]",
+            "text": "jokes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[10]/a[1]",
+            "text": "legal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[11]/a[1]",
+            "text": "manners"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[12]/a[1]",
+            "text": "marriage"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[13]/a[1]",
+            "text": "money"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[14]/a[1]",
+            "text": "music"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[15]/a[1]",
+            "text": "open"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[16]/a[1]",
+            "text": "parent"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[17]/a[1]",
+            "text": "pets"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[1]/a[1]",
+            "text": "philos"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[2]/a[1]",
+            "text": "photo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[3]/a[1]",
+            "text": "politics"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[4]/a[1]",
+            "text": "psych"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[5]/a[1]",
+            "text": "recover"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[6]/a[1]",
+            "text": "religion"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[7]/a[1]",
+            "text": "rofo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[8]/a[1]",
+            "text": "science"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[9]/a[1]",
+            "text": "spirit"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[10]/a[1]",
+            "text": "sports"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[11]/a[1]",
+            "text": "super"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[12]/a[1]",
+            "text": "tax"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[13]/a[1]",
+            "text": "travel"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[14]/a[1]",
+            "text": "tv"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[15]/a[1]",
+            "text": "vegan"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[16]/a[1]",
+            "text": "words"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[17]/a[1]",
+            "text": "writing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/h3[1]/a[1]",
+            "text": "housing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "apts / housing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "housing swap"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "housing wanted"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "office / commercial"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "parking / storage"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "real estate for sale"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "rooms / shared"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "rooms wanted"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[9]/a[1]",
+            "text": "sublets / temporary"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[10]/a[1]",
+            "text": "vacation rentals"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/h3[1]/a[1]",
+            "text": "for sale"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "antiques"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "appliances"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "arts+crafts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "atv/utv/sno"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "auto parts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "aviation"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "baby+kid"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "barter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[9]/a[1]",
+            "text": "beauty+hlth"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[10]/a[1]",
+            "text": "bike parts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[11]/a[1]",
+            "text": "bikes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[12]/a[1]",
+            "text": "boat parts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[13]/a[1]",
+            "text": "boats"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[14]/a[1]",
+            "text": "books"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[15]/a[1]",
+            "text": "business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[16]/a[1]",
+            "text": "cars+trucks"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[17]/a[1]",
+            "text": "cds/dvd/vhs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[18]/a[1]",
+            "text": "cell phones"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[19]/a[1]",
+            "text": "clothes+acc"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[20]/a[1]",
+            "text": "collectibles"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[21]/a[1]",
+            "text": "computer parts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[22]/a[1]",
+            "text": "computers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[23]/a[1]",
+            "text": "electronics"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[1]/a[1]",
+            "text": "farm+garden"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[2]/a[1]",
+            "text": "free"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[3]/a[1]",
+            "text": "furniture"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[4]/a[1]",
+            "text": "garage sale"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[5]/a[1]",
+            "text": "general"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[6]/a[1]",
+            "text": "heavy equip"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[7]/a[1]",
+            "text": "household"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[8]/a[1]",
+            "text": "jewelry"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[9]/a[1]",
+            "text": "materials"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[10]/a[1]",
+            "text": "motorcycle parts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[11]/a[1]",
+            "text": "motorcycles"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[12]/a[1]",
+            "text": "music instr"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[13]/a[1]",
+            "text": "photo+video"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[14]/a[1]",
+            "text": "rvs+camp"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[15]/a[1]",
+            "text": "sporting"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[16]/a[1]",
+            "text": "tickets"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[17]/a[1]",
+            "text": "tools"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[18]/a[1]",
+            "text": "toys+games"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[19]/a[1]",
+            "text": "trailers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[20]/a[1]",
+            "text": "video gaming"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[21]/a[1]",
+            "text": "wanted"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[22]/a[1]",
+            "text": "wheels+tires"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/h3[1]/a[1]",
+            "text": "jobs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "accounting+finance"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "admin / office"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "arch / engineering"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "art / media / design"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "biotech / science"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "business / mgmt"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "customer service"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "education"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[9]/a[1]",
+            "text": "etc / misc"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[10]/a[1]",
+            "text": "food / bev / hosp"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[11]/a[1]",
+            "text": "general labor"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[12]/a[1]",
+            "text": "government"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[13]/a[1]",
+            "text": "human resources"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[14]/a[1]",
+            "text": "legal / paralegal"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[15]/a[1]",
+            "text": "manufacturing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[16]/a[1]",
+            "text": "marketing / pr / ad"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[17]/a[1]",
+            "text": "medical / health"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[18]/a[1]",
+            "text": "nonprofit sector"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[19]/a[1]",
+            "text": "real estate"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[20]/a[1]",
+            "text": "retail / wholesale"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[21]/a[1]",
+            "text": "sales / biz dev"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[22]/a[1]",
+            "text": "salon / spa / fitness"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[23]/a[1]",
+            "text": "security"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[24]/a[1]",
+            "text": "skilled trade / craft"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[25]/a[1]",
+            "text": "software / qa / dba"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[26]/a[1]",
+            "text": "systems / network"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[27]/a[1]",
+            "text": "technical support"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[28]/a[1]",
+            "text": "transport"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[29]/a[1]",
+            "text": "tv / film / video"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[30]/a[1]",
+            "text": "web / info design"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[31]/a[1]",
+            "text": "writing / editing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/h3[1]/a[1]",
+            "text": "gigs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "computer"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "creative"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "crew"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "domestic"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[2]/li[1]/a[1]",
+            "text": "event"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[2]/li[2]/a[1]",
+            "text": "labor"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[2]/li[3]/a[1]",
+            "text": "talent"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[2]/li[4]/a[1]",
+            "text": "writing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[3]/h3[1]/a[1]",
+            "text": "resumes"
+        },
+        {
+            "tag_name": "select",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/div[1]/select[1]",
+            "text": "dansk\ndeutsch\nenglish\nespa\u00f1ol\nfran\u00e7ais\nitaliano\nportugu\u00eas\nsuomi\nsvenska\nti\u1ebfng vi\u1ec7t\nt\u00fcrk\u00e7e\n\u0440\u0443\u0441\u0441\u043a\u0438\u0439\n\u4e2d\u6587\n\u65e5\u672c\u8a9e\n\ud55c\uad6d\ub9d0"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
+            "text": "bakersfield"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+            "text": "flagstaff"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[3]/a[1]",
+            "text": "fresno"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[4]/a[1]",
+            "text": "gold country"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[5]/a[1]",
+            "text": "hanford"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[6]/a[1]",
+            "text": "imperial co"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[7]/a[1]",
+            "text": "inland empire"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[8]/a[1]",
+            "text": "las vegas"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[9]/a[1]",
+            "text": "los angeles"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[10]/a[1]",
+            "text": "merced"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[11]/a[1]",
+            "text": "modesto"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[12]/a[1]",
+            "text": "mohave co"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[13]/a[1]",
+            "text": "monterey"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[14]/a[1]",
+            "text": "palm springs"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[15]/a[1]",
+            "text": "phoenix"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[16]/a[1]",
+            "text": "prescott"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[17]/a[1]",
+            "text": "reno"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[18]/a[1]",
+            "text": "sacramento"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[19]/a[1]",
+            "text": "san diego"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[20]/a[1]",
+            "text": "san luis obispo"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[21]/a[1]",
+            "text": "santa barbara"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[22]/a[1]",
+            "text": "santa maria"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[23]/a[1]",
+            "text": "sf bay area"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[24]/a[1]",
+            "text": "st george"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[25]/a[1]",
+            "text": "stockton"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[26]/a[1]",
+            "text": "tucson"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[27]/a[1]",
+            "text": "ventura"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[28]/a[1]",
+            "text": "visalia-tulare"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[29]/a[1]",
+            "text": "yuba-sutter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[30]/a[1]",
+            "text": "yuma"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[2]/a[1]",
+            "text": "help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[3]/a[1]",
+            "text": "safety"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[4]/a[1]",
+            "text": "privacy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[5]/a[1]",
+            "text": "terms"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[6]/a[1]",
+            "text": "about"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[7]/a[1]",
+            "text": "app"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[8]/a[1]",
+            "text": "sitemap"
+        }
+    ]
+}

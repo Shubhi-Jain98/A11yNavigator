@@ -1,0 +1,21 @@
+{
+    "count of missing paths": 2,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://zerodha.com/media"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[4]/div[1]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "href": "https://zerodha.com/varsity/"
+        }
+    ]
+}

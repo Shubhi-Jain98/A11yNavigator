@@ -1,0 +1,250 @@
+[
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/a[1]",
+        "text": "Skip to main content",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/#main",
+        "number_of_keypresses": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/a[1]",
+        "text": "The UC Irvine Libraries",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "http://www.lib.uci.edu/",
+        "number_of_keypresses": [
+            1,
+            17
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/a[1]",
+        "text": "ScienceDirect home page",
+        "aria-label": "ScienceDirect home page",
+        "id": "gh-branding",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/",
+        "number_of_keypresses": [
+            18
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+        "text": "Journals & Books",
+        "aria-label": "",
+        "id": "gh-journals-books-link",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/browse/journals-and-books",
+        "number_of_keypresses": [
+            19
+        ]
+    },
+    {
+        "tag_name": "button",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[2]/ul[1]/li[1]/div[1]/div[1]/div[1]/button[1]",
+        "text": "Help",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            20
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[2]/a[1]",
+        "text": "My account",
+        "aria-label": "",
+        "id": "gh-myaccount-btn",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/user/login?targetURL=%2F&from=globalheader",
+        "number_of_keypresses": [
+            21
+        ]
+    },
+    {
+        "tag_name": "button",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[3]/div[1]/div[1]/button[1]",
+        "text": "University of California Irvine",
+        "aria-label": "Institutional Access",
+        "id": "gh-inst-icon-btn",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            22
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/h2[1]/a[1]",
+        "text": "open access",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/#open-access",
+        "number_of_keypresses": [
+            23
+        ]
+    },
+    {
+        "tag_name": "input",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/input[1]",
+        "text": "Find articles with these terms",
+        "aria-label": "Find articles with these terms",
+        "id": "qs",
+        "placeholder": "",
+        "href": "",
+        "number_of_keypresses": [
+            24,
+            25
+        ]
+    },
+    {
+        "tag_name": "input",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[3]/div[1]/input[1]",
+        "text": "Author(s)",
+        "aria-label": "Author(s)",
+        "id": "authors",
+        "placeholder": "",
+        "href": "",
+        "number_of_keypresses": [
+            27,
+            28
+        ]
+    },
+    {
+        "tag_name": "button",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[2]/button[1]",
+        "text": "Search",
+        "aria-label": "Submit quick search",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            29
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[2]/a[1]",
+        "text": "Advanced search",
+        "aria-label": "Open advanced search",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.sciencedirect.com/search/entry?origin=home&zone=qSearch",
+        "number_of_keypresses": [
+            30
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+        "text": "Register now",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://researcheracademy.elsevier.com/communicating-research/confidence-communicating-research/communicating-research-isn-t-0",
+        "number_of_keypresses": [
+            36
+        ]
+    },
+    {
+        "tag_name": "a",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+        "text": "Help",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://service.elsevier.com/app/home/supporthub/sciencedirect/",
+        "number_of_keypresses": [
+            20
+        ]
+    },
+    {
+        "tag_name": "span",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[2]/ul[1]/li[1]/div[1]/div[1]/div[1]/button[1]/span[1]/span[1]",
+        "text": "Help",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "event_listener": "yes",
+        "number_of_keypresses": [
+            20
+        ]
+    },
+    {
+        "tag_name": "span",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[1]",
+        "text": "Register now",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "event_listener": "yes",
+        "number_of_keypresses": [
+            36
+        ]
+    },
+    {
+        "tag_name": "span",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[1]/button[1]/span[1]/span[1]",
+        "text": "Confidence in research",
+        "aria-label": "",
+        "id": "",
+        "placeholder": null,
+        "href": "",
+        "event_listener": "yes",
+        "number_of_keypresses": [
+            31
+        ]
+    },
+    {
+        "tag_name": "input",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]/div[1]/input[1]",
+        "text": "In this journal or book title",
+        "aria-label": "In this journal or book title",
+        "id": "pub",
+        "placeholder": "",
+        "href": "",
+        "number_of_keypresses": [
+            24
+        ]
+    },
+    {
+        "tag_name": "button",
+        "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/ul[1]/li[1]/button[1]",
+        "text": "Confidence in research",
+        "aria-label": "Confidence in research slide",
+        "id": "tab-0",
+        "placeholder": null,
+        "href": "",
+        "number_of_keypresses": [
+            31
+        ]
+    }
+]

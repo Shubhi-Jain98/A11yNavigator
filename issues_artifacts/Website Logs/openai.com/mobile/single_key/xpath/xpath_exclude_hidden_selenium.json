@@ -1,0 +1,397 @@
+{
+    "count by default selenium driver": 162,
+    "total_count based on actionable selectors": 78,
+    "actionableElements": [
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/button[1]",
+            "text": "Toggle navigation sidebar"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[2]/div[1]/a[1]",
+            "text": "OpenAI Home"
+        },
+        {
+            "tag_name": "textarea",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/form[1]/label[1]/textarea[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/button[1]",
+            "text": "Send prompt to ChatGPT"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Search with ChatGPT"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Talk with ChatGPT"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[3]",
+            "text": "Research"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[4]",
+            "text": "Sora"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]",
+            "text": "More"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "New tools for building agents\nProduct\nMar 11, 2025\n13 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Introducing GPT\u20114.5\nProduct\nFeb 27, 2025\n7 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[2]/div[1]/a[1]",
+            "text": "Introducing deep research\nRelease\nFeb 2, 2025\n8 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[3]/div[1]/a[1]",
+            "text": "Catching halibut with ChatGPT\nChatGPT\nFeb 4, 2025\n4 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[1]/a[1]",
+            "text": "View all"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Introducing NextGenAI\nCompany\nMar 4, 2025\n6 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[2]/div[1]/a[1]",
+            "text": "OpenAI and Guardian Media Group launch content partnership\nCompany\nFeb 14, 2025\n2 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[3]/div[1]/a[1]",
+            "text": "Introducing the Intelligence Age\nGlobal Affairs\nFeb 9, 2025\n5 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[4]/div[1]/a[1]",
+            "text": "Introducing data residency in Europe\nProduct\nFeb 5, 2025\n3 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[5]/div[1]/a[1]",
+            "text": "OpenAI and the CSU system bring AI to 500,000 students & faculty\nCompany\nFeb 4, 2025\n3 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[6]/div[1]/a[1]",
+            "text": "OpenAI o3-mini System Card\nPublication\nJan 31, 2025\n2 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[4]/div[1]/a[1]",
+            "text": "View all"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Lyndon Barrois & Sora\nSora\nDec 4, 2024\n3 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Building a custom math tutor powered by ChatGPT\nChatGPT\nFeb 4, 2025\n3 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[4]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "Economics and reasoning with OpenAI o1\nChatGPT\nSep 13, 2024\n2 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[5]/div[1]/a[1]",
+            "text": "View all"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[5]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Detecting misbehavior in frontier reasoning models\nPublication\nMar 10, 2025\n7 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Computer-Using Agent\nRelease\nJan 23, 2025\n15 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[6]/div[1]/a[1]",
+            "text": "View all"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[6]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Building smarter maps with GPT\u20114o vision fine-tuning\nAPI\nNov 20, 2024\n4 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[6]/div[2]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Data-driven beauty and creativity with ChatGPT\nChatGPT\nNov 13, 2024\n4 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[6]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "Building agent + human collaboration with GPT 4o\nAPI\nOct 1, 2024\n4 min read"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[7]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Download"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Research Index"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Research Overview"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Research Residency"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "OpenAI o1"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "OpenAI o1-mini"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "GPT-4o"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "GPT-4o mini"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Sora"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "Safety Approach"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Security & Privacy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Explore ChatGPT"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Team"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Enterprise"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Education"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Pricing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Download"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Sora Overview"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Features"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Pricing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Sora log in\n(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "Platform Overview"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Pricing"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "API log in\n(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Documentation\n(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "Developer Forum\n(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Overview"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "About us"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Our Charter"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Careers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Brand"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "News"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Stories"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Help Center\n(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Terms of Use"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Privacy Policy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Security"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Other Policies"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[1]",
+            "text": "(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[2]",
+            "text": "(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[3]",
+            "text": "(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[4]",
+            "text": "(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[5]",
+            "text": "(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[6]",
+            "text": "(opens in a new window)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[7]",
+            "text": "(opens in a new window)"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[3]/button[1]",
+            "text": "English\nUnited States"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[3]/div[2]",
+            "text": "",
+            "event_listener": "yes"
+        }
+    ]
+}

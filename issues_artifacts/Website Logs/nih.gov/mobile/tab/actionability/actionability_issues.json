@@ -1,0 +1,17 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "IA2UniqueID": -193880,
+            "xpath": "/html/body/div[2]/div/div[3]/footer/ul[2]/li[6]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "USA.gov",
+            "nvda_value": "https://www.usa.gov/",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

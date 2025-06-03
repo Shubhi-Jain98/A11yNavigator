@@ -1,0 +1,491 @@
+{
+    "count by default selenium driver": 129,
+    "total_count based on actionable selectors": 97,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Login"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[1]/div[1]/div[2]/a[2]",
+            "text": "Open App"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[2]/div[2]/div[2]/div[1]/a[1]",
+            "text": "Login"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[2]/div[2]/div[2]/div[1]/a[2]",
+            "text": "Open App"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/button[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[2]/div[2]/div[3]/button[1]",
+            "text": "Login"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[3]/div[1]/div[1]/div[1]/button[1]",
+            "text": "Continue in app"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
+            "text": "Start earning"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[2]/div[2]/button[1]",
+            "text": "Sign up for DoorDash"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]/div[2]/button[1]",
+            "text": "Get the app"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Find restaurants"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[2]/div[2]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Get DashPass"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[2]/div[3]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Shop Groceries"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[2]/div[4]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Shop Now"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[2]/div[6]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Try Package Pickup"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[2]/div[6]/div[2]/div[2]/div[1]/a[1]",
+            "text": "Send Flowers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[2]/div[6]/div[3]/div[2]/div[1]/a[1]",
+            "text": "Shop Alcohol"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[2]/div[6]/div[4]/div[2]/div[1]/a[1]",
+            "text": "Get Pet Supplies"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[2]/div[8]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Become a Dasher"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[2]/div[9]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Become a Partner"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[1]/a[1]",
+            "text": "New York"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[2]/a[1]",
+            "text": "Los Angeles"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[3]/a[1]",
+            "text": "Toronto"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[4]/a[1]",
+            "text": "Chicago"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[5]/a[1]",
+            "text": "Houston"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[6]/a[1]",
+            "text": "Brooklyn"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[7]/a[1]",
+            "text": "San Diego"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[8]/a[1]",
+            "text": "Las Vegas"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[9]/a[1]",
+            "text": "San Francisco"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[10]/a[1]",
+            "text": "Seattle"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[11]/a[1]",
+            "text": "Atlanta"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[12]/a[1]",
+            "text": "Queens"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[13]/a[1]",
+            "text": "Vancouver"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[14]/a[1]",
+            "text": "Miami"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[3]/div[2]/div[15]/a[1]",
+            "text": "San Antonio"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Alcohol Australia"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Alcohol Delivery Australia"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[3]",
+            "text": "Back To School Delivery"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[4]",
+            "text": "Beauty Stores"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[5]",
+            "text": "Beauty Supply"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[6]",
+            "text": "Catering Near Me"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[7]",
+            "text": "Chips Ahoy Big Cookie"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[8]",
+            "text": "Convenience Stores Canada"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Dashmart Near Me"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[2]",
+            "text": "Deck The Doorstep"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[3]",
+            "text": "Diageo Holiday"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[4]",
+            "text": "Drugstores Canada"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[5]",
+            "text": "Flower Delivery"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[6]",
+            "text": "Grocery Delivery Canada"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[7]",
+            "text": "Haleon Well Within Reach"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[2]/a[8]",
+            "text": "Halloween"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Holiday Hosting"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[2]",
+            "text": "Hsa Bank"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[3]",
+            "text": "Hsa Fsa Store"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[4]",
+            "text": "Large Group Orders"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[5]",
+            "text": "Medicine Delivery"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[6]",
+            "text": "Mothers Day"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[7]",
+            "text": "Pet Store Near Me"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[3]/a[8]",
+            "text": "Play For An Ultra"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[1]",
+            "text": "Retail Stores Near Me"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[2]",
+            "text": "Seasonal Holidays"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[3]",
+            "text": "Snap Ebt"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[4]",
+            "text": "Valentines Day"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[1]/div[1]/div[4]/a[5]",
+            "text": "Winter Holidays"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "About Us"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[2]",
+            "text": "Careers"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[3]",
+            "text": "Investors"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[4]",
+            "text": "Company Blog"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[5]",
+            "text": "Engineering Blog"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[6]",
+            "text": "Merchant Blog"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[7]",
+            "text": "Gift Cards"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[8]",
+            "text": "Package Pickup"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[9]",
+            "text": "Promotions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[10]",
+            "text": "Dasher Central"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[11]",
+            "text": "LinkedIn"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[12]",
+            "text": "Glassdoor"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[13]",
+            "text": "Accessibility"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[14]",
+            "text": "Newsroom"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[2]/a[1]",
+            "text": "Account Details"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[2]/a[2]",
+            "text": "Order History"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[2]/a[3]",
+            "text": "Help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[3]/a[1]",
+            "text": "Become a Dasher"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[3]/a[2]",
+            "text": "List Your Business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[3]/a[3]",
+            "text": "Get Dashers for Deliveries"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[1]/div[3]/a[4]",
+            "text": "Get DoorDash for Business"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[2]/div[2]/div[1]/a[2]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[3]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[3]/div[1]/a[2]",
+            "text": "Terms of Service"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[3]/div[1]/a[3]",
+            "text": "Privacy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[3]/div[1]/a[4]",
+            "text": "Delivery Locations"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[3]/div[1]/a[5]",
+            "text": "Do Not Sell or Share My Personal Information"
+        },
+        {
+            "tag_name": "select",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/select[1]",
+            "text": "English (US)\nEspa\u00f1ol (US)\nEnglish (CA)\nFran\u00e7ais (CA)\nEnglish (AU)\nEnglish (NZ)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[3]/div[3]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[3]/div[3]/a[2]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/main[1]/main[1]/div[3]/div[4]/div[4]/div[1]/footer[1]/div[3]/div[3]/a[3]",
+            "text": ""
+        }
+    ]
+}

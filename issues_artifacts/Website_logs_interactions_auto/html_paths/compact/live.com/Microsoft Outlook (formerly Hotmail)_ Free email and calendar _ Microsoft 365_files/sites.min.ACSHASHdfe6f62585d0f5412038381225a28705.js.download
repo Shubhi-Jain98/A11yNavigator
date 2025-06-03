@@ -1,0 +1,390 @@
+crossSellConfig = [
+    {
+        endpointPayload: {
+            data: {
+                language: "en",
+                gallery: "AppsourceApps",
+                market: "ALL",
+                publishingStage: "Public",
+                select: "uniqueProductId,displayName,smallIconUri,summary,ratingAverage,ratingCount,longSummary,productType,publisherDisplayName,pricingTypes",
+            },
+            headers: {
+                "x-api-key":atob(OneCloudEnvironmentConstants?.AppsourceAPI?.header),    
+                "x-ms-app": "appsource"
+            },
+        },
+        renderAttributes: [
+            { renderKey: "id", apiKey: "uniqueProductId" },
+            { renderKey: "appTitle", apiKey: "displayName" },
+            { renderKey: "averageRating", apiKey: "ratingAverage" },
+            { renderKey: "ratingCount", apiKey: "ratingCount" },
+            { renderKey: "appDesc", apiKey: "longSummary" },
+            { renderKey: "appType", apiKey: "productType" },
+            { renderKey: "appId", apiKey: "uniqueProductId" },
+            { renderKey: "appIcon", apiKey: "smallIconUri" },
+            { renderKey: "appPageURL", apiKey: "" },
+            { renderKey: "appDisplayName", apiKey: "publisherDisplayName" },
+            { renderKey: "appHelpText", apiKey: "" },
+            { renderKey: "appCategory", apiKey: "category" },
+        ],
+        resultsObject: "results",
+    }
+]
+if (!window.CrossSell) {
+    window.CrossSell = class CrossSell {
+        constructor(opts) {
+
+            this.SELECTORS = {
+                card: ".card-wrapper",
+                crossSell: ".cross-sell-main",
+                crossSellCardLayout: ".cross-sell-card-layout",
+                crossSellSpinner: ".cross-sell-spinner-container", 
+                crossSellTemplate: ".crossSellCardStyleTmpl",
+                sectionMasterLayout: ".section-master",
+                blockHeadingEyebrow: ".block-heading__eyebrow",
+                blockHeadingTitle: ".block-heading__title",
+            };
+
+            this.STRINGS = {
+                CTA_BUTTON_TYPE: "card link",
+                COMP_NAME: "cross-sell",
+                SMALL: "small",
+                APPLICABLE_PRODUCTS: "applicableProducts",
+            };
+
+            this.CONFIG = {
+                compId: opts.compId,
+                locale: document.documentElement.lang
+            };
+
+            this.MAPS = {
+                productTypeMap : opts.element.dataset.producttypemap,            
+            };
+
+            this._readConfigObject = () => {
+                return (crossSellConfig || [])[0]; 
+            };
+
+            this._setupElements = (wrapper) => {
+                this.ELEMENTS = {
+                    ...this.ELEMENTS,
+                    crossSellCardLayout: wrapper.querySelector(this.SELECTORS.crossSellCardLayout),
+                    closestSectionMasterLayout: wrapper.closest(this.SELECTORS.sectionMasterLayout), 
+                };
+
+                this.CONFIG.compUUID = wrapper.dataset.compid;
+                this.CONFIG.cardTmpl = this._getCardTmplFromDOM();
+                this.CONFIG.cardConfig = this._readConfigObject();
+                this.CONFIG.apiEndpoint = wrapper.dataset.apiendpoint; 
+                this.CONFIG.orderBy = wrapper.dataset.orderby;
+                this.CONFIG.categoryFilter = wrapper.dataset.categoryfilter;
+                this.CONFIG.industryFilter = wrapper.dataset.industryfilter;
+                this.CONFIG.productFilter = wrapper.dataset.productfilter; 
+                this.CONFIG.subProductFilter = this._getApplicableProducts(wrapper);
+                this.CONFIG.productIds = wrapper.dataset.productid;
+                this.CONFIG.source = wrapper.dataset.source;
+                this.CONFIG.numberOfAppCards = wrapper.dataset.numberofappcards;
+                this.CONFIG.helpText = this._getCardHelpText();
+                this.CONFIG.headingEyebrowText = this._headingEyebrowText();
+                this.CONFIG.headingTitleText = this._headingTitleText();
+                this.CONFIG.spinnerElement = wrapper.querySelector(this.SELECTORS.crossSellSpinner);
+            };
+
+            this._getCardHelpText = () => {
+                return $(this.CONFIG.cardTmpl).find(this.SELECTORS.card).data('helptext');
+            };
+
+            this._getApplicableProducts = (wrapper) => { 
+                const productFilter = wrapper.dataset.productfilter;
+                if (productFilter === 'productTypes=PowerBiVisuals,PowerBI') {
+                    return '';
+                }
+                
+                return wrapper.dataset.subproductfilter ? `${this.STRINGS.APPLICABLE_PRODUCTS}=${wrapper.dataset.subproductfilter}` : '';
+            }
+
+            this._headingEyebrowText = () => {
+                const headingEyebrowElement = $(this.ELEMENTS.closestSectionMasterLayout).find(this.SELECTORS.blockHeadingEyebrow) 
+                return headingEyebrowElement ? headingEyebrowElement.text().trim() : '';
+            };
+
+            this._headingTitleText = () => {
+                const headingTitleTextElement = $(this.ELEMENTS.closestSectionMasterLayout).find(this.SELECTORS.blockHeadingTitle) 
+                return headingTitleTextElement ? headingTitleTextElement.text().trim() : '';
+            };
+
+            this._getCardTmplFromDOM = () => {
+                const tmplDOMSelector = `${this.SELECTORS.crossSellTemplate}_${this.CONFIG.compUUID}`;
+                return document.querySelector(tmplDOMSelector).innerHTML.toString().trim();
+            };
+
+            this._initializeMWFClickGroup = (wrapper) => {
+                this.ELEMENTS.cgElements = [];
+                wrapper.querySelectorAll(`[data-mount="click-group"]`).forEach((cgEl) => {
+                    this.ELEMENTS.cgElements.push(new mwf.ClickGroup({
+                        el: cgEl
+                    }));
+                });
+            };
+
+            this._toggleSpinner = (show) => {
+                if (this.CONFIG.spinnerElement) {
+                    this.CONFIG.spinnerElement.classList.toggle('d-none', !show);
+                }
+            };
+
+            this._getPageOrigin = () => {
+                return `https://appsource.microsoft.com`;
+            }
+            this._getProductTypeFromMap = (productType) => {
+                const productTypeMap = JSON.parse(this.MAPS.productTypeMap);
+                const foundType = productTypeMap.find((type) => {
+                    return type?.offerType?.toLowerCase().trim() === productType?.toLowerCase().trim();
+                });                
+
+                if (foundType) {
+                    return foundType.urlKey;
+                } else {
+                    return '';
+                }
+            };
+
+            this._buildProductURL = (item) => {
+                const renderApiKey = this.CONFIG.cardConfig.renderAttributes.find((attr) => attr.renderKey == "appType").apiKey;
+                const appType = this._getProductTypeFromMap(item[renderApiKey]);
+                const appId = item[this.CONFIG.cardConfig.renderAttributes.find((attr) => attr.renderKey == "appId").apiKey];
+                const origin = this._getPageOrigin();
+                if (appType) {
+                    return `${origin}/${this.CONFIG.locale}/product/${appType}/${appId}?tab=Overview`;
+                } else { 
+                    return `${origin}/${this.CONFIG.locale}`;
+                }
+                
+            };
+
+            this._buildRatingValue = (item) => {
+                const averageRatingValue = item[this.CONFIG.cardConfig.renderAttributes.find((attr) => attr.renderKey == "averageRating").apiKey];
+                return !!averageRatingValue ? averageRatingValue.toFixed(1) : "";
+            };
+
+            this._buildAppIconUrl = (item) => {
+                if (item.smallIconUri) {
+                    return item.smallIconUri;
+                }
+
+                const smallImageUri = item.images
+                    .flatMap(image => image.items)
+                    .find(img => img.id === this.STRINGS.SMALL)?.uri;
+
+                return smallImageUri || '';
+            };
+
+
+            this._buildRenderObject = (apiResponse) => {
+                return apiResponse[this.CONFIG.cardConfig.resultsObject].map((item) => {
+                    const renderTmp = {};
+                    this.CONFIG.cardConfig.renderAttributes.forEach((attr) => {
+                        let attrValue = "";
+                        switch (attr.renderKey.toLowerCase()) {        
+                            case "apppageurl":
+                                attrValue = this._buildProductURL(item);
+                                break;
+                            case "averagerating":
+                                attrValue = this._buildRatingValue(item);
+                                break;
+                            case "apphelptext":
+                                attrValue = $(this.CONFIG.cardTmpl).find(this.SELECTORS.card).data('helptext');
+                                break;
+                            case "appicon":
+                                attrValue = this._buildAppIconUrl(item);
+                                break;
+                            default:
+                                attrValue = item[attr.apiKey];
+                        }
+                        renderTmp[attr.renderKey] = attrValue;
+                    });
+                    return renderTmp;
+                });
+            };
+
+            this._buildPayloadData = (queryParams) => {
+                const configPayload = { ...this.CONFIG.cardConfig.endpointPayload.data };
+                const orderby = this.CONFIG.orderBy;
+                this.CONFIG.cardConfig.endpointPayload.data = {
+                    ...configPayload,
+                    ...queryParams,
+                    orderby: orderby,
+                    top: this.CONFIG.numberOfAppCards,
+                };
+            };
+
+            this._updateAppPageURLAttributes = (evaluatedTmpl, index, appTitle) => {
+
+                const dataBiViewValue = [this.CONFIG.headingEyebrowText, this.CONFIG.headingTitleText].filter(value => value).join(" | ");
+                
+                const attributes = {
+                    "data-bi-ct": this.STRINGS.CTA_BUTTON_TYPE,
+                    "data-bi-ecn": this.CONFIG.helpText,
+                    "data-bi-cn": this.CONFIG.helpText,
+                    "data-bi-compnm": this.STRINGS.COMP_NAME,
+                    "data-bi-sn": index + 1,
+                    "data-bi-view": dataBiViewValue,
+                    "data-bi-ehn": appTitle,  
+                    "data-bi-hn": appTitle  
+                };
+
+                Object.keys(attributes).forEach(attr => {
+                    evaluatedTmpl.find("a[data-elementmarker=appPageURL]").attr(attr, attributes[attr]);
+                });
+     
+            };
+
+            this._evaluateCardTmpl = (cardObj, index) => {
+                const keys = Object.keys(cardObj);
+                let $evaluatedTmpl = $(this.CONFIG.cardTmpl); 
+
+                // modify the template by removing the elements for which the card object does not have a valid value.
+                keys.forEach((key) => {
+                    const keyValue = cardObj[key];
+
+                    if (!keyValue || keyValue == "" || keyValue.length == 0) {
+                        $evaluatedTmpl.find(`[data-elementmarker="${key}"]`).remove();
+                    } else if (key == "appIcon") {
+                        $evaluatedTmpl.find("img").prop("src", keyValue);
+                    } else if (key == "appPageURL") {
+                        $evaluatedTmpl.find("a[data-elementmarker=appPageURL]").attr("href", keyValue);
+                    }
+                });
+
+                this._updateAppPageURLAttributes($evaluatedTmpl, index, cardObj.appTitle);
+
+                // populate the modified template with the values from card object.
+                let evaluatedTmpl = $evaluatedTmpl.prop("outerHTML");
+                keys.forEach((key) => {
+                    evaluatedTmpl = evaluatedTmpl.replaceAll(`(#=${key}#)`, cardObj[key] || "");
+                }); 
+
+                return evaluatedTmpl;
+            };
+
+            this._renderCardItems = (rendererObject) => {
+                return rendererObject
+                    .map((item, index) => {
+                        return this._evaluateCardTmpl(item, index);
+                    })
+                    .join(" ");
+            };
+
+            this._buildFilterQueryParams = () => {
+                this._cleanEndpointData();
+                const { categoryFilter, industryFilter, productFilter, subProductFilter } = this.CONFIG;
+
+                const filters = [categoryFilter, industryFilter, productFilter, subProductFilter].filter(Boolean);
+                const queryParams = filters.reduce((queryParamsObj, item) => {
+                    const [key, value] = item.split('=');
+                    queryParamsObj[key] = value;
+                    return queryParamsObj;
+                }, {});
+
+                return queryParams;
+            };
+
+            this._cleanEndpointData = () => {
+                const epData = this.CONFIG.cardConfig.endpointPayload.data;
+
+                epData.categories && delete epData.categories;
+                epData.industries && delete epData.industries;
+                epData.productTypes && delete epData.productTypes;
+                epData.applicableProducts && delete epData.applicableProducts;
+            };
+
+            this._renderCrossSell = (wrapper, rendererObject) => {
+                $(wrapper).find(this.ELEMENTS.crossSellCardLayout).html(this._renderCardItems(rendererObject));
+                this._initializeMWFClickGroup(wrapper);
+            };
+
+            this._fetchData = (productId = null) => {
+                let envUrl;
+                let headers = { ...this.CONFIG.cardConfig.endpointPayload.headers };
+            
+                if (this.CONFIG.source === "Curated" && productId) {
+                    // Curated API logic
+                    envUrl = this.CONFIG.apiEndpoint.replace('{productID}', productId);
+                    return $.ajax({
+                        url: envUrl,
+                        headers: headers,
+                    });
+                } else {
+                    // Custom API logic
+                    const queryParams = this._buildFilterQueryParams();
+                    this._buildPayloadData(queryParams);
+                    envUrl = this.CONFIG.apiEndpoint;
+            
+                    return $.ajax({
+                        url: envUrl,
+                        data: this.CONFIG.cardConfig.endpointPayload.data, 
+                        headers: headers,
+                    }).fail((jqXHR, errorThrown) => {
+                        this.ELEMENTS.closestSectionMasterLayout.remove();
+                        return Promise.reject(`Error: Status ${jqXHR.status} - ${errorThrown}`);
+                    });
+                }
+            };
+            
+            this._beginCardRender = (wrapper) => {
+                this._toggleSpinner(true);
+                let requests;
+            
+                if (this.CONFIG.source === "Curated" && this.CONFIG.productIds) {
+                    const productIds = this.CONFIG.productIds.split(',').map(id => id.trim());
+                    requests = productIds.map(id => this._fetchData(id).catch(error => ({ error }))); 
+                } else {
+                    requests = [this._fetchData(null)];  
+                }
+            
+                Promise.allSettled(requests)
+                    .then((responses) => {
+                        if (this.CONFIG.source === "Curated") {
+                            const filteredData = responses.filter(item => item.status === 'fulfilled' && !item.value.error)
+                                                           .map(item => item.value);
+                            const response = { results: filteredData };
+                            if (response.results.length > 0) {
+                                const rendererObject = this._buildRenderObject(response);
+                                this._renderCrossSell(wrapper, rendererObject);
+                            } else {
+                                this.ELEMENTS.closestSectionMasterLayout.remove();
+                            }
+                        } else {
+                            const response = responses[0].status === 'fulfilled' ? responses[0].value : null;
+                            if (response && response.results && response.results.length > 0) {
+                                const rendererObject = this._buildRenderObject(response);
+                                this._renderCrossSell(wrapper, rendererObject);
+                            } else {
+                                this.ELEMENTS.closestSectionMasterLayout.remove();
+                            }
+                        }
+                    })
+                    .catch((error) => {
+                        console.log('Request failed or status was not 200:', error);
+                    })
+                    .finally(() => {
+                        this._toggleSpinner(false);
+                    });
+            };
+            
+            
+            this._init = (wrapper) => {
+                this._setupElements(wrapper);
+                this._beginCardRender(wrapper);
+            };
+            this.wrapper = opts.element;
+            this._init(this.wrapper);
+        }
+
+        init() {
+            this._init();
+        }
+    };
+}
+
+CrossSellInstances = [];

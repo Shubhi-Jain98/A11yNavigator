@@ -1,0 +1,214 @@
+{
+  "Home": [],
+  "Members": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/p[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://seal.ics.uci.edu/members.html"
+      },
+      "number of keypresses": [
+        1
+      ]
+    }
+  ],
+  "Publications": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/p[1]/a[2]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://seal.ics.uci.edu/publications.html"
+      },
+      "number of keypresses": [
+        1
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/p[1]/a[3]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://seal.ics.uci.edu/projects.html"
+      },
+      "number of keypresses": [
+        1
+      ]
+    }
+  ],
+  "blank": [],
+  "Software Engineering and Analysis Lab (SEAL)": [
+    {
+      "xpath": "/body[1]/div[1]/h2[1]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        3
+      ]
+    }
+  ],
+  "This lab is broadly engaged in research to automate the software engineering activities, thereby": [],
+  "improving the developer productivity as well as the quality of software. The director of the lab is": [],
+  "Prof. Sam Malek": [
+    {
+      "xpath": "/body[1]/div[1]/p[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "http://www.ics.uci.edu/~malek/"
+      },
+      "number of keypresses": [
+        6
+      ]
+    }
+  ],
+  ", a Professor in the": [],
+  "Informatics Department": [
+    {
+      "xpath": "/body[1]/div[1]/p[1]/a[2]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "http://www.informatics.ics.uci.edu/"
+      },
+      "number of keypresses": [
+        6
+      ]
+    }
+  ],
+  "within the": [],
+  "School of Information and": [],
+  "Computer Sciences": [],
+  "at the University of California, Irvine.": [],
+  "The underlying theme and long-term goal of this research lab is the development of techniques and": [],
+  "tools that aid with the construction, analysis, and maintenance of large-scale dependable software": [],
+  "systems. The inherent complexity of large-scale software systems has always posed a significant": [],
+  "challenge to software practitioners. On top of this, emerging non-conventional computing domains": [],
+  "(e.g., autonomic, embedded, pervasive, and mobile systems) present developers with a formidable set": [],
+  "of new challenges. The overarching hypothesis guiding this research lab is that it is possible to": [],
+  "reduce the complexity of engineering dependable software by automating the cumbersome manual": [],
+  "software engineering activities.": [],
+  "In that context, the members of the lab to date have investigated a wide range of issues, which can": [],
+  "be roughly categorized into three research thrusts:": [],
+  "with 3 items": [],
+  "• Software Architecture and Design – representations of a system's implementation, enabling": [],
+  "developers to abstract away the unnecessary details and focus on the system's building blocks and": [],
+  "properties.": [],
+  "• Autonomic Computing – an increasingly important class of systems capable of automatically": [],
+  "adjusting their behavior at runtime to deal with changes in the system's requirements and its": [],
+  "execution environment.": [],
+  "• Mobile Computing – collectively refers to emerging forms of computing, including mobile,": [],
+  "cyber-physical, and pervasive systems, that call for new software engineering techniques and tools": [],
+  "to deal with increasingly difficult challenges, such as security and energy.": [],
+  "Recent Events": [
+    {
+      "xpath": "/body[1]/div[1]/h2[2]",
+      "tag_name": "h2",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        30
+      ]
+    }
+  ],
+  "index": [],
+  "Unlabelled graphic": [],
+  "2020_ASE_Empirical": [],
+  "hammadmahmoud.github.io": [],
+  "2016dsn": [],
+  "2016ICSE": [],
+  "FSE2016Titanium": [],
+  "craftdroid": [],
+  "Mahmoud Hammad successfully defended his PhD thesis. Congratulations Dr. Hammad!": [],
+  "ASE 2018 - SALMA: Self-Protection of Android Systems from Inter-Component Communication Attacks.": [],
+  "[seal's logo]": [
+    {
+      "xpath": "/body[1]/div[1]/div[3]/a[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        39
+      ]
+    }
+  ],
+  "[uci's logo]": [
+    {
+      "xpath": "/body[1]/div[1]/div[4]/a[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        41,
+        42
+      ]
+    }
+  ],
+  "Anti-Malware Products.": [],
+  "School of Information and Computer Sciences": [
+    {
+      "xpath": "/body[1]/div[1]/p[1]/a[3]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "http://www.ics.uci.edu/"
+      },
+      "number of keypresses": [
+        6
+      ]
+    }
+  ],
+  "indexindex": []
+}

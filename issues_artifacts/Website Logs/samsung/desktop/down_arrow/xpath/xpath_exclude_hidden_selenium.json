@@ -1,0 +1,132 @@
+{
+    "count by default selenium driver": 896,
+    "total_count based on actionable selectors": 14,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Samsung",
+            "aria-label": "Samsung",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[1]/button[1]",
+            "text": "Offers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[2]/button[1]",
+            "text": "Mobile",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[3]/button[1]",
+            "text": "TV & Audio",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[4]/button[1]",
+            "text": "Appliances",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[5]/button[1]",
+            "text": "Computing & Displays",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[6]/button[1]",
+            "text": "Accessories",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[7]/button[1]",
+            "text": "AI",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[8]/a[1]",
+            "text": "SmartThings",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/smartthings/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[2]/li[1]/button[1]",
+            "text": "Support",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[2]/li[2]/a[1]",
+            "text": "For Business",
+            "aria-label": "For Business: Open in a New Window",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/business/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[6]/div[1]/button[1]",
+            "text": "Search\nSearch",
+            "aria-label": "Search",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[6]/div[2]/a[1]",
+            "text": "Cart",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/web/express/cart/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[6]/div[3]/a[1]",
+            "text": "Sign in/Create Account",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "javascript:;"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "count of missing paths": 2,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/a[2]",
+            "text": "Accept and Continue",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/div[2]/a[3]",
+            "text": "Set Your Preferences",
+            "aria-label": "",
+            "id": "securitiCmpCookiePrefBtn",
+            "placeholder": null,
+            "href": ""
+        }
+    ]
+}

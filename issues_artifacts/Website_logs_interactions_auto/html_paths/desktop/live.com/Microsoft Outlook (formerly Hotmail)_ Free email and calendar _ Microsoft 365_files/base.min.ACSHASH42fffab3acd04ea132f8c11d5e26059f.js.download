@@ -1,0 +1,386 @@
+(() => {
+    /** Create ocrReimagine namespace */
+    if (!window.ocrReimagine) {
+        window.ocrReimagine = {};
+    }
+
+    /** Create Market Selector module namespace */
+    if (!window.ocrReimagine.MarketSelector) {
+        window.ocrReimagine.MarketSelector = {};
+    }
+
+    const cookieExpiryDays = 30;
+    const cookieKey = 'PMGSKUMarketCk';
+    /** @type {MarketSelector[]} */
+    const instances = [];
+    const queryParamKey = 'market';
+
+    /**
+     * CSS selector.
+     * @enum {string}
+     */
+    const Selector = {
+        AFFECTED: '[data-oc-market-selector]',
+        DATA_MOUNT: '[data-mount="market-selector"]',
+        FW_LINKS: '[data-regenerate-fwlink="true"]',
+        SELECT_MENU: '.custom-select-input'
+    };
+
+    /**
+     * JS event name.
+     * @enum {string}
+     */
+    const EventName = {
+        ON_INIT: 'onInit',
+        ON_REFRESHED: 'onRefreshed',
+        ON_REMOVE: 'onRemove',
+        ON_SELECT: 'onSelect',
+        ON_UPDATE: 'onUpdate'
+    };
+
+    /**
+     * Handles change events on select menus.
+     * @this {MarketSelector} Parent component.
+     * @param {HTMLSelectElement} selectMenu Select element.
+     */
+    function _change(selectMenu) {
+        if (selectMenu.selectedOptions.length) {
+
+            let market = selectMenu.selectedOptions[0].value;
+            this.el.dispatchEvent(this[EventName.ON_SELECT]);
+
+            // update regenerating FWLinks, and add the information to On_Refreshed Event
+            this.fwlinkParams = selectMenu.selectedOptions[0].dataset.fwlinkParams;
+            this[EventName.ON_REFRESHED].detail.fwlinkParams = this.fwlinkParams;
+            this[EventName.ON_REFRESHED].detail.value = market;
+
+            _setFWLinksQueryParams(this.fwlinkParams);
+            _setMarket.call(this, market);
+
+            //Dispatch Market Selector.
+            oc.event.marketSelector.dispatch(EventName.ON_SELECT.toLocaleLowerCase(), market);
+        }
+    }
+
+    /**
+     * Gets a set cookie value for the key provided, if available.
+     * @param {string} key Cookie key.
+     * @returns {string | null} Cookie value, or null.
+     */
+    function _getCookie(key) {
+        const cookies = _getAllCookies();
+
+        if (cookies) {
+            const value = cookies[key];
+
+            if (value !== undefined) {
+                return value;
+            }
+        }
+
+        return null;
+    }
+
+    /**
+     * Gets all set cookie values, if available.
+     * @returns {Record<string, string> | null} All cookie values.
+     */
+    function _getAllCookies() {
+        /** @type {Record<string, string>} */
+        const cookies = {};
+
+        document.cookie.split('; ').forEach(pair => {
+            const separatorIndex = pair.indexOf('=');
+
+            if (separatorIndex !== -1) {
+                const key = pair.slice(0, separatorIndex);
+                const value = decodeURIComponent(pair.slice(separatorIndex + 1));
+
+                cookies[key] = value;
+            }
+        });
+
+        if (Object.keys(cookies).length > 0) {
+            return cookies;
+        }
+
+        return null;
+    }
+
+    /**
+     * Gets the geodetected country code which was previously set by an edge-side include.
+     * @returns {string | null} Geodetected country code, or null.
+     */
+    function _getGeoCountry() {
+        if (
+            window.oc &&
+            window.oc.geo &&
+            window.oc.geo.country &&
+            typeof window.oc.geo.country === 'string'
+        ) {
+            return window.oc.geo.country;
+        }
+
+        return null;
+    }
+
+    /**
+     * Updates all regenerating FWLinks href's to the option's designated query params.
+     * @param {string} queryParams
+     */
+    function _setFWLinksQueryParams(queryParams) {
+        const fwLinks = document.querySelectorAll(Selector.FW_LINKS);
+
+        fwLinks.forEach(link => {
+            try {
+                const url = new URL(link.getAttribute('href'));
+                const searchParams = new URLSearchParams(queryParams);
+
+                const urlSearchParams = new URLSearchParams(url.search);
+                searchParams.forEach((key, value) => {
+                    urlSearchParams.set(value, key);
+                });
+
+                // 'clcid' is not a guaranteed part of the new Query Search Params. Delete this from the original fwlink's destination
+                // url if the <option> does not have a clcid.
+                if (!searchParams.has('clcid')) {
+                    urlSearchParams.delete('clcid');
+                }
+
+                url.search = urlSearchParams;
+                link.setAttribute('href', url);
+            } catch (error) {
+                console.error(error);
+            }
+        });
+    }
+
+    window.ocrReimagine.MarketSelector.setFWLinksQueryParams = _setFWLinksQueryParams;
+
+    /**
+     * Sets a cookie with the provided key and value.
+     * @param {string} key Cookie key.
+     * @param {string} value Cookie value.
+     * @param {number} [expiryDays] Number of days before the cookie expires.
+     */
+    function _setCookie(key, value, expiryDays) {
+        /** @type {Date | null} */
+        let expiryDate = null;
+
+        if (expiryDays !== undefined && Number.isSafeInteger(expiryDays) && expiryDays > -1) {
+            expiryDate = new Date();
+
+            expiryDate.setDate(expiryDate.getDate() + expiryDays);
+        }
+
+        // eslint-disable-next-line unicorn/no-document-cookie
+        document.cookie = `${key}=${encodeURIComponent(value)}${expiryDate ? `;expires=${expiryDate.toUTCString()}` : ''
+            }`;
+    }
+
+    /**
+     * Sets the market value.
+     * @param {string} market Market code.
+     */
+    function _setMarket(market) {
+        let useAjax = false;
+
+        if (this.refreshMode === 'ajax') {
+            useAjax = true;
+        }
+
+        _setCookie(cookieKey, market, cookieExpiryDays);
+        _setQueryParam(queryParamKey, market, useAjax);
+
+        if (useAjax) {
+            this.el.dispatchEvent(this[EventName.ON_REFRESHED]);
+            // Dispatch Market Selector Refreshed Event.
+            oc.event.marketSelector.dispatch(EventName.ON_REFRESHED.toLocaleLowerCase(), market);
+        }
+    }
+
+    /**
+     * Sets a query parameter with the provided key and value.
+     * @param {string} key Query parameter key.
+     * @param {string} value Query parameter value.
+     * @param {boolean} [pushState] If push state should be used for the update.
+     */
+    function _setQueryParam(key, value, pushState) {
+        const queryParams = new URLSearchParams(window.location.search);
+
+        queryParams.set(key, value);
+
+        const queryParamString = `?${queryParams.toString()}`;
+
+        if (window.location.search !== queryParamString && typeof jest === 'undefined') {
+            if (pushState) {
+                window.history.pushState({ search: queryParamString }, '', queryParamString);
+            } else {
+                window.location.search = queryParamString;
+            }
+        }
+    }
+
+    /** Market Selector component. */
+    class MarketSelector {
+        /**
+         * Root element.
+         * @type {HTMLDivElement}
+         */
+        el;
+        /**
+         * Event bindings.
+         * @type {{ el: Element, handler: (...args: unknown[]) => unknown, type: string}[]} */
+        events = [];
+        /** onInit event. */
+        [EventName.ON_INIT] = new CustomEvent(EventName.ON_INIT, { bubbles: true, cancelable: true });
+        /** onRefreshed event. */
+        [EventName.ON_REFRESHED];
+
+        /** onRemove event. */
+        [EventName.ON_REMOVE] = new CustomEvent(EventName.ON_REMOVE, { bubbles: true, cancelable: true });
+        /** onSelect event. */
+        [EventName.ON_SELECT] = new CustomEvent(EventName.ON_SELECT, { bubbles: true, cancelable: true });
+        /** onUpdate event. */
+        [EventName.ON_UPDATE] = new CustomEvent(EventName.ON_UPDATE, { bubbles: true, cancelable: true });
+        /**
+         * Select element.
+         * @type {HTMLSelectElement}
+         */
+        selectMenu;
+        /**
+         * Currently selected option's fwlink parameters
+         * @type {string}
+         */
+        fwlinkParams;
+
+        /**
+         * Initializes a new instance of the Market Selector component.
+         * @param {{ el: HTMLDivElement }} opts Initialization options.
+         */
+        constructor(opts) {
+            this.el = opts.el;
+            this.refreshMode = opts.el.dataset.refreshMode;
+            this.selectMenu = this.el.querySelector(Selector.SELECT_MENU);
+
+            this[EventName.ON_REFRESHED] = new CustomEvent(EventName.ON_REFRESHED, {
+                bubbles: true,
+                cancelable: true,
+                detail: {
+                    refresh: this.refreshMode === 'ajax',
+                    fwlinkParams: this.fwlinkParams
+                }
+            });
+
+            // Determine if there are any applicable elements on the page.
+            if (document.querySelector(Selector.AFFECTED)) {
+                // Get the applied market, if any.
+                const cookie = _getCookie(cookieKey);
+                const geoMarket = _getGeoCountry();
+                const queryParam = new URLSearchParams(window.location.search).get(queryParamKey);
+
+                const market = queryParam || cookie || geoMarket;
+
+                // Select the applied market in the element.
+                if (market) {
+                    for (let i = 0; i < this.selectMenu.options.length; i++) {
+                        if (this.selectMenu.options[i].value === market) {
+                            this.selectMenu.selectedIndex = i;
+
+                            break;
+                        }
+                    }
+                }
+
+                // If no market or the market wasn't there, select the first option.
+                if (this.selectMenu.selectedIndex === -1) {
+                    this.selectMenu.selectedIndex = 0;
+                }
+
+                // Reset regenerating FWLinks to ensure everything aligns
+                this.fwlinkParams = this.selectMenu.selectedOptions[0].dataset.fwlinkParams;
+                this[EventName.ON_REFRESHED].detail.fwlinkParams = this.fwlinkParams;
+                this[EventName.ON_REFRESHED].detail.value = this.selectMenu.selectedOptions[0].value;
+
+                _setFWLinksQueryParams(this.fwlinkParams);
+
+                // Reset the market to ensure everything aligns.
+                _setMarket.call(this, this.selectMenu.selectedOptions[0].value);
+
+                this.events.push({
+                    el: this.selectMenu,
+                    handler: _change.bind(this, this.selectMenu),
+                    type: 'change'
+                });
+
+                // Show the dropdown.
+                this.el.hidden = false;
+
+                // Dispatch the init event.
+                this.el.dispatchEvent(this[EventName.ON_INIT]);
+
+                //Dispatch Market Selector.
+                oc.event.marketSelector.dispatch(EventName.ON_INIT.toLocaleLowerCase(), market);
+
+                // Dispatch the refreshed event when the document is complete.
+                if (document.readyState === 'complete') {
+                    this.el.dispatchEvent(this[EventName.ON_REFRESHED]);
+                    oc.event.marketSelector.dispatch(EventName.ON_REFRESHED.toLocaleLowerCase(), market);
+                } else {
+                    window.addEventListener('load', () => {
+                        this.el.dispatchEvent(this[EventName.ON_REFRESHED]);
+                        oc.event.marketSelector.dispatch(EventName.ON_REFRESHED.toLocaleLowerCase(), market);
+                    });
+                }
+            }
+
+            window.mwf.Util.addEvents(this.events);
+
+            instances.push(this);
+        }
+
+        /**
+         * Update the instance.
+         * Not currently used, but required by API standards.
+         */
+        update() {
+            this.el.dispatchEvent(this[EventName.ON_UPDATE]);
+        }
+
+        /**
+         * Remove the instance
+         */
+        remove() {
+            window.mwf.Util.removeEvents(this.events);
+            const index = instances.indexOf(this);
+            instances.splice(index, 1);
+            this.el.dispatchEvent(this[EventName.ON_REMOVE]);
+        }
+
+        /**
+         * Get Market Selector instances.
+         * @returns {MarketSelector[]} An array of Market Selector instances
+         */
+        static getInstances() {
+            return instances;
+        }
+    }
+
+    /** Initialize Market Selector for Reimagine Only */
+    function init() {
+        if (document.body.classList.contains("reimagine-page")) {
+            let el = document.querySelector('[data-mount="market-selector"]');
+            
+            if(el) {
+                window.ocrReimagine.MarketSelector.instance = new MarketSelector({ el });
+            }
+        }
+    }
+
+    //this just sets the script to load on page load
+    if (document.readyState === "complete" || document.readyState === "interactive") {
+        init();
+    } else {
+        document.addEventListener("DOMContentLoaded", init, false);
+    }
+})();

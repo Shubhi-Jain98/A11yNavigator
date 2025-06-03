@@ -1,0 +1,2292 @@
+{
+    "count by default selenium driver": 214,
+    "total_count based on actionable selectors": 249,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/span[1]/a[1]",
+            "text": "Flights",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.makemytrip.global/flights/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/span[1]/a[1]",
+            "text": "Hotels",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.makemytrip.global/hotels/"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/label[1]/input[1]",
+            "text": "New York",
+            "aria-label": "",
+            "id": "fromCity",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/label[1]/input[1]",
+            "text": "Los Angeles",
+            "aria-label": "",
+            "id": "toCity",
+            "placeholder": "",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "New YorkNew Delhi",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "New YorkSan Juan",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "SEARCH",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[1]/a[1]",
+            "text": "Login now",
+            "aria-label": "",
+            "id": "id_login_card_apply",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[3]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "All Offers",
+            "aria-label": "",
+            "id": "superOffersTab_ALL",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[3]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Flights",
+            "aria-label": "",
+            "id": "superOffersTab_FLIGHTS",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[3]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Hotels",
+            "aria-label": "",
+            "id": "superOffersTab_HOTELS",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "BOOK NOW",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "BOOK NOW",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Things have started to open up - Check guidelines & take informed travel decision\nSee Guidelines",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://apply.joinsherpa.com/travel-restrictions?affiliateId=mmt&originCountry=ARE&language=en-US"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]/p[2]/a[1]",
+            "text": "See Guidelines",
+            "aria-label": "",
+            "id": "id_homepage:snack_travel_advisory_clicked",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Worried about e-visa? Apply for an e-visa in minutes for your trip\nApply Now",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://apply.joinsherpa.com/explore/ARE?affiliateId=mmt&language=en-US"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]/div[1]/div[1]/p[2]/a[1]",
+            "text": "Apply Now",
+            "aria-label": "",
+            "id": "id_homepage:snack_evisa_clicked",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://play.google.com/store/apps/details?id=com.makemytrip&hl=en&gl=AE"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/a[2]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://apps.apple.com/ae/app/makemytrip-travel-booking-app/id530488359"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Abu Dhabi to Kutaisi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Aqaba to Abu Dhabi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Al Ain to Peshawar Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Kutaisi to Abu Dhabi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Dubai to Quetta Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Dammam to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "Dubai to Dammam Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "Alexandria to Abu Dhabi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[9]/a[1]",
+            "text": "Doha to Abu Dhabi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[10]/a[1]",
+            "text": "Abu Dhabi to Lahore Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[11]/a[1]",
+            "text": "Abu Dhabi to Bangkok Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[12]/a[1]",
+            "text": "Abu Dhabi to Islamabad Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[13]/a[1]",
+            "text": "Abu Dhabi to Peshawar Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[14]/a[1]",
+            "text": "Manila to Abu Dhabi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[15]/a[1]",
+            "text": "Islamabad to Sharjah Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[16]/a[1]",
+            "text": "Islamabad to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[17]/a[1]",
+            "text": "Dubai to Bahrain Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[18]/a[1]",
+            "text": "Beirut to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[19]/a[1]",
+            "text": "Dubai to Bangkok Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[20]/a[1]",
+            "text": "Abu Dhabi to Beirut Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[21]/a[1]",
+            "text": "Abu Dhabi to Manila Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[22]/a[1]",
+            "text": "Amman to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[23]/a[1]",
+            "text": "Dubai to Alexandria Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[24]/a[1]",
+            "text": "Dubai to Amsterdam Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[25]/a[1]",
+            "text": "Dubai to Cairo Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[26]/a[1]",
+            "text": "Dubai to Hong Kong Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[27]/a[1]",
+            "text": "Dubai to Istanbul Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[28]/a[1]",
+            "text": "Dubai to Jakarta Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[29]/a[1]",
+            "text": "Dubai to London Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[30]/a[1]",
+            "text": "Dubai to Mauritius Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[31]/a[1]",
+            "text": "Dubai to New York Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[32]/a[1]",
+            "text": "Dubai to Paris Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[33]/a[1]",
+            "text": "Dubai to Riyadh Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[34]/a[1]",
+            "text": "Dubai to Rome Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[35]/a[1]",
+            "text": "Dubai to Toronto Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[36]/a[1]",
+            "text": "Dubai to Zurich Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[37]/a[1]",
+            "text": "Dubai to Faisalabad Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[38]/a[1]",
+            "text": "Dubai to Lagos Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[39]/a[1]",
+            "text": "Dubai to Los Angeles Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[40]/a[1]",
+            "text": "Dubai to Phuket Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[41]/a[1]",
+            "text": "Manila to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[42]/a[1]",
+            "text": "Abu Dhabi to Cairo Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[43]/a[1]",
+            "text": "Dubai to Athens Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[44]/a[1]",
+            "text": "Dubai to Casablanca Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[45]/a[1]",
+            "text": "Casablanca to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[46]/a[1]",
+            "text": "Dubai to Beirut Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[47]/a[1]",
+            "text": "Dubai to Lahore Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[48]/a[1]",
+            "text": "Dubai to Seychelles Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[49]/a[1]",
+            "text": "Dubai to Amman Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[50]/a[1]",
+            "text": "Dubai to Entebbe Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[51]/a[1]",
+            "text": "Dubai to Peshawar Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[52]/a[1]",
+            "text": "Dubai to Tunis Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[53]/a[1]",
+            "text": "Abu Dhabi to Casablanca Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[1]/a[1]",
+            "text": "Abu Dhabi To Amman Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[2]/a[1]",
+            "text": "Abu Dhabi To Dhaka Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[3]/a[1]",
+            "text": "Abu Dhabi To Doha Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[4]/a[1]",
+            "text": "Abu Dhabi To Kathmandu Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[5]/a[1]",
+            "text": "Cairo To Sharjah Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[6]/a[1]",
+            "text": "Dhaka To Sharjah Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[7]/a[1]",
+            "text": "Kathmandu To Abu Dhabi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[8]/a[1]",
+            "text": "Kathmandu To Sharjah Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[9]/a[1]",
+            "text": "Sharjah To Dhaka Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[10]/a[1]",
+            "text": "Sharjah To Islamabad Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[11]/a[1]",
+            "text": "Sharjah To Beirut Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[12]/a[1]",
+            "text": "Sharjah To Dhaka Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[13]/a[1]",
+            "text": "Sharjah To Kathmandu Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[14]/a[1]",
+            "text": "Karachi To Sharjah Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[15]/a[1]",
+            "text": "Sharjah To Istanbul Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[16]/a[1]",
+            "text": "Sharjah To Doha Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[17]/a[1]",
+            "text": "Dubai to Manila Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[18]/a[1]",
+            "text": "Dubai to Kuwait Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[19]/a[1]",
+            "text": "Dubai to Islamabad Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[20]/a[1]",
+            "text": "Dubai to Karachi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[21]/a[1]",
+            "text": "Dubai to Kathmandu Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[22]/a[1]",
+            "text": "Dubai to Delhi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[23]/a[1]",
+            "text": "Dubai to Mumbai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[24]/a[1]",
+            "text": "Dubai to Chennai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[25]/a[1]",
+            "text": "Dubai to Hyderabad Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[26]/a[1]",
+            "text": "Dubai to Mangalore Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[27]/a[1]",
+            "text": "Dubai to Kochi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[28]/a[1]",
+            "text": "Mumbai to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[29]/a[1]",
+            "text": "Mumbai to Trivandrum Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[30]/a[1]",
+            "text": "Sharjah to Trivandrum Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[31]/a[1]",
+            "text": "Ahmedabad to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[32]/a[1]",
+            "text": "Kochi to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[33]/a[1]",
+            "text": "Dubai to Kozhikode Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[34]/a[1]",
+            "text": "Amritsar to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[35]/a[1]",
+            "text": "Sharjah to Kochi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[36]/a[1]",
+            "text": "Trivandrum to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[37]/a[1]",
+            "text": "Calicut to Dubai Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[38]/a[1]",
+            "text": "Kochi to Sharjah Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[39]/a[1]",
+            "text": "Dubai to Thiruvananthapuram Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[40]/a[1]",
+            "text": "Thiruvananthapuram to Sharjah Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[41]/a[1]",
+            "text": "Dubai to Abu Dhabi Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[42]/a[1]",
+            "text": "Dubai to Sialkot Flight",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[1]/a[1]",
+            "text": "Hotels In Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[2]/a[1]",
+            "text": "Hotels In Abu Dhabi",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[3]/a[1]",
+            "text": "Hotels In Sharjah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[4]/a[1]",
+            "text": "Hotels In Ras Al Khaimah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[5]/a[1]",
+            "text": "Hotels In Ajman",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[6]/a[1]",
+            "text": "Hotels In Fujairah",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[7]/a[1]",
+            "text": "Hotels In Al Ain",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[8]/a[1]",
+            "text": "Hotels In Kalba",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[9]/a[1]",
+            "text": "Hotels In Singapore",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[10]/a[1]",
+            "text": "Hotels In Bangkok",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[11]/a[1]",
+            "text": "Hotels In Pattaya",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[12]/a[1]",
+            "text": "Hotels In London",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[13]/a[1]",
+            "text": "Hotels In Phuket",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[14]/a[1]",
+            "text": "Hotels In Bali",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[15]/a[1]",
+            "text": "Hotels In Hong Kong",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[16]/a[1]",
+            "text": "Hotels In Paris",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[17]/a[1]",
+            "text": "Hotels In Koh Samui",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[18]/a[1]",
+            "text": "Hotels In New York",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[19]/a[1]",
+            "text": "Hotels In Las Vegas",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[20]/a[1]",
+            "text": "Hotels In Colombo",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[21]/a[1]",
+            "text": "Hotels In Macau",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[22]/a[1]",
+            "text": "Hotels In Kuala Lumpur",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[23]/a[1]",
+            "text": "Hotels In Sydney",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[24]/a[1]",
+            "text": "Hotels In Kathmandu",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[25]/a[1]",
+            "text": "Hotels In Maldives",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[26]/a[1]",
+            "text": "Hotels In Langkawi",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[27]/a[1]",
+            "text": "Hotels In Istanbul",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[28]/a[1]",
+            "text": "Hotels In Rome",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[29]/a[1]",
+            "text": "Hotels in Tbilisi",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[30]/a[1]",
+            "text": "Hotels in Baku",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[31]/a[1]",
+            "text": "Hotels in Cairo",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[32]/a[1]",
+            "text": "Hotels in Islamabad",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[33]/a[1]",
+            "text": "Hotels in Muscat",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[34]/a[1]",
+            "text": "Hotels in Mykonos",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[35]/a[1]",
+            "text": "Hotels in Santorini",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[36]/a[1]",
+            "text": "Hotels in Mykonos",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[37]/a[1]",
+            "text": "Hotels in Yerevan",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[38]/a[1]",
+            "text": "Hotels in Zanzibar",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[39]/a[1]",
+            "text": "Hotels in Moscow",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[1]/a[1]",
+            "text": "Paramount Hotel Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[2]/a[1]",
+            "text": "Grand Hyatt Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[3]/a[1]",
+            "text": "Jw Marriott Marquis Hotel Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[4]/a[1]",
+            "text": "Gevora Hotel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[5]/a[1]",
+            "text": "Jumeirah Beach Hotel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[6]/a[1]",
+            "text": "Citymax Hotel Bur Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[7]/a[1]",
+            "text": "Atana Hotel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[8]/a[1]",
+            "text": "Sheraton Grand Hotel Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[9]/a[1]",
+            "text": "Millennium Airport Hotel Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[10]/a[1]",
+            "text": "Media One Hotel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[11]/a[1]",
+            "text": "Grand Excelsior Hotel Bur Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[12]/a[1]",
+            "text": "Ghaya Grand Hotel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[13]/a[1]",
+            "text": "Marco Polo Hotel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[14]/a[1]",
+            "text": "Copthorne Hotel Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[15]/a[1]",
+            "text": "Kempinski Hotel Mall Of The Emirates",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[16]/a[1]",
+            "text": "The Meydan Hotel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[17]/a[1]",
+            "text": "Park Regis Kris Kin Hotel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[18]/a[1]",
+            "text": "Armani Hotel Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[19]/a[1]",
+            "text": "York International Hotel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[20]/a[1]",
+            "text": "Signature 1 Hotel Tecom",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[1]/a[1]",
+            "text": "Indigo",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[2]/a[1]",
+            "text": "Emirates",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[3]/a[1]",
+            "text": "Spicejet",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[4]/a[1]",
+            "text": "Air India",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[5]/a[1]",
+            "text": "Air India Express",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[6]/a[1]",
+            "text": "Vistara",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[7]/a[1]",
+            "text": "Biman Bangladesh",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[8]/a[1]",
+            "text": "Gulf Air",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[9]/a[1]",
+            "text": "Qatar Airways",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[10]/a[1]",
+            "text": "Etihad Airways",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[11]/a[1]",
+            "text": "Flydubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[12]/a[1]",
+            "text": "Kuwait Airways",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[13]/a[1]",
+            "text": "Oman Air",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[14]/a[1]",
+            "text": "Thai Airways",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[15]/a[1]",
+            "text": "Royal Nepal Airlines",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[16]/a[1]",
+            "text": "Turkish Airlines",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[17]/a[1]",
+            "text": "Srilankan Airlines",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[18]/a[1]",
+            "text": "Air Arabia",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[19]/a[1]",
+            "text": "Airblue",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[6]/li[1]/a[1]",
+            "text": "Book Flights From UAE",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[6]/li[2]/a[1]",
+            "text": "Book Hotels From UAE",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[7]/li[1]/a[1]",
+            "text": "Contact Us",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[7]/li[2]/a[1]",
+            "text": "Privacy Policy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[7]/li[3]/a[1]",
+            "text": "Cookie Policy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[7]/li[4]/a[1]",
+            "text": "User Agreement",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[7]/li[5]/a[1]",
+            "text": "Terms of Service",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.instagram.com/makemytrip/?hl=en&open=outside"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[1]/a[2]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://twitter.com/makemytrip?open=outside"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[1]/a[3]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://in.linkedin.com/company/makemytrip.com?open=outside"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[1]/a[4]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.facebook.com/makemytrip/"
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]",
+            "text": "My Trips\nManage your bookings",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]",
+            "text": "Login or Create Account",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/span[1]",
+            "text": "USD\n|\nEnglish",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/span[1]/a[1]/span[1]/span[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/span[1]/a[1]/span[1]/span[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]",
+            "text": "One Way",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]",
+            "text": "Round Trip",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "li",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]",
+            "text": "Multi City",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[4]",
+            "text": "Return\nTap to add a return date for bigger discounts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]",
+            "text": "Return\nTap to add a return date for bigger discounts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "label",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/label[1]",
+            "text": "Return\nTap to add a return date for bigger discounts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]",
+            "text": "Code: MMTINTUS",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "span",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]",
+            "text": "Code: MMTINTLUS",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "book-now-pay-later",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "247-customer-support",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "secured-payments",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "mmt-select",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "zero-cancellation",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "mmt-exclusive",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[2]/span[1]/picture[1]/img[1]",
+            "text": "mmt-exclusive",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "mmt-connect",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "book-now-pay-later",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "247-customer-support",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "secured-payments",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "mmt-select",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "zero-cancellation",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "mmt-exclusive",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[13]/div[1]/div[1]/div[2]/span[1]/picture[1]/img[1]",
+            "text": "mmt-exclusive",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[14]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "mmt-connect",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "book-now-pay-later",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[16]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "247-customer-support",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "img",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+            "text": "secured-payments",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/ul[1]/li[4]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/ul[1]/li[5]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/ul[1]/li[6]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/main[1]/div[4]/div[1]/div[1]/ul[1]/li[7]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": "Established in 2000, MakeMyTrip has since positioned itself as one of the leading companies, providing great offers, competitive airfares, exclusive discounts, and a seamless online booking experience to many of its customers. The experience of booking your flight tickets, hotel stay, and holiday package through our desktop site or mobile app can be done with complete ease and no hassles at all. We also deliver amazing offers, such as Instant Discounts, Fare Calendar, MyRewardsProgram, MyWallet, and many more while updating them from time to time to better suit our customers\u2019 evolving needs and demands.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        },
+        {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/section[1]/article[1]/div[2]/div[1]/div[1]/div[1]",
+            "text": "At MakeMyTrip, you can find the best of deals and cheap air tickets to any place you want by booking your tickets on our website or app. Being India\u2019s leading website for hotel, flight, and holiday bookings, MakeMyTrip helps you book flight tickets that are affordable and customized to your convenience. With customer satisfaction being our ultimate goal, we also have a 24/7 dedicated helpline to cater to our customer\u2019s queries and concerns. Serving over 5 million happy customers, we at MakeMyTrip are glad to fulfill the dreams of folks who need a quick and easy means to find air tickets. You can get a hold of the cheapest flight of your choice today while also enjoying the other available options for your travel needs with us.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
+            "event_listener": "yes"
+        }
+    ]
+}

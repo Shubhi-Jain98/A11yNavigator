@@ -1,0 +1,125 @@
+{
+    "count of actionability issues": 10,
+    "missing paths": [
+        {
+            "IA2UniqueID": -10421,
+            "xpath": "/html/body/div[2]/div/div/div[2]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Fragrantica",
+            "nvda_value": "https://www.fragrantica.com/",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -25271,
+            "xpath": "/html/body/div[2]/div[2]/div/div/span/input",
+            "nvda_role": "COMBOBOX (13)",
+            "nvda_name": "Search perfumes, brands, news...",
+            "nvda_value": null,
+            "nvda_states": [
+                "COLLAPSED (512)",
+                "FOCUSED (2)",
+                "FOCUSABLE (16777216)",
+                "AUTOCOMPLETE (524288)",
+                "EDITABLE (67108864)"
+            ]
+        },
+        {
+            "IA2UniqueID": -27138,
+            "xpath": "/html/body/div[2]/div[2]/div[2]/ul/li[4]/a",
+            "nvda_role": "MENUITEM (11)",
+            "nvda_name": "news",
+            "nvda_value": null,
+            "nvda_states": [
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -37387,
+            "xpath": "/html/body/div[2]/div[2]/div[2]/ul/li[5]/a",
+            "nvda_role": "MENUITEM (11)",
+            "nvda_name": "Perfumes",
+            "nvda_value": null,
+            "nvda_states": [
+                "HASPOPUP (8192)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -41991,
+            "xpath": "/html/body/div[2]/div[2]/div[2]/ul/li[6]/a",
+            "nvda_role": "MENUITEM (11)",
+            "nvda_name": "notes",
+            "nvda_value": null,
+            "nvda_states": [
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -172837,
+            "xpath": "/html/body/div[2]/div[2]/div[4]/div/div/div/div[4]/div[2]/div/div/div[4]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Summer Beach Saint-Tropez We Pink We Pink Summer Beach Saint-Tropez",
+            "nvda_value": "https://www.fragrantica.com/perfume/We-Pink/Summer-Beach-Saint-Tropez-106200.html",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -196098,
+            "xpath": "/html/body/div[2]/div[2]/div[4]/div/div/div/div[6]/div/div[2]/h3/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Guerlain's Aqua Allegoria Rosa Verde",
+            "nvda_value": "https://www.fragrantica.com/news/Guerlain-s-Aqua-Allegoria-Rosa-Verde-22569.html",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -510269,
+            "xpath": "/html/body/div[2]/div[2]/div[4]/div[4]/div/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Art Books Events",
+            "nvda_value": "https://www.fragrantica.com/news/Art-Books-Events/",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -820764,
+            "xpath": "/html/body/div[2]/div[2]/div[4]/div[7]/div/div/span[2]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Khamrah Lattafa Perfumes",
+            "nvda_value": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khamrah-75805.html",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -1645146,
+            "xpath": "/html/body/div[2]/div[2]/div[4]/div[12]/p/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Deutsch",
+            "nvda_value": "https://www.fragrantica.de/",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

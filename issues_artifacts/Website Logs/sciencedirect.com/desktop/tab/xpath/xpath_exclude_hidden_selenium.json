@@ -1,0 +1,651 @@
+{
+    "count by default selenium driver": 168,
+    "total_count based on actionable selectors": 129,
+    "actionableElements": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/a[1]",
+            "text": "Skip to main content"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "The UC Irvine Libraries"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+            "text": "Journals & Books"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[2]/ul[1]/li[1]/div[1]/div[1]/div[1]/button[1]",
+            "text": "Help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[2]/a[1]",
+            "text": "My account"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[3]/div[1]/div[1]/button[1]",
+            "text": "University of California Irvine"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "open access"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]/div[1]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/div[1]/input[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[2]/button[1]",
+            "text": "Search"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[2]/a[1]",
+            "text": "Advanced search"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Explore stories"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/ul[1]/li[1]/button[1]",
+            "text": "Confidence in research"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/ul[1]/li[2]/button[1]",
+            "text": "Climate change"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/ul[1]/li[3]/button[1]",
+            "text": "The Lancet 200"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Physical Sciences and Engineering"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]",
+            "text": "Life Sciences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
+            "text": "Health Sciences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]",
+            "text": "Social Sciences and Humanities"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Chemical Engineering"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Chemistry"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Computer Science"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Earth and Planetary Sciences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Energy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "Engineering"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[7]/a[1]",
+            "text": "Materials Science"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[8]/a[1]",
+            "text": "Mathematics"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[9]/a[1]",
+            "text": "Physics and Astronomy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Browse all titles in Physical Sciences and Engineering"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Nicotinamide mononucleotide (NMN) as an anti-aging health product \u2013 Promises and safety concerns"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Cats are (almost) liquid!\u2014Cats selectively rely on body size awareness when negotiating short openings"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Understanding the role of digital technologies in education: A review"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Applied Catalysis B: Environment and Energy"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "International Journal of Heat and Mass Transfer"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Analytica Chimica Acta"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "Register now to receive recommended articles based on your activity"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Agricultural and Biological Sciences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Biochemistry, Genetics and Molecular Biology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Environmental Science"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Immunology and Microbiology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Neuroscience"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Browse all titles in Life Sciences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Sleep during development: Sex and gender differences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Female Penis, Male Vagina, and Their Correlated Evolution in a Cave Insect"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Sex composition and son preference in India and major states: Evidence from the National Family Health Survey-4 (2015-16)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "International Journal of Food Microbiology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Ocean Engineering"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Brain Research"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "Register now to receive recommended articles based on your activity"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Medicine and Dentistry"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Nursing and Health Professions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Pharmacology, Toxicology and Pharmaceutical Science"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Veterinary Science and Veterinary Medicine"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Browse all titles in Health Sciences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Sleep during development: Sex and gender differences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Pr\u00e1cticas sexuales de chicos y chicas espa\u00f1oles de 14-24 a\u00f1os de edad"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Assessment of the potential for international dissemination of Ebola virus via commercial air travel during the 2014 west African outb\u2026"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Journal of Electromyography and Kinesiology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "International Journal of Pharmaceutics"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Cardiovascular Pathology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "Register now to receive recommended articles based on your activity"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Arts and Humanities"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Business, Management and Accounting"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Decision Sciences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Economics, Econometrics and Finance"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Psychology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "Social Sciences"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Browse all titles in Social Sciences and Humanities"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Literature review as a research methodology: An overview and guidelines"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Pr\u00e1cticas sexuales de chicos y chicas espa\u00f1oles de 14-24 a\u00f1os de edad"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Understanding the role of digital technologies in education: A review"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Journal of Clinical Epidemiology"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Expert Systems with Applications"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "International Journal of Industrial Ergonomics"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "Register now to receive recommended articles based on your activity"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "A"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "B"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "C"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "D"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "E"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "F"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[7]/a[1]",
+            "text": "G"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[8]/a[1]",
+            "text": "H"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[9]/a[1]",
+            "text": "I"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[10]/a[1]",
+            "text": "J"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[11]/a[1]",
+            "text": "K"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[12]/a[1]",
+            "text": "L"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[13]/a[1]",
+            "text": "M"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[14]/a[1]",
+            "text": "N"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[15]/a[1]",
+            "text": "O"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[16]/a[1]",
+            "text": "P"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[17]/a[1]",
+            "text": "Q"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[18]/a[1]",
+            "text": "R"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[19]/a[1]",
+            "text": "S"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[20]/a[1]",
+            "text": "T"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[21]/a[1]",
+            "text": "U"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[22]/a[1]",
+            "text": "V"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[23]/a[1]",
+            "text": "W"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[24]/a[1]",
+            "text": "X"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[25]/a[1]",
+            "text": "Y"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[26]/a[1]",
+            "text": "Z"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[27]/a[1]",
+            "text": "0-9"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "list of full open access journals and books"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "publications with open access articles (includes hybrid journals)"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Elsevier\u2019s open access publishing choices"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Help"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Online video tutorials"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Privacy principles"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Accessibility"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Content syndication on ScienceDirect"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Create and manage alerts"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Receive personalized recommendations"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Browse by topic"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "Elsevier Connect"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Publish with Elsevier"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Scopus"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Mendeley"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[1]/a[1]",
+            "text": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "About ScienceDirect"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Remote access"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Shopping cart"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Advertise"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Contact and support"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Terms and conditions"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "Privacy policy"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/p[1]/button[1]",
+            "text": "Cookie settings | Your Privacy Choices"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[3]/a[1]",
+            "text": ""
+        }
+    ]
+}

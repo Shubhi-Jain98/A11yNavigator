@@ -1,0 +1,15 @@
+#pendo-g-CusSUzoR5nYpzVaymVmEcOHpiFw {
+  /* @version 1.0.0 AI Onboarding Template, no polls! (CSS) */
+}
+#pendo-g-CusSUzoR5nYpzVaymVmEcOHpiFw #pendo-guide-container:focus {
+  outline: 2px solid transparent !important;
+}
+#pendo-g-CusSUzoR5nYpzVaymVmEcOHpiFw #pendo-guide-container :focus {
+  outline: 2px solid #eb6500 !important;
+  outline-offset: 2px !important;
+}
+#pendo-g-CusSUzoR5nYpzVaymVmEcOHpiFw #pendo-guide-container input,
+#pendo-g-CusSUzoR5nYpzVaymVmEcOHpiFw select,
+#pendo-g-CusSUzoR5nYpzVaymVmEcOHpiFw button {
+  font: inherit;
+}

@@ -1,0 +1,41 @@
+{
+    "count of missing paths": 4,
+    "missing paths": [
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/button[1]",
+            "text": "close",
+            "aria-label": "close",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/button[2]",
+            "text": "Install",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/div[4]/div[1]/div[1]/form[1]/fieldset[1]/div[8]/div[1]/label[1]/div[1]/div[2]/span[1]/a[1]",
+            "text": "FORMULA 1 AWS GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.formula1.com/en/racing/2025/emiliaromagna"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/div[4]/div[1]/div[1]/form[1]/fieldset[1]/div[8]/div[1]/label[1]/div[1]/div[4]/div[1]/div[1]/button[1]",
+            "text": "TRACK TIME\n09:57",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        }
+    ]
+}

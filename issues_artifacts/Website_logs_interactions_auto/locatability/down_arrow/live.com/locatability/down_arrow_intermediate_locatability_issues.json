@@ -1,0 +1,95 @@
+{
+    "count of missing paths": 10,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[8]/div[2]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "tabs-ocbb5d_tab0-tab",
+            "placeholder": null,
+            "href": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#tabs-ocbb5d_tab0"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[8]/div[2]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]",
+            "text": "",
+            "aria-label": "",
+            "id": "tabs-ocbb5d_tab1-tab",
+            "placeholder": null,
+            "href": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#tabs-ocbb5d_tab1"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[8]/div[2]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[3]",
+            "text": "",
+            "aria-label": "",
+            "id": "tabs-ocbb5d_tab2-tab",
+            "placeholder": null,
+            "href": "https://www.microsoft.com/en-gb/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0#tabs-ocbb5d_tab2"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[8]/div[2]/div[13]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/button[1]",
+            "text": "How do I create an Outlook.com account?",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[8]/div[2]/div[13]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/button[1]",
+            "text": "I have a Hotmail.com, Live.com, or MSN.com email account. Is that the same as Outlook?",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[8]/div[2]/div[13]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/button[1]",
+            "text": "I don\u2019t have an Outlook.com account. Can I still use Outlook apps?",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[8]/div[2]/div[13]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[1]/button[1]",
+            "text": "How does mailbox storage / Microsoft storage work for Outlook?",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[8]/div[2]/div[13]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[1]/button[1]",
+            "text": "Why do I see ads in my Outlook inbox?",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[8]/div[2]/div[13]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/button[1]",
+            "text": "What do I get for Outlook with a Microsoft 365 subscription?",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[8]/div[2]/div[13]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/div[1]/div[1]/button[1]",
+            "text": "If I have a personal Office (one-time) license, will I be able to access desktop apps and have an ad-free Outlook experience?",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        }
+    ]
+}

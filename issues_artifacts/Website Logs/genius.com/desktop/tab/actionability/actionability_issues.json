@@ -1,0 +1,17 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "IA2UniqueID": -502044,
+            "xpath": "/html/body/div/div/footer/div/div[2]/a[5]",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Advertise",
+            "nvda_value": "mailto:inquiry@genius.com",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

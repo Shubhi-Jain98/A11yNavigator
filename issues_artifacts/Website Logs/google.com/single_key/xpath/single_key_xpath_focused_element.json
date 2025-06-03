@@ -1,0 +1,250 @@
+[
+    {
+        "IA2UniqueID": -580,
+        "nvda_name": "Gmail ",
+        "nvda_value": "https://mail.google.com/mail/&ogbl",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div/div/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -580,
+        "nvda_name": "Gmail ",
+        "nvda_value": "https://mail.google.com/mail/&ogbl",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div/div/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -582,
+        "nvda_name": "Search for Images ",
+        "nvda_value": "https://www.google.com/imghp?hl=en&ogbl",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -586,
+        "nvda_name": "Sign in",
+        "nvda_value": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -624,
+        "nvda_name": "Advertising",
+        "nvda_value": "https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -625,
+        "nvda_name": "Business",
+        "nvda_value": "https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div/a[3]"
+    },
+    {
+        "IA2UniqueID": -626,
+        "nvda_name": "How Search works",
+        "nvda_value": "https://google.com/search/howsearchworks/?fg=1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -628,
+        "nvda_name": "Our third decade of climate action: join us",
+        "nvda_value": "https://sustainability.google/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -630,
+        "nvda_name": "Privacy",
+        "nvda_value": "https://policies.google.com/privacy?hl=en&fg=1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div[3]/a[2]"
+    },
+    {
+        "IA2UniqueID": -580,
+        "nvda_name": "Gmail ",
+        "nvda_value": "https://mail.google.com/mail/&ogbl",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -573,
+        "nvda_name": "Store",
+        "nvda_value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/a"
+    },
+    {
+        "IA2UniqueID": -572,
+        "nvda_name": "About",
+        "nvda_value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div/div/div/div[2]/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -584,
+        "nvda_name": "Google apps",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div/div/div[3]/div[2]"
+    },
+    {
+        "IA2UniqueID": -603,
+        "nvda_name": "Search by voice",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div/div/div[3]/div[3]"
+    },
+    {
+        "IA2UniqueID": -605,
+        "nvda_name": "Search by image",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div[3]/center/input"
+    },
+    {
+        "IA2UniqueID": -610,
+        "nvda_name": "Google Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div[3]/center/div"
+    },
+    {
+        "IA2UniqueID": -5563,
+        "nvda_name": "I'm Feeling Doodley",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div[3]/span/span/g-popup/div"
+    },
+    {
+        "IA2UniqueID": -584,
+        "nvda_name": "Google apps",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div/div/div[2]/textarea"
+    },
+    {
+        "IA2UniqueID": -560,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "AUTOCOMPLETE (524288)",
+            "MULTILINE (1048576)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div[2]/div[4]/div[6]/center/input"
+    },
+    {
+        "IA2UniqueID": -5773,
+        "nvda_name": "Google Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div[2]/div[4]/div[6]/center/input[2]"
+    },
+    {
+        "IA2UniqueID": -5774,
+        "nvda_name": "I'm Feeling Lucky",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div[2]/div[5]/div"
+    },
+    {
+        "IA2UniqueID": -610,
+        "nvda_name": "Google Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div[3]/center/input[2]"
+    },
+    {
+        "IA2UniqueID": -603,
+        "nvda_name": "Search by voice",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div/div/div[3]/div/div"
+    }
+]

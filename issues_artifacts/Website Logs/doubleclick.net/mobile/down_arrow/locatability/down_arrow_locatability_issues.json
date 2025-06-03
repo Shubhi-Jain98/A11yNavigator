@@ -1,0 +1,41 @@
+{
+    "count of missing paths": 4,
+    "missing paths": [
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/div[2]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/div[2]/button[1]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/div[2]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/div[2]/button[1]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        }
+    ]
+}

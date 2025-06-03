@@ -1,0 +1,1659 @@
+[
+    {
+        "IA2UniqueID": -35652,
+        "nvda_name": "IRCTC Next Generation eTicketing System",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -36187,
+        "nvda_name": "Click here to Login in application",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a[3]",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -36190,
+        "nvda_name": "Click here for Agents Login",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a[4]",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -35803,
+        "nvda_name": "Click here to open contact us popup",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a[5]",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -35804,
+        "nvda_name": "Click here to open contact us popup",
+        "nvda_value": "https://equery.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a[6]",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -35805,
+        "nvda_name": "Click here to open Daily Deals",
+        "nvda_value": "https://www.amazon.in/deals?&linkCode=ll2&tag=irctcdev07-21&linkId=6e8e3d8f31513cf92e862073d65fefae&language=en_IN&ref_=as_li_ss_tl&_encoding=UTF8&tag=irctcdev07-21&linkCode=ur2&linkId=41c3b8fb1ad95d37bf6d1ce4f06d8dc1&camp=3638&creative=24630",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a[7]",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -35807,
+        "nvda_name": "Click here for Alerts",
+        "nvda_value": "https://www.irctc.co.in/nget/enquiry/alerts",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a[8]",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -35810,
+        "nvda_name": "decrease font size",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a[10]",
+        "key_interactions": 7
+    },
+    {
+        "IA2UniqueID": -35815,
+        "nvda_name": "increase font size",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a[11]",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -36192,
+        "nvda_name": "Click here to set Hindi language",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[2]/a",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -35822,
+        "nvda_name": "Menu I.R.C.T.C. exclusive",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[2]/ul/li/a",
+        "key_interactions": 10
+    },
+    {
+        "IA2UniqueID": -42029,
+        "nvda_name": "Sub Menu of I.R.C.T.C. Exclusive, IRCTC IPAY pdf will be opened in new tab",
+        "nvda_value": "http://contents.irctc.co.in/en/irctc_ipay_english.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/a",
+        "key_interactions": 11
+    },
+    {
+        "IA2UniqueID": -35824,
+        "nvda_name": "Menu Train",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li/a",
+        "key_interactions": 12
+    },
+    {
+        "IA2UniqueID": -42532,
+        "nvda_name": "Sub Menu of Train, Book ticket",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[3]/a",
+        "key_interactions": 13
+    },
+    {
+        "IA2UniqueID": -42536,
+        "nvda_name": "Sub Menu of Train, CONNECTING JOURNEY Booking",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[4]/a",
+        "key_interactions": 14
+    },
+    {
+        "IA2UniqueID": -42521,
+        "nvda_name": "Sub Menu of Train, IRCTC TRAINS. Having sub menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[4]/ul/li[2]/a",
+        "key_interactions": 15
+    },
+    {
+        "IA2UniqueID": -43289,
+        "nvda_name": "Sub Menu of IRCTC TRAINS, Travel Insurance Claim Process",
+        "nvda_value": "http://contents.irctc.co.in/en/Travel_Insurance_Claim_Process_for_IRCTC_TejasExp.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[5]/a",
+        "key_interactions": 16
+    },
+    {
+        "IA2UniqueID": -42524,
+        "nvda_name": "Sub Menu of Train, Cancel ticket. Having sub menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[5]/ul/li[2]/a",
+        "key_interactions": 17
+    },
+    {
+        "IA2UniqueID": -43768,
+        "nvda_name": "Sub Menu of cancel ticket, Counter ticket cancellation",
+        "nvda_value": "https://www.operations.irctc.co.in/ctcan/SystemTktCanLogin.jsf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[6]/a",
+        "key_interactions": 18
+    },
+    {
+        "IA2UniqueID": -42538,
+        "nvda_name": "Sub Menu of Train, PNR enquiry",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[7]/a",
+        "key_interactions": 19
+    },
+    {
+        "IA2UniqueID": -42540,
+        "nvda_name": "Sub Menu of Train, Check Train Schedule",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[8]/a",
+        "key_interactions": 20
+    },
+    {
+        "IA2UniqueID": -42527,
+        "nvda_name": "Sub Menu of Train, track Your train. Website will be opened in new tab",
+        "nvda_value": "https://enquiry.indianrail.gov.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[9]/a",
+        "key_interactions": 21
+    },
+    {
+        "IA2UniqueID": -42529,
+        "nvda_name": "Sub Menu of Train, FTR Coach or Train Booking. Website will be opened in new tab",
+        "nvda_value": "https://www.ftr.irctc.co.in/ftr/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[4]/ul/li/a",
+        "key_interactions": 22
+    },
+    {
+        "IA2UniqueID": -44953,
+        "nvda_name": "About IRCTC Loyalty program",
+        "nvda_value": "https://contents.irctc.co.in/en/AboutLoyalty.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[5]/a",
+        "key_interactions": 23
+    },
+    {
+        "IA2UniqueID": -36198,
+        "nvda_name": "I.R.C.T.C. e.Wallet",
+        "nvda_value": "https://www.irctc.co.in/nget/#",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[5]/ul/li[2]/a",
+        "key_interactions": 24
+    },
+    {
+        "IA2UniqueID": -45450,
+        "nvda_name": "Sub Menu of I.R.C.T.C. e.Wallet, I.R.C.T.C. e.Wallet user guide. Website will be opened in new tab",
+        "nvda_value": "http://contents.irctc.co.in/en/EwalletUserGuide.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[6]/a",
+        "key_interactions": 25
+    },
+    {
+        "IA2UniqueID": -35827,
+        "nvda_name": "Menu BUSES. Website will be opened in new tab",
+        "nvda_value": "https://www.bus.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[8]/a",
+        "key_interactions": 26
+    },
+    {
+        "IA2UniqueID": -35831,
+        "nvda_name": "Menu Hotels. Website will be opened in new tab",
+        "nvda_value": "https://www.hotels.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/ul/li/a",
+        "key_interactions": 27
+    },
+    {
+        "IA2UniqueID": -46168,
+        "nvda_name": "Sub Menu of Holiday, Tourist Trains. Having sub menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/ul/li/ul/li[2]/a",
+        "key_interactions": 28
+    },
+    {
+        "IA2UniqueID": -46422,
+        "nvda_name": "Sub Menu of Tourist Trains, Maharaja's Express. Website will be opened in new tab",
+        "nvda_value": "https://www.the-maharajas.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/ul/li/ul/li[3]/a",
+        "key_interactions": 29
+    },
+    {
+        "IA2UniqueID": -46424,
+        "nvda_name": "Sub Menu of Tourist Trains, Golden Chariot. Website will be opened in new tab",
+        "nvda_value": "https://www.goldenchariot.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/ul/li[2]/a",
+        "key_interactions": 30
+    },
+    {
+        "IA2UniqueID": -46171,
+        "nvda_name": "Sub Menu of Holiday, Tour Packages. Having sub menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/ul/li[2]/ul/li/a",
+        "key_interactions": 31
+    },
+    {
+        "IA2UniqueID": -47145,
+        "nvda_name": "Sub Menu of Tour Packages, Domestic Packages. Website will be opened in new tab",
+        "nvda_value": "https://www.irctctourism.com/tourpacakage_search?searchKey=&tagType=&travelType=Domestic&sector=All",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/ul/li[3]/a",
+        "key_interactions": 32
+    },
+    {
+        "IA2UniqueID": -46174,
+        "nvda_name": "Sub Menu of Holiday, Stays. Having sub menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/ul/li[3]/ul/li/a",
+        "key_interactions": 33
+    },
+    {
+        "IA2UniqueID": -47628,
+        "nvda_name": "Sub Menu of Stays, Retiring Room. Website will be opened in new tab",
+        "nvda_value": "https://www.rr.irctc.co.in/#/accommodation/in/ACBooklogin",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/ul/li[3]/ul/li[2]/a",
+        "key_interactions": 34
+    },
+    {
+        "IA2UniqueID": -47630,
+        "nvda_name": "Sub Menu of Stays, Lounge. Website will be opened in new tab",
+        "nvda_value": "https://www.irctctourism.com/accommodation",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[10]/ul/li[2]/a",
+        "key_interactions": 35
+    },
+    {
+        "IA2UniqueID": -48108,
+        "nvda_name": "E-catering opens a new window",
+        "nvda_value": "https://www.ecatering.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[10]/ul/li[3]/a",
+        "key_interactions": 36
+    },
+    {
+        "IA2UniqueID": -48110,
+        "nvda_name": "E-catering opens a new window",
+        "nvda_value": "http://menurates.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[3]/a",
+        "key_interactions": 37
+    },
+    {
+        "IA2UniqueID": -48609,
+        "nvda_name": "Sub Menu of PROMOTIONS, I.R.C.T.C. Tourism App. Website will be opened in new tab",
+        "nvda_value": "https://play.google.com/store/apps/details?id=com.irctc.tourism_new",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[4]/a",
+        "key_interactions": 38
+    },
+    {
+        "IA2UniqueID": -48611,
+        "nvda_name": "Sub Menu of PROMOTIONS, I.R.C.T.C. Air App. Website will be opened in new tab",
+        "nvda_value": "https://play.google.com/store/apps/details?id=com.irctc.air&hl=en",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[5]/a",
+        "key_interactions": 39
+    },
+    {
+        "IA2UniqueID": -48613,
+        "nvda_name": "Sub Menu of PROMOTIONS, National Rail Museum. Website will be opened in new tab",
+        "nvda_value": "https://www.nrmindia.org/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[6]/a",
+        "key_interactions": 40
+    },
+    {
+        "IA2UniqueID": -48615,
+        "nvda_name": "Sub Menu of PROMOTIONS, U.T.S. Ticket App. Website will be opened in new tab",
+        "nvda_value": "https://play.google.com/store/apps/details?id=com.cris.utsmobile&hl=en",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[7]/a",
+        "key_interactions": 41
+    },
+    {
+        "IA2UniqueID": -48617,
+        "nvda_name": "Sub Menu of PROMOTIONS, I.R.C.T.C. Cobranded Credit Card. has sub menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[7]/ul/li/a",
+        "key_interactions": 42
+    },
+    {
+        "IA2UniqueID": -49972,
+        "nvda_name": "Sub Menu of I.R.C.T.C. Cobranded Credit Card, I.R.C.T.C. S.B.I. Card e-apply. Website will be opened in new tab",
+        "nvda_value": "https://contents.irctc.co.in/en/AboutSBICobrandCard.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[8]/a",
+        "key_interactions": 43
+    },
+    {
+        "IA2UniqueID": -48620,
+        "nvda_name": "Sub Menu of PROMOTIONS, Trains At A Glance. Website will be opened in new tab",
+        "nvda_value": "https://www.irctctourism.com/gallery/tag.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[9]/a",
+        "key_interactions": 44
+    },
+    {
+        "IA2UniqueID": -48622,
+        "nvda_name": "Sub Menu of PROMOTIONS, National Voter's Service Portal. Website will be opened in new tab",
+        "nvda_value": "http://www.nvsp.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[10]/a",
+        "key_interactions": 45
+    },
+    {
+        "IA2UniqueID": -48624,
+        "nvda_name": "Sub Menu of PROMOTIONS, Rail Drishti. Website will be opened in new tab",
+        "nvda_value": "https://raildrishti.indianrailways.gov.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[12]/a",
+        "key_interactions": 46
+    },
+    {
+        "IA2UniqueID": -48628,
+        "nvda_name": "Sub Menu of PROMOTIONS, Railways Freight Business Portal. Website will be opened in new tab",
+        "nvda_value": "https://www.fois.indianrail.gov.in/RailSAHAY/index.jsp",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[12]/ul/li/a",
+        "key_interactions": 47
+    },
+    {
+        "IA2UniqueID": -51333,
+        "nvda_name": "Sub Menu of More, About ChatBot as a Service. Website will be opened in new tab",
+        "nvda_value": "https://corover.ai/irctc/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[12]/ul/li[2]/a",
+        "key_interactions": 48
+    },
+    {
+        "IA2UniqueID": -51335,
+        "nvda_name": "Sub Menu of More, Link Your Aadhaar. Website will be opened in new tab",
+        "nvda_value": "http://contents.irctc.co.in/en/BookUpto12ticketsinamonthbylinkingAadhaar.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[12]/ul/li[4]/a",
+        "key_interactions": 49
+    },
+    {
+        "IA2UniqueID": -51339,
+        "nvda_name": "Sub Menu of More, Counter Ticket Boarding Point Change. Website will be opened in new tab",
+        "nvda_value": "https://www.operations.irctc.co.in/ctcan/SystemTktCanLogin.jsf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[12]/ul/li[5]/a",
+        "key_interactions": 50
+    },
+    {
+        "IA2UniqueID": -51341,
+        "nvda_name": "Sub Menu of More, Forgot Password.",
+        "nvda_value": "https://www.irctc.co.in/nget/#",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/div/div/a",
+        "key_interactions": 51
+    },
+    {
+        "IA2UniqueID": -35984,
+        "nvda_name": "PNR Status opens a new window",
+        "nvda_value": "http://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html?locale=en",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[2]/div/div/p-autocomplete/span/input",
+        "key_interactions": 52
+    },
+    {
+        "IA2UniqueID": -36178,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[2]/div/div/a",
+        "key_interactions": 53
+    },
+    {
+        "IA2UniqueID": -36123,
+        "nvda_name": "Sweep from and to station.",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[2]/div/div[2]/p-autocomplete/span/input",
+        "key_interactions": 54
+    },
+    {
+        "IA2UniqueID": -36180,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[2]/div[2]/div/p-calendar/span/input",
+        "key_interactions": 55
+    },
+    {
+        "IA2UniqueID": -36182,
+        "nvda_name": "None",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[2]/div[2]/div/p-calendar/span/div/div/div/a",
+        "key_interactions": 56
+    },
+    {
+        "IA2UniqueID": -53359,
+        "nvda_name": "\ue900",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[2]/div[2]/div/p-calendar/span/div/div/div/a[2]",
+        "key_interactions": 57
+    },
+    {
+        "IA2UniqueID": -53361,
+        "nvda_name": "\ue901",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[2]/div[2]/div/p-calendar/span/div/div/div[2]/table/tbody/tr[2]/td[2]/a",
+        "key_interactions": 58
+    },
+    {
+        "IA2UniqueID": -53359,
+        "nvda_name": "\ue900",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[3]/div/div/p-dropdown/div/div/input",
+        "key_interactions": 60
+    },
+    {
+        "IA2UniqueID": -36165,
+        "nvda_name": "GENERAL",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "OFFSCREEN (4194304)",
+            "FOCUSED (2)",
+            "HASPOPUP_LIST (562949953421312)",
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[4]/div/span/input",
+        "key_interactions": 60
+    },
+    {
+        "IA2UniqueID": -36174,
+        "nvda_name": "Check for DIVYAANG Concession Booking.",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "CHECKABLE (134217728)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[4]/div/span[3]/input",
+        "key_interactions": 61
+    },
+    {
+        "IA2UniqueID": -36150,
+        "nvda_name": "Check for Available Vacant Berth",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "CHECKABLE (134217728)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[4]/div/span[4]/input",
+        "key_interactions": 62
+    },
+    {
+        "IA2UniqueID": -36176,
+        "nvda_name": "Check for pass Booking",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "CHECKABLE (134217728)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[5]/div[2]/button",
+        "key_interactions": 63
+    },
+    {
+        "IA2UniqueID": -36156,
+        "nvda_name": "Easy Booking on AskDISHA",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/div[3]/p/font/b/a",
+        "key_interactions": 64
+    },
+    {
+        "IA2UniqueID": -36232,
+        "nvda_name": " https://equery.irctc.co.in",
+        "nvda_value": "https://equery.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[9]/div/ul/li/a",
+        "key_interactions": 65
+    },
+    {
+        "IA2UniqueID": -36009,
+        "nvda_name": "Flight opens a new window",
+        "nvda_value": "https://www.air.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[9]/div/ul/li[2]/a",
+        "key_interactions": 66
+    },
+    {
+        "IA2UniqueID": -36013,
+        "nvda_name": "HOTELS",
+        "nvda_value": "https://www.hotels.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[9]/div/ul/li[3]/a",
+        "key_interactions": 67
+    },
+    {
+        "IA2UniqueID": -36017,
+        "nvda_name": "\uf201 RAIL DRISHTI",
+        "nvda_value": "https://raildrishti.indianrailways.gov.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[9]/div/ul/li[4]/a",
+        "key_interactions": 68
+    },
+    {
+        "IA2UniqueID": -36021,
+        "nvda_name": "E-CATERING",
+        "nvda_value": "https://www.ecatering.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[9]/div/ul/li[6]/a",
+        "key_interactions": 69
+    },
+    {
+        "IA2UniqueID": -36030,
+        "nvda_name": "HOLIDAY PACKAGES",
+        "nvda_value": "https://www.irctctourism.com/tourpacakage_search?searchKey=&tagType=&travelType=&category=",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[9]/div/ul/li[7]/a",
+        "key_interactions": 70
+    },
+    {
+        "IA2UniqueID": -36034,
+        "nvda_name": "TOURIST TRAIN",
+        "nvda_value": "https://www.irctctourism.com/bharatgaurav",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[9]/div/ul/li[8]/a",
+        "key_interactions": 71
+    },
+    {
+        "IA2UniqueID": -36038,
+        "nvda_name": "HILL RAILWAYS",
+        "nvda_value": "https://www.irctctourism.com/gallery/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[9]/div/ul/li[9]/a",
+        "key_interactions": 72
+    },
+    {
+        "IA2UniqueID": -36042,
+        "nvda_name": "CHARTER TRAIN",
+        "nvda_value": "https://www.ftr.irctc.co.in/ftr/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[12]/div/div[4]/div/div/div[2]/a",
+        "key_interactions": 74
+    },
+    {
+        "IA2UniqueID": -36062,
+        "nvda_name": "More info about Maharaja's Express",
+        "nvda_value": "http://www.the-maharajas.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[12]/div/div[4]/div[2]/div/div[2]/a",
+        "key_interactions": 74
+    },
+    {
+        "IA2UniqueID": -36073,
+        "nvda_name": "Read More \uf061",
+        "nvda_value": "https://www.irctctourism.com/#/tourpacakage_search?searchKey=&tagType=&travelType=International&sector=All",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[12]/div/div[4]/div[4]/div/div[2]/a",
+        "key_interactions": 75
+    },
+    {
+        "IA2UniqueID": -36095,
+        "nvda_name": "Read More \uf061",
+        "nvda_value": "https://www.irctctourism.com/bharatgaurav",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[12]/div/div[4]/div[5]/div/div[2]/a",
+        "key_interactions": 76
+    },
+    {
+        "IA2UniqueID": -36105,
+        "nvda_name": "Read More \uf061",
+        "nvda_value": "https://www.irctctourism.com/#/tourpkgs",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[2]/span[2]/a[2]",
+        "key_interactions": 77
+    },
+    {
+        "IA2UniqueID": -35889,
+        "nvda_name": "I.R.C.T.C. Official whatsapp page. opens a new windows",
+        "nvda_value": "https://whatsapp.com/channel/0029Va4wpCW84OmKdPNQi41P",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[2]/span[2]/a[3]",
+        "key_interactions": 78
+    },
+    {
+        "IA2UniqueID": -35892,
+        "nvda_name": "I.R.C.T.C. Official youtube page. opens a new windows",
+        "nvda_value": "https://youtube.com/c/IRCTCOFFICIAL",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[2]/span[2]/a[4]",
+        "key_interactions": 79
+    },
+    {
+        "IA2UniqueID": -35894,
+        "nvda_name": "I.R.C.T.C. Official facebook page. opens a new windows",
+        "nvda_value": "https://instagram.com/irctc.official?igshid=yyg5byow704l",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[2]/span[2]/a[5]",
+        "key_interactions": 80
+    },
+    {
+        "IA2UniqueID": -35896,
+        "nvda_name": "I.R.C.T.C. Official linkedin page. opens a new windows",
+        "nvda_value": "https://www.linkedin.com/company/irctcofficial",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[2]/span[2]/a[6]",
+        "key_interactions": 81
+    },
+    {
+        "IA2UniqueID": -35898,
+        "nvda_name": "I.R.C.T.C. Official telegram page. opens a new windows",
+        "nvda_value": "https://t.me/IRCTC_Official",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[2]/span[2]/a[7]",
+        "key_interactions": 82
+    },
+    {
+        "IA2UniqueID": -35900,
+        "nvda_name": "I.R.C.T.C. Official pinterest page. opens a new windows",
+        "nvda_value": "https://in.pinterest.com/irctcofficial/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[2]/span[2]/a[8]",
+        "key_interactions": 83
+    },
+    {
+        "IA2UniqueID": -35902,
+        "nvda_name": "I.R.C.T.C. Official tumblr page. opens a new windows",
+        "nvda_value": "https://irctcofficial.tumblr.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[2]/span[2]/a[9]",
+        "key_interactions": 84
+    },
+    {
+        "IA2UniqueID": -35904,
+        "nvda_name": "I.R.C.T.C. Official Koo page. opens a new windows",
+        "nvda_value": "https://www.kooapp.com/profile/irctcofficial",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[2]/span[2]/a[10]",
+        "key_interactions": 85
+    },
+    {
+        "IA2UniqueID": -35907,
+        "nvda_name": "I.R.C.T.C. Official twitter page. opens a new windows",
+        "nvda_value": "https://twitter.com/IRCTCofficial",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div/div/button",
+        "key_interactions": 86
+    },
+    {
+        "IA2UniqueID": -35915,
+        "nvda_name": "IRCTC Trains \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div/div/button[2]",
+        "key_interactions": 87
+    },
+    {
+        "IA2UniqueID": -35917,
+        "nvda_name": "General Information \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div/div/button[3]",
+        "key_interactions": 88
+    },
+    {
+        "IA2UniqueID": -1502,
+        "nvda_name": "Important Information \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div/div/button[4]",
+        "key_interactions": 88
+    },
+    {
+        "IA2UniqueID": -35921,
+        "nvda_name": "Agents \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div/div/button[5]",
+        "key_interactions": 89
+    },
+    {
+        "IA2UniqueID": -35923,
+        "nvda_name": "Enquiries \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[2]/div/button",
+        "key_interactions": 90
+    },
+    {
+        "IA2UniqueID": -35926,
+        "nvda_name": "How To \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[2]/div/button[2]",
+        "key_interactions": 91
+    },
+    {
+        "IA2UniqueID": -1515,
+        "nvda_name": "IRCTC Official App \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[2]/div/button[3]",
+        "key_interactions": 91
+    },
+    {
+        "IA2UniqueID": -35930,
+        "nvda_name": "Advertise with us \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[2]/div/button[4]",
+        "key_interactions": 92
+    },
+    {
+        "IA2UniqueID": -35931,
+        "nvda_name": "Refund Rules \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[2]/div/button[5]",
+        "key_interactions": 93
+    },
+    {
+        "IA2UniqueID": -35933,
+        "nvda_name": "Person With Disability Facilities \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[3]/div/button",
+        "key_interactions": 94
+    },
+    {
+        "IA2UniqueID": -35936,
+        "nvda_name": "IRCTC eWallet \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[3]/div/button[2]",
+        "key_interactions": 95
+    },
+    {
+        "IA2UniqueID": -35938,
+        "nvda_name": "Avail Loyalty Benefits \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[3]/div/button[3]",
+        "key_interactions": 96
+    },
+    {
+        "IA2UniqueID": -35940,
+        "nvda_name": "IRCTC-iPAY Payment Gateway \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[3]/div/button[4]",
+        "key_interactions": 97
+    },
+    {
+        "IA2UniqueID": -35942,
+        "nvda_name": "IRCTC Zone \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[3]/div/button[5]",
+        "key_interactions": 98
+    },
+    {
+        "IA2UniqueID": -35944,
+        "nvda_name": "DMRC Ticket Booking at IRCTC \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[4]/div/span/button",
+        "key_interactions": 99
+    },
+    {
+        "IA2UniqueID": -35947,
+        "nvda_name": "For Newly Migrated Agents \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[4]/div/button",
+        "key_interactions": 100
+    },
+    {
+        "IA2UniqueID": -35949,
+        "nvda_name": "Mobile Zone \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[4]/div/button[2]",
+        "key_interactions": 101
+    },
+    {
+        "IA2UniqueID": -35951,
+        "nvda_name": "Policies \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[4]/div/button[3]",
+        "key_interactions": 102
+    },
+    {
+        "IA2UniqueID": -35953,
+        "nvda_name": "Ask Disha ChatBot \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[4]/div/button[4]",
+        "key_interactions": 103
+    },
+    {
+        "IA2UniqueID": -35955,
+        "nvda_name": "About us \uf107",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[5]/div/span/button",
+        "key_interactions": 104
+    },
+    {
+        "IA2UniqueID": -35958,
+        "nvda_name": "Help & Support",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[5]/div/span/button/a",
+        "key_interactions": 105
+    },
+    {
+        "IA2UniqueID": -35959,
+        "nvda_name": "Help & Support",
+        "nvda_value": "https://equery.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[4]/div/div/div[2]/div/p[2]/strong/a",
+        "key_interactions": 106
+    },
+    {
+        "IA2UniqueID": -36470,
+        "nvda_name": "CRIS",
+        "nvda_value": "http://cris.org.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[4]/div/div/div[2]/div/p[3]/strong/a",
+        "key_interactions": 107
+    },
+    {
+        "IA2UniqueID": -35973,
+        "nvda_name": "Compatible Browsers link opens a new windows",
+        "nvda_value": "http://contents.irctc.co.in/en/BetaSiteCompatibleBrowser.html",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/a",
+        "key_interactions": 108
+    },
+    {
+        "IA2UniqueID": -36784,
+        "nvda_name": "None",
+        "nvda_value": "https://amzn.to/3i4lgCr",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[4]/div[3]/div/iframe",
+        "key_interactions": 109
+    },
+    {
+        "IA2UniqueID": -36187,
+        "nvda_name": "Click here to Login in application",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a[2]",
+        "key_interactions": 125
+    },
+    {
+        "IA2UniqueID": -35810,
+        "nvda_name": "decrease font size",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div/a[9]",
+        "key_interactions": 126
+    },
+    {
+        "IA2UniqueID": -36192,
+        "nvda_name": "Click here to set Hindi language",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li/a",
+        "key_interactions": 127
+    },
+    {
+        "IA2UniqueID": -83133,
+        "nvda_name": "Sub Menu of I.R.C.T.C. Exclusive, SHOPPING will open AMAZON shopping site in new tab",
+        "nvda_value": "https://www.amazon.in/?&linkCode=ll2&tag=irctcdev07-21&linkId=90bb91ceb916fa2a99ab85d9e44e2d5a&language=en_IN&ref_=as_li_ss_tl&_encoding=UTF8&tag=irctcdev07-21&linkCode=ur2&linkId=2f7c288e0e5c48a7d388f19a544d76e9&camp=3638&creative=24630",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[2]/ul/li[2]/a",
+        "key_interactions": 128
+    },
+    {
+        "IA2UniqueID": -84751,
+        "nvda_name": "Sub Menu of Train, Book ticket",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[2]/a",
+        "key_interactions": 129
+    },
+    {
+        "IA2UniqueID": -84740,
+        "nvda_name": "Sub Menu of Train, IRCTC TRAINS. Having sub menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[4]/ul/li/a",
+        "key_interactions": 132
+    },
+    {
+        "IA2UniqueID": -84743,
+        "nvda_name": "Sub Menu of Train, Cancel ticket. Having sub menu",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/ul/li[5]/ul/li/a",
+        "key_interactions": 135
+    },
+    {
+        "IA2UniqueID": -84748,
+        "nvda_name": "Sub Menu of Train, FTR Coach or Train Booking. Website will be opened in new tab",
+        "nvda_value": "https://www.ftr.irctc.co.in/ftr/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[4]/a",
+        "key_interactions": 141
+    },
+    {
+        "IA2UniqueID": -36198,
+        "nvda_name": "I.R.C.T.C. e.Wallet",
+        "nvda_value": "https://www.irctc.co.in/nget/#",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[5]/ul/li/a",
+        "key_interactions": 143
+    },
+    {
+        "IA2UniqueID": -35827,
+        "nvda_name": "Menu BUSES. Website will be opened in new tab",
+        "nvda_value": "https://www.bus.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[7]/a",
+        "key_interactions": 145
+    },
+    {
+        "IA2UniqueID": -93700,
+        "nvda_name": "Sub Menu of Tour Packages, Domestic Packages. Website will be opened in new tab",
+        "nvda_value": "https://www.irctctourism.com/tourpacakage_search?searchKey=&tagType=&travelType=Domestic&sector=All",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/ul/li[2]/ul/li[2]/a",
+        "key_interactions": 150
+    },
+    {
+        "IA2UniqueID": -94452,
+        "nvda_name": "Sub Menu of Stays, Lounge. Website will be opened in new tab",
+        "nvda_value": "https://www.irctctourism.com/accommodation",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[10]/a",
+        "key_interactions": 154
+    },
+    {
+        "IA2UniqueID": -95160,
+        "nvda_name": "E-catering opens a new window",
+        "nvda_value": "http://menurates.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/a",
+        "key_interactions": 157
+    },
+    {
+        "IA2UniqueID": -95898,
+        "nvda_name": "Sub Menu of PROMOTIONS, Rail Drishti. Website will be opened in new tab",
+        "nvda_value": "https://raildrishti.indianrailways.gov.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/ul/li[11]/a",
+        "key_interactions": 167
+    },
+    {
+        "IA2UniqueID": -95902,
+        "nvda_name": "Sub Menu of PROMOTIONS, Railways Freight Business Portal. Website will be opened in new tab",
+        "nvda_value": "https://www.fois.indianrail.gov.in/RailSAHAY/index.jsp",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[12]/a",
+        "key_interactions": 169
+    },
+    {
+        "IA2UniqueID": -98817,
+        "nvda_name": "Sub Menu of More, Link Your Aadhaar. Website will be opened in new tab",
+        "nvda_value": "http://contents.irctc.co.in/en/BookUpto12ticketsinamonthbylinkingAadhaar.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[12]/ul/li[3]/a",
+        "key_interactions": 172
+    },
+    {
+        "IA2UniqueID": -35984,
+        "nvda_name": "PNR Status opens a new window",
+        "nvda_value": "http://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html?locale=en",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/div/div[2]/a",
+        "key_interactions": 176
+    },
+    {
+        "IA2UniqueID": -101385,
+        "nvda_name": "\ue901",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[2]/div[2]/div[2]/p-dropdown/div/div/input",
+        "key_interactions": 180
+    },
+    {
+        "IA2UniqueID": -36174,
+        "nvda_name": "Check for DIVYAANG Concession Booking.",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "CHECKABLE (134217728)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[4]/div/span[2]/input",
+        "key_interactions": 181
+    },
+    {
+        "IA2UniqueID": -36176,
+        "nvda_name": "Check for pass Booking",
+        "nvda_value": null,
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "CHECKABLE (134217728)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[5]/div/button",
+        "key_interactions": 182
+    },
+    {
+        "IA2UniqueID": -36232,
+        "nvda_name": " https://equery.irctc.co.in",
+        "nvda_value": "https://equery.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/div[3]/p/font/b/font[3]/a",
+        "key_interactions": 183
+    },
+    {
+        "IA2UniqueID": -36021,
+        "nvda_name": "E-CATERING",
+        "nvda_value": "https://www.ecatering.irctc.co.in/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[9]/div/ul/li[5]/a",
+        "key_interactions": 184
+    },
+    {
+        "IA2UniqueID": -36042,
+        "nvda_name": "CHARTER TRAIN",
+        "nvda_value": "https://www.ftr.irctc.co.in/ftr/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[9]/div/ul/li[10]/a",
+        "key_interactions": 185
+    },
+    {
+        "IA2UniqueID": -36046,
+        "nvda_name": "GALLERY",
+        "nvda_value": "https://www.irctctourism.com/gallery/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[12]/div/div/vdo/vdo/div/div[2]/div/div/button",
+        "key_interactions": 185
+    },
+    {
+        "IA2UniqueID": -105798,
+        "nvda_name": "",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[12]/div/div/vdo/vdo/div/div[2]/div/div[5]/div/iframe",
+        "key_interactions": 186
+    },
+    {
+        "IA2UniqueID": -109869,
+        "nvda_name": "",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[12]/div/div[2]/div/iframe",
+        "key_interactions": 189
+    },
+    {
+        "IA2UniqueID": -36084,
+        "nvda_name": "Read More \uf061",
+        "nvda_value": "https://www.irctctourism.com/#/tourpacakage_search?searchKey=&tagType=&travelType=Domestic&sector=All",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div[12]/div/div[4]/div[3]/div/div[2]/a",
+        "key_interactions": 192
+    },
+    {
+        "IA2UniqueID": -36105,
+        "nvda_name": "Read More \uf061",
+        "nvda_value": "https://www.irctctourism.com/#/tourpkgs",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/app-root/app-home/app-footer/div[2]/span[2]/a",
+        "key_interactions": 193
+    }
+]

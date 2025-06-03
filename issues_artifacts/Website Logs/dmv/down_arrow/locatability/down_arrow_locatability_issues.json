@@ -1,0 +1,32 @@
+{
+    "count of missing paths": 3,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Learn More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/extended-hours/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/div[3]/div[1]/button[2]",
+            "text": "2",
+            "aria-label": "Carousel Page 2 (Current Slide)",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/main[1]/div[1]/div[1]/div[3]/div[1]/button[3]",
+            "text": "3",
+            "aria-label": "Carousel Page 3",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        }
+    ]
+}

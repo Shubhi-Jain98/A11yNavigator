@@ -1,0 +1,136 @@
+{
+    "count of actionability issues": 11,
+    "missing paths": [
+        {
+            "IA2UniqueID": -96832,
+            "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Home icon",
+            "nvda_value": null,
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -98994,
+            "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[2]/a",
+            "nvda_role": "SECTION (86)",
+            "nvda_name": "Menu I.R.C.T.C. exclusive",
+            "nvda_value": null,
+            "nvda_states": [
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -101372,
+            "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[3]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Menu Train",
+            "nvda_value": null,
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -104044,
+            "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[4]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Menu LOYALTY",
+            "nvda_value": "https://www.irctc.co.in/nget/#",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -106182,
+            "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[5]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "I.R.C.T.C. e.Wallet",
+            "nvda_value": "https://www.irctc.co.in/nget/#",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -106182,
+            "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Menu Holiday",
+            "nvda_value": null,
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -106182,
+            "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[10]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Menu Meals",
+            "nvda_value": null,
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -114026,
+            "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[11]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Menu PROMOTIONS",
+            "nvda_value": null,
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -116383,
+            "xpath": "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[12]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Menu. more. has sub menu",
+            "nvda_value": null,
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -121357,
+            "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[2]/div[2]/div[2]/p-dropdown/div/div[3]",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "BEWARE OF FRAUDSTERS: Always download official IRCTC Rail Connect App from the Google Play Store or Apple App Store only.",
+            "nvda_value": "https://www.irctc.co.in/nget/enquiry/alerts",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -573,
+            "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[3]/div/div/p-dropdown/div/div[3]",
+            "nvda_role": "DOCUMENT (52)",
+            "nvda_name": "IRCTC Next Generation eTicketing System",
+            "nvda_value": null,
+            "nvda_states": [
+              "READONLY (128)",
+              "FOCUSABLE (16777216)",
+              "FOCUSED (2)"
+            ]
+        }
+    ]
+}

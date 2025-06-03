@@ -1,0 +1,883 @@
+[
+    {
+        "IA2UniqueID": -561,
+        "nvda_name": "Capital One | Credit Cards, Checking, Savings & Auto Loans",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-skip-nav/a"
+    },
+    {
+        "IA2UniqueID": -1050,
+        "nvda_name": "Skip to main content",
+        "nvda_value": "https://www.capitalone.com/#default-id",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-branding/a"
+    },
+    {
+        "IA2UniqueID": -1077,
+        "nvda_name": "Capital One Home",
+        "nvda_value": "https://www.capitalone.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-navigation/div/shared-header-primary-nav/div/div/a"
+    },
+    {
+        "IA2UniqueID": -1060,
+        "nvda_name": "Credit Cards",
+        "nvda_value": "https://www.capitalone.com/credit-cards/",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "HASPOPUP (8192)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-navigation/div/shared-header-primary-nav/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -1062,
+        "nvda_name": "Checking & Savings",
+        "nvda_value": "https://www.capitalone.com/bank/",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "HASPOPUP (8192)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-navigation/div/shared-header-primary-nav/div/div/a[3]"
+    },
+    {
+        "IA2UniqueID": -1064,
+        "nvda_name": "Auto",
+        "nvda_value": "https://www.capitalone.com/cars/auto-financing",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "HASPOPUP (8192)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-navigation/div/shared-header-primary-nav/div/div/a[4]"
+    },
+    {
+        "IA2UniqueID": -1066,
+        "nvda_name": "Business",
+        "nvda_value": "https://www.capitalone.com/small-business/homepage/",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "HASPOPUP (8192)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-navigation/div/shared-header-primary-nav/div/div/a[5]"
+    },
+    {
+        "IA2UniqueID": -1068,
+        "nvda_name": "Commercial",
+        "nvda_value": "https://www.capitalone.com/commercial/",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "HASPOPUP (8192)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-navigation/div/shared-header-primary-nav/div/div/a[6]"
+    },
+    {
+        "IA2UniqueID": -1070,
+        "nvda_name": "Benefits & Tools",
+        "nvda_value": "unsafe:javascript:void(0);",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "HASPOPUP (8192)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-navigation/div/shared-header-utility-nav/div/a"
+    },
+    {
+        "IA2UniqueID": -1073,
+        "nvda_name": "Help Center",
+        "nvda_value": "https://www.capitalone.com/help-center/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-navigation/div/shared-header-utility-nav/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -1074,
+        "nvda_name": "locationsText",
+        "nvda_value": "https://locations.capitalone.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-navigation/div/shared-header-utility-nav/div/a[3]"
+    },
+    {
+        "IA2UniqueID": -1076,
+        "nvda_name": "Sign In",
+        "nvda_value": "https://verified.capitalone.com/auth/signin",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/homepage-sign-in/div/div/div/div/div/form[2]/div[2]/div[2]/div/div/a"
+    },
+    {
+        "IA2UniqueID": -1391,
+        "nvda_name": "Want this computer to remember your username? Check this box. Not recommended for shared computers.",
+        "nvda_value": "javascript:void(0)",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/homepage-sign-in/div/div/div/div/div/form[2]/div[2]/div[2]/div[2]/p/a"
+    },
+    {
+        "IA2UniqueID": -1546,
+        "nvda_name": "Forgot username or password?",
+        "nvda_value": "https://verified.capitalone.com/sign-in-help/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/homepage-sign-in/div/div/div/div/div/form[2]/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -1550,
+        "nvda_name": "Set up online access",
+        "nvda_value": "https://verified.capitalone.com/enroll/#/pii",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component/shared-banner1-entry/section/shared-banner1-text-panel-optional-eyebrow/div/shared-banner1-responsive-banner-container/div/shared-banner1-background/div/div/div/div/div/shared-banner1-hero-card/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -1408,
+        "nvda_name": "See if I'm pre-approved",
+        "nvda_value": "https://www.capitalone.com/credit-cards/preapprove/?landingPage=ehp",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[2]/shared-illustration-set-entry/section/div/div/div/div/div/div/shared-illustration/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -1432,
+        "nvda_name": "See if I'm pre-approved",
+        "nvda_value": "https://www.capitalone.com/credit-cards/preapprove/?landingPage=ehpcallout",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[2]/shared-illustration-set-entry/section/div/div/div/div/div[2]/div/shared-illustration/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -1437,
+        "nvda_name": "Compare accounts",
+        "nvda_value": "https://www.capitalone.com/bank/savings-accounts/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[2]/shared-illustration-set-entry/section/div/div/div/div/div[3]/div/shared-illustration/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -1442,
+        "nvda_name": "Check out Auto Navigator",
+        "nvda_value": "https://www.capitalone.com/cars?PFFSRCID=S-DA-1234567890A-DAD-0041&external_id=COAF_V1_AFF_BAU_COF_P_COF_HIC_HMPG_PLP_XD_71601_Z_Z_20210728",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[3]/shared-guidance/section/div/h4/sup/a"
+    },
+    {
+        "IA2UniqueID": -1454,
+        "nvda_name": "1",
+        "nvda_value": "https://www.capitalone.com/#footer-section",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[4]/shared-checkered-v2-entry/section/shared-checkered-fullbleed-short-form/div/div/shared-tile-wrapper/div/div/div[2]/shared-tile-content/div/div/div[4]/div/a"
+    },
+    {
+        "IA2UniqueID": -1478,
+        "nvda_name": "Explore all tools",
+        "nvda_value": "https://www.capitalone.com/digital/tools/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[4]/shared-checkered-v2-entry/section/shared-checkered-fullbleed-short-form/div/div/shared-tile-wrapper/div/div[2]/div[2]/shared-tile-content/div/div/div[4]/div/a"
+    },
+    {
+        "IA2UniqueID": -1497,
+        "nvda_name": "Get started",
+        "nvda_value": "https://www.capitalone.com/creditwise/?utm_source=Internal-Other&utm_channel=Homepage&utm_medium=onsite&utm_valprop=creditimprovement&utm_campaign=download&utm_content=signup&utm_cadence=ongoing",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[5]/shared-card-set-entry/section/shared-card-set-tall-image-cards/div/div/div/div[2]/div/div/shared-featured-card/div/div/a"
+    },
+    {
+        "IA2UniqueID": -1510,
+        "nvda_name": "Learn to manage your money to empower what you love",
+        "nvda_value": "https://www.capitalone.com/learn-grow/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[5]/shared-card-set-entry/section/shared-card-set-tall-image-cards/div/div/div/div[2]/div[2]/div/shared-featured-card/div/div/a"
+    },
+    {
+        "IA2UniqueID": -1516,
+        "nvda_name": "Enabling communities to thrive",
+        "nvda_value": "https://www.capitalone.com/about/our-commitments/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[5]/shared-card-set-entry/section/shared-card-set-tall-image-cards/div/div/div/div[2]/div[3]/div/shared-featured-card/div/div/a"
+    },
+    {
+        "IA2UniqueID": -1522,
+        "nvda_name": "50% off sips at Capital One Caf\u00e9s",
+        "nvda_value": "https://www.capitalone.com/local/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div/div/shared-branding/div/a"
+    },
+    {
+        "IA2UniqueID": -1112,
+        "nvda_name": "Capital One",
+        "nvda_value": "https://www.capitalone.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div/div[2]/shared-icons/div/a"
+    },
+    {
+        "IA2UniqueID": -1116,
+        "nvda_name": "Instagram",
+        "nvda_value": "https://www.instagram.com/capitalone/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div/div[2]/shared-icons/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -1117,
+        "nvda_name": "X",
+        "nvda_value": "https://twitter.com/capitalone/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div/div[2]/shared-icons/div/a[3]"
+    },
+    {
+        "IA2UniqueID": -1118,
+        "nvda_name": "Facebook",
+        "nvda_value": "https://www.facebook.com/capitalone/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div/div[2]/shared-icons/div/a[4]"
+    },
+    {
+        "IA2UniqueID": -1119,
+        "nvda_name": "LinkedIn",
+        "nvda_value": "https://www.linkedin.com/company/capital-one/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div/div[2]/shared-icons/div/a[5]"
+    },
+    {
+        "IA2UniqueID": -1120,
+        "nvda_name": "YouTube",
+        "nvda_value": "https://www.youtube.com/user/capitalone/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -1142,
+        "nvda_name": "Credit Cards",
+        "nvda_value": "https://www.capitalone.com/credit-cards/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -1144,
+        "nvda_name": "Checking & Savings",
+        "nvda_value": "https://www.capitalone.com/bank/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -1146,
+        "nvda_name": "Auto",
+        "nvda_value": "https://www.capitalone.com/cars/auto-financing",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -1148,
+        "nvda_name": "Business",
+        "nvda_value": "https://www.capitalone.com/small-business/homepage/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -1150,
+        "nvda_name": "Commercial",
+        "nvda_value": "https://www.capitalone.com/commercial/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div/div/div[2]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -1152,
+        "nvda_name": "Capital One Shopping",
+        "nvda_value": "https://smart.link/qpqs440wc5g68?cp_0=c1lp&cp_1=card_menu_control&cp_2=footer&cp_4=usa&creative_id=card_footer_control",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div/div/div[2]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -1154,
+        "nvda_name": "CreditWise",
+        "nvda_value": "https://www.capitalone.com/creditwise/?utm_source=Internal-Other&utm_channel=Homepage&utm_medium=Footer&utm_valprop=creditimprovement&utm_campaign=Products&utm_content=signup&utm_cadence=ongoing",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[2]/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -1157,
+        "nvda_name": "About",
+        "nvda_value": "https://www.capitalone.com/about/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[2]/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -1159,
+        "nvda_name": "Corporate Information",
+        "nvda_value": "https://www.capitalone.com/about/corporate-information/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[2]/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -1161,
+        "nvda_name": "Newsroom",
+        "nvda_value": "https://www.capitalone.com/about/newsroom/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[2]/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -1163,
+        "nvda_name": "Technology",
+        "nvda_value": "https://www.capitalone.com/tech/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[2]/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -1165,
+        "nvda_name": "Investors",
+        "nvda_value": "https://investor.capitalone.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[2]/div/div[2]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -1167,
+        "nvda_name": "Careers & Jobs",
+        "nvda_value": "https://www.capitalonecareers.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[2]/div/div[2]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -1169,
+        "nvda_name": "Diversity & Inclusion",
+        "nvda_value": "https://www.capitalone.com/diversity/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[2]/div/div[2]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -1171,
+        "nvda_name": "Canada",
+        "nvda_value": "https://www.capitalone.ca/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[2]/div/div[2]/ul/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -1173,
+        "nvda_name": "UK",
+        "nvda_value": "https://www.capitalone.co.uk/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[3]/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -1176,
+        "nvda_name": "Locations & ATMs",
+        "nvda_value": "https://locations.capitalone.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[3]/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -1178,
+        "nvda_name": "Capital One Travel",
+        "nvda_value": "https://capitalonetravel.com/?utm_source=navbau",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[3]/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -1180,
+        "nvda_name": "Mobile App",
+        "nvda_value": "https://www.capitalone.com/digital/tools/mobile/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[3]/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -1182,
+        "nvda_name": "Meet Eno",
+        "nvda_value": "https://www.capitalone.com/digital/tools/eno/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[3]/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -1184,
+        "nvda_name": "Digital Tools",
+        "nvda_value": "https://www.capitalone.com/digital/tools/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[4]/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -1187,
+        "nvda_name": "Privacy",
+        "nvda_value": "https://www.capitalone.com/privacy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[4]/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -1189,
+        "nvda_name": "Patriot Act Certification",
+        "nvda_value": "https://ecm.capitalone.com/WCM/digital/pdfs/2024-patriot-act-cert.pdf",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[4]/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -1191,
+        "nvda_name": "Wolfsberg Questionnaire",
+        "nvda_value": "https://www.capitalone.com/digital/wolfsberg-questionnaire/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[4]/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -1193,
+        "nvda_name": "Subpoena Policy",
+        "nvda_value": "https://www.capitalone.com/digital/subpoena-policy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[4]/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -1195,
+        "nvda_name": "Additional Disclosures",
+        "nvda_value": "https://www.capitalone.com/digital/disclosures/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[5]/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -1198,
+        "nvda_name": "COVID-19",
+        "nvda_value": "https://www.capitalone.com/updates/coronavirus/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[5]/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -1200,
+        "nvda_name": "Help Center",
+        "nvda_value": "https://www.capitalone.com/help-center/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[5]/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -1202,
+        "nvda_name": "Learn & Grow",
+        "nvda_value": "https://www.capitalone.com/learn-grow/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[5]/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -1204,
+        "nvda_name": "Resources for Military",
+        "nvda_value": "https://www.capitalone.com/military/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[5]/div/div[2]/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -1206,
+        "nvda_name": "Accessibility Assistance",
+        "nvda_value": "https://www.capitalone.com/accessibility/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[5]/div/div[2]/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -1208,
+        "nvda_name": "Tweet @AskCapitalOne",
+        "nvda_value": "https://twitter.com/askcapitalone",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[5]/div/div[2]/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -1210,
+        "nvda_name": "Security",
+        "nvda_value": "https://www.capitalone.com/digital/identity-protection/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section/div/div/div[2]/div/shared-products/div/div[5]/div/div[2]/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -1212,
+        "nvda_name": "Contact Us",
+        "nvda_value": "https://www.capitalone.com/help-center/contact-us/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section[2]/div/div/div/div/shared-footnotes/div/div/div/div/p/a"
+    },
+    {
+        "IA2UniqueID": -1097,
+        "nvda_name": "FDIC insurance coverage",
+        "nvda_value": "https://www.capitalone.com/bank/fdic/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section[3]/div/div/div/div/shared-copyright/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -1229,
+        "nvda_name": "Privacy",
+        "nvda_value": "https://www.capitalone.com/privacy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section[3]/div/div/div/div/shared-copyright/div/div/div[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -1230,
+        "nvda_name": "AdChoices",
+        "nvda_value": "https://www.capitalone.com/privacy/online-privacy-policy#collecting-using-sharing-information-accordion-button-5",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section[3]/div/div/div/div/shared-copyright/div/div/div[2]/a[3]"
+    },
+    {
+        "IA2UniqueID": -1231,
+        "nvda_name": "Terms & Conditions",
+        "nvda_value": "https://www.capitalone.com/digital/terms-conditions/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section[3]/div/div/div/div/shared-copyright/div/div/div[3]/a"
+    },
+    {
+        "IA2UniqueID": -1050,
+        "nvda_name": "Skip to main content",
+        "nvda_value": "https://www.capitalone.com/#default-id",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-header/header/div/div/div/shared-header-navigation/div/shared-header-utility-nav/div/button"
+    },
+    {
+        "IA2UniqueID": -1072,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/homepage-sign-in/div/div/div/div/div/form[2]/div[2]/div/div/div/input"
+    },
+    {
+        "IA2UniqueID": -1386,
+        "nvda_name": "Username",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "REQUIRED (32768)",
+            "FOCUSED (2)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/homepage-sign-in/div/div/div/div/div/form[2]/div[2]/div/div[2]/div/input"
+    },
+    {
+        "IA2UniqueID": -1543,
+        "nvda_name": "Password",
+        "nvda_value": null,
+        "nvda_states": [
+            "PROTECTED (16384)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "REQUIRED (32768)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/homepage-sign-in/div/div/div/div/div/form[2]/div[2]/div[2]/div/div/input"
+    },
+    {
+        "IA2UniqueID": -1072,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/homepage-sign-in/div/div/div/div/div/form[2]/div[3]/div/button"
+    },
+    {
+        "IA2UniqueID": -1549,
+        "nvda_name": "Sign in",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[3]/shared-guidance/section/div/div[3]/button"
+    },
+    {
+        "IA2UniqueID": -1451,
+        "nvda_name": "See suggestions",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/shared-footer/footer/div/section[2]/div/div/div/div/shared-footnotes/div/div/div/button"
+    },
+    {
+        "IA2UniqueID": -1093,
+        "nvda_name": "Footnotes section content",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/button"
+    },
+    {
+        "IA2UniqueID": -1390,
+        "nvda_name": "Remember me",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "CHECKABLE (134217728)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[3]/shared-guidance/section/div/div/div[2]/shared-guidance-select/div/button"
+    },
+    {
+        "IA2UniqueID": -1027,
+        "nvda_name": "I want to explore my options",
+        "nvda_value": "explore my options",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP_LIST (562949953421312)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/content-wrapper/enterprise-root/homepage-entry-page/div/shared-cms-render-component/shared-cms-container-component/shared-cms-base-shared-component[3]/shared-guidance/section/div/div[2]/div[2]/shared-guidance-select/div/button"
+    }
+]

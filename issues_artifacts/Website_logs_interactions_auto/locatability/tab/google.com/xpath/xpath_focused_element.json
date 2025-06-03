@@ -1,0 +1,251 @@
+[
+    {
+        "IA2UniqueID": -587,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "AUTOCOMPLETE (524288)",
+            "MULTILINE (1048576)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div/div/div[3]/div[2]",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -635,
+        "nvda_name": "Search by voice",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div/div/div[3]/div[3]",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -637,
+        "nvda_name": "Search by image",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div[3]/center/input",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -642,
+        "nvda_name": "Google Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div[3]/center/div",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -725,
+        "nvda_name": "I'm Feeling Adventurous",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[4]/div/div/div/div/div[3]/div/promo-middle-slot/div/a",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -682,
+        "nvda_name": "See what\u2019s trending on Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div/a",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -656,
+        "nvda_name": "Advertising",
+        "nvda_value": "https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div/a[2]",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -657,
+        "nvda_name": "Business",
+        "nvda_value": "https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div/a[3]",
+        "key_interactions": 7
+    },
+    {
+        "IA2UniqueID": -658,
+        "nvda_name": "How Search works",
+        "nvda_value": "https://google.com/search/howsearchworks/?fg=1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div[2]/a",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -660,
+        "nvda_name": "Our third decade of climate action: join us",
+        "nvda_value": "https://sustainability.google/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div[3]/a",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -662,
+        "nvda_name": "Privacy",
+        "nvda_value": "https://policies.google.com/privacy?hl=en&fg=1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div[3]/a[2]",
+        "key_interactions": 10
+    },
+    {
+        "IA2UniqueID": -663,
+        "nvda_name": "Terms",
+        "nvda_value": "https://policies.google.com/terms?hl=en&fg=1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[6]/div/div/div[3]/span/span/g-popup/div",
+        "key_interactions": 11
+    },
+    {
+        "IA2UniqueID": -508,
+        "nvda_name": "Bookmark this tab",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/a",
+        "key_interactions": 16
+    },
+    {
+        "IA2UniqueID": -594,
+        "nvda_name": "About",
+        "nvda_value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/a[2]",
+        "key_interactions": 17
+    },
+    {
+        "IA2UniqueID": -595,
+        "nvda_name": "Store",
+        "nvda_value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div/div/div/div/div/div/a",
+        "key_interactions": 18
+    },
+    {
+        "IA2UniqueID": -603,
+        "nvda_name": "Gmail ",
+        "nvda_value": "https://mail.google.com/mail/&ogbl",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div/div/div/div/div/div[2]/a",
+        "key_interactions": 19
+    },
+    {
+        "IA2UniqueID": -605,
+        "nvda_name": "Search for Images ",
+        "nvda_value": "https://www.google.com/imghp?hl=en&ogbl",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div/div/div/div[2]/div/div/div/a",
+        "key_interactions": 20
+    },
+    {
+        "IA2UniqueID": -609,
+        "nvda_name": "Google apps",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div/div/div/div[2]/a",
+        "key_interactions": 21
+    },
+    {
+        "IA2UniqueID": -611,
+        "nvda_name": "Sign in",
+        "nvda_value": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/a",
+        "key_interactions": 22
+    },
+    {
+        "IA2UniqueID": -615,
+        "nvda_name": "NBA Playoffs 2025",
+        "nvda_value": "https://www.google.com/search?sca_esv=bbd1f878d282df96&q=NBA+Playoffs+2025&oi=ddle&noiga=1&ct=410223355&hl=en&si=APYL9btMsmZl0P9CyeA1NmMZFYv4xkDb-_Q4WCJadY9pxozSRTfihRwUYzktad-KLxrH-AkD1KOfjoaEZyTv9OjWsncI-eCi38RG8erBwgr9ztTQ7ZX5HZk%3D&sa=X&ved=0ahUKEwjJyqrtq-SMAxVgLEQIHUFINKwQPQgE",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div[2]/button",
+        "key_interactions": 23
+    },
+    {
+        "IA2UniqueID": -617,
+        "nvda_name": "Share",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[3]/form/div/div/div/div/div[2]/textarea",
+        "key_interactions": 24
+    }
+]

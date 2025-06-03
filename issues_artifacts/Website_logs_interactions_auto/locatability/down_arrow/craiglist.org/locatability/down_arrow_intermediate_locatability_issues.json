@@ -1,0 +1,32 @@
+{
+    "count of missing paths": 3,
+    "missing paths": [
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[1]/div[1]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": "search craigslist",
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[4]/li[3]/a[1]",
+            "text": "craig newmark\nphilanthropies",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://craignewmarkphilanthropies.org/"
+        },
+        {
+            "tag_name": "select",
+            "xpath": "/body[1]/div[2]/section[1]/div[4]/div[1]/select[1]",
+            "text": "dansk\ndeutsch\nenglish\nespa\u00f1ol\nfran\u00e7ais\nitaliano\nportugu\u00eas\nsuomi\nsvenska\nti\u1ebfng vi\u1ec7t\nt\u00fcrk\u00e7e\n\u0440\u0443\u0441\u0441\u043a\u0438\u0439\n\u4e2d\u6587\n\u65e5\u672c\u8a9e\n\ud55c\uad6d\ub9d0",
+            "aria-label": "",
+            "id": "chlang",
+            "placeholder": null,
+            "href": ""
+        }
+    ]
+}

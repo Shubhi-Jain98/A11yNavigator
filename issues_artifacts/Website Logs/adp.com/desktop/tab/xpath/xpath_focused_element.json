@@ -1,0 +1,1501 @@
+[
+    {
+        "IA2UniqueID": -38469,
+        "nvda_name": "Payroll, HR and Tax Services | ADP Official Site",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div/input[3]"
+    },
+    {
+        "IA2UniqueID": -38943,
+        "nvda_name": "Full Name",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div[2]/input[3]"
+    },
+    {
+        "IA2UniqueID": -38956,
+        "nvda_name": "Email",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div[3]/input[3]"
+    },
+    {
+        "IA2UniqueID": -38963,
+        "nvda_name": "Phone Number",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div[4]/input[3]"
+    },
+    {
+        "IA2UniqueID": -38970,
+        "nvda_name": "Business Name",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div[5]/input[3]"
+    },
+    {
+        "IA2UniqueID": -38977,
+        "nvda_name": "# of Employees",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div[6]/input[3]"
+    },
+    {
+        "IA2UniqueID": -38983,
+        "nvda_name": "ZIP Code",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div[7]/select"
+    },
+    {
+        "IA2UniqueID": -38608,
+        "nvda_name": "Country",
+        "nvda_value": "United States",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div[8]/fieldset/label[2]/input"
+    },
+    {
+        "IA2UniqueID": -39236,
+        "nvda_name": "No",
+        "nvda_value": null,
+        "nvda_states": [
+            "CHECKED (32)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "CHECKABLE (134217728)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div[10]/p/a"
+    },
+    {
+        "IA2UniqueID": -40124,
+        "nvda_name": "Privacy Statement",
+        "nvda_value": "https://www.adp.com/privacy.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div[10]/p/a[2]"
+    },
+    {
+        "IA2UniqueID": -40125,
+        "nvda_name": "Terms of Use",
+        "nvda_value": "https://www.adp.com/legal.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[2]/div/form/div[10]/input"
+    },
+    {
+        "IA2UniqueID": -39276,
+        "nvda_name": "Get Pricing",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div[3]/p/a"
+    },
+    {
+        "IA2UniqueID": -39282,
+        "nvda_name": "privacy",
+        "nvda_value": "https://www.adp.com/privacy.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -39549,
+        "nvda_name": "Contact Us",
+        "nvda_value": "https://www.adp.com/contact-us/customer-service.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -39551,
+        "nvda_name": "Talk to Sales \u2014 855-655-9670",
+        "nvda_value": "tel:+18556559670",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -39553,
+        "nvda_name": "Get Support",
+        "nvda_value": "https://www.adp.com/contact-us/customer-service.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -39555,
+        "nvda_name": "Sign In",
+        "nvda_value": "https://login.adp.com/welcome",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -39559,
+        "nvda_name": "What We Offer",
+        "nvda_value": "https://www.adp.com/what-we-offer.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -39562,
+        "nvda_name": "Payroll",
+        "nvda_value": "https://www.adp.com/what-we-offer/payroll.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -39564,
+        "nvda_name": "Time-and-Attendance",
+        "nvda_value": "https://www.adp.com/what-we-offer/time-and-attendance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -39566,
+        "nvda_name": "Talent",
+        "nvda_value": "https://www.adp.com/what-we-offer/talent.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -39568,
+        "nvda_name": "Benefits",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -39570,
+        "nvda_name": "HR Services",
+        "nvda_value": "https://www.adp.com/what-we-offer/hr-services.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -39572,
+        "nvda_name": "HR Outsourcing and PEO",
+        "nvda_value": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -39574,
+        "nvda_name": "Integrations",
+        "nvda_value": "https://www.adp.com/what-we-offer/integrations.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -39576,
+        "nvda_name": "App Marketplace",
+        "nvda_value": "https://www.adp.com/what-we-offer/marketplace.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -39578,
+        "nvda_name": "Products by Name",
+        "nvda_value": "https://www.adp.com/what-we-offer/products.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[3]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -39582,
+        "nvda_name": "Who We Serve",
+        "nvda_value": "https://www.adp.com/who-we-serve.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[3]/ul/li/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -39585,
+        "nvda_name": "Business Size",
+        "nvda_value": "https://www.adp.com/who-we-serve/by-business-size.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[3]/ul/li/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -39587,
+        "nvda_name": "Industry",
+        "nvda_value": "https://www.adp.com/who-we-serve/by-industry.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[3]/ul/li/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -39589,
+        "nvda_name": "Partners",
+        "nvda_value": "https://www.adp.com/who-we-serve/by-partner.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[4]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -39593,
+        "nvda_name": "Resources",
+        "nvda_value": "https://www.adp.com/resources.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[4]/ul/li/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -39596,
+        "nvda_name": "Small Business Resources",
+        "nvda_value": "https://www.adp.com/resources/small-business.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[4]/ul/li/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -39598,
+        "nvda_name": "Midsized & Enterprise Business Resources",
+        "nvda_value": "https://www.adp.com/resources/midsized-enterprise.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[4]/ul/li/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -39600,
+        "nvda_name": "Tools",
+        "nvda_value": "https://www.adp.com/resources/tools.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[4]/ul/li/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -39602,
+        "nvda_name": "Webinars & Events",
+        "nvda_value": "https://www.adp.com/resources/events.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -39606,
+        "nvda_name": "About ADP",
+        "nvda_value": "https://www.adp.com/about-adp.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -39609,
+        "nvda_name": "Worldwide Locations",
+        "nvda_value": "https://www.adp.com/worldwide-locations.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -39611,
+        "nvda_name": "Careers",
+        "nvda_value": "https://jobs.adp.com/?rb=ADP_COM",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -39613,
+        "nvda_name": "Corporate Social Responsibility",
+        "nvda_value": "https://www.adp.com/about-adp/corporate-social-responsibility.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -39615,
+        "nvda_name": "Awards and Recognition",
+        "nvda_value": "https://www.adp.com/about-adp/awards-and-recognition.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -39617,
+        "nvda_name": "Leadership",
+        "nvda_value": "https://www.adp.com/about-adp/leadership.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[6]/a"
+    },
+    {
+        "IA2UniqueID": -39619,
+        "nvda_name": "Data Security",
+        "nvda_value": "https://www.adp.com/about-adp/data-security.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[7]/a"
+    },
+    {
+        "IA2UniqueID": -39621,
+        "nvda_name": "Data Privacy",
+        "nvda_value": "https://www.adp.com/about-adp/data-privacy.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[8]/a"
+    },
+    {
+        "IA2UniqueID": -39623,
+        "nvda_name": "Artificial Intelligence",
+        "nvda_value": "https://www.adp.com/about-adp/ai-solutions.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[9]/a"
+    },
+    {
+        "IA2UniqueID": -39625,
+        "nvda_name": "ADP Ventures",
+        "nvda_value": "https://www.adp.com/about-adp/ventures.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[10]/a"
+    },
+    {
+        "IA2UniqueID": -39627,
+        "nvda_name": "Investors",
+        "nvda_value": "https://investors.adp.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[11]/a"
+    },
+    {
+        "IA2UniqueID": -39629,
+        "nvda_name": "Media",
+        "nvda_value": "https://mediacenter.adp.com/?_gl=1*1go6ns7*_gcl_au*MTk0NDI2OTI5Ny4xNzMzMTAzMjQ2*_ga*NTg4OTAxNjk4LjE3MzMxMDMyNDY.*_ga_Z7FCJ8MYEN*MTczNzgzNTI3OC40LjEuMTczNzgzNTkwMS42MC4wLjA.",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div/div/p/a"
+    },
+    {
+        "IA2UniqueID": -39633,
+        "nvda_name": "logo",
+        "nvda_value": "https://www.adp.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div/select"
+    },
+    {
+        "IA2UniqueID": -39635,
+        "nvda_name": "Country",
+        "nvda_value": "United States",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -39660,
+        "nvda_name": "All Worldwide Locations",
+        "nvda_value": "https://www.adp.com/worldwide-locations.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -39664,
+        "nvda_name": "ADP Facebook Page",
+        "nvda_value": "https://www.facebook.com/AutomaticDataProcessing/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -39667,
+        "nvda_name": "ADP X (Twitter) Page",
+        "nvda_value": "https://twitter.com/adp",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -39670,
+        "nvda_name": "ADP YouTube Channel",
+        "nvda_value": "https://www.youtube.com/user/adp",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -39673,
+        "nvda_name": "ADP LinkedIn Page",
+        "nvda_value": "https://www.linkedin.com/company/adp",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul[2]/li/a"
+    },
+    {
+        "IA2UniqueID": -39677,
+        "nvda_name": "Terms",
+        "nvda_value": "https://www.adp.com/legal.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul[2]/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -39679,
+        "nvda_name": "Site Map",
+        "nvda_value": "https://www.adp.com/site-map.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul[2]/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -39681,
+        "nvda_name": "Privacy",
+        "nvda_value": "https://www.adp.com/privacy.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul[2]/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -39683,
+        "nvda_name": "Modern Slavery Statement",
+        "nvda_value": "https://www.adp.com/modern-slavery-statement.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div[2]/ul[2]/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -39685,
+        "nvda_name": "Web Accessibility Statement",
+        "nvda_value": "https://www.adp.com/web-accessibility-statement.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/button"
+    },
+    {
+        "IA2UniqueID": -40207,
+        "nvda_name": "Cookie Preferences | Do Not Share My Information",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[10]/iframe"
+    },
+    {
+        "IA2UniqueID": -477,
+        "nvda_name": "Bookmark this tab",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[2]/div/span/a"
+    },
+    {
+        "IA2UniqueID": -40137,
+        "nvda_name": "Cookie Privacy Statement visit this link to learn more about cookies",
+        "nvda_value": "https://www.adp.com/about-adp/data-privacy/adp-cookie-privacy-statement.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[2]/div[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -40139,
+        "nvda_name": "Accept and Continue",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[2]/div[2]/a[3]"
+    },
+    {
+        "IA2UniqueID": -40140,
+        "nvda_name": "Set Your Preferences",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[4]/div/section/div/div[2]/p/span/a"
+    },
+    {
+        "IA2UniqueID": -38671,
+        "nvda_name": "W-2 & 1099",
+        "nvda_value": "https://www.adp.com/contact-us/support-for-employees/form-w2-and-form-1099-for-employees.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[4]/div/section/div/div[2]/p/span/a[2]"
+    },
+    {
+        "IA2UniqueID": -38672,
+        "nvda_name": "1095-C",
+        "nvda_value": "https://www.adp.com/contact-us/support-for-employees/form-1095c-guide-for-employees.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[4]/div/section/div/div[2]/p/span[2]/a"
+    },
+    {
+        "IA2UniqueID": -38674,
+        "nvda_name": "W-2 & 1099",
+        "nvda_value": "https://www.adp.com/contact-us/support-for-client-administrators.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[4]/div/section/div/div[2]/p/span[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -38675,
+        "nvda_name": "1095-C",
+        "nvda_value": "https://www.adp.com/contact-us/support-for-client-administrators/form-1095-c-guide-for-employers.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/a"
+    },
+    {
+        "IA2UniqueID": -38678,
+        "nvda_name": "Skip to main content",
+        "nvda_value": "https://www.adp.com/#main-content",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -38498,
+        "nvda_name": "ADP logo",
+        "nvda_value": "https://www.adp.com/",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div/nav/ul/li/a"
+    },
+    {
+        "IA2UniqueID": -38500,
+        "nvda_name": "What We Offer",
+        "nvda_value": "https://www.adp.com/what-we-offer.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "COLLAPSED (512)",
+            "FOCUSED (2)",
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div/nav/ul/li[2]/a"
+    },
+    {
+        "IA2UniqueID": -38501,
+        "nvda_name": "Who We Serve",
+        "nvda_value": "https://www.adp.com/who-we-serve.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "COLLAPSED (512)",
+            "FOCUSED (2)",
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div/nav/ul/li[3]/a"
+    },
+    {
+        "IA2UniqueID": -38502,
+        "nvda_name": "Why ADP",
+        "nvda_value": "https://www.adp.com/how-we-differ.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div/nav/ul/li[4]/a"
+    },
+    {
+        "IA2UniqueID": -38503,
+        "nvda_name": "Resources",
+        "nvda_value": "https://www.adp.com/resources.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "COLLAPSED (512)",
+            "FOCUSED (2)",
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div/nav/ul/li[5]/a"
+    },
+    {
+        "IA2UniqueID": -38688,
+        "nvda_name": "About",
+        "nvda_value": "https://www.adp.com/about-adp.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "COLLAPSED (512)",
+            "FOCUSED (2)",
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div/div[2]/div/button"
+    },
+    {
+        "IA2UniqueID": -38691,
+        "nvda_name": "Search Site",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div/div[2]/div/a"
+    },
+    {
+        "IA2UniqueID": -38694,
+        "nvda_name": "Support",
+        "nvda_value": "https://www.adp.com/contact-us/customer-service.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div/div/div/div/div[2]/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -38695,
+        "nvda_name": "Sign In",
+        "nvda_value": "https://login.adp.com/welcome",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/header/div/div[3]/div/span/strong/a"
+    },
+    {
+        "IA2UniqueID": -38700,
+        "nvda_name": "855-655-9670",
+        "nvda_value": "tel:+18556559670",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/header/div/div[3]/div/a"
+    },
+    {
+        "IA2UniqueID": -38701,
+        "nvda_name": "Get Pricing",
+        "nvda_value": "https://www.adp.com/#",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div/section/div[2]/div/div/input"
+    },
+    {
+        "IA2UniqueID": -38712,
+        "nvda_name": "Number of Employees",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div/section/div[2]/div/div[2]/div/input"
+    },
+    {
+        "IA2UniqueID": -40152,
+        "nvda_name": "select an option",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[2]/section/div/div/a"
+    },
+    {
+        "IA2UniqueID": -38755,
+        "nvda_name": "Access self-guided demo for companies with 1-49 employees",
+        "nvda_value": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx?demoform=yes",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[2]/section/div/div/a[2]"
+    },
+    {
+        "IA2UniqueID": -38756,
+        "nvda_name": "Access self-guided demo for companies with 50+ employees",
+        "nvda_value": "https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx?demoform=yes",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[3]/section/a"
+    },
+    {
+        "IA2UniqueID": -38779,
+        "nvda_name": "Get Pricing",
+        "nvda_value": "https://www.adp.com/#",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -38792,
+        "nvda_name": "Small business Payroll",
+        "nvda_value": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -38794,
+        "nvda_name": "Professional Employer Organization (PEO)",
+        "nvda_value": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo/professional-employer-organization.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[3]"
+    },
+    {
+        "IA2UniqueID": -38795,
+        "nvda_name": "Time & Attendance",
+        "nvda_value": "https://www.adp.com/what-we-offer/time-and-attendance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[4]"
+    },
+    {
+        "IA2UniqueID": -38796,
+        "nvda_name": "Retirement",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/retirement.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[5]"
+    },
+    {
+        "IA2UniqueID": -38797,
+        "nvda_name": "Health & Benefits",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/group-health-insurance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[6]"
+    },
+    {
+        "IA2UniqueID": -38798,
+        "nvda_name": "Workers' Comp",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance/workers-compensation.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[7]"
+    },
+    {
+        "IA2UniqueID": -38799,
+        "nvda_name": "Business Tax Credits",
+        "nvda_value": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/small-business-tax-credits.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[8]"
+    },
+    {
+        "IA2UniqueID": -38800,
+        "nvda_name": "Business Insurance",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -38801,
+        "nvda_name": "MORE SMALL BUSINESS SOLUTIONS",
+        "nvda_value": "https://www.adp.com/#",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -38810,
+        "nvda_name": "Midsized business Payroll",
+        "nvda_value": "https://www.adp.com/what-we-offer/payroll/payroll-for-50-1000-plus-employees.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -38812,
+        "nvda_name": "Professional Employer Organization (PEO)",
+        "nvda_value": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo/professional-employer-organization.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[3]"
+    },
+    {
+        "IA2UniqueID": -38813,
+        "nvda_name": "Time & Attendance",
+        "nvda_value": "https://www.adp.com/what-we-offer/time-and-attendance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[4]"
+    },
+    {
+        "IA2UniqueID": -38814,
+        "nvda_name": "Retirement",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/retirement.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[5]"
+    },
+    {
+        "IA2UniqueID": -38815,
+        "nvda_name": "Benefits Administration",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/benefits-administration.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[6]"
+    },
+    {
+        "IA2UniqueID": -38816,
+        "nvda_name": "Health & Benefits",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/group-health-insurance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[7]"
+    },
+    {
+        "IA2UniqueID": -38817,
+        "nvda_name": "Workers' Comp",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance/workers-compensation.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[8]"
+    },
+    {
+        "IA2UniqueID": -38818,
+        "nvda_name": "Standalone Compliance Services",
+        "nvda_value": "https://www.adp.com/what-we-offer/products/adp-smartcompliance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[9]"
+    },
+    {
+        "IA2UniqueID": -38819,
+        "nvda_name": "Business Insurance",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -38820,
+        "nvda_name": "MORE MIDSIZED BUSINESS SOLUTIONS",
+        "nvda_value": "https://www.adp.com/#",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -38829,
+        "nvda_name": "Integrated HCM",
+        "nvda_value": "https://www.adp.com/who-we-serve/by-business-size/1000-employees/solutions.aspx",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -38830,
+        "nvda_name": "Large business Payroll",
+        "nvda_value": "https://www.adp.com/what-we-offer/payroll/payroll-for-50-1000-plus-employees.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[3]"
+    },
+    {
+        "IA2UniqueID": -38832,
+        "nvda_name": "Workforce Management",
+        "nvda_value": "https://www.adp.com/what-we-offer/time-and-attendance/workforce-management.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[4]"
+    },
+    {
+        "IA2UniqueID": -38833,
+        "nvda_name": "Retirement",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/retirement.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[5]"
+    },
+    {
+        "IA2UniqueID": -38834,
+        "nvda_name": "Benefits Administration",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/benefits-administration.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[6]"
+    },
+    {
+        "IA2UniqueID": -38835,
+        "nvda_name": "Health & Benefits",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/group-health-insurance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[7]"
+    },
+    {
+        "IA2UniqueID": -38836,
+        "nvda_name": "Workers' Comp",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance/workers-compensation.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[8]"
+    },
+    {
+        "IA2UniqueID": -38837,
+        "nvda_name": "Talent Acquisition",
+        "nvda_value": "https://www.adp.com/what-we-offer/talent/talent-acquisition.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[9]"
+    },
+    {
+        "IA2UniqueID": -38838,
+        "nvda_name": "Standalone Compliance Services",
+        "nvda_value": "https://www.adp.com/what-we-offer/products/adp-smartcompliance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[10]"
+    },
+    {
+        "IA2UniqueID": -38839,
+        "nvda_name": "Business Insurance",
+        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -38840,
+        "nvda_name": "MORE LARGE BUSINESS SOLUTIONS",
+        "nvda_value": "https://www.adp.com/#",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[5]/section/div/div/div/div/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -38850,
+        "nvda_name": "The latest issue of Today at Work from ADP Research",
+        "nvda_value": "https://www.adpresearch.com/today-at-work/q4-2024/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[5]/section/div/div/div/div[2]/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -38858,
+        "nvda_name": "2025 Accountant Connect Summit",
+        "nvda_value": "https://info.adp.com/ADP-Accountant-Connect-Summit-2025?partnerref=web&_gl=1*gdn2ob*_gcl_au*MTk0NDI2OTI5Ny4xNzMzMTAzMjQ2*_ga*NTg4OTAxNjk4LjE3MzMxMDMyNDY.*_ga_Z7FCJ8MYEN*MTczNzgzNTI3OC40LjEuMTczNzgzODExMC42MC4wLjA.",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[5]/section/div/div/div/div[3]/div/div/div/div/a"
+    },
+    {
+        "IA2UniqueID": -38865,
+        "nvda_name": "Learn more about Lyric",
+        "nvda_value": "https://www.adp.com/what-we-offer/products/lyric.aspx",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[6]/section/div/button"
+    },
+    {
+        "IA2UniqueID": -40018,
+        "nvda_name": "Previous",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[6]/section/div/button[2]"
+    },
+    {
+        "IA2UniqueID": -40020,
+        "nvda_name": "Next",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li/button"
+    },
+    {
+        "IA2UniqueID": -40022,
+        "nvda_name": "Go to slide 1",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li[2]/button"
+    },
+    {
+        "IA2UniqueID": -40025,
+        "nvda_name": "Go to slide 2",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li[3]/button"
+    },
+    {
+        "IA2UniqueID": -40028,
+        "nvda_name": "Go to slide 3",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li[4]/button"
+    },
+    {
+        "IA2UniqueID": -40031,
+        "nvda_name": "Go to slide 4",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[7]/div/div/p[2]/a"
+    },
+    {
+        "IA2UniqueID": -38905,
+        "nvda_name": "Watch Now",
+        "nvda_value": "https://www.youtube-nocookie.com/embed/CTGu8p5Tm0Q?amp;autoplay=1&rel=0&hd=1&enablejsapi=1",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[7]/div[2]/a"
+    },
+    {
+        "IA2UniqueID": -38912,
+        "nvda_name": "Small Business",
+        "nvda_value": "https://www.adp.com/resources/search-results.aspx#sort=relevancy&f:@facetsegmentgroupbusinesssiz122xe=[Under%2049%20Employees]&f:@facetsegmentgrouprhresourceassettype=[Case%20Study]",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[7]/div[2]/a[2]"
+    },
+    {
+        "IA2UniqueID": -38914,
+        "nvda_name": "Midsized Business",
+        "nvda_value": "https://www.adp.com/resources/search-results.aspx#sort=relevancy&f:@facetsegmentgroupbusinesssiz122xe=[50%20-%20999%20Employees]&f:@facetsegmentgrouprhresourceassettype=[Case%20Study]",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[7]/div[2]/a[3]"
+    },
+    {
+        "IA2UniqueID": -38916,
+        "nvda_name": "Large Business",
+        "nvda_value": "https://www.adp.com/resources/search-results.aspx#sort=relevancy&f:@facetsegmentgroupbusinesssiz122xe=[1000%2B%20Employees]&f:@facetsegmentgrouprhresourceassettype=[Case%20Study]",
+        "nvda_states": [
+            "VISITED (2048)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div[6]/div[8]/div/div/p[2]/a"
+    }
+]
