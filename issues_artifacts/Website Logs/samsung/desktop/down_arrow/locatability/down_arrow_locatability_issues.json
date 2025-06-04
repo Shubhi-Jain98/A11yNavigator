@@ -1,4 +1,239 @@
 {
-    "count of missing paths": 0,
-    "missing paths": null
+    "count of missing paths": 26,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/a[1]",
+            "text": "Accessible Carousel",
+            "aria-label": "Accessible Carousel",
+            "id": "ae-carousel-button-0",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/#"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Learn more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/tvs/vision-ai-tv/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Shop now",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/televisions-home-theater/tvs/all-tvs/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Shop all phone deals",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/shop/all-deals/cell-phone-deals/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[2]/button[1]",
+            "text": "Previous",
+            "aria-label": "Previous slide",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[2]/button[2]",
+            "text": "Next",
+            "aria-label": "Next slide",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/button[1]",
+            "text": "stop",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[3]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[4]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[6]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[17]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Learn more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/monitors/odyssey-gaming-monitor/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "terms and conditions",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/trade-in/terms-and-conditions/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[3]/div[1]/a[2]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[5]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[6]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[8]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[9]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[10]/div[1]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "p",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[11]/p[1]",
+            "text": "Computing Disclosures:",
+            "aria-label": "Computing Disclosures:",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[11]/div[1]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[11]/div[2]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "p",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[12]/p[1]",
+            "text": "Monitor & Memory Disclosures:",
+            "aria-label": "Monitor & Memory Disclosures:",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[12]/div[1]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        }
+    ]
 }

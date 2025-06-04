@@ -7,14 +7,16 @@
             "text": "",
             "aria-label": "",
             "id": "unav-l1-logo",
+            "placeholder": null,
             "href": "https://www.capitalone.com/"
         },
         {
             "tag_name": "input",
             "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/homepage-sign-in[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[2]/div[2]/div[2]/div[1]/div[1]/input[1]",
-            "text": "",
+            "text": "on",
             "aria-label": "",
             "id": "rememberMe",
+            "placeholder": "",
             "href": ""
         },
         {
@@ -23,6 +25,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "javascript:void(0)"
         }
     ]

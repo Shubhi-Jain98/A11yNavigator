@@ -1,1001 +1,1770 @@
 {
     "count by default selenium driver": 368,
-    "total_count based on actionable selectors": 199,
+    "total_count based on actionable selectors": 196,
     "actionableElements": [
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[1]/div[1]/div[2]/a[1]",
-            "text": ""
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/"
         },
         {
             "tag_name": "input",
             "xpath": "/body[1]/div[2]/div[2]/div[1]/div[1]/span[1]/input[1]",
-            "text": ""
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": "Search perfumes, brands, news...",
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[2]/ul[1]/li[4]/a[1]",
-            "text": "news"
+            "text": "news",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[2]/ul[1]/li[5]/a[1]",
-            "text": "perfumes"
+            "text": "perfumes",
+            "aria-label": "Perfumes",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/search/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[2]/ul[1]/li[6]/a[1]",
-            "text": "notes"
+            "text": "notes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/notes/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[2]/ul[1]/li[7]/a[1]",
-            "text": "perfumers"
+            "text": "perfumers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/noses/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[2]/ul[1]/li[8]/a[1]",
-            "text": "forum"
+            "text": "forum",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/board/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[2]/ul[1]/li[9]/a[1]",
-            "text": "fragram"
+            "text": "fragram",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/fragram/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[2]/ul[1]/li[10]/a[1]",
-            "text": "about"
+            "text": "about",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/about-us.phtml"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Perfumer Christina Koutsoudaki Interview Part 2: \"Gourmands Are Here To Stay.\""
+            "text": "The Great Escape CPL Aromas: Seven Fragrances, Seven Countries",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/The-Great-Escape-CPL-Aromas-Seven-Fragrances-Seven-Countries-22498.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Bertrand Duchaufour Introduces L'Entropiste"
+            "text": "IFF Opens Citrus Innovation Center At Florida Polytechnic University",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/IFF-Opens-Citrus-Innovation-Center-At-Florida-Polytechnic-University-22497.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "DREAM By The Maker: A Review + 10% Off Code!"
+            "text": "How to Make a Great White Floral: Dior J'Adore L'Or",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/How-to-Make-a-Great-White-Floral-Dior-J-Adore-L-Or-22496.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]/a[1]",
-            "text": "KITSCH\nAmber Shores Hair Perfume"
+            "text": "Boy Smells\nSugar Baby",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Boy-Smells/Sugar-Baby-105790.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]",
-            "text": "KITSCH\nWarm Sugar Hair Perfume"
+            "text": "Boy Smells\nRosy Cheeks",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Boy-Smells/Rosy-Cheeks-105789.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[3]/a[1]",
-            "text": "KITSCH\nSheer Violet Hair Perfume"
+            "text": "In The Box\nBrandie 1848",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/In-The-Box/Brandie-1848-105785.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[4]/a[1]",
-            "text": "KITSCH\nPistachio Latte Hair Perfume"
+            "text": "Natura\nCereja Negra e Pralin\u00e9",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Natura/Cereja-Negra-e-Praline-105784.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[5]/a[1]",
-            "text": "Granado\nS\u00e2ndalo e Cardamomo"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[4]/div[2]/button[1]",
-            "text": "Previous"
+            "text": "Shay & Blue London\nDriftwood Sea Salt",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Shay-Blue-London/Driftwood-Sea-Salt-105782.html"
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[4]/div[2]/button[2]",
-            "text": "Next"
+            "text": "Next",
+            "aria-label": "Next",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Aromag \u5ca9\u5170 Presents Magnolia de Bleu \u9752\u6c34\u6728\u5170: A Fragrant Ode to All Magnolias"
+            "text": "Scents From Within: Perfumes of the Subconscious",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Scents-From-Within-Perfumes-of-the-Subconscious-22495.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[7]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Carthusia Presents the Intenso Collection, a Tribute to the Nature of the Mediterranean"
+            "text": "Iceberg Homme 2025: A Modern Take on Foug\u00e8re Classics",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Iceberg-Homme-2025-A-Modern-Take-on-Fougere-Classics-22494.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[8]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Interparfums, Inc. Bought Goutal Paris"
+            "text": "Sauvage Eau Forte: Interesting, But Dior Could Do Better",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Sauvage-Eau-Forte-Interesting-But-Dior-Could-Do-Better-22493.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[9]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Gucci Bloom Parfum: Husky Orange Blossom in the Dim Light of the Souk"
+            "text": "L.12.12 Silver Grey and Silver Rose by Lacoste",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/L-12-12-Silver-Grey-and-Silver-Rose-by-Lacoste-22492.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[10]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "PIGMENTARIUM Brutal"
+            "text": "Vintage Kypre Lanc\u00f4me",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Vintage-Kypre-Lancome-22491.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[11]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "What Editors Are Wearing In Spring 2025"
+            "text": "Robert Piguet Notes: Orange Blossom Phallus",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Robert-Piguet-Notes-Orange-Blossom-Phallus-22490.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[12]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Salvatore Ferragamo Fiamma Eau de Parfum"
+            "text": "Vanilla Park by Maison Tahit\u00e9",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Vanilla-Park-by-Maison-Tahite-22489.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[13]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Spotlight on the \"Pearl of the Orient\" With Shanghai le Soir From Cherigan Paris"
+            "text": "Cloon Keen Atelier: Rugged Rugby Rose",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Cloon-Keen-Atelier-Rugged-Rugby-Rose-22488.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[14]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Vilhelm\u2019s Do Not Disturb: Plush Sheets, Hotel Carpeting, & Stale Room Service"
+            "text": "SALUM Tropical Juice: Cocoyster Bananita, Cocoyster Carambola and Cocoyster Moorea Guava",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/SALUM-Tropical-Juice-Cocoyster-Bananita-Cocoyster-Carambola-and-Cocoyster-Moorea-Guava-22487.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[15]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "The Elegant Parisian Homage of Marst\u00e9"
+            "text": "Perfumed Horoscope: April 21 - April 27",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Perfumed-Horoscope-April-21-April-27-22486.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[16]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Svensk Parfym: Niche Done With Scandinavian Style"
+            "text": "HAPPY EASTER!",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/HAPPY-EASTER-22484.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[18]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Italians Do It Better: A Journey to Discover the Italian Olfactory Identity"
+            "text": "GANT Women Collection: Preppy Rose and Sunset Club",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/GANT-Women-Collection-Preppy-Rose-and-Sunset-Club-22485.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[19]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "MANCERA Xplicit Vanilla"
+            "text": "Purpose 50 by Amouage: In Search of the Perfect Incense",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Purpose-50-by-Amouage-In-Search-of-the-Perfect-Incense-22482.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[20]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Against the Gourmand Trend: Why WOOT\u2019s Industrial Aesthetic Is Captivating Attention"
+            "text": "Navitus Introduce The Reverie Collection",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Navitus-Introduce-The-Reverie-Collection-22483.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[21]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "MANCERA Intense Instant Crush"
+            "text": "Eight Vivid Colors of Perroy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Eight-Vivid-Colors-of-Perroy-22481.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[22]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Esxence 2025: The Alchemist\u2019s Dream by Wesker"
+            "text": "DKNY Be Delicious Ice Pop: The Joy of Summer",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/DKNY-Be-Delicious-Ice-Pop-The-Joy-of-Summer-22480.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[23]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Six New Fragrances From Dzintars"
+            "text": "L'Atelier Parfum Hair and Body Mist Collection",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/L-Atelier-Parfum-Hair-and-Body-Mist-Collection-22479.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[24]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Esxence 2025: New Releases from Frassa\u00ef, Rosae Virtus, and The Gate Fragrances"
+            "text": "Gardens, Forests and French Sophistication in Racyne Fragrances",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Gardens-Forests-and-French-Sophistication-in-Racyne-Fragrances-22478.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[25]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Fragrance Phrases We Can't Stand"
+            "text": "Rosa Verde: A New Aqua Allegoria With a Soothing, Botanical Scent",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Rosa-Verde-A-New-Aqua-Allegoria-With-a-Soothing-Botanical-Scent-22477.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[26]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Underground Vibes Laboratorio Olfattivo: Antoine Lie and the Underground Dwellers"
+            "text": "Favorite Floral Fragrances for Spring",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Favorite-Floral-Fragrances-for-Spring-22476.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[27]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Guidance and Reflection: Renaud Salmon on Five Years at Amouage"
+            "text": "Touchland Body Mists: A Review",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Touchland-Body-Mists-A-Review-22475.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[28]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Desert Of My Heart By Synonyme: In A Gloomy Desert, I Wandered"
+            "text": "Frapin\u2019s Nevermore: Lightning & Resurrection Amidst The Cemetery",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Frapin-s-Nevermore-Lightning-Resurrection-Amidst-The-Cemetery-22474.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[29]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "ESXENCE 2025: Pesade from South Korea"
+            "text": "Seasonal Scents for Sadbois: Spring Edition",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Seasonal-Scents-for-Sadbois-Spring-Edition-22473.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[30]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Perfume Journeys to Nepal and Jamaica with the New La Closerie des Parfums Collection"
+            "text": "Anelo Pernoire: The Spirit Of Adventure",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Anelo-Pernoire-The-Spirit-Of-Adventure-22472.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[31]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Montale Arabians Rose Leather: Leather, Labdanum, The Moon"
+            "text": "Sisters B4 Misters by Jusbox",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Sisters-B4-Misters-by-Jusbox-22471.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[32]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Perfumed Horoscope: March 17 - March 23"
+            "text": "Sarah Jessica Parker SJP Parfum Collection",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Sarah-Jessica-Parker-SJP-Parfum-Collection-22470.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[33]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Forbidden Love from Florence: Amore Proibito by Simone Cosac Profumi"
+            "text": "Orto Parisi's Risvelium: The Wall of Sound",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Orto-Parisi-s-Risvelium-The-Wall-of-Sound-22469.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[34]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Montale Oud Sapparot: Sweet Smoke and Pineapple"
+            "text": "PEOSYM Launched Mithai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/PEOSYM-Launched-Mithai-22468.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[35]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Cr\u00e8me \u00c9b\u00e8ne by Nicolai Parfumeur Createur: Soft, Very Soft"
+            "text": "The Scentree Website Gets a Makeover",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/The-Scentree-Website-Gets-a-Makeover-22467.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[1]/div[1]/div[1]/div[36]/div[1]/div[2]/h3[1]/a[1]",
-            "text": "Lumi Meraviglianza and Caff\u00e8 Letterario"
+            "text": "Magnolia de Bleu: A Subtle and Brilliant Soliflore",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Magnolia-de-Bleu-A-Subtle-and-Brilliant-Soliflore-22466.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[2]/div[2]/div[1]/div[1]/div[1]/a[1]",
-            "text": "KITSCH\nAmber Shores Hair Perfume"
+            "text": "Boy Smells\nSugar Baby",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Boy-Smells/Sugar-Baby-105790.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[2]/div[2]/div[1]/div[1]/div[2]/a[1]",
-            "text": "KITSCH\nWarm Sugar Hair Perfume"
+            "text": "Boy Smells\nRosy Cheeks",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Boy-Smells/Rosy-Cheeks-105789.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[2]/div[2]/div[1]/div[1]/div[3]/a[1]",
-            "text": "KITSCH\nSheer Violet Hair Perfume"
+            "text": "In The Box\nBrandie 1848",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/In-The-Box/Brandie-1848-105785.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[2]/div[2]/div[1]/div[1]/div[4]/a[1]",
-            "text": "KITSCH\nPistachio Latte Hair Perfume"
+            "text": "Natura\nCereja Negra e Pralin\u00e9",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Natura/Cereja-Negra-e-Praline-105784.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[2]/div[2]/div[1]/div[1]/div[5]/a[1]",
-            "text": "Granado\nS\u00e2ndalo e Cardamomo"
+            "text": "Shay & Blue London\nDriftwood Sea Salt",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Shay-Blue-London/Driftwood-Sea-Salt-105782.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[2]/div[2]/div[1]/div[1]/div[6]/a[1]",
-            "text": "Eudora\nInstance Baunilha Glow"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[2]/div[2]/div[4]/div[2]/div[2]/button[1]",
-            "text": "Previous"
+            "text": "19-69\nSan Pedro",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/19-69/San-Pedro-105781.html"
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[2]/div[2]/button[2]",
-            "text": "Next"
+            "text": "Next",
+            "aria-label": "Next",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[1]/a[1]",
-            "text": "Interviews"
+            "text": "Fragrances and Cultures",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Fragrances-and-Cultures/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[2]/a[1]",
-            "text": "Art Books Events"
+            "text": "Raw Materials",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Raw-Materials/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[3]/a[1]",
-            "text": "Fragrance Reviews"
+            "text": "1001 Past Tales",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/1001-Past-Tales/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[4]/a[1]",
-            "text": "Fragrance News"
+            "text": "Columns",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Columns/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[5]/a[1]",
-            "text": "Niche Perfumery"
+            "text": "New Fragrances",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/New-Fragrances/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[6]/a[1]",
-            "text": "New Fragrances"
+            "text": "Fragrance Reviews",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Fragrance-Reviews/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[7]/a[1]",
-            "text": "Fragrantica"
+            "text": "Vintages",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Vintages/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[8]/a[1]",
-            "text": "Fragrances and Cultures"
+            "text": "Niche Perfumery",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Niche-Perfumery/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[9]/a[1]",
-            "text": "Columns"
+            "text": "Art Books Events",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Art-Books-Events/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[10]/a[1]",
-            "text": "Vintages"
+            "text": "Fragrance News",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Fragrance-News/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[11]/a[1]",
-            "text": "Fragrantica Talks"
+            "text": "Perfume Ads",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Perfume-Ads/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[12]/a[1]",
-            "text": "Raw Materials"
+            "text": "Fragrantica Talks",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Fragrantica-Talks/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[13]/a[1]",
-            "text": "Perfume Ads"
+            "text": "Bath & Body",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Bath-Body/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[14]/a[1]",
-            "text": "Substitute Scents"
+            "text": "Interviews",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Interviews/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[15]/a[1]",
-            "text": "First Fragrances"
+            "text": "Fragrantica",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Fragrantica/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[16]/a[1]",
-            "text": "1001 Past Tales"
+            "text": "Substitute Scents",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Substitute-Scents/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[17]/a[1]",
-            "text": "Scented Home & Garden"
+            "text": "First Fragrances",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/First-Fragrances/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[18]/a[1]",
-            "text": "Now in Stores"
+            "text": "Scented Home & Garden",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Scented-Home-Garden/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[19]/a[1]",
-            "text": "Flavour Fusions"
+            "text": "Now in Stores",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Now-in-Stores/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[20]/a[1]",
-            "text": "Food & Drinks"
+            "text": "Flavour Fusions",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Flavour-Fusions/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[21]/a[1]",
-            "text": "Original vs Flanker"
+            "text": "Food & Drinks",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Food-Drinks/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[22]/a[1]",
-            "text": "Dear Fragrantica (Advice)"
+            "text": "Original vs Flanker",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Original-vs-Flanker/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[23]/a[1]",
-            "text": "Bargain Fragrances"
+            "text": "Dear Fragrantica (Advice)",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Dear-Fragrantica-Advice-/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[24]/a[1]",
-            "text": "Natural Perfumes"
+            "text": "Bargain Fragrances",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Bargain-Fragrances/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[25]/a[1]",
-            "text": "Bath & Body"
+            "text": "Natural Perfumes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Natural-Perfumes/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[26]/a[1]",
-            "text": "Best in Show"
+            "text": "Best in Show",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Best-in-Show/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[27]/a[1]",
-            "text": "News Roundup"
+            "text": "News Roundup",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/News-Roundup/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[28]/a[1]",
-            "text": "Weekend Movies"
+            "text": "Weekend Movies",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Weekend-Movies/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[4]/div[29]/a[1]",
-            "text": "Perfumers"
+            "text": "Perfumers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/news/Perfumers/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[5]/div[2]/div[1]/div[1]/div[1]/a[1]",
-            "text": "Kappa\nPink"
+            "text": "Jequiti\nCollection Patchouli em Dubai",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Jequiti/Collection-Patchouli-em-Dubai-105788.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Kristin Ess Hair\nTranslucence Three Hair Perfume"
+            "text": "Jequiti\nCollection Lavanda em Paris",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Jequiti/Collection-Lavanda-em-Paris-105787.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[5]/div[2]/div[1]/div[1]/div[3]/a[1]",
-            "text": "Kristin Ess Hair\nThe One Signature Hair Perfume"
+            "text": "Jequiti\nCollection Rosas no Jap\u00e3o",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Jequiti/Collection-Rosas-no-Japao-105786.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[5]/div[2]/div[1]/div[1]/div[4]/a[1]",
-            "text": "Milestone Perfumes\nMouj Iceage"
+            "text": "Alyssa Ashley\nWhite Patchouli",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Alyssa-Ashley/White-Patchouli-105783.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[5]/div[2]/div[1]/div[1]/div[5]/a[1]",
-            "text": "Ard Al Zaafaran\nCaramel Oud"
+            "text": "Paris Line Parfums\nKing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Paris-Line-Parfums/King-105764.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[5]/div[2]/div[1]/div[1]/div[6]/a[1]",
-            "text": "Ard Al Zaafaran\nCotton Candy Musk"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[2]/div[2]/div[4]/div[5]/div[2]/button[1]",
-            "text": "Previous"
+            "text": "SIU\nKEFI",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/SIU/KEFI-105762.html"
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[5]/div[2]/button[2]",
-            "text": "Next"
+            "text": "Next",
+            "aria-label": "Next",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[1]/div[1]/span[2]/a[1]",
-            "text": "Khamrah Lattafa Perfumes"
+            "text": "Khamrah Lattafa Perfumes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khamrah-75805.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[1]/div[2]/span[2]/a[1]",
-            "text": "Le Male Elixir Jean Paul Gaultier"
+            "text": "Le Male Elixir Jean Paul Gaultier",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Elixir-81642.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[1]/div[3]/span[2]/a[1]",
-            "text": "Angels' Share By Kilian"
+            "text": "Angels' Share By Kilian",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/By-Kilian/Angels-Share-62615.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[1]/div[4]/span[2]/a[1]",
-            "text": "Le Male Le Parfum Jean Paul Gaultier"
+            "text": "Le Male Le Parfum Jean Paul Gaultier",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Le-Parfum-61856.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[2]/div[1]/span[2]/a[1]",
-            "text": "XJ 1861 Naxos Xerjoff"
+            "text": "XJ 1861 Naxos Xerjoff",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Xerjoff/XJ-1861-Naxos-30529.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[2]/div[2]/span[2]/a[1]",
-            "text": "Emporio Armani Stronger With You Intensely Giorgio Armani"
+            "text": "Emporio Armani Stronger With You Intensely Giorgio Armani",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Intensely-52802.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[2]/div[3]/span[2]/a[1]",
-            "text": "By the Fireplace Maison Martin Margiela"
+            "text": "Le Beau Le Parfum Jean Paul Gaultier",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Beau-Le-Parfum-72158.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[2]/div[4]/span[2]/a[1]",
-            "text": "Le Beau Le Parfum Jean Paul Gaultier"
+            "text": "Y Eau de Parfum Yves Saint Laurent",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Y-Eau-de-Parfum-50757.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[3]/div[1]/span[2]/a[1]",
-            "text": "Y Eau de Parfum Yves Saint Laurent"
+            "text": "By the Fireplace Maison Martin Margiela",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Maison-Martin-Margiela/By-the-Fireplace-31623.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[3]/div[2]/span[2]/a[1]",
-            "text": "Bianco Latte Giardini Di Toscana"
+            "text": "Bianco Latte Giardini Di Toscana",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Giardini-Di-Toscana/Bianco-Latte-64757.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[3]/div[3]/span[2]/a[1]",
-            "text": "Dior Homme Intense 2011 Dior"
+            "text": "Dior Homme Intense 2011 Dior",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Dior/Dior-Homme-Intense-2011-13016.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[3]/div[4]/span[2]/a[1]",
-            "text": "9pm Afnan"
+            "text": "9pm Afnan",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Afnan/9pm-65414.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[4]/div[1]/span[2]/a[1]",
-            "text": "Baccarat Rouge 540 Maison Francis Kurkdjian"
+            "text": "Baccarat Rouge 540 Maison Francis Kurkdjian",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Maison-Francis-Kurkdjian/Baccarat-Rouge-540-33519.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[4]/div[2]/span[2]/a[1]",
-            "text": "Tobacco Vanille Tom Ford"
+            "text": "Tobacco Vanille Tom Ford",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Tom-Ford/Tobacco-Vanille-1825.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[4]/div[3]/span[2]/a[1]",
-            "text": "Goddess Burberry"
+            "text": "Jazz Club Maison Martin Margiela",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Maison-Martin-Margiela/Jazz-Club-20541.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[4]/div[4]/span[2]/a[1]",
-            "text": "Jazz Club Maison Martin Margiela"
+            "text": "Goddess Burberry",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Burberry/Goddess-83483.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[5]/div[1]/span[2]/a[1]",
-            "text": "Layton Parfums de Marly"
+            "text": "Layton Parfums de Marly",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Layton-39314.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[5]/div[2]/span[2]/a[1]",
-            "text": "Eros Versace"
+            "text": "Eros Versace",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Versace/Eros-16657.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[5]/div[3]/span[2]/a[1]",
-            "text": "Versace Pour Homme Dylan Blue Versace"
+            "text": "Club de Nuit Intense Man Armaf",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Intense-Man-34696.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[5]/div[4]/span[2]/a[1]",
-            "text": "Bleu de Chanel Eau de Parfum Chanel"
+            "text": "Bleu de Chanel Eau de Parfum Chanel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-Eau-de-Parfum-25967.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[6]/div[1]/span[2]/a[1]",
-            "text": "Devotion Dolce&Gabbana"
+            "text": "Versace Pour Homme Dylan Blue Versace",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Versace/Versace-Pour-Homme-Dylan-Blue-40031.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[6]/div[2]/span[2]/a[1]",
-            "text": "Club de Nuit Intense Man Armaf"
+            "text": "Khamrah Qahwa Lattafa Perfumes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khamrah-Qahwa-88175.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[6]/div[3]/span[2]/a[1]",
-            "text": "Spicebomb Extreme Viktor&Rolf"
+            "text": "Aventus Creed",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Creed/Aventus-9828.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[7]/div[6]/div[4]/span[2]/a[1]",
-            "text": "Aventus Creed"
+            "text": "Spicebomb Extreme Viktor&Rolf",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/perfume/Viktor-Rolf/Spicebomb-Extreme-30499.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[1]/div[1]/span[2]/a[1]",
-            "text": "Lattafa Perfumes"
+            "text": "Lattafa Perfumes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Lattafa-Perfumes.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[1]/div[2]/span[2]/a[1]",
-            "text": "Dior"
+            "text": "Dior",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Dior.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[1]/div[3]/span[2]/a[1]",
-            "text": "Tom Ford"
+            "text": "Tom Ford",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Tom-Ford.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[1]/div[4]/span[2]/a[1]",
-            "text": "Yves Saint Laurent"
+            "text": "Yves Saint Laurent",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Yves-Saint-Laurent.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[1]/div[5]/span[2]/a[1]",
-            "text": "Guerlain"
+            "text": "Guerlain",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Guerlain.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[2]/div[1]/span[2]/a[1]",
-            "text": "Giorgio Armani"
+            "text": "Giorgio Armani",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Giorgio-Armani.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[2]/div[2]/span[2]/a[1]",
-            "text": "Jean Paul Gaultier"
+            "text": "Xerjoff",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Xerjoff.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[2]/div[3]/span[2]/a[1]",
-            "text": "Xerjoff"
+            "text": "Jean Paul Gaultier",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Jean-Paul-Gaultier.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[2]/div[4]/span[2]/a[1]",
-            "text": "Chanel"
+            "text": "Chanel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Chanel.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[2]/div[5]/span[2]/a[1]",
-            "text": "Parfums de Marly"
+            "text": "Parfums de Marly",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Parfums-de-Marly.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[3]/div[1]/span[2]/a[1]",
-            "text": "Zara"
+            "text": "Zara",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Zara.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[3]/div[2]/span[2]/a[1]",
-            "text": "Versace"
+            "text": "Versace",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Versace.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[3]/div[3]/span[2]/a[1]",
-            "text": "Mancera"
+            "text": "Mancera",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Mancera.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[3]/div[4]/span[2]/a[1]",
-            "text": "By Kilian"
+            "text": "By Kilian",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/By-Kilian.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[3]/div[5]/span[2]/a[1]",
-            "text": "Dolce&Gabbana"
+            "text": "Dolce&Gabbana",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Dolce-Gabbana.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[4]/div[1]/span[2]/a[1]",
-            "text": "Amouage"
+            "text": "Amouage",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Amouage.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[4]/div[2]/span[2]/a[1]",
-            "text": "Rabanne"
+            "text": "Rabanne",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Rabanne.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[4]/div[3]/span[2]/a[1]",
-            "text": "Maison Martin Margiela"
+            "text": "Maison Martin Margiela",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Maison-Martin-Margiela.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[4]/div[4]/span[2]/a[1]",
-            "text": "Givenchy"
+            "text": "Givenchy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Givenchy.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[4]/div[5]/span[2]/a[1]",
-            "text": "Carolina Herrera"
+            "text": "Armaf",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Armaf.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[5]/div[1]/span[2]/a[1]",
-            "text": "Maison Francis Kurkdjian"
+            "text": "Carolina Herrera",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Carolina-Herrera.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[5]/div[2]/span[2]/a[1]",
-            "text": "Montale"
+            "text": "Maison Francis Kurkdjian",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Maison-Francis-Kurkdjian.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[5]/div[3]/span[2]/a[1]",
-            "text": "Armaf"
+            "text": "Montale",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Montale.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[5]/div[4]/span[2]/a[1]",
-            "text": "Valentino"
+            "text": "Maison Alhambra",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Maison-Alhambra.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[5]/div[5]/span[2]/a[1]",
-            "text": "Herm\u00e8s"
+            "text": "Valentino",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Valentino.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[6]/div[1]/span[2]/a[1]",
-            "text": "Prada"
+            "text": "Herm\u00e8s",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Hermes.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[6]/div[2]/span[2]/a[1]",
-            "text": "Maison Alhambra"
+            "text": "Prada",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Prada.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[6]/div[3]/span[2]/a[1]",
-            "text": "Mugler"
+            "text": "Mugler",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Mugler.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[6]/div[4]/span[2]/a[1]",
-            "text": "Creed"
+            "text": "Creed",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Creed.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[6]/div[5]/span[2]/a[1]",
-            "text": "Lanc\u00f4me"
+            "text": "Diptyque",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Diptyque.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[7]/div[1]/span[2]/a[1]",
-            "text": "Bath & Body Works"
+            "text": "Byredo",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Byredo.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[7]/div[2]/span[2]/a[1]",
-            "text": "Burberry"
+            "text": "Lanc\u00f4me",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Lancome.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[7]/div[3]/span[2]/a[1]",
-            "text": "Byredo"
+            "text": "Bath & Body Works",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Bath-Body-Works.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[7]/div[4]/span[2]/a[1]",
-            "text": "Diptyque"
+            "text": "Burberry",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Burberry.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[7]/div[5]/span[2]/a[1]",
-            "text": "Jo Malone London"
+            "text": "Jo Malone London",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Jo-Malone-London.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[8]/div[1]/span[2]/a[1]",
-            "text": "Gucci"
+            "text": "O Botic\u00e1rio",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/O-Boticario.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[8]/div[2]/span[2]/a[1]",
-            "text": "O Botic\u00e1rio"
+            "text": "Gucci",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Gucci.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[8]/div[3]/span[2]/a[1]",
-            "text": "Natura"
+            "text": "Louis Vuitton",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Louis-Vuitton.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[8]/div[4]/span[2]/a[1]",
-            "text": "Kayali Fragrances"
+            "text": "Natura",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Natura.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[8]/div[5]/span[2]/a[1]",
-            "text": "Nishane"
+            "text": "Kayali Fragrances",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Kayali-Fragrances.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[9]/div[1]/span[2]/a[1]",
-            "text": "Louis Vuitton"
+            "text": "Nishane",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Nishane.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[9]/div[2]/span[2]/a[1]",
-            "text": "Hugo Boss"
+            "text": "Hugo Boss",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Hugo-Boss.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[9]/div[3]/span[2]/a[1]",
-            "text": "Serge Lutens"
+            "text": "Afnan",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Afnan.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[9]/div[4]/span[2]/a[1]",
-            "text": "Victoria's Secret"
+            "text": "Serge Lutens",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Serge-Lutens.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[9]/div[5]/span[2]/a[1]",
-            "text": "Afnan"
+            "text": "Penhaligon's",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Penhaligon-s.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[10]/div[1]/span[2]/a[1]",
-            "text": "Penhaligon's"
+            "text": "Victoria's Secret",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Victoria-s-Secret.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[10]/div[2]/span[2]/a[1]",
-            "text": "Calvin Klein"
+            "text": "Calvin Klein",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Calvin-Klein.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[10]/div[3]/span[2]/a[1]",
-            "text": "Etat Libre d'Orange"
+            "text": "Etat Libre d'Orange",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Etat-Libre-d-Orange.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[10]/div[4]/span[2]/a[1]",
-            "text": "Initio Parfums Prives"
+            "text": "Initio Parfums Prives",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Initio-Parfums-Prives.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[10]/div[5]/span[2]/a[1]",
-            "text": "Bvlgari"
+            "text": "Bvlgari",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Bvlgari.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[11]/div[1]/span[2]/a[1]",
-            "text": "Azzaro"
+            "text": "Azzaro",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Azzaro.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[11]/div[2]/span[2]/a[1]",
-            "text": "Viktor&Rolf"
+            "text": "Frederic Malle",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Frederic-Malle.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[11]/div[3]/span[2]/a[1]",
-            "text": "Frederic Malle"
+            "text": "Viktor&Rolf",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Viktor-Rolf.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[11]/div[4]/span[2]/a[1]",
-            "text": "Zoologist Perfumes"
+            "text": "Zoologist Perfumes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Zoologist-Perfumes.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[11]/div[5]/span[2]/a[1]",
-            "text": "Narciso Rodriguez"
+            "text": "Narciso Rodriguez",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Narciso-Rodriguez.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[12]/div[1]/span[2]/a[1]",
-            "text": "Avon"
+            "text": "Le Labo",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Le-Labo.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[12]/div[2]/span[2]/a[1]",
-            "text": "Montblanc"
+            "text": "Avon",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Avon.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[12]/div[3]/span[2]/a[1]",
-            "text": "Le Labo"
+            "text": "Montblanc",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Montblanc.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[12]/div[4]/span[2]/a[1]",
-            "text": "Juliette Has A Gun"
+            "text": "Juliette Has A Gun",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Juliette-Has-A-Gun.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[9]/div[12]/div[5]/span[2]/a[1]",
-            "text": "Roja Dove"
+            "text": "Roja Dove",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/designers/Roja-Dove.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/a[1]",
-            "text": "Jump to the top"
+            "text": "Jump to the top",
+            "aria-label": "",
+            "id": "t6wmon-smooth-scroll",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/#app"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[1]",
-            "text": "Deutsch"
+            "text": "Deutsch",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.de/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[2]",
-            "text": "Espa\u00f1ol"
+            "text": "Espa\u00f1ol",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.es/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[3]",
-            "text": "Fran\u00e7ais"
+            "text": "Fran\u00e7ais",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.fr/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[4]",
-            "text": "\u010ce\u0161tina"
+            "text": "\u010ce\u0161tina",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.cz/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[5]",
-            "text": "Italiano"
+            "text": "Italiano",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.it/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[6]",
-            "text": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
+            "text": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.ru/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[7]",
-            "text": "Polski"
+            "text": "Polski",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.pl/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[8]",
-            "text": "Portugu\u00eas"
+            "text": "Portugu\u00eas",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com.br/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[9]",
-            "text": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            "text": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.gr/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[10]",
-            "text": "\u6c49\u8bed"
+            "text": "\u6c49\u8bed",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.asia/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[11]",
-            "text": "Nederlands"
+            "text": "Nederlands",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.nl/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[12]",
-            "text": "Srpski"
+            "text": "Srpski",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.punmiris.com/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[13]",
-            "text": "Rom\u00e2n\u0103"
+            "text": "Rom\u00e2n\u0103",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.ro/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[14]",
-            "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+            "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragranticarabia.com/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[15]",
-            "text": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"
+            "text": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.ua/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[16]",
-            "text": "\u041c\u043e\u043d\u0433\u043e\u043b"
+            "text": "\u041c\u043e\u043d\u0433\u043e\u043b",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.mn/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[1]/a[17]",
-            "text": "\u05e2\u05d1\u05e8\u05d9\u05ea"
+            "text": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.co.il/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[2]/a[1]",
-            "text": "Terms of Service"
+            "text": "Terms of Service",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/Terms-of-Service.phtml"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/p[2]/a[2]",
-            "text": "Privacy policy."
+            "text": "Privacy policy.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.fragrantica.com/privacy-policy.phtml"
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[2]/div[2]/div[4]/div[12]/button[1]",
-            "text": "Privacy Manager"
+            "text": "Privacy Manager",
+            "aria-label": "",
+            "id": "pmLink",
+            "placeholder": null,
+            "href": ""
         }
     ]
 }

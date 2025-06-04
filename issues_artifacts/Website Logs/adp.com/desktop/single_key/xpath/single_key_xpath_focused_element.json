@@ -1,593 +1,74 @@
 [
     {
-        "IA2UniqueID": -587,
-        "nvda_name": "Payroll, HR and Tax Services | ADP Official Site",
+        "IA2UniqueID": null,
+        "nvda_name": null,
         "nvda_value": null,
-        "nvda_states": [
-            "READONLY (128)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/div/a"
+        "nvda_states": null,
+        "xpath": "/html/body/header/div/div/div/div/div/div[2]/a",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -645,
-        "nvda_name": "Skip to main content",
-        "nvda_value": "https://www.adp.com/#main-content",
+        "IA2UniqueID": -28048,
+        "nvda_name": "Get Pricing",
+        "nvda_value": "https://www.adp.com/#",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/header/div/div/div/div/a"
+        "xpath": "/html/body/header/div/div/div/div/a",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -649,
-        "nvda_name": "ADP logo. To get missing image descriptions, open the context menu.",
+        "IA2UniqueID": -26608,
+        "nvda_name": "ADP logo",
         "nvda_value": "https://www.adp.com/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/header/div/div/div/div/nav/ul/li/a"
+        "xpath": "/html/body/div[6]/div[2]/section/div/div/div/div[2]/div/div/div/div/a",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -653,
-        "nvda_name": "What We Offer",
-        "nvda_value": "https://www.adp.com/what-we-offer.aspx",
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "LINKED (4096)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/header/div/div/div/div/nav/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -655,
-        "nvda_name": "Who We Serve",
-        "nvda_value": "https://www.adp.com/who-we-serve.aspx",
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "LINKED (4096)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/header/div/div/div/div/nav/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -657,
-        "nvda_name": "Why ADP",
-        "nvda_value": "https://www.adp.com/how-we-differ.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/div/div/div/div/nav/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -659,
-        "nvda_name": "Resources",
-        "nvda_value": "https://www.adp.com/resources.aspx",
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "LINKED (4096)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/header/div/div/div/div/nav/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -661,
-        "nvda_name": "About",
-        "nvda_value": "https://www.adp.com/about-adp.aspx",
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "LINKED (4096)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/header/div/div/div/div/div[2]/div/a"
-    },
-    {
-        "IA2UniqueID": -666,
-        "nvda_name": "Support",
-        "nvda_value": "https://www.adp.com/contact-us/customer-service.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/div/div/div/div/div[2]/div/a[2]"
-    },
-    {
-        "IA2UniqueID": -667,
-        "nvda_name": "Sign In",
-        "nvda_value": "https://login.adp.com/welcome",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/div/div[3]/div/span/strong/a"
-    },
-    {
-        "IA2UniqueID": -671,
-        "nvda_name": "844-246-2152",
-        "nvda_value": "tel:+18442462152",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/div/div[3]/div/a"
-    },
-    {
-        "IA2UniqueID": -591,
-        "nvda_name": "Get Pricing",
-        "nvda_value": "https://www.adp.com/#",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[2]/section/div/div/a"
-    },
-    {
-        "IA2UniqueID": -725,
-        "nvda_name": "Access self-guided demo for companies with 1-49 employees",
-        "nvda_value": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx?demoform=yes",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[2]/section/div/div/a[2]"
-    },
-    {
-        "IA2UniqueID": -726,
-        "nvda_name": "Access self-guided demo for companies with 50+ employees",
-        "nvda_value": "https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx?demoform=yes",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[3]/section/a"
-    },
-    {
-        "IA2UniqueID": -746,
-        "nvda_name": "Get Pricing",
-        "nvda_value": "https://www.adp.com/#",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -763,
-        "nvda_name": "Small business Payroll",
-        "nvda_value": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[2]"
-    },
-    {
-        "IA2UniqueID": -765,
-        "nvda_name": "Professional Employer Organization (PEO)",
-        "nvda_value": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo/professional-employer-organization.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[3]"
-    },
-    {
-        "IA2UniqueID": -766,
-        "nvda_name": "Time & Attendance",
-        "nvda_value": "https://www.adp.com/what-we-offer/time-and-attendance.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[4]"
-    },
-    {
-        "IA2UniqueID": -767,
-        "nvda_name": "Retirement",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/retirement.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[5]"
-    },
-    {
-        "IA2UniqueID": -768,
-        "nvda_name": "Health & Benefits",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/group-health-insurance.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[6]"
-    },
-    {
-        "IA2UniqueID": -769,
-        "nvda_name": "Workers' Comp",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance/workers-compensation.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[7]"
-    },
-    {
-        "IA2UniqueID": -590,
-        "nvda_name": "Business Tax Credits",
-        "nvda_value": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/small-business-tax-credits.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/div[2]/a[8]"
-    },
-    {
-        "IA2UniqueID": -770,
-        "nvda_name": "Business Insurance",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div/div/div/div/a"
-    },
-    {
-        "IA2UniqueID": -771,
-        "nvda_name": "MORE SMALL BUSINESS SOLUTIONS",
-        "nvda_value": "https://www.adp.com/#",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -781,
-        "nvda_name": "Midsized business Payroll",
-        "nvda_value": "https://www.adp.com/what-we-offer/payroll/payroll-for-50-1000-plus-employees.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[2]"
-    },
-    {
-        "IA2UniqueID": -783,
-        "nvda_name": "Professional Employer Organization (PEO)",
-        "nvda_value": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo/professional-employer-organization.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[3]"
-    },
-    {
-        "IA2UniqueID": -784,
-        "nvda_name": "Time & Attendance",
-        "nvda_value": "https://www.adp.com/what-we-offer/time-and-attendance.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[4]"
-    },
-    {
-        "IA2UniqueID": -785,
-        "nvda_name": "Retirement",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/retirement.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[5]"
-    },
-    {
-        "IA2UniqueID": -786,
-        "nvda_name": "Benefits Administration",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/benefits-administration.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[6]"
-    },
-    {
-        "IA2UniqueID": -787,
-        "nvda_name": "Health & Benefits",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/group-health-insurance.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[7]"
-    },
-    {
-        "IA2UniqueID": -788,
-        "nvda_name": "Workers' Comp",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance/workers-compensation.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[8]"
-    },
-    {
-        "IA2UniqueID": -789,
-        "nvda_name": "Standalone Compliance Services",
-        "nvda_value": "https://www.adp.com/what-we-offer/products/adp-smartcompliance.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/div[2]/a[9]"
-    },
-    {
-        "IA2UniqueID": -790,
-        "nvda_name": "Business Insurance",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[2]/div/div/div/a"
-    },
-    {
-        "IA2UniqueID": -791,
-        "nvda_name": "MORE MIDSIZED BUSINESS SOLUTIONS",
-        "nvda_value": "https://www.adp.com/#",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -802,
-        "nvda_name": "Integrated HCM",
-        "nvda_value": "https://www.adp.com/who-we-serve/by-business-size/1000-employees/solutions.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[2]"
-    },
-    {
-        "IA2UniqueID": -803,
-        "nvda_name": "Large business Payroll",
-        "nvda_value": "https://www.adp.com/what-we-offer/payroll/payroll-for-50-1000-plus-employees.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[3]"
-    },
-    {
-        "IA2UniqueID": -805,
-        "nvda_name": "Workforce Management",
-        "nvda_value": "https://www.adp.com/what-we-offer/time-and-attendance/workforce-management.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[4]"
-    },
-    {
-        "IA2UniqueID": -806,
-        "nvda_name": "Retirement",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/retirement.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[5]"
-    },
-    {
-        "IA2UniqueID": -807,
-        "nvda_name": "Benefits Administration",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/benefits-administration.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[6]"
-    },
-    {
-        "IA2UniqueID": -808,
-        "nvda_name": "Health & Benefits",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/group-health-insurance.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[7]"
-    },
-    {
-        "IA2UniqueID": -809,
-        "nvda_name": "Workers' Comp",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance/workers-compensation.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[8]"
-    },
-    {
-        "IA2UniqueID": -810,
-        "nvda_name": "Talent Acquisition",
-        "nvda_value": "https://www.adp.com/what-we-offer/talent/talent-acquisition.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[9]"
-    },
-    {
-        "IA2UniqueID": -592,
-        "nvda_name": "Standalone Compliance Services",
-        "nvda_value": "https://www.adp.com/what-we-offer/products/adp-smartcompliance.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/div[2]/a[10]"
-    },
-    {
-        "IA2UniqueID": -811,
-        "nvda_name": "Business Insurance",
-        "nvda_value": "https://www.adp.com/what-we-offer/benefits/business-insurance.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[4]/section/div/div/div/div[3]/div/div/div/a"
-    },
-    {
-        "IA2UniqueID": -812,
-        "nvda_name": "MORE LARGE BUSINESS SOLUTIONS",
-        "nvda_value": "https://www.adp.com/#",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[5]/section/div/div/div/div/div/div/div/div/a"
-    },
-    {
-        "IA2UniqueID": -827,
+        "IA2UniqueID": -26683,
         "nvda_name": "The latest issue of Today at Work from ADP Research",
-        "nvda_value": "https://www.adpresearch.com/today-at-work/q4-2024/",
+        "nvda_value": "https://www.adpresearch.com/today-at-work/issue1-2025/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[5]/section/div/div/div/div[2]/div/div/div/div/a"
+        "xpath": "/html/body/div[6]/div[4]/section/div[2]/div/div/div/div/div/div/div/div/a",
+        "key_interactions": 3
     },
     {
-        "IA2UniqueID": -837,
-        "nvda_name": "Download Now",
-        "nvda_value": "https://www.adp.com/resources/articles-and-insights/articles/h/hr-trends-guidebook.aspx",
+        "IA2UniqueID": -27918,
+        "nvda_name": "See case study",
+        "nvda_value": "https://www.adp.com/resources/what-others-say/testimonials/f/from-drains-to-granite-state-sewer.aspx",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[5]/section/div/div/div/div[3]/div/div/div/div/a"
+        "xpath": "/html/body/div[6]/div[5]/div/div/p[2]/a",
+        "key_interactions": 4
     },
     {
-        "IA2UniqueID": -846,
-        "nvda_name": "Learn more about Lyric",
-        "nvda_value": "https://www.adp.com/what-we-offer/products/lyric.aspx",
+        "IA2UniqueID": -26759,
+        "nvda_name": "855-969-9256",
+        "nvda_value": "tel:+18559699256",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[7]/div/div/p[2]/a"
+        "xpath": "/html/body/div[6]/div[5]/div/div[2]/div/form/div[10]/p/a",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -904,
-        "nvda_name": "Watch Now",
-        "nvda_value": "https://www.youtube-nocookie.com/embed/CTGu8p5Tm0Q?amp;autoplay=1&rel=0&hd=1&enablejsapi=1",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[7]/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -911,
-        "nvda_name": "Small Business",
-        "nvda_value": "https://www.adp.com/resources/search-results.aspx#sort=relevancy&f:@facetsegmentgroupbusinesssiz122xe=[Under%2049%20Employees]&f:@facetsegmentgrouprhresourceassettype=[Case%20Study]",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[7]/div[2]/a[2]"
-    },
-    {
-        "IA2UniqueID": -913,
-        "nvda_name": "Midsized Business",
-        "nvda_value": "https://www.adp.com/resources/search-results.aspx#sort=relevancy&f:@facetsegmentgroupbusinesssiz122xe=[50%20-%20999%20Employees]&f:@facetsegmentgrouprhresourceassettype=[Case%20Study]",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[7]/div[2]/a[3]"
-    },
-    {
-        "IA2UniqueID": -915,
-        "nvda_name": "Large Business",
-        "nvda_value": "https://www.adp.com/resources/search-results.aspx#sort=relevancy&f:@facetsegmentgroupbusinesssiz122xe=[1000%2B%20Employees]&f:@facetsegmentgrouprhresourceassettype=[Case%20Study]",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[9]/div/div/p[2]/a"
-    },
-    {
-        "IA2UniqueID": -1186,
-        "nvda_name": "844-246-2152",
-        "nvda_value": "tel:+18442462152",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[10]/p/a"
-    },
-    {
-        "IA2UniqueID": -1581,
+        "IA2UniqueID": -28086,
         "nvda_name": "Privacy Statement",
         "nvda_value": "https://www.adp.com/privacy.aspx",
         "nvda_states": [
@@ -595,10 +76,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[10]/p/a[2]"
+        "xpath": "/html/body/div[6]/div[5]/div/div[2]/div/form/div[10]/p/a[2]",
+        "key_interactions": 6
     },
     {
-        "IA2UniqueID": -1582,
+        "IA2UniqueID": -28087,
         "nvda_name": "Terms of Use",
         "nvda_value": "https://www.adp.com/legal.aspx",
         "nvda_states": [
@@ -606,10 +88,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[3]/p/a"
+        "xpath": "/html/body/div[6]/div[5]/div/div[3]/p/a",
+        "key_interactions": 7
     },
     {
-        "IA2UniqueID": -1589,
+        "IA2UniqueID": -27144,
         "nvda_name": "privacy",
         "nvda_value": "https://www.adp.com/privacy.aspx",
         "nvda_states": [
@@ -617,10 +100,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/ul/li/a"
+        "xpath": "/html/body/footer/nav/div/ul/li/a",
+        "key_interactions": 8
     },
     {
-        "IA2UniqueID": -1595,
+        "IA2UniqueID": -27657,
         "nvda_name": "Contact Us",
         "nvda_value": "https://www.adp.com/contact-us/customer-service.aspx",
         "nvda_states": [
@@ -628,21 +112,23 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/ul/li[2]/a"
+        "xpath": "/html/body/footer/nav/div/ul/li[2]/a",
+        "key_interactions": 9
     },
     {
-        "IA2UniqueID": -1597,
-        "nvda_name": "Talk to Sales \u2014 844-246-2152",
-        "nvda_value": "tel:+18442462152",
+        "IA2UniqueID": -27659,
+        "nvda_name": "Talk to Sales \u2014 855-969-9256",
+        "nvda_value": "tel:+18559699256",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/ul/li[3]/a"
+        "xpath": "/html/body/footer/nav/div/ul/li[3]/a",
+        "key_interactions": 10
     },
     {
-        "IA2UniqueID": -1599,
+        "IA2UniqueID": -27661,
         "nvda_name": "Get Support",
         "nvda_value": "https://www.adp.com/contact-us/customer-service.aspx",
         "nvda_states": [
@@ -650,10 +136,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/ul/li[4]/a"
+        "xpath": "/html/body/footer/nav/div/ul/li[4]/a",
+        "key_interactions": 11
     },
     {
-        "IA2UniqueID": -1601,
+        "IA2UniqueID": -27663,
         "nvda_name": "Sign In",
         "nvda_value": "https://login.adp.com/welcome",
         "nvda_states": [
@@ -661,10 +148,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[2]/ul/li/a"
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/a",
+        "key_interactions": 12
     },
     {
-        "IA2UniqueID": -1605,
+        "IA2UniqueID": -27667,
         "nvda_name": "What We Offer",
         "nvda_value": "https://www.adp.com/what-we-offer.aspx",
         "nvda_states": [
@@ -672,10 +160,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li/a"
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li/a",
+        "key_interactions": 13
     },
     {
-        "IA2UniqueID": -1608,
+        "IA2UniqueID": -27670,
         "nvda_name": "Payroll",
         "nvda_value": "https://www.adp.com/what-we-offer/payroll.aspx",
         "nvda_states": [
@@ -683,10 +172,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[2]/a"
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[2]/a",
+        "key_interactions": 14
     },
     {
-        "IA2UniqueID": -1610,
+        "IA2UniqueID": -27672,
         "nvda_name": "Time and Attendance",
         "nvda_value": "https://www.adp.com/what-we-offer/time-and-attendance.aspx",
         "nvda_states": [
@@ -694,10 +184,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[3]/a"
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[3]/a",
+        "key_interactions": 15
     },
     {
-        "IA2UniqueID": -1612,
+        "IA2UniqueID": -27674,
         "nvda_name": "Talent",
         "nvda_value": "https://www.adp.com/what-we-offer/talent.aspx",
         "nvda_states": [
@@ -705,10 +196,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[4]/a"
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[4]/a",
+        "key_interactions": 16
     },
     {
-        "IA2UniqueID": -1614,
+        "IA2UniqueID": -27676,
         "nvda_name": "Benefits",
         "nvda_value": "https://www.adp.com/what-we-offer/benefits.aspx",
         "nvda_states": [
@@ -716,10 +208,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[5]/a"
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[5]/a",
+        "key_interactions": 17
     },
     {
-        "IA2UniqueID": -1616,
+        "IA2UniqueID": -27678,
         "nvda_name": "HR Services",
         "nvda_value": "https://www.adp.com/what-we-offer/hr-services.aspx",
         "nvda_states": [
@@ -727,10 +220,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[6]/a"
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[6]/a",
+        "key_interactions": 18
     },
     {
-        "IA2UniqueID": -1618,
+        "IA2UniqueID": -27680,
         "nvda_name": "HR Outsourcing and PEO",
         "nvda_value": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo.aspx",
         "nvda_states": [
@@ -738,10 +232,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[7]/a"
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[7]/a",
+        "key_interactions": 19
     },
     {
-        "IA2UniqueID": -1620,
+        "IA2UniqueID": -27682,
         "nvda_name": "Integrations",
         "nvda_value": "https://www.adp.com/what-we-offer/integrations.aspx",
         "nvda_states": [
@@ -749,10 +244,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[8]/a"
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[8]/a",
+        "key_interactions": 20
     },
     {
-        "IA2UniqueID": -1622,
+        "IA2UniqueID": -27684,
         "nvda_name": "App Marketplace",
         "nvda_value": "https://www.adp.com/what-we-offer/marketplace.aspx",
         "nvda_states": [
@@ -760,10 +256,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[9]/a"
+        "xpath": "/html/body/footer/nav/div[2]/ul/li/ul/li[9]/a",
+        "key_interactions": 21
     },
     {
-        "IA2UniqueID": -1624,
+        "IA2UniqueID": -27686,
         "nvda_name": "Products by Name",
         "nvda_value": "https://www.adp.com/what-we-offer/products.aspx",
         "nvda_states": [
@@ -771,10 +268,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[3]/ul/li/a"
+        "xpath": "/html/body/footer/nav/div[3]/ul/li/a",
+        "key_interactions": 22
     },
     {
-        "IA2UniqueID": -1628,
+        "IA2UniqueID": -27690,
         "nvda_name": "Who We Serve",
         "nvda_value": "https://www.adp.com/who-we-serve.aspx",
         "nvda_states": [
@@ -782,10 +280,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[3]/ul/li/ul/li/a"
+        "xpath": "/html/body/footer/nav/div[3]/ul/li/ul/li/a",
+        "key_interactions": 23
     },
     {
-        "IA2UniqueID": -1631,
+        "IA2UniqueID": -27693,
         "nvda_name": "Business Size",
         "nvda_value": "https://www.adp.com/who-we-serve/by-business-size.aspx",
         "nvda_states": [
@@ -793,10 +292,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[3]/ul/li/ul/li[2]/a"
+        "xpath": "/html/body/footer/nav/div[3]/ul/li/ul/li[2]/a",
+        "key_interactions": 24
     },
     {
-        "IA2UniqueID": -1633,
+        "IA2UniqueID": -27695,
         "nvda_name": "Industry",
         "nvda_value": "https://www.adp.com/who-we-serve/by-industry.aspx",
         "nvda_states": [
@@ -804,10 +304,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[3]/ul/li/ul/li[3]/a"
+        "xpath": "/html/body/footer/nav/div[3]/ul/li/ul/li[3]/a",
+        "key_interactions": 25
     },
     {
-        "IA2UniqueID": -1635,
+        "IA2UniqueID": -27697,
         "nvda_name": "Partners",
         "nvda_value": "https://www.adp.com/who-we-serve/by-partner.aspx",
         "nvda_states": [
@@ -815,10 +316,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[4]/ul/li/a"
+        "xpath": "/html/body/footer/nav/div[4]/ul/li/a",
+        "key_interactions": 26
     },
     {
-        "IA2UniqueID": -1639,
+        "IA2UniqueID": -27701,
         "nvda_name": "Resources",
         "nvda_value": "https://www.adp.com/resources.aspx",
         "nvda_states": [
@@ -826,418 +328,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div[4]/ul/li/ul/li/a"
+        "xpath": "/html/body/footer/nav/div[4]/ul/li/ul/li/a",
+        "key_interactions": 27
     },
     {
-        "IA2UniqueID": -1642,
-        "nvda_name": "Small Business Resources",
-        "nvda_value": "https://www.adp.com/resources/small-business.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[4]/ul/li/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -1644,
-        "nvda_name": "Midsized & Enterprise Business Resources",
-        "nvda_value": "https://www.adp.com/resources/midsized-enterprise.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[4]/ul/li/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -1646,
-        "nvda_name": "Tools",
-        "nvda_value": "https://www.adp.com/resources/tools.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[4]/ul/li/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -1648,
-        "nvda_name": "Webinars & Events",
-        "nvda_value": "https://www.adp.com/resources/events.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -1652,
-        "nvda_name": "About ADP",
-        "nvda_value": "https://www.adp.com/about-adp.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -1655,
-        "nvda_name": "Worldwide Locations",
-        "nvda_value": "https://www.adp.com/worldwide-locations.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -1657,
-        "nvda_name": "Careers",
-        "nvda_value": "https://jobs.adp.com/?rb=ADP_COM",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -1659,
-        "nvda_name": "Corporate Social Responsibility",
-        "nvda_value": "https://www.adp.com/about-adp/corporate-social-responsibility.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -1661,
-        "nvda_name": "Awards and Recognition",
-        "nvda_value": "https://www.adp.com/about-adp/awards-and-recognition.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -1663,
-        "nvda_name": "Leadership",
-        "nvda_value": "https://www.adp.com/about-adp/leadership.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -1665,
-        "nvda_name": "Data Security",
-        "nvda_value": "https://www.adp.com/about-adp/data-security.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -1667,
-        "nvda_name": "Data Privacy",
-        "nvda_value": "https://www.adp.com/about-adp/data-privacy.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -1669,
-        "nvda_name": "Artificial Intelligence",
-        "nvda_value": "https://www.adp.com/about-adp/ai-solutions.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[9]/a"
-    },
-    {
-        "IA2UniqueID": -1671,
-        "nvda_name": "ADP Ventures",
-        "nvda_value": "https://www.adp.com/about-adp/ventures.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[10]/a"
-    },
-    {
-        "IA2UniqueID": -1673,
-        "nvda_name": "Investors",
-        "nvda_value": "https://investors.adp.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/nav/div[5]/ul/li/ul/li[11]/a"
-    },
-    {
-        "IA2UniqueID": -1675,
-        "nvda_name": "Media",
-        "nvda_value": "https://mediacenter.adp.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div/p/a"
-    },
-    {
-        "IA2UniqueID": -1679,
-        "nvda_name": "logo",
-        "nvda_value": "https://www.adp.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div/p[2]/a"
-    },
-    {
-        "IA2UniqueID": -1705,
-        "nvda_name": "All Worldwide Locations",
-        "nvda_value": "https://www.adp.com/worldwide-locations.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div[2]/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -1709,
-        "nvda_name": "ADP Facebook Page",
-        "nvda_value": "https://www.facebook.com/AutomaticDataProcessing/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div[2]/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -1712,
-        "nvda_name": "ADP X (Twitter) Page",
-        "nvda_value": "https://twitter.com/adp",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div[2]/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -1715,
-        "nvda_name": "ADP YouTube Channel",
-        "nvda_value": "https://www.youtube.com/user/adp",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div[2]/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -1718,
-        "nvda_name": "ADP LinkedIn Page",
-        "nvda_value": "https://www.linkedin.com/company/adp",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div[2]/ul[2]/li/a"
-    },
-    {
-        "IA2UniqueID": -1722,
-        "nvda_name": "Terms",
-        "nvda_value": "https://www.adp.com/legal.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div[2]/ul[2]/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -1724,
-        "nvda_name": "Site Map",
-        "nvda_value": "https://www.adp.com/site-map.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div[2]/ul[2]/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -1726,
-        "nvda_name": "Privacy",
-        "nvda_value": "https://www.adp.com/privacy.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div[2]/ul[2]/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -1728,
-        "nvda_name": "Modern Slavery Statement",
-        "nvda_value": "https://www.adp.com/modern-slavery-statement.aspx",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/div/div[2]/ul[2]/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -645,
-        "nvda_name": "Skip to main content",
-        "nvda_value": "https://www.adp.com/#main-content",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/div/div/div/div/div[2]/div/button"
-    },
-    {
-        "IA2UniqueID": -589,
-        "nvda_name": "Search Site",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[6]/section/div/button"
-    },
-    {
-        "IA2UniqueID": -852,
-        "nvda_name": "Previous",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[6]/section/div/button[2]"
-    },
-    {
-        "IA2UniqueID": -882,
-        "nvda_name": "Next",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li/button"
-    },
-    {
-        "IA2UniqueID": -886,
-        "nvda_name": "Go to slide 1",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li[2]/button"
-    },
-    {
-        "IA2UniqueID": -889,
-        "nvda_name": "Go to slide 2",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li[3]/button"
-    },
-    {
-        "IA2UniqueID": -892,
-        "nvda_name": "Go to slide 3",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li[4]/button"
-    },
-    {
-        "IA2UniqueID": -895,
-        "nvda_name": "Go to slide 4",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[10]/input"
-    },
-    {
-        "IA2UniqueID": -1583,
-        "nvda_name": "Get Pricing",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/button"
-    },
-    {
-        "IA2UniqueID": -622,
-        "nvda_name": "Cookie Preferences | Do Not Share My Information",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[10]/iframe"
-    },
-    {
-        "IA2UniqueID": -589,
-        "nvda_name": "Search Site",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div/section/div[2]/div/div/input"
-    },
-    {
-        "IA2UniqueID": -615,
-        "nvda_name": "Number of Employees",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div/section/div[2]/div/div[2]/div/input"
-    },
-    {
-        "IA2UniqueID": -587,
+        "IA2UniqueID": -29008,
         "nvda_name": "Payroll, HR and Tax Services | ADP Official Site",
         "nvda_value": null,
         "nvda_states": [
@@ -1245,21 +340,66 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div/input[3]"
+        "xpath": "/html/body/footer/div[2]/div/div/button",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -602,
-        "nvda_name": "Full Name",
+        "IA2UniqueID": -29348,
+        "nvda_name": "",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[2]/input[3]"
+        "xpath": "/html/body/footer/div[2]/button",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -587,
+        "IA2UniqueID": -29590,
+        "nvda_name": "CALL",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div[2]/a/button",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -29593,
+        "nvda_name": "CHAT",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div[2]/button[2]",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -29351,
+        "nvda_name": "SEARCH",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/footer/div[2]/a[2]/button",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -29354,
+        "nvda_name": "SIGN IN",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/button",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -32567,
         "nvda_name": "Payroll, HR and Tax Services | ADP Official Site",
         "nvda_value": null,
         "nvda_states": [
@@ -1267,22 +407,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[8]/fieldset/label[2]/input"
+        "xpath": "/html/body/div[6]/div[7]/div/div[2]/div/form/div[8]/fieldset/label/input",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -610,
-        "nvda_name": "No",
-        "nvda_value": null,
-        "nvda_states": [
-            "CHECKED (32)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[8]/fieldset/label/input"
-    },
-    {
-        "IA2UniqueID": -609,
+        "IA2UniqueID": -33162,
         "nvda_name": "Yes",
         "nvda_value": null,
         "nvda_states": [
@@ -1290,10 +419,36 @@
             "CHECKABLE (134217728)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/div/div/select"
+        "xpath": "/html/body/div[6]/div[7]/div/div[2]/div/form/div[8]/fieldset/label[2]/input",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -7102,
+        "IA2UniqueID": -34853,
+        "nvda_name": "Payroll, HR and Tax Services | ADP Official Site",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[5]/div/div[2]/div/form/div[7]/select",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -35151,
+        "nvda_name": "Country",
+        "nvda_value": "Cambodia",
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "HASPOPUP (8192)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/footer/div/div/select",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -37710,
         "nvda_name": "Payroll, HR and Tax Services | ADP Canada Official Site",
         "nvda_value": null,
         "nvda_states": [
@@ -1301,80 +456,179 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[7]/section/div/button"
+        "xpath": "/html/body/div[6]/div/section/div[2]/div/div[2]/div/input",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -8219,
+        "IA2UniqueID": -37710,
+        "nvda_name": "Payroll, HR and Tax Services | ADP Canada Official Site",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[7]/select",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -43314,
+        "nvda_name": "Payroll, HR and Tax Services | ADP Official Site",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[6]/section/div/button",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -43733,
         "nvda_name": "Previous",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[7]/section/div/button[2]"
+        "xpath": "/html/body/div[6]/div[6]/section/div/button[2]",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -8221,
+        "IA2UniqueID": -43735,
         "nvda_name": "Next",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[7]/section/div/ul/li/button"
+        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li/button",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -8223,
+        "IA2UniqueID": -43737,
         "nvda_name": "Go to slide 1",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[7]/section/div/ul/li[2]/button"
+        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li[2]/button",
+        "key_interactions": 3
     },
     {
-        "IA2UniqueID": -8226,
+        "IA2UniqueID": -43740,
         "nvda_name": "Go to slide 2",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[7]/section/div/ul/li[3]/button"
+        "xpath": "/html/body/div[6]/div[6]/section/div/ul/li[3]/button",
+        "key_interactions": 4
     },
     {
-        "IA2UniqueID": -8229,
+        "IA2UniqueID": -43743,
         "nvda_name": "Go to slide 3",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[7]/section/div/ul/li[4]/button"
+        "xpath": "/html/body/div[6]/div[7]/section/div/button",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -8232,
+        "IA2UniqueID": -43466,
+        "nvda_name": "Previous",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[7]/section/div/button[2]",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -43468,
+        "nvda_name": "Next",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[7]/section/div/ul/li/button",
+        "key_interactions": 7
+    },
+    {
+        "IA2UniqueID": -43470,
+        "nvda_name": "Go to slide 1",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[7]/section/div/ul/li[2]/button",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -43473,
+        "nvda_name": "Go to slide 2",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[7]/section/div/ul/li[3]/button",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -43476,
+        "nvda_name": "Go to slide 3",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[7]/section/div/ul/li[4]/button",
+        "key_interactions": 10
+    },
+    {
+        "IA2UniqueID": -43479,
         "nvda_name": "Go to slide 4",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[7]/section/div/ul/li[5]/button"
+        "xpath": "/html/body/div[6]/div[8]/section/div[2]/button[2]",
+        "key_interactions": 11
     },
     {
-        "IA2UniqueID": -8235,
-        "nvda_name": "Go to slide 5",
+        "IA2UniqueID": -43881,
+        "nvda_name": "Next",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[7]/section/div/ul/li[6]/button"
+        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div/input[3]",
+        "key_interactions": 12
     },
     {
-        "IA2UniqueID": -7396,
+        "IA2UniqueID": -43401,
+        "nvda_name": "Full Name",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[2]/input[3]",
+        "key_interactions": 13
+    },
+    {
+        "IA2UniqueID": -43402,
         "nvda_name": "Email",
         "nvda_value": null,
         "nvda_states": [
@@ -1382,10 +636,11 @@
             "EDITABLE (67108864)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[3]/input[3]"
+        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[3]/input[3]",
+        "key_interactions": 14
     },
     {
-        "IA2UniqueID": -7403,
+        "IA2UniqueID": -43403,
         "nvda_name": "Phone Number",
         "nvda_value": null,
         "nvda_states": [
@@ -1393,10 +648,11 @@
             "EDITABLE (67108864)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[4]/input[3]"
+        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[4]/input[3]",
+        "key_interactions": 15
     },
     {
-        "IA2UniqueID": -7410,
+        "IA2UniqueID": -43404,
         "nvda_name": "Business Name",
         "nvda_value": null,
         "nvda_states": [
@@ -1404,10 +660,11 @@
             "EDITABLE (67108864)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[5]/input[3]"
+        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[5]/input[3]",
+        "key_interactions": 16
     },
     {
-        "IA2UniqueID": -7417,
+        "IA2UniqueID": -43405,
         "nvda_name": "# of Employees",
         "nvda_value": null,
         "nvda_states": [
@@ -1415,44 +672,24 @@
             "EDITABLE (67108864)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[6]/input[3]"
+        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[6]/input[3]",
+        "key_interactions": 17
     },
     {
-        "IA2UniqueID": -7423,
-        "nvda_name": "Postal Code",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[6]/select"
-    },
-    {
-        "IA2UniqueID": -7430,
+        "IA2UniqueID": -43345,
         "nvda_name": "Country",
-        "nvda_value": "Faroe Islands",
+        "nvda_value": "Falkland Islands",
         "nvda_states": [
             "COLLAPSED (512)",
             "HASPOPUP (8192)",
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[10]/fieldset/label/input"
+        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[8]/fieldset/label[2]/input",
+        "key_interactions": 19
     },
     {
-        "IA2UniqueID": -7704,
-        "nvda_name": "Yes",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "CHECKABLE (134217728)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[10]/fieldset/label[2]/input"
-    },
-    {
-        "IA2UniqueID": -7707,
+        "IA2UniqueID": -43408,
         "nvda_name": "No",
         "nvda_value": null,
         "nvda_states": [
@@ -1461,10 +698,11 @@
             "FOCUSED (2)",
             "CHECKABLE (134217728)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[11]/label/input"
+        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[9]/label/input",
+        "key_interactions": 20
     },
     {
-        "IA2UniqueID": -7712,
+        "IA2UniqueID": -43409,
         "nvda_name": "ADP may contact me about its products, services, and offers. Options to unsubscribe and manage your communication preferences will be provided to you in these communications.",
         "nvda_value": null,
         "nvda_states": [
@@ -1472,31 +710,11 @@
             "CHECKABLE (134217728)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[12]/input"
+        "xpath": "/html/body/div[6]/div[9]/div/div[2]/div/form/div[10]/input",
+        "key_interactions": 21
     },
     {
-        "IA2UniqueID": -10078,
-        "nvda_name": "Search Site",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[2]/section/div[2]/div/div/input"
-    },
-    {
-        "IA2UniqueID": -10075,
-        "nvda_name": "Effectif",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[2]/section/div[2]/div/div[2]/div/input"
-    },
-    {
-        "IA2UniqueID": -10044,
+        "IA2UniqueID": -45911,
         "nvda_name": "ADP France | Fournisseur de Solutions de Paie et de RH",
         "nvda_value": null,
         "nvda_states": [
@@ -1504,250 +722,22 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[9]/div[3]/section/div[2]/button"
+        "xpath": "/html/body/header/div/div/div/div/div/div/button",
+        "key_interactions": 23
     },
     {
-        "IA2UniqueID": -10116,
+        "IA2UniqueID": -46203,
         "nvda_name": "",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[9]/div[8]/section/div/button"
+        "xpath": "/html/body/div[9]/div[2]/section/div[2]/div/div/input",
+        "key_interactions": 24
     },
     {
-        "IA2UniqueID": -10154,
-        "nvda_name": "Previous",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[8]/section/div/button[2]"
-    },
-    {
-        "IA2UniqueID": -10156,
-        "nvda_name": "Next",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[8]/section/div/ul/li/button"
-    },
-    {
-        "IA2UniqueID": -10158,
-        "nvda_name": "Go to slide 1",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[8]/section/div/ul/li[2]/button"
-    },
-    {
-        "IA2UniqueID": -10161,
-        "nvda_name": "Go to slide 2",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[8]/section/div/ul/li[3]/button"
-    },
-    {
-        "IA2UniqueID": -10164,
-        "nvda_name": "Go to slide 3",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[8]/section/div/ul/li[4]/button"
-    },
-    {
-        "IA2UniqueID": -10167,
-        "nvda_name": "Go to slide 4",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[9]/section/div/button"
-    },
-    {
-        "IA2UniqueID": -10303,
-        "nvda_name": "Previous",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[9]/section/div/button[2]"
-    },
-    {
-        "IA2UniqueID": -10305,
-        "nvda_name": "Next",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[9]/section/div/ul/li/button"
-    },
-    {
-        "IA2UniqueID": -10307,
-        "nvda_name": "Go to slide 1",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[9]/section/div/ul/li[2]/button"
-    },
-    {
-        "IA2UniqueID": -10310,
-        "nvda_name": "Go to slide 2",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[9]/section/div/ul/li[3]/button"
-    },
-    {
-        "IA2UniqueID": -10313,
-        "nvda_name": "Go to slide 3",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[9]/section/div/ul/li[4]/button"
-    },
-    {
-        "IA2UniqueID": -10316,
-        "nvda_name": "Go to slide 4",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[9]/section/div/ul/li[5]/button"
-    },
-    {
-        "IA2UniqueID": -10319,
-        "nvda_name": "Go to slide 5",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[2]/fieldset/label/input"
-    },
-    {
-        "IA2UniqueID": -10083,
-        "nvda_name": "Madame",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "CHECKABLE (134217728)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[2]/fieldset/label[2]/input"
-    },
-    {
-        "IA2UniqueID": -10084,
-        "nvda_name": "Monsieur",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "CHECKABLE (134217728)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[3]/input[3]"
-    },
-    {
-        "IA2UniqueID": -10085,
-        "nvda_name": "Pr\u00e9nom",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[4]/input[3]"
-    },
-    {
-        "IA2UniqueID": -10086,
-        "nvda_name": "Nom",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[6]/select"
-    },
-    {
-        "IA2UniqueID": -10088,
-        "nvda_name": "Centre d'int\u00e9r\u00eat",
-        "nvda_value": "Gestion de la paie",
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[7]/input[3]"
-    },
-    {
-        "IA2UniqueID": -10089,
-        "nvda_name": "E-mail",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[8]/input[3]"
-    },
-    {
-        "IA2UniqueID": -10090,
-        "nvda_name": "Fonction",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[9]/input[3]"
-    },
-    {
-        "IA2UniqueID": -10091,
-        "nvda_name": "T\u00e9l\u00e9phone",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[10]/input[3]"
-    },
-    {
-        "IA2UniqueID": -10092,
-        "nvda_name": "Raison sociale",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[11]/input[3]"
-    },
-    {
-        "IA2UniqueID": -10093,
+        "IA2UniqueID": -45939,
         "nvda_name": "Effectif",
         "nvda_value": null,
         "nvda_states": [
@@ -1755,86 +745,56 @@
             "EDITABLE (67108864)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[12]/input[3]"
+        "xpath": "/html/body/div[9]/div[2]/section/div[2]/div/div[2]/div/input",
+        "key_interactions": 25
     },
     {
-        "IA2UniqueID": -10094,
-        "nvda_name": "CP",
+        "IA2UniqueID": -48428,
+        "nvda_name": "E-mail",
         "nvda_value": null,
         "nvda_states": [
+            "OFFSCREEN (4194304)",
             "FOCUSABLE (16777216)",
-            "EDITABLE (67108864)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[13]/select"
-    },
-    {
-        "IA2UniqueID": -10095,
-        "nvda_name": "Pays",
-        "nvda_value": "French Polynesia",
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[15]/textarea"
-    },
-    {
-        "IA2UniqueID": -10098,
-        "nvda_name": "Commentaires",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "MULTILINE (1048576)",
             "FOCUSED (2)",
             "EDITABLE (67108864)"
         ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[14]/fieldset/label[2]/input"
+        "xpath": "/html/body/div[9]/div[14]/div/div[2]/div/form/div/div/input[3]",
+        "key_interactions": 26
     },
     {
-        "IA2UniqueID": -10097,
-        "nvda_name": "Non",
+        "IA2UniqueID": -48428,
+        "nvda_name": "E-mail",
         "nvda_value": null,
         "nvda_states": [
-            "CHECKED (32)",
+            "OFFSCREEN (4194304)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)",
-            "CHECKABLE (134217728)"
+            "EDITABLE (67108864)"
         ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div[14]/fieldset/label/input"
+        "xpath": "/html/body/div[9]/div[14]/div/div[2]/div/form/div/input[7]",
+        "key_interactions": 27
     },
     {
-        "IA2UniqueID": -10083,
-        "nvda_name": "Madame",
+        "IA2UniqueID": -48456,
+        "nvda_name": "Obtenez un devis gratuit",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
-            "CHECKABLE (134217728)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div/fieldset/label[3]/input"
+        "xpath": "/html/body/div[9]/div[14]/div/button",
+        "key_interactions": 28
     },
     {
-        "IA2UniqueID": -10082,
-        "nvda_name": "Question \u00e0 l\u2019\u00e9quipe commerciale",
+        "IA2UniqueID": -48518,
+        "nvda_name": "Payroll, HR and Tax Services | ADP Official Site",
         "nvda_value": null,
         "nvda_states": [
+            "READONLY (128)",
             "FOCUSABLE (16777216)",
-            "CHECKABLE (134217728)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div/fieldset/label[2]/input"
-    },
-    {
-        "IA2UniqueID": -10081,
-        "nvda_name": "D\u00e9mo",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "CHECKABLE (134217728)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[9]/div[11]/div/div[2]/div/form/div/fieldset/label/input"
+        "xpath": "/html/body/div[6]/div[5]/div/div[2]/div/form/div/input[3]",
+        "key_interactions": 0
     }
 ]

@@ -1,336 +1,600 @@
 {
-    "count by default selenium driver": 241,
+    "count by default selenium driver": 242,
     "total_count based on actionable selectors": 66,
     "actionableElements": [
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/div[1]/a[1]",
-            "text": "English"
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/#"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/a[4]",
-            "text": "Locations"
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/a[2]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/a[5]",
-            "text": "Support"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/a[6]",
-            "text": "Informed Delivery"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/a[7]",
-            "text": "Register / Sign In"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[2]/div[1]/a[1]",
-            "text": ""
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[2]/div[1]/nav[1]/ul[1]/li[1]/a[2]",
-            "text": "Quick Tools"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/a[2]",
-            "text": "Send"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[2]/div[1]/nav[1]/ul[1]/li[3]/a[2]",
-            "text": "Receive"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[2]/div[1]/nav[1]/ul[1]/li[4]/a[2]",
-            "text": "Shop"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[2]/div[1]/nav[1]/ul[1]/li[5]/a[2]",
-            "text": "Business"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[2]/div[1]/nav[1]/ul[1]/li[6]/a[2]",
-            "text": "International"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[2]/div[1]/nav[1]/ul[1]/li[7]/a[2]",
-            "text": "Help"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[2]/div[1]/nav[1]/ul[1]/li[8]/a[2]",
-            "text": "Search USPS.com"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[3]/div[1]/div[1]/p[1]/a[1]",
-            "text": "Learn more"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[4]/div[1]/div[1]/div[1]/p[2]/a[1]",
-            "text": "Sign Up for Free"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[4]/div[1]/div[1]/div[1]/p[2]/a[2]",
-            "text": "Sign In"
+            "xpath": "/body[1]/div[2]/div[1]/div[1]/a[3]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/#"
         },
         {
             "tag_name": "input",
-            "xpath": "/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]/form[1]/span[1]/div[1]/input[1]",
-            "text": "USPS.com Search Bar"
+            "xpath": "/body[1]/div[4]/div[1]/div[1]/div[1]/form[1]/span[1]/div[1]/input[1]",
+            "text": "USPS.com Search Bar",
+            "aria-label": "USPS.com Search Bar",
+            "id": "home-input-mob",
+            "placeholder": "Search USPS.com or Enter Tracking Number(s)",
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]/form[1]/span[1]/div[1]/div[1]/button[1]",
-            "text": "Search"
+            "xpath": "/body[1]/div[4]/div[1]/div[1]/div[1]/form[1]/span[1]/div[1]/div[1]/button[1]",
+            "text": "Search",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[7]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": ""
+            "xpath": "/body[1]/div[4]/div[1]/div[3]/p[1]/a[1]",
+            "text": "Print a Label",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://cnsb.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[7]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[1]/a[1]",
-            "text": "Click-N-Ship\u00ae"
+            "xpath": "/body[1]/div[4]/div[1]/div[3]/p[1]/a[2]",
+            "text": "Schedule a Pickup",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://tools.usps.com/schedule-pickup-steps.htm"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[7]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
-            "text": ""
+            "xpath": "/body[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://cnsb.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[7]/div[1]/div[1]/div[1]/div[3]/div[1]/h3[1]/a[1]",
-            "text": "Stamps & Supplies"
+            "xpath": "/body[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[1]/a[1]",
+            "text": "Click-N-Ship\u00ae",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://cnsb.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[7]/div[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
-            "text": ""
+            "xpath": "/body[1]/div[6]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://store.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[7]/div[1]/div[1]/div[1]/div[4]/div[1]/h3[1]/a[1]",
-            "text": "Informed Delivery\u00ae"
+            "xpath": "/body[1]/div[6]/div[1]/div[1]/div[1]/div[3]/div[1]/h3[2]/a[1]",
+            "text": "Buy Stamps",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://store.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[8]/div[1]/div[2]/div[2]/p[2]/a[1]",
-            "text": "Ship Now\nwith Click-N-Ship."
+            "xpath": "/body[1]/div[6]/div[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://informeddelivery.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[8]/div[1]/div[3]/div[2]/p[2]/a[1]",
-            "text": "Buy\nFreshwater Fishing Lures Commemorative Forever Stamps\nNow"
+            "xpath": "/body[1]/div[6]/div[1]/div[1]/div[1]/div[4]/div[1]/h3[1]/a[1]",
+            "text": "Informed Delivery\u00ae",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://informeddelivery.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[8]/div[1]/div[4]/div[2]/p[2]/a[1]",
-            "text": "Mailing Tips\nabout mailing your tax returns"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/manage/po-boxes.htm"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[8]/div[1]/div[5]/div[2]/p[2]/a[1]",
-            "text": "Learn More\nabout Every Door Direct Mail Service"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+            "text": "PO Boxes\u2122",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/manage/po-boxes.htm"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[8]/div[1]/div[6]/div[2]/p[2]/a[1]",
-            "text": "Schedule a Pickup"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://postcalc.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[3]/a[1]",
-            "text": "Shop Now"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[2]/div[1]/h3[1]/a[1]",
+            "text": "Calculate a Price",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://postcalc.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
-            "text": "Previous Slide"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://holdmail.usps.com/holdmail/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]",
-            "text": "Next Slide"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[3]/div[1]/h3[1]/a[1]",
+            "text": "Hold Mail",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://holdmail.usps.com/holdmail/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[12]/div[1]/div[2]/div[1]/p[2]/a[1]",
-            "text": "Text Scams"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://tools.usps.com/go/ZipLookupAction_input"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[12]/div[1]/div[2]/div[1]/p[3]/a[1]",
-            "text": "Email Scams"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[4]/div[1]/h3[1]/a[1]",
+            "text": "ZIP Code\u2122 Lookup",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://tools.usps.com/go/ZipLookupAction_input"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[12]/div[1]/div[2]/div[2]/p[2]/a[1]",
-            "text": "Find Out More"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[5]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://moversguide.usps.com/?referral=MG82"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/a[1]",
-            "text": ""
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[5]/div[1]/h3[1]/a[1]",
+            "text": "Change My Address",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://moversguide.usps.com/?referral=MG82"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[1]/a[1]",
-            "text": "Contact Us"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[6]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://tools.usps.com/schedule-pickup-steps.htm"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[2]/a[1]",
-            "text": "Site Index"
+            "xpath": "/body[1]/div[6]/div[2]/div[1]/div[1]/div[6]/div[1]/h3[1]/a[1]",
+            "text": "Schedule a Pickup",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://tools.usps.com/schedule-pickup-steps.htm"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[3]/a[1]",
-            "text": "FAQs"
+            "xpath": "/body[1]/div[7]/div[1]/div[2]/div[2]/p[2]/a[1]",
+            "text": "Sign Up for Free\nfor Informed Delivery Emails.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://informeddelivery.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[4]/a[1]",
-            "text": "Feedback"
+            "xpath": "/body[1]/div[7]/div[1]/div[3]/div[2]/p[2]/a[1]",
+            "text": "Learn More\nabout Passport Services",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/international/passports.htm"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[5]/ol[1]/li[1]/a[1]",
-            "text": "Careers"
+            "xpath": "/body[1]/div[7]/div[1]/div[4]/div[2]/p[2]/a[1]",
+            "text": "Go Now\nfor PO Box Online Services",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/manage/po-boxes.htm"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[1]/a[1]",
-            "text": "About USPS Home"
+            "xpath": "/body[1]/div[7]/div[1]/div[5]/div[2]/p[2]/a[1]",
+            "text": "Change Your Address\nusing the Official USPS Change of Address tool",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://moversguide.usps.com/?referral=MG83"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[2]/a[1]",
-            "text": "Newsroom"
+            "xpath": "/body[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[3]/a[1]",
+            "text": "Shop Now",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://store.usps.com/store/stamps/fruits-flowers/history-heritage/_/N-1dnrm08Z1gt48cd?No=0&Nrpp=18&"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[3]/a[1]",
-            "text": "USPS Service Updates"
+            "xpath": "/body[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Previous Slide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/#usps-carousel"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[4]/a[1]",
-            "text": "Forms & Publications"
+            "xpath": "/body[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Next Slide",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/#usps-carousel"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[5]/a[1]",
-            "text": "Government Services"
+            "xpath": "/body[1]/div[11]/div[1]/div[2]/div[1]/p[2]/a[1]",
+            "text": "Text Scams",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.uspis.gov/news/scam-article/smishing"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[1]/a[1]",
-            "text": "Business Customer Gateway"
+            "xpath": "/body[1]/div[11]/div[1]/div[2]/div[1]/p[3]/a[1]",
+            "text": "Email Scams",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.uspis.gov/news/scam-article/fake-usps-emails"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[2]/a[1]",
-            "text": "Postal Inspectors"
+            "xpath": "/body[1]/div[11]/div[1]/div[2]/div[2]/p[2]/a[1]",
+            "text": "Learn More\nabout Board of Governors meetings",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/newsroom/national-releases/2025/0429-board-of-governors-to-meet-may-9.htm"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[3]/a[1]",
-            "text": "Inspector General"
+            "xpath": "/body[1]/div[11]/div[1]/div[2]/div[3]/p[2]/a[1]",
+            "text": "Find Out More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/careers/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[4]/a[1]",
-            "text": "Postal Explorer"
+            "xpath": "/body[1]/div[13]/footer[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[5]/a[1]",
-            "text": "National Postal Museum"
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[1]/a[1]",
+            "text": "Contact Us",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/help/contact-us.htm"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[6]/a[1]",
-            "text": "Resources for Developers"
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[2]/a[1]",
+            "text": "Site Index",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/globals/site-index.htm"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[7]/a[1]",
-            "text": "PostalPro"
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[3]/a[1]",
+            "text": "FAQs",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://faq.usps.com/s/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[1]/a[1]",
-            "text": "Privacy Policy"
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[4]/a[1]",
+            "text": "Feedback",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/#"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[2]/a[1]",
-            "text": "Terms of Use"
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[5]/ol[1]/li[1]/a[1]",
+            "text": "Careers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/careers/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[3]/a[1]",
-            "text": "FOIA"
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[1]/a[1]",
+            "text": "About USPS Home",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[4]/a[1]",
-            "text": "No FEAR Act/EEO Contacts"
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[2]/a[1]",
+            "text": "Newsroom",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/newsroom/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[5]/a[1]",
-            "text": "Fair Chance Act"
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[3]/a[1]",
+            "text": "USPS Service Updates",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/newsroom/service-alerts/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[6]/a[1]",
-            "text": "Accessibility Statement"
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[4]/a[1]",
+            "text": "Forms & Publications",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/resources/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/ul[1]/li[1]/a[1]",
-            "text": ""
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[5]/a[1]",
+            "text": "Government Services",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/what/government-services/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/ul[1]/li[2]/a[1]",
-            "text": ""
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[1]/a[1]",
+            "text": "Business Customer Gateway",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://gateway.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/ul[1]/li[3]/a[1]",
-            "text": ""
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[2]/a[1]",
+            "text": "Postal Inspectors",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.uspis.gov/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/ul[1]/li[4]/a[1]",
-            "text": ""
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[3]/a[1]",
+            "text": "Inspector General",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.uspsoig.gov/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/ul[1]/li[5]/a[1]",
-            "text": ""
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[4]/a[1]",
+            "text": "Postal Explorer",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://pe.usps.com/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[14]/footer[1]/ul[1]/li[6]/a[1]",
-            "text": ""
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[5]/a[1]",
+            "text": "National Postal Museum",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://postalmuseum.si.edu/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[6]/a[1]",
+            "text": "Resources for Developers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.usps.com/business/web-tools-apis/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[7]/a[1]",
+            "text": "PostalPro",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://postalpro.usps.com/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[1]/a[1]",
+            "text": "Privacy Policy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/who/legal/privacy-policy/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[2]/a[1]",
+            "text": "Terms of Use",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/who/legal/terms-of-use.htm"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[3]/a[1]",
+            "text": "FOIA",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/who/legal/foia/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[4]/a[1]",
+            "text": "No FEAR Act/EEO Contacts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/who/legal/no-fear-act/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[5]/a[1]",
+            "text": "Fair Chance Act",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/who/legal/fair-chance-act/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[6]/a[1]",
+            "text": "Accessibility Statement",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.usps.com/who/legal/accessibility-statement/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/ul[1]/li[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.facebook.com/USPS?rf=108501355848630"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/ul[1]/li[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.instagram.com/uspostalservice/?hl=en"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/ul[1]/li[3]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "http://www.pinterest.com/uspsstamps/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/ul[1]/li[4]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.threads.net/@uspostalservice?hl=en"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/ul[1]/li[5]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://twitter.com/usps"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[13]/footer[1]/ul[1]/li[6]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.youtube.com/usps"
         }
     ]
 }

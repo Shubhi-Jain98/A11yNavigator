@@ -2,56 +2,68 @@
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):leftControl",
-    "IA2UniqueID": -559,
+    "IA2UniqueID": -581,
     "name": "Google",
+    "role": "DOCUMENT (52)",
+    "roleText": "None",
     "states": [
         "READONLY (128)",
         "FOCUSABLE (16777216)",
         "FOCUSED (2)"
     ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0FA67CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0172B3D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):control+numpad7",
-    "IA2UniqueID": -559,
+    "IA2UniqueID": -581,
     "name": "Google",
+    "role": "DOCUMENT (52)",
+    "roleText": "None",
     "states": [
         "READONLY (128)",
         "FOCUSABLE (16777216)",
         "FOCUSED (2)"
     ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0FA67CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0172B3D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -559,
+    "IA2UniqueID": -581,
     "name": "Google",
+    "role": "DOCUMENT (52)",
+    "roleText": "None",
     "states": [
         "READONLY (128)",
         "FOCUSABLE (16777216)",
         "FOCUSED (2)"
     ],
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0FA67CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -63,391 +75,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0172B3D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -456,7 +90,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -468,13 +102,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -483,7 +117,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -495,13 +129,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -510,7 +144,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -522,13 +156,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -537,7 +171,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -549,13 +183,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -564,7 +198,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -576,13 +210,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -591,7 +225,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -603,13 +237,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -618,7 +252,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -630,13 +264,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -645,7 +279,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -657,13 +291,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -672,7 +306,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -684,13 +318,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -699,7 +333,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -711,13 +345,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -726,7 +360,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -738,13 +372,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -753,7 +387,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -765,13 +399,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -780,7 +414,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -792,13 +426,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -807,7 +441,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -819,13 +453,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -834,7 +468,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -846,13 +480,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -861,7 +495,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -873,13 +507,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -888,7 +522,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -900,13 +534,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -915,7 +549,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -927,13 +561,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -942,7 +576,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -954,13 +588,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -969,7 +603,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -981,13 +615,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -996,7 +630,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1008,13 +642,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1023,7 +657,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1035,13 +669,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1050,7 +684,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1062,13 +696,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1077,7 +711,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1089,13 +723,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1104,7 +738,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1116,13 +750,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1131,7 +765,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1143,13 +777,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1158,7 +792,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1170,13 +804,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1185,7 +819,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1197,13 +831,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1212,7 +846,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1224,13 +858,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
+    "IA2UniqueID": -588,
+    "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1239,7 +873,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+    "value": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1251,32 +885,5 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -573,
-    "name": "Store",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0FAB42D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0195A4B0>>"
 }

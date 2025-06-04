@@ -1,16 +1,16 @@
 {
-    "IA2UniqueID": -608,
-    "name": "Safety",
-    "role": "MENUBUTTON (102)",
+    "IA2UniqueID": -230002,
+    "name": "Guidelines",
+    "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "COLLAPSED (512)",
-        "HASPOPUP (8192)",
+        "VISITED (2048)",
+        "LINKED (4096)",
         "FOCUSED (2)",
         "FOCUSABLE (16777216)"
     ],
     "errorMessage": "None",
-    "value": "",
+    "value": "https://discord.com/guidelines",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",

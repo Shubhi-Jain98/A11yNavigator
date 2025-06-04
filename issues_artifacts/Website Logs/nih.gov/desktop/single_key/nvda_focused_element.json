@@ -1,22 +1,9 @@
 {
-    "IA2UniqueID": -595,
-    "name": "Search the NIH Website",
-    "role": "EDITABLETEXT (8)",
-    "roleText": "None",
+    "IA2UniqueID": -51658,
+    "name": "National Institutes of Health (NIH) | Turning Discovery Into Health",
     "states": [
+        "READONLY (128)",
         "FOCUSABLE (16777216)",
-        "EDITABLE (67108864)",
         "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)"
+    ]
 }

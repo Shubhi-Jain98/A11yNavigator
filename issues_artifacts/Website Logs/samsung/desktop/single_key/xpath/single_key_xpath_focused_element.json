@@ -1,6 +1,6 @@
 [
     {
-        "IA2UniqueID": -590,
+        "IA2UniqueID": -1019,
         "nvda_name": "Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US",
         "nvda_value": null,
         "nvda_states": [
@@ -8,120 +8,287 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/div/div/div/div/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/section/div/div[2]/a",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -1317,
-        "nvda_name": "Pre-order now",
-        "nvda_value": "https://www.samsung.com/us/home-appliances/bespoke/smart/",
+        "IA2UniqueID": -1082,
+        "nvda_name": "View all offers ",
+        "nvda_value": "https://www.samsung.com/us/shop/all-deals/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/div/div/div/div[2]/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div/a",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -1321,
-        "nvda_name": "Shop now",
-        "nvda_value": "https://www.samsung.com/us/televisions-home-theater/tvs/ai-tvs/",
+        "IA2UniqueID": -1039,
+        "nvda_name": "Galaxy Buds3 Pro",
+        "nvda_value": "https://www.samsung.com/us/mobile-audio/galaxy-buds3-pro/buy/galaxy-buds3-pro-silver-sm-r630nzaaxar",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/div/div/div/div[3]/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div[2]/a",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -1322,
-        "nvda_name": "Reserve now",
-        "nvda_value": "https://www.samsung.com/us/monitors/get-it-first/",
+        "IA2UniqueID": -1089,
+        "nvda_name": "Galaxy S25 Ultra, 1TB",
+        "nvda_value": "https://www.samsung.com/us/smartphones/galaxy-s25-ultra/buy/?modelCode=SM-S938UAKFXAA",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/div/div/div/div/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div[3]/a",
+        "key_interactions": 3
     },
     {
-        "IA2UniqueID": -1366,
-        "nvda_name": "Shop now",
-        "nvda_value": "https://www.samsung.com/us/televisions-home-theater/tvs/all-tvs/",
+        "IA2UniqueID": -1090,
+        "nvda_name": "Q-series 3.1.2 ch. Soundbar",
+        "nvda_value": "https://www.samsung.com/us/televisions-home-theater/home-theater/sound-bars/q-series-3-1-2-ch-dolby-atmos-soundbar-w-q-symphony-hw-q600c-2023-hw-q600c-za",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/div/div/div/div[2]/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div[4]/a",
+        "key_interactions": 4
     },
     {
-        "IA2UniqueID": -1371,
-        "nvda_name": "Reserve now",
-        "nvda_value": "https://www.samsung.com/us/monitors/get-it-first/",
+        "IA2UniqueID": -1091,
+        "nvda_name": "Bespoke 4-Door French Door Refrigerator (29 cu. ft.) with Beverage Center",
+        "nvda_value": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-4-door-french-door-refrigerator-29-cu-ft-with-beverage-center-in-white-glass-rf29bb860012aa",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/div/div/div/div[3]/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div[5]/a",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -1374,
-        "nvda_name": "Pre-order now",
-        "nvda_value": "https://www.samsung.com/us/home-appliances/all-in-one-washer-dryer-combo/electric/5-3-cu-ft-bespoke-ai-laundry-combo-vented-all-in-one-ultra-capacity-washer-and-electric-dryer-with-ai-home-in--brushed-black-wd90f53avbus/",
+        "IA2UniqueID": -1092,
+        "nvda_name": "7.5 cu. ft. Smart Electric Dryer with Steam Sanitize+ and Sensor Dry",
+        "nvda_value": "https://www.samsung.com/us/home-appliances/dryers/electric/7-5-cu--ft--smart-electric-dryer-with-steam-sanitize--and-sensor-dry-in-brushed-black-dve50bg8300va3",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div[2]/div/div/div/div/div[2]/div/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div[6]/a",
+        "key_interactions": 6
     },
     {
-        "IA2UniqueID": -1432,
-        "nvda_name": "Shop all phone deals",
-        "nvda_value": "https://www.samsung.com/us/shop/all-deals/cell-phone-deals/",
+        "IA2UniqueID": -1093,
+        "nvda_name": "65\"The Frame QLED 4K",
+        "nvda_value": "https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/65-class-the-frame-qled-4k-ls03d-qn65ls03dafxza",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div[2]/div/div/div/div/div[2]/div/a[2]"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[7]/section/div/div/div/div/div/a",
+        "key_interactions": 7
     },
     {
-        "IA2UniqueID": -1433,
-        "nvda_name": "Buy now for Galaxy S25 Ultra",
-        "nvda_value": "https://www.samsung.com/us/smartphones/galaxy-s25-ultra/buy/",
+        "IA2UniqueID": -1119,
+        "nvda_name": "Shop now - Upgrade your home with AI this summer",
+        "nvda_value": "https://www.samsung.com/us/featured/new-releases/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div[2]/div/div/div/div/div[2]/div/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div/a",
+        "key_interactions": 8
     },
     {
-        "IA2UniqueID": -1471,
-        "nvda_name": "Learn more - Samsung AI Vision",
-        "nvda_value": "https://www.samsung.com/us/tvs/vision-ai-tv/",
+        "IA2UniqueID": -1028,
+        "nvda_name": "Galaxy Tab S10 FE+ ",
+        "nvda_value": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/galaxy-tab-s10-fe-plus-blue-128gb-sku-sm-x620nlbaxar/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div[2]/div/div/div/div/div[2]/div/a[2]"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[2]/a",
+        "key_interactions": 9
     },
     {
-        "IA2UniqueID": -1473,
-        "nvda_name": "Shop now - Samsung AI Vision",
-        "nvda_value": "https://www.samsung.com/us/televisions-home-theater/tvs/ai-tvs/",
+        "IA2UniqueID": -1120,
+        "nvda_name": "Ballie Home Robot ",
+        "nvda_value": "https://www.samsung.com/us/projectors/home-robot-ballie/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div[2]/div/div/div/div/div[2]/div/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[3]/a",
+        "key_interactions": 10
     },
     {
-        "IA2UniqueID": -1518,
+        "IA2UniqueID": -1121,
+        "nvda_name": "Bespoke AI Vacuum ",
+        "nvda_value": "https://www.samsung.com/us/home-appliances/vacuums/jet-stick/bespoke-ai-jet-ultra-cordless-stick-vacuum-with-all-in-one-clean-station-and-400aw-suction-power-in-satin-black-vs90f40dmk-aa/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[4]/a",
+        "key_interactions": 11
+    },
+    {
+        "IA2UniqueID": -1122,
+        "nvda_name": "Neo QLED 8K TV ",
+        "nvda_value": "https://www.samsung.com/us/tvs/neo-qled/65-class-neo-qled-8k-tv-qn900f-sku-qn65qn900ffxza/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[5]/a",
+        "key_interactions": 12
+    },
+    {
+        "IA2UniqueID": -1123,
+        "nvda_name": "Odyssey G9 Gaming Monitor ",
+        "nvda_value": "https://www.samsung.com/us/monitors/gaming/49-inch-odyssey-g9-g91f-dqhd-144hz-gaming-monitor-sku-ls49fg910enxza/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[6]/a",
+        "key_interactions": 13
+    },
+    {
+        "IA2UniqueID": -1124,
+        "nvda_name": "The Frame Pro ",
+        "nvda_value": "https://www.samsung.com/us/lifestyle-tvs/the-frame/65-inch-class-the-frame-pro-neo-qled-4k-tv-ls03fw-sku-qn65ls03fwfxza/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[7]/a",
+        "key_interactions": 14
+    },
+    {
+        "IA2UniqueID": -1125,
+        "nvda_name": "Bespoke Dishwasher ",
+        "nvda_value": "https://www.samsung.com/us/home-appliances/dishwashers/rotary/38-dba-bespoke-smart-dishwasher-with-3rd-rack-washing-system-in-fingerprint-resistant-stainless-steel-dw90f89t0usraa/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[8]/a",
+        "key_interactions": 15
+    },
+    {
+        "IA2UniqueID": -1126,
+        "nvda_name": "Bespoke Refrigerator ",
+        "nvda_value": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-29-cu-ft-4-door-french-door-refrigerator-with-ai-home-ai-vision-inside-in-charcoal-glass-and-stainless-steel-rf90f29becraa/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[9]/a",
+        "key_interactions": 16
+    },
+    {
+        "IA2UniqueID": -1127,
+        "nvda_name": "4-Door French Door Refrigerator ",
+        "nvda_value": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-29-cu-ft-4-door-french-door-refrigerator-with-inner-beverage-center-flexzone-drawer-in-stainless-steel-rf70f29deraa/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[10]/a",
+        "key_interactions": 17
+    },
+    {
+        "IA2UniqueID": -1128,
+        "nvda_name": "Neo QLED 4K TV ",
+        "nvda_value": "https://www.samsung.com/us/tvs/neo-qled/43-class-neo-qled-4k-tv-qn90f-sku-qn43qn90fafxza/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[11]/a",
+        "key_interactions": 18
+    },
+    {
+        "IA2UniqueID": -1129,
+        "nvda_name": "Bespoke AI Refrigerator ",
+        "nvda_value": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-23-cu-ft-counter-depth-4-door-french-door-refrigerator-with-ai-hybrid-cooling-beverage-center-in-stainless-steel-rm80f23vmraa/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[8]/section/div/div/div/div[12]/a",
+        "key_interactions": 19
+    },
+    {
+        "IA2UniqueID": -1130,
+        "nvda_name": "The Frame ",
+        "nvda_value": "https://www.samsung.com/us/lifestyle-tvs/the-frame/43-inch-the-frame-qled-4k-tv-ls03fa-sku-qn43ls03fafxza/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/section/div/div[2]/div/div/div/div/div[2]/div/a",
+        "key_interactions": 20
+    },
+    {
+        "IA2UniqueID": -1135,
+        "nvda_name": "Sign up",
+        "nvda_value": "https://www.samsung.com/us/smartphones/the-next-galaxy/reserve/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div[2]/div/div/div/div/div[2]/div/a",
+        "key_interactions": 21
+    },
+    {
+        "IA2UniqueID": -1145,
+        "nvda_name": "Shop all TV Deals",
+        "nvda_value": "https://www.samsung.com/us/shop/tv-and-home-theater-offers/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div[2]/div/div/div/div/div[2]/div/a[2]",
+        "key_interactions": 22
+    },
+    {
+        "IA2UniqueID": -1146,
+        "nvda_name": "Buy now for More than just a TV, it\u2019s a lifestyle",
+        "nvda_value": "https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/65-class-the-frame-qled-4k-ls03d-qn65ls03dafxza/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div[2]/div/div/div/div/div[2]/div/a",
+        "key_interactions": 23
+    },
+    {
+        "IA2UniqueID": -1156,
         "nvda_name": "Shop all appliance deals",
         "nvda_value": "https://www.samsung.com/us/shop/all-deals/home-appliance-and-smart-home-sales/",
         "nvda_states": [
@@ -129,120 +296,155 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div[2]/div/div/div/div/div[2]/div/a[2]"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div[2]/div/div/div/div/div[2]/div/a[2]",
+        "key_interactions": 24
     },
     {
-        "IA2UniqueID": -1519,
-        "nvda_name": "Pre-order now",
+        "IA2UniqueID": -1157,
+        "nvda_name": "Buy now for New Bespoke AI Laundry Vented Combo\u2122",
         "nvda_value": "https://www.samsung.com/us/home-appliances/all-in-one-washer-dryer-combo/electric/5-3-cu-ft-bespoke-ai-laundry-combo-vented-all-in-one-ultra-capacity-washer-and-electric-dryer-with-ai-home-in-dark-steel-wd90f53avsus/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/div/div/div/div/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div[2]/div/div/div/div/div[2]/div/a",
+        "key_interactions": 25
     },
     {
-        "IA2UniqueID": -1546,
-        "nvda_name": "Watch bands Watch bands to match your mood and your fit. ",
-        "nvda_value": "https://www.samsung.com/us/mobile/mobile-accessories/smartwatches/galaxy-watch-ultra-trail-band-dark-gray-et-svl70mbeguj/",
+        "IA2UniqueID": -1169,
+        "nvda_name": "Learn more - 49\" Odyssey G9",
+        "nvda_value": "https://www.samsung.com/us/monitors/odyssey-gaming-monitor/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/div/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div[2]/div/div/div/div/div[2]/div/a[2]",
+        "key_interactions": 26
     },
     {
-        "IA2UniqueID": -1555,
-        "nvda_name": "Galaxy Buds3 Block distractions throughout the day with rich audio. ",
-        "nvda_value": "https://www.samsung.com/us/mobile-audio/galaxy-buds3/buy/galaxy-buds3-silver-sm-r530nzaaxar/",
+        "IA2UniqueID": -1170,
+        "nvda_name": "Buy now",
+        "nvda_value": "https://www.samsung.com/us/monitors/gaming/49-inch-odyssey-g9-g91f-dqhd-144hz-gaming-monitor-sku-ls49fg910enxza/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/div/div/div/div[3]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/div/div/div/div/div[2]/a",
+        "key_interactions": 27
     },
     {
-        "IA2UniqueID": -1564,
-        "nvda_name": "Galaxy S25 Ultra Accessories Find accessories designed to elevate your device. Shop now",
-        "nvda_value": "https://www.samsung.com/us/mobile/mobile-accessories/phones/?smartphone_compatibility=Galaxy+S25+Ultra",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/div/div/div/div[4]/a"
-    },
-    {
-        "IA2UniqueID": -1574,
-        "nvda_name": "Powerful portability Charge any device swiftly. ",
-        "nvda_value": "https://www.samsung.com/us/mobile/mobile-accessories/phones/25w-10000-mah-battery-pack-beige-eb-p3400xuegus/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/div/div/div/div[5]/a"
-    },
-    {
-        "IA2UniqueID": -1583,
-        "nvda_name": "Double the speed Boost your charging efficiency. ",
-        "nvda_value": "https://www.samsung.com/us/mobile/mobile-accessories/phones/50w-pd-duo-power-adapter-with-5a-usb-c-cable-black-ep-t5020xbegus/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[20]/div/div/div/div/div/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -1615,
-        "nvda_name": "Learn more New Galaxy Club",
+        "IA2UniqueID": -1176,
+        "nvda_name": "Learn more New Galaxy Club ",
         "nvda_value": "https://www.samsung.com/us/smartphones/new-galaxy-club/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[20]/div/div/div/div[2]/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[20]/div/div/div[2]/div/div/div/div/a",
+        "key_interactions": 28
     },
     {
-        "IA2UniqueID": -1620,
-        "nvda_name": "Learn more Trade in and trade up",
-        "nvda_value": "https://www.samsung.com/us/trade-in/",
+        "IA2UniqueID": -1188,
+        "nvda_name": "Lighten your load on the planet Bespoke AI Laundry Combo\u2122 cleans faster with less water. ",
+        "nvda_value": "https://www.samsung.com/us/home-appliances/washers/all-in-one-washer-dryer-combo/bespoke-5-3-cu-ft-all-in-one-ai-laundry-combo-ultra-capacity-washer-with-super-speed-and-ventless-heat-pump-dryer-in-dark-steel-wd53dba900hza1/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[20]/div/div/div/div[3]/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[20]/div/div/div[2]/div/div/div/div[2]/a",
+        "key_interactions": 29
     },
     {
-        "IA2UniqueID": -1622,
-        "nvda_name": "Learn more Rest easy with Samsung Care+",
-        "nvda_value": "https://www.samsung.com/us/support/samsung-care-plus/",
+        "IA2UniqueID": -1189,
+        "nvda_name": "Extra space to clean smarter The Bespoke Smart Dishwasher. ",
+        "nvda_value": "https://www.samsung.com/us/home-appliances/dishwashers/rotary/bespoke-smart-42dba-dishwasher-with-stormwash-and-smart-dry-in-white-glass-dw80bb707012aa/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[20]/div/div/div/div[4]/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[20]/div/div/div[2]/div/div/div/div[3]/a",
+        "key_interactions": 30
     },
     {
-        "IA2UniqueID": -1624,
-        "nvda_name": "Learn more Save with Samsung Offer Programs ",
-        "nvda_value": "https://www.samsung.com/us/shop/offer-program/workplace/",
+        "IA2UniqueID": -1190,
+        "nvda_name": "Reduce food waste The Bespoke 4-Door French Door Fridge. ",
+        "nvda_value": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-29-cu-ft-4-door-french-door-refrigerator-with-ai-family-hub-ai-vision-inside-in-charcoal-glass-and-stainless-steel-rf90f29aecraa/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[21]/section/div/div/div/div/div/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[22]/div/div/div[2]/div/div/div/div/a",
+        "key_interactions": 31
     },
     {
-        "IA2UniqueID": -1670,
+        "IA2UniqueID": -1199,
+        "nvda_name": "The Freestyle The mini projector you can set up in a snap. ",
+        "nvda_value": "https://www.samsung.com/us/televisions-home-theater/tvs/portable-projector/the-freestyle-with-gaming-hub-sp-lff3claxxza/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[22]/div/div/div[2]/div/div/div/div[2]/a",
+        "key_interactions": 32
+    },
+    {
+        "IA2UniqueID": -1200,
+        "nvda_name": "Galaxy Buds3 AI-powered noise cancellation. ",
+        "nvda_value": "https://www.samsung.com/us/mobile-audio/galaxy-buds3/buy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[22]/div/div/div[2]/div/div/div/div[3]/a",
+        "key_interactions": 33
+    },
+    {
+        "IA2UniqueID": -1201,
+        "nvda_name": "Shop Now - Galaxy S25 Ultra Accessories - Find accessories designed to elevate your device.",
+        "nvda_value": "https://www.samsung.com/us/mobile/mobile-accessories/phones/?category_names=Phones&smartphone_compatibility=Galaxy+S25+Ultra",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[22]/div/div/div[2]/div/div/div/div[4]/a",
+        "key_interactions": 34
+    },
+    {
+        "IA2UniqueID": -1202,
+        "nvda_name": "Music Frame Powerful sound. Personal style. ",
+        "nvda_value": "https://www.samsung.com/us/televisions-home-theater/home-theater/wireless-speakers/music-frame-hw-ls60d-za/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[22]/div/div/div[2]/div/div/div/div[5]/a",
+        "key_interactions": 35
+    },
+    {
+        "IA2UniqueID": -1203,
+        "nvda_name": "Galaxy Watch7 Smart support for every step. ",
+        "nvda_value": "https://www.samsung.com/us/watches/galaxy-watch7/buy/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[23]/section/div/div/div/div/div/a",
+        "key_interactions": 36
+    },
+    {
+        "IA2UniqueID": -1209,
         "nvda_name": "Learn more about Explore the newInteractive Home",
         "nvda_value": "https://www.samsung.com/us/smartthings/experience-smartthings/#/",
         "nvda_states": [
@@ -250,21 +452,23 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[23]/section/div/div[2]/div/div/div/div/div[2]/div/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div/div/div/div[2]/div/a",
+        "key_interactions": 37
     },
     {
-        "IA2UniqueID": -1698,
+        "IA2UniqueID": -1213,
         "nvda_name": "Learn more - Certified Re-Newed",
-        "nvda_value": "https://www.samsung.com/us/smartphones/certified-re-newed-phones/",
+        "nvda_value": "https://www.samsung.com/us/smartphones/galaxy-s-series/certified-re-newed-store/buy/galaxy-s24-certified-re-newed-128gb-sm5s921uzkaxaa/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div/h2/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div/h2/a",
+        "key_interactions": 38
     },
     {
-        "IA2UniqueID": -1719,
+        "IA2UniqueID": -1216,
         "nvda_name": "Explore more \u2013 Shop smarter",
         "nvda_value": "https://www.samsung.com/us/explore/",
         "nvda_states": [
@@ -272,65 +476,23 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div[2]/div/div/div/div/div[2]/a",
+        "key_interactions": 39
     },
     {
-        "IA2UniqueID": -1730,
-        "nvda_name": "Learn more - Let our products ease your day",
+        "IA2UniqueID": -1217,
+        "nvda_name": "Learn more - Let our products ease your day ",
         "nvda_value": "https://www.samsung.com/us/explore/brand/let-our-products-ease-your-day/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div[2]/div/div/div[2]/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[29]/section/div/div/ul/li/button",
+        "key_interactions": 40
     },
     {
-        "IA2UniqueID": -1739,
-        "nvda_name": "Learn more - How to choose the best Galaxy AI phone experience for your lifestyle ",
-        "nvda_value": "https://www.samsung.com/us/explore/mobile/buying-guide/how-to-choose-the-best-galaxy-ai-phone-experience-for-your-lifestyle/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div[3]/div/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -1747,
-        "nvda_name": "Learn more - Empowering a better you",
-        "nvda_value": "https://www.samsung.com/us/explore/brand/empowering-a-better-you/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div[4]/div/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -1755,
-        "nvda_name": "Learn more - Step into spring refreshed and recharged ",
-        "nvda_value": "https://www.samsung.com/us/explore/brand/step-into-spring-refreshed-and-recharged/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div[5]/div/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -1763,
-        "nvda_name": "Learn more - Discover how our AI empowers you ",
-        "nvda_value": "https://www.samsung.com/us/ai-products/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div/ul/li/button"
-    },
-    {
-        "IA2UniqueID": -1821,
+        "IA2UniqueID": -1233,
         "nvda_name": "Galaxy S25 Ultra",
         "nvda_value": null,
         "nvda_states": [
@@ -338,10 +500,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div/ul/li[2]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[29]/section/div/div/ul/li[2]/button",
+        "key_interactions": 41
     },
     {
-        "IA2UniqueID": -1823,
+        "IA2UniqueID": -1234,
         "nvda_name": "Galaxy S25+",
         "nvda_value": null,
         "nvda_states": [
@@ -349,10 +512,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div/ul/li[3]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[29]/section/div/div/ul/li[3]/button",
+        "key_interactions": 42
     },
     {
-        "IA2UniqueID": -1825,
+        "IA2UniqueID": -1235,
         "nvda_name": "Galaxy S25",
         "nvda_value": null,
         "nvda_states": [
@@ -360,10 +524,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div/ul/li[4]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[29]/section/div/div/ul/li[4]/button",
+        "key_interactions": 43
     },
     {
-        "IA2UniqueID": -1827,
+        "IA2UniqueID": -1236,
         "nvda_name": "Galaxy Z Flip6",
         "nvda_value": null,
         "nvda_states": [
@@ -371,10 +536,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div/ul/li[5]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[29]/section/div/div/ul/li[5]/button",
+        "key_interactions": 44
     },
     {
-        "IA2UniqueID": -1829,
+        "IA2UniqueID": -1237,
         "nvda_name": "The Frame",
         "nvda_value": null,
         "nvda_states": [
@@ -382,10 +548,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div/ul/li[6]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[29]/section/div/div/ul/li[6]/button",
+        "key_interactions": 45
     },
     {
-        "IA2UniqueID": -1831,
+        "IA2UniqueID": -1238,
         "nvda_name": "BESPOKE Refrigerator",
         "nvda_value": null,
         "nvda_states": [
@@ -393,10 +560,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div/ul/li[7]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[29]/section/div/div/ul/li[7]/button",
+        "key_interactions": 46
     },
     {
-        "IA2UniqueID": -1833,
+        "IA2UniqueID": -1239,
         "nvda_name": "Accessories",
         "nvda_value": null,
         "nvda_states": [
@@ -404,10 +572,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[3]/div/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[3]/div/a",
+        "key_interactions": 47
     },
     {
-        "IA2UniqueID": -1853,
+        "IA2UniqueID": -1243,
         "nvda_name": "terms and conditions",
         "nvda_value": "https://www.samsung.com/us/trade-in/terms-and-conditions/",
         "nvda_states": [
@@ -415,615 +584,23 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[6]/div[4]/div/div/a"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[6]/div/div/a",
+        "key_interactions": 48
     },
     {
-        "IA2UniqueID": -1913,
-        "nvda_name": "Samsung.com",
-        "nvda_value": "https://www.samsung.com/us/",
+        "IA2UniqueID": -1248,
+        "nvda_name": "samsung.com/us/shop/promotions/warranty-offer-2025",
+        "nvda_value": "https://www.samsung.com/us/samsung.com/us/shop/promotions/warranty-offer-2025",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div/div[2]/a",
+        "key_interactions": 49
     },
     {
-        "IA2UniqueID": -47693,
-        "nvda_name": "Phones",
-        "nvda_value": "https://www.samsung.com/us/smartphones/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -47695,
-        "nvda_name": "Tablets",
-        "nvda_value": "https://www.samsung.com/us/tablets/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -47697,
-        "nvda_name": "Watches",
-        "nvda_value": "https://www.samsung.com/us/watches/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -47699,
-        "nvda_name": "Mobile Accessories",
-        "nvda_value": "https://www.samsung.com/us/mobile-accessories/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -47701,
-        "nvda_name": "Mobile Audio",
-        "nvda_value": "https://www.samsung.com/us/mobile-audio/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -47703,
-        "nvda_name": "TV & Home Theater",
-        "nvda_value": "https://www.samsung.com/us/tvs/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -47705,
-        "nvda_name": "Computing",
-        "nvda_value": "https://www.samsung.com/us/computing/laptops/all-laptops/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -47707,
-        "nvda_name": "Monitors",
-        "nvda_value": "https://www.samsung.com/us/monitors/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[9]/a"
-    },
-    {
-        "IA2UniqueID": -47709,
-        "nvda_name": "Memory & Storage",
-        "nvda_value": "https://www.samsung.com/us/memory-storage/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[10]/a"
-    },
-    {
-        "IA2UniqueID": -47711,
-        "nvda_name": "Home Appliances",
-        "nvda_value": "https://www.samsung.com/us/home-appliances/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[11]/a"
-    },
-    {
-        "IA2UniqueID": -47713,
-        "nvda_name": "Smart Home",
-        "nvda_value": "https://www.samsung.com/us/smartthings/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[12]/a"
-    },
-    {
-        "IA2UniqueID": -47715,
-        "nvda_name": "Samsung Experience Stores",
-        "nvda_value": "https://www.samsung.com/us/samsung-experience-store/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[13]/a"
-    },
-    {
-        "IA2UniqueID": -47717,
-        "nvda_name": "Apps & Services",
-        "nvda_value": "https://www.samsung.com/us/apps/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[14]/a"
-    },
-    {
-        "IA2UniqueID": -47719,
-        "nvda_name": "Shop Certified Re-Newed ",
-        "nvda_value": "https://www.samsung.com/us/explore/certified-re-newed-phones/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/ul/li[15]/a"
-    },
-    {
-        "IA2UniqueID": -47721,
-        "nvda_name": "Samsung Authorized Reseller Program",
-        "nvda_value": "https://www.samsung.com/us/peaceofmind/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -47725,
-        "nvda_name": "Chat with Us",
-        "nvda_value": "https://www.samsung.com/us/support/?chat=auto",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -47727,
-        "nvda_name": "Product Support",
-        "nvda_value": "https://www.samsung.com/us/support/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -47729,
-        "nvda_name": "Order Support",
-        "nvda_value": "https://www.samsung.com/us/support/order-help/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -47731,
-        "nvda_name": "Your Account",
-        "nvda_value": "https://www.samsung.com/us/support/account/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -47733,
-        "nvda_name": "Register Your Product",
-        "nvda_value": "https://www.samsung.com/us/support/register/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -47735,
-        "nvda_name": "Request a Repair",
-        "nvda_value": "https://www.samsung.com/us/support/service/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -47737,
-        "nvda_name": "Contact Us",
-        "nvda_value": "https://www.samsung.com/us/support/contact/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -47739,
-        "nvda_name": "Samsung Community",
-        "nvda_value": "https://us.community.samsung.com/t5/Samsung-Community/ct-p/us",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[10]/a"
-    },
-    {
-        "IA2UniqueID": -47743,
-        "nvda_name": "Slide-in Electric Range Recall",
-        "nvda_value": "https://www.samsung.com/us/support/range-knob-kit/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[11]/a"
-    },
-    {
-        "IA2UniqueID": -47745,
-        "nvda_name": "Manuals & Software",
-        "nvda_value": "https://www.samsung.com/us/support/downloads/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[12]/a"
-    },
-    {
-        "IA2UniqueID": -47747,
-        "nvda_name": "Returns",
-        "nvda_value": "https://order-help.us.samsung.com/hc/en-us/articles/360057028614-What-is-Samsung-s-return-policy/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[3]/div/div/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -47751,
-        "nvda_name": "Offers",
-        "nvda_value": "https://www.samsung.com/us/shop/all-deals/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[3]/div/div/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -47753,
-        "nvda_name": "Samsung Rewards",
-        "nvda_value": "https://www.samsung.com/us/rewards/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[3]/div/div/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -47755,
-        "nvda_name": "Education Offers Program",
-        "nvda_value": "https://www.samsung.com/us/shop/discount-program/education/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[3]/div/div/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -47757,
-        "nvda_name": "Government Offers Program",
-        "nvda_value": "https://www.samsung.com/us/shop/discount-program/government/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[3]/div/div/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -47759,
-        "nvda_name": "Military Offers Program",
-        "nvda_value": "https://www.samsung.com/us/shop/discount-program/military/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[3]/div/div/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -47761,
-        "nvda_name": "Employee Offers Program",
-        "nvda_value": "https://www.samsung.com/us/shop/discount-program/workplace/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[3]/div/div/ul/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -47763,
-        "nvda_name": "First Responders Offers Program",
-        "nvda_value": "https://www.samsung.com/us/shop/discount-program/first-responders/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[3]/div/div/ul/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -47765,
-        "nvda_name": "Business Offers Program",
-        "nvda_value": "https://www.samsung.com/us/shop/all-deals/small-business-deals/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div/div/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -47769,
-        "nvda_name": "Overview",
-        "nvda_value": "https://www.samsung.com/us/sustainability/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div/div/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -47771,
-        "nvda_name": "Environment",
-        "nvda_value": "https://www.samsung.com/us/sustainability/environment/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div/div/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -47773,
-        "nvda_name": "Digital Responsibility",
-        "nvda_value": "https://www.samsung.com/us/about-us/digital-responsibility/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div/div/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -47775,
-        "nvda_name": "Security and Privacy",
-        "nvda_value": "https://www.samsung.com/us/sustainability/security-and-privacy/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div/div/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -47777,
-        "nvda_name": "Accessibility",
-        "nvda_value": "https://www.samsung.com/us/accessibility/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div/div/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -47779,
-        "nvda_name": "Labor & Human Rights",
-        "nvda_value": "https://www.samsung.com/us/about-us/labor-and-human-rights/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div/div/ul/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -47781,
-        "nvda_name": "Diversity \u2219 Equity \u2219 Inclusion",
-        "nvda_value": "https://www.samsung.com/us/about-us/diversity-and-inclusion/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div/div/ul/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -47783,
-        "nvda_name": "Sustainable Supply Chain",
-        "nvda_value": "https://www.samsung.com/us/sustainability/sustainable-supply-chain/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div/div/ul/li[9]/a"
-    },
-    {
-        "IA2UniqueID": -47785,
-        "nvda_name": "Corporate Citizenship ",
-        "nvda_value": "http://csr.samsung.com/en/main.do",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div/div/ul/li[10]/a"
-    },
-    {
-        "IA2UniqueID": -47787,
-        "nvda_name": "Corporate Sustainability ",
-        "nvda_value": "https://www.samsung.com/global/sustainability/main/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div[2]/div/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -47791,
-        "nvda_name": "Leadership & Mission",
-        "nvda_value": "https://www.samsung.com/us/about-us/leadership-and-mission/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div[2]/div/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -47793,
-        "nvda_name": "Our Business",
-        "nvda_value": "https://www.samsung.com/us/about-us/our-business/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div[2]/div/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -47795,
-        "nvda_name": "Brand Identity",
-        "nvda_value": "https://www.samsung.com/us/about-us/brand-identity/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div[2]/div/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -47797,
-        "nvda_name": "Careers",
-        "nvda_value": "https://www.samsung.com/us/careers/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div[2]/div/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -47799,
-        "nvda_name": "Investor Relations ",
-        "nvda_value": "https://www.samsung.com/global/ir/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div[2]/div/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -47801,
-        "nvda_name": "Newsroom ",
-        "nvda_value": "https://news.samsung.com/us/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div[2]/div/ul/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -47803,
-        "nvda_name": "Ethics",
-        "nvda_value": "https://www.samsung.com/us/about-us/ethics/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[4]/div[2]/div/ul/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -47805,
-        "nvda_name": "Samsung Design ",
-        "nvda_value": "http://design.samsung.com/global/index.html",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div[2]/div/div[3]/div/div/a"
-    },
-    {
-        "IA2UniqueID": -1960,
-        "nvda_name": "Get Shop Samusng App",
-        "nvda_value": "https://shopsamsung.page.link/hJbyG5aVLAUMF2yt7",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div[2]/div/div[3]/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -1964,
-        "nvda_name": "None",
-        "nvda_value": "https://samsung.attn.tv/p/Vbx/landing-page",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div/a"
-    },
-    {
-        "IA2UniqueID": -47807,
+        "IA2UniqueID": -1261,
         "nvda_name": "USA/ENGLISH - Choose your Location/Language",
         "nvda_value": "https://www.samsung.com/us/function/ipredirection/ipredirectionLocalList/",
         "nvda_states": [
@@ -1031,10 +608,35 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div/div[3]/div/div/a",
+        "key_interactions": 50
     },
     {
-        "IA2UniqueID": -1970,
+        "IA2UniqueID": -1262,
+        "nvda_name": "Get Shop Samusng App",
+        "nvda_value": "https://shopsamsung.page.link/hJbyG5aVLAUMF2yt7",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div/div[3]/div/div[2]/a",
+        "key_interactions": 51
+    },
+    {
+        "IA2UniqueID": -1263,
+        "nvda_name": "None",
+        "nvda_value": "https://samsung.attn.tv/p/Vbx/landing-page",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li/a",
+        "key_interactions": 52
+    },
+    {
+        "IA2UniqueID": -1264,
         "nvda_name": "Privacy",
         "nvda_value": "https://www.samsung.com/us/privacy/",
         "nvda_states": [
@@ -1042,10 +644,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li[3]/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li[3]/a",
+        "key_interactions": 53
     },
     {
-        "IA2UniqueID": -1974,
+        "IA2UniqueID": -1266,
         "nvda_name": "Washington Privacy Notice",
         "nvda_value": "https://www.samsung.com/us/privacy-policy/washington-privacy-notice/",
         "nvda_states": [
@@ -1053,10 +656,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li[4]/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li[4]/a",
+        "key_interactions": 54
     },
     {
-        "IA2UniqueID": -1976,
+        "IA2UniqueID": -1267,
         "nvda_name": "Legal",
         "nvda_value": "https://www.samsung.com/us/common/legal.html",
         "nvda_states": [
@@ -1064,10 +668,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li[5]/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li[5]/a",
+        "key_interactions": 55
     },
     {
-        "IA2UniqueID": -1978,
+        "IA2UniqueID": -1268,
         "nvda_name": "Accessibility Help",
         "nvda_value": "https://www.samsung.com/us/accessibility/",
         "nvda_states": [
@@ -1075,10 +680,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li[6]/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li[6]/a",
+        "key_interactions": 56
     },
     {
-        "IA2UniqueID": -1980,
+        "IA2UniqueID": -1269,
         "nvda_name": "Sitemap",
         "nvda_value": "https://www.samsung.com/us/common/sitemap.html",
         "nvda_states": [
@@ -1086,10 +692,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[3]/ul/li/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[3]/ul/li/a",
+        "key_interactions": 57
     },
     {
-        "IA2UniqueID": -1985,
+        "IA2UniqueID": -1270,
         "nvda_name": "Facebook",
         "nvda_value": "https://www.facebook.com/SamsungUS",
         "nvda_states": [
@@ -1097,10 +704,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[3]/ul/li[2]/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[3]/ul/li[2]/a",
+        "key_interactions": 58
     },
     {
-        "IA2UniqueID": -1988,
+        "IA2UniqueID": -1271,
         "nvda_name": "Twitter",
         "nvda_value": "https://twitter.com/SamsungUS",
         "nvda_states": [
@@ -1108,10 +716,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[3]/ul/li[3]/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[3]/ul/li[3]/a",
+        "key_interactions": 59
     },
     {
-        "IA2UniqueID": -1991,
+        "IA2UniqueID": -1272,
         "nvda_name": "Instagram",
         "nvda_value": "https://www.instagram.com/samsungmobileusa/",
         "nvda_states": [
@@ -1119,10 +728,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[3]/ul/li[4]/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[3]/ul/li[4]/a",
+        "key_interactions": 60
     },
     {
-        "IA2UniqueID": -1994,
+        "IA2UniqueID": -1273,
         "nvda_name": "YouTube",
         "nvda_value": "https://www.youtube.com/samsungus",
         "nvda_states": [
@@ -1130,770 +740,46 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[3]/ul/li[5]/a"
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[3]/ul/li[5]/a",
+        "key_interactions": 61
     },
     {
-        "IA2UniqueID": -1317,
-        "nvda_name": "Pre-order now",
-        "nvda_value": "https://www.samsung.com/us/home-appliances/bespoke/smart/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div[6]/a"
-    },
-    {
-        "IA2UniqueID": -896,
-        "nvda_name": "Bespoke 5.3 cu. ft. All-in-One AI Laundry Combo Ultra Capacity Washer and Ventless Heat Pump Dryer Save $1300. \u00a0From $1999",
-        "nvda_value": "https://www.samsung.com/us/home-appliances/washers/all-in-one-washer-dryer-combo/bespoke-5-3-cu-ft-all-in-one-ai-laundry-combo-ultra-capacity-washer-with-super-speed-and-ventless-heat-pump-dryer-in-dark-steel-wd53dba900hza1",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div[5]/a"
-    },
-    {
-        "IA2UniqueID": -887,
-        "nvda_name": "32\" Odyssey Neo G7 4K UHD 165Hz 1ms Curved Gaming Monitor From $1099.99 Buy now",
-        "nvda_value": "https://www.samsung.com/us/computing/monitors/gaming/32-odyssey-neo-g7-4k-uhd-165hz-1ms-curved-gaming-monitor-ls32bg752nnxgo",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div[4]/a"
-    },
-    {
-        "IA2UniqueID": -878,
-        "nvda_name": "65\"The Frame QLED 4K Save $700. \u00a0From $1299.99",
-        "nvda_value": "https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/65-class-the-frame-qled-4k-ls03d-qn65ls03dafxza",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div[3]/a"
-    },
-    {
-        "IA2UniqueID": -869,
-        "nvda_name": "Galaxy Buds3 Pro Save up to $165. \u00a0From $209.99 before eligible trade-in.",
-        "nvda_value": "https://www.samsung.com/us/mobile-audio/galaxy-buds3-pro/buy/galaxy-buds3-pro-silver-sm-r630nzaaxar",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -860,
-        "nvda_name": "New Bespoke AI Vented Laundry Combo Save $600. \u00a0From $2499 Pre-order now",
-        "nvda_value": "https://www.samsung.com/us/home-appliances/all-in-one-washer-dryer-combo/electric/5-3-cu-ft-bespoke-ai-laundry-combo-vented-all-in-one-ultra-capacity-washer-and-electric-dryer-with-ai-home-in--brushed-black-wd90f53avbus",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div[2]/div/div/div/div/a"
-    },
-    {
-        "IA2UniqueID": -851,
-        "nvda_name": "New 85\" Neo QLED 8K QN900F Vision AI Smart TV (2025) From $3299.99",
-        "nvda_value": "https://www.samsung.com/us/televisions-home-theater/tvs/samsung-neo-qled-8k/65-class-neo-qled-8k-tv-qn900f-sku-qn65qn900ffxza",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/section/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -600,
-        "nvda_name": "View All Offers",
-        "nvda_value": "https://www.samsung.com/us/shop/all-deals/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[2]/div/div[5]/div/button"
-    },
-    {
-        "IA2UniqueID": -769,
-        "nvda_name": "Reserve Now",
+        "IA2UniqueID": -5390,
+        "nvda_name": "Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US",
         "nvda_value": null,
         "nvda_states": [
-            "LINKED (4096)",
+            "READONLY (128)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[2]/div/div[4]/div/button"
+        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li[2]/a",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -635,
-        "nvda_name": "Buy Galaxy A36",
-        "nvda_value": null,
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[2]/div/div[4]/div/div/div/a[2]"
-    },
-    {
-        "IA2UniqueID": -764,
-        "nvda_name": "Buy Galaxy A36",
-        "nvda_value": "https://www.samsung.com/us/smartphones/galaxy-a36/buy/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[2]/div/div[4]/div/div/div/a"
-    },
-    {
-        "IA2UniqueID": -763,
-        "nvda_name": "Buy Galaxy A26",
-        "nvda_value": "https://www.samsung.com/us/smartphones/galaxy-a26/buy/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[2]/div/div[3]/div/button"
-    },
-    {
-        "IA2UniqueID": -634,
-        "nvda_name": "Shop now",
-        "nvda_value": null,
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[6]/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -596,
-        "nvda_name": "Cart",
-        "nvda_value": "https://www.samsung.com/us/web/express/cart/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul[2]/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -47498,
-        "nvda_name": "For Business: Open in a New Window",
-        "nvda_value": "https://www.samsung.com/us/business/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -47493,
-        "nvda_name": "SmartThings",
-        "nvda_value": "https://www.samsung.com/us/smartthings/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -592,
-        "nvda_name": "Samsung",
-        "nvda_value": "https://www.samsung.com/us/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/a"
-    },
-    {
-        "IA2UniqueID": -638,
-        "nvda_name": "Skip to Main Content",
-        "nvda_value": "https://www.samsung.com/us/#content",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul/button"
-    },
-    {
-        "IA2UniqueID": -47475,
-        "nvda_name": "Accessible Menu - Main Menu",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul/li/button"
-    },
-    {
-        "IA2UniqueID": -47479,
-        "nvda_name": "Offers",
-        "nvda_value": null,
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul/li[2]/button"
-    },
-    {
-        "IA2UniqueID": -47481,
-        "nvda_name": "Mobile",
-        "nvda_value": null,
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul/li[3]/button"
-    },
-    {
-        "IA2UniqueID": -47483,
-        "nvda_name": "TV & Audio",
-        "nvda_value": null,
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul/li[4]/button"
-    },
-    {
-        "IA2UniqueID": -47485,
-        "nvda_name": "Appliances",
-        "nvda_value": null,
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul/li[5]/button"
-    },
-    {
-        "IA2UniqueID": -47487,
-        "nvda_name": "Computing & Displays",
-        "nvda_value": null,
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul/li[6]/button"
-    },
-    {
-        "IA2UniqueID": -47489,
-        "nvda_name": "Accessories",
-        "nvda_value": null,
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul/li[7]/button"
-    },
-    {
-        "IA2UniqueID": -47491,
-        "nvda_name": "AI",
-        "nvda_value": null,
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[5]/ul[2]/li/button"
-    },
-    {
-        "IA2UniqueID": -47496,
-        "nvda_name": "Support",
-        "nvda_value": null,
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[6]/div/button"
-    },
-    {
-        "IA2UniqueID": -711,
-        "nvda_name": "Search",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/nav/div/div/div[6]/div[3]/a"
-    },
-    {
-        "IA2UniqueID": -716,
-        "nvda_name": "Sign in/Create Account",
-        "nvda_value": null,
-        "nvda_states": [
-            "COLLAPSED (512)",
-            "HASPOPUP (8192)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/a"
-    },
-    {
-        "IA2UniqueID": -741,
-        "nvda_name": "Accessible Carousel",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[2]/div[2]/button"
-    },
-    {
-        "IA2UniqueID": -47504,
-        "nvda_name": "Previous slide",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[2]/div[2]/button[2]"
-    },
-    {
-        "IA2UniqueID": -47474,
-        "nvda_name": "Next slide",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[4]/div/div/button"
-    },
-    {
-        "IA2UniqueID": -621,
-        "nvda_name": "stop",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/div/div/div/div/div/div[2]/button"
-    },
-    {
-        "IA2UniqueID": -1370,
-        "nvda_name": "Play Video - Endless free content",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/div/div/div/div[2]/div/div[2]/button"
-    },
-    {
-        "IA2UniqueID": -1372,
-        "nvda_name": "Play Video - The next phase of gaming",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/div/div/div/div[3]/div/div[2]/button"
-    },
-    {
-        "IA2UniqueID": -1375,
-        "nvda_name": "Play Video - Wash + dry in one machine",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div/div/div/div/div/span"
-    },
-    {
-        "IA2UniqueID": -1728,
-        "nvda_name": "Let our products ease your day",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div[2]/div/div/div/div/span"
-    },
-    {
-        "IA2UniqueID": -47663,
-        "nvda_name": "How to choose the best Galaxy AI phone experience for your lifestyle",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div[3]/div/div/div/div/span"
-    },
-    {
-        "IA2UniqueID": -47671,
-        "nvda_name": "Empowering a better you",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div[4]/div/div/div/div/span"
-    },
-    {
-        "IA2UniqueID": -47679,
-        "nvda_name": "Step into spring refreshed and recharged",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div[2]/div/div[5]/div/div/div/div/span"
-    },
-    {
-        "IA2UniqueID": -47687,
-        "nvda_name": "Discover how our AI empowers you",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/form/fieldset/div/div/div/button"
-    },
-    {
-        "IA2UniqueID": -24902,
-        "nvda_name": "Delete",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/form/fieldset/div/button"
-    },
-    {
-        "IA2UniqueID": -1815,
-        "nvda_name": "search",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/p"
-    },
-    {
-        "IA2UniqueID": -1839,
-        "nvda_name": "Mobile Disclosures:",
-        "nvda_value": null,
-        "nvda_states": [
-            "EXPANDED (256)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div/div/a"
-    },
-    {
-        "IA2UniqueID": -1843,
-        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosures:Computing Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[2]/div/a"
-    },
-    {
-        "IA2UniqueID": -1848,
-        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosures:Computing Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[3]/div/a[2]"
-    },
-    {
-        "IA2UniqueID": -1854,
-        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosures:Computing Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[4]/div/a"
-    },
-    {
-        "IA2UniqueID": -1859,
-        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosures:Computing Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[5]/p"
-    },
-    {
-        "IA2UniqueID": -1862,
-        "nvda_name": "Home Appliance Disclosures:",
-        "nvda_value": null,
-        "nvda_states": [
-            "EXPANDED (256)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[5]/div[2]/div/a"
-    },
-    {
-        "IA2UniqueID": -1869,
-        "nvda_name": "Show More - Home Appliance Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[5]/div[3]/div/a"
-    },
-    {
-        "IA2UniqueID": -1874,
-        "nvda_name": "Show More - Home Appliance Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[5]/div[4]/div/a"
-    },
-    {
-        "IA2UniqueID": -1879,
-        "nvda_name": "Show More - Home Appliance Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[5]/div[5]/div/a"
-    },
-    {
-        "IA2UniqueID": -1884,
-        "nvda_name": "Show More - Home Appliance Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[6]/p"
-    },
-    {
-        "IA2UniqueID": -1887,
-        "nvda_name": "Home Entertainment Disclosures:",
-        "nvda_value": null,
-        "nvda_states": [
-            "EXPANDED (256)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[6]/div/div/a"
-    },
-    {
-        "IA2UniqueID": -1891,
-        "nvda_name": "Show More - Home Entertainment Disclosures:Stand Alone Disclosures:Computing Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[6]/div[2]/div/a"
-    },
-    {
-        "IA2UniqueID": -1896,
-        "nvda_name": "Show More - Home Entertainment Disclosures:Stand Alone Disclosures:Computing Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[6]/div[3]/p"
-    },
-    {
-        "IA2UniqueID": -1899,
-        "nvda_name": "Stand Alone Disclosures:",
-        "nvda_value": null,
-        "nvda_states": [
-            "EXPANDED (256)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[6]/div[3]/div/div/a"
-    },
-    {
-        "IA2UniqueID": -1903,
-        "nvda_name": "Show More - Stand Alone Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[6]/div[4]/p"
-    },
-    {
-        "IA2UniqueID": -1909,
-        "nvda_name": "Computing Disclosures:",
-        "nvda_value": null,
-        "nvda_states": [
-            "EXPANDED (256)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[28]/section/div/div/div[6]/div[4]/div/div/a[2]"
-    },
-    {
-        "IA2UniqueID": -1914,
-        "nvda_name": "Show More - Computing Disclosure function trim() { [native code] }",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div/div[2]/div/div/ul/li[9]/a"
-    },
-    {
-        "IA2UniqueID": -47741,
-        "nvda_name": "Give Feedback",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/footer/div/div[2]/div[2]/div[2]/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -1972,
+        "IA2UniqueID": -7234,
         "nvda_name": "Do Not Sell Or Share My Personal Information",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/span/button"
+        "xpath": "/html/body/span/button",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -621,
-        "nvda_name": "stop",
+        "IA2UniqueID": -36684,
+        "nvda_name": "Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US",
         "nvda_value": null,
         "nvda_states": [
+            "READONLY (128)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[4]/div/div/div/div/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div/ul/li[4]/button",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -787,
-        "nvda_name": "Bespoke AI Slide 1",
-        "nvda_value": null,
-        "nvda_states": [
-            "SELECTABLE (8388608)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[4]/div/div/div/div/button[2]"
-    },
-    {
-        "IA2UniqueID": -792,
-        "nvda_name": "Vision AI TV Slide 2",
-        "nvda_value": null,
-        "nvda_states": [
-            "SELECTABLE (8388608)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[4]/div/div/div/div/button[3]"
-    },
-    {
-        "IA2UniqueID": -797,
-        "nvda_name": "Galaxy A36 | A26 Slide 3",
-        "nvda_value": null,
-        "nvda_states": [
-            "SELECTABLE (8388608)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[4]/div/div/div/div/button[4]"
-    },
-    {
-        "IA2UniqueID": -802,
-        "nvda_name": "Reserve Monitor Slide 4",
-        "nvda_value": null,
-        "nvda_states": [
-            "SELECTABLE (8388608)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[4]/div/div/div/div/button[5]"
-    },
-    {
-        "IA2UniqueID": -807,
-        "nvda_name": "Galaxy Tab S10 FE+ | FE Slide 5",
-        "nvda_value": null,
-        "nvda_states": [
-            "SELECTABLE (8388608)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[4]/section/div[4]/div/div/div/div/button[6]"
-    },
-    {
-        "IA2UniqueID": -812,
-        "nvda_name": "Why buy direct Slide 6",
-        "nvda_value": null,
-        "nvda_states": [
-            "SELECTABLE (8388608)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div/ul/li/button"
-    },
-    {
-        "IA2UniqueID": -835,
-        "nvda_name": "For You",
-        "nvda_value": null,
-        "nvda_states": [
-            "SELECTABLE (8388608)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "SELECTED (4)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div/ul/li[2]/button"
-    },
-    {
-        "IA2UniqueID": -837,
-        "nvda_name": "Mobile",
-        "nvda_value": null,
-        "nvda_states": [
-            "SELECTABLE (8388608)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div/ul/li[3]/button"
-    },
-    {
-        "IA2UniqueID": -839,
+        "IA2UniqueID": -39097,
         "nvda_name": "TV & Audio",
         "nvda_value": null,
         "nvda_states": [
@@ -1901,10 +787,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div/ul/li[4]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div/ul/li[5]/button",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -619,
+        "IA2UniqueID": -39099,
         "nvda_name": "Home Appliances",
         "nvda_value": null,
         "nvda_states": [
@@ -1912,10 +799,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div/ul/li[5]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div/ul/li[6]/button",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -842,
+        "IA2UniqueID": -39101,
         "nvda_name": "Computing",
         "nvda_value": null,
         "nvda_states": [
@@ -1923,21 +811,12 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[6]/div/div/div/div/div/ul/li[6]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/section/div/div/div/ul/li/button",
+        "key_interactions": 3
     },
     {
-        "IA2UniqueID": -1375,
-        "nvda_name": "Play Video - Wash + dry in one machine",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div/div/ul/li/button"
-    },
-    {
-        "IA2UniqueID": -1415,
-        "nvda_name": "Galaxy S25 Ultra",
+        "IA2UniqueID": -37647,
+        "nvda_name": "Beyond slim",
         "nvda_value": null,
         "nvda_states": [
             "SELECTABLE (8388608)",
@@ -1945,10 +824,11 @@
             "FOCUSED (2)",
             "SELECTED (4)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div/div/ul/li[2]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/section/div/div/div/ul/li[2]/button",
+        "key_interactions": 4
     },
     {
-        "IA2UniqueID": -1417,
+        "IA2UniqueID": -37649,
         "nvda_name": "Galaxy Z Fold6",
         "nvda_value": null,
         "nvda_states": [
@@ -1956,33 +836,36 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div/div/ul/li[3]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/section/div/div/div/ul/li[3]/button",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -1419,
-        "nvda_name": "Galaxy Tab S10 Ultra",
+        "IA2UniqueID": -37651,
+        "nvda_name": "Galaxy Tab S10 FE+",
         "nvda_value": null,
         "nvda_states": [
             "SELECTABLE (8388608)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div/div/ul/li[4]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[10]/section/div/div/div/ul/li[4]/button",
+        "key_interactions": 6
     },
     {
-        "IA2UniqueID": -1421,
-        "nvda_name": "Galaxy Ring",
+        "IA2UniqueID": -37653,
+        "nvda_name": "Galaxy Watch Ultra",
         "nvda_value": null,
         "nvda_states": [
             "SELECTABLE (8388608)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div/div/ul/li/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div/div/ul/li/button",
+        "key_interactions": 7
     },
     {
-        "IA2UniqueID": -1457,
-        "nvda_name": "Samsung AI Vision",
+        "IA2UniqueID": -37683,
+        "nvda_name": "Lifestyle Week",
         "nvda_value": null,
         "nvda_states": [
             "SELECTABLE (8388608)",
@@ -1990,32 +873,35 @@
             "FOCUSED (2)",
             "SELECTED (4)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div/div/ul/li[2]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div/div/ul/li[2]/button",
+        "key_interactions": 8
     },
     {
-        "IA2UniqueID": -1459,
-        "nvda_name": "Neo QLED 8K QN900F",
+        "IA2UniqueID": -37685,
+        "nvda_name": "The Frame Pro",
         "nvda_value": null,
         "nvda_states": [
             "SELECTABLE (8388608)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div/div/ul/li[3]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[12]/section/div/div/div/ul/li[3]/button",
+        "key_interactions": 9
     },
     {
-        "IA2UniqueID": -1461,
-        "nvda_name": "Neo QLED 4K QN90F",
+        "IA2UniqueID": -37687,
+        "nvda_name": "The Frame",
         "nvda_value": null,
         "nvda_states": [
             "SELECTABLE (8388608)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div/div/ul/li/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div/div/ul/li/button",
+        "key_interactions": 10
     },
     {
-        "IA2UniqueID": -1500,
+        "IA2UniqueID": -37718,
         "nvda_name": "Bespoke Laundry",
         "nvda_value": null,
         "nvda_states": [
@@ -2024,10 +910,11 @@
             "FOCUSED (2)",
             "SELECTED (4)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div/div/ul/li[2]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div/div/ul/li[2]/button",
+        "key_interactions": 11
     },
     {
-        "IA2UniqueID": -1502,
+        "IA2UniqueID": -37720,
         "nvda_name": "Bespoke Refrigerators",
         "nvda_value": null,
         "nvda_states": [
@@ -2035,10 +922,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div/div/ul/li[3]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div/div/ul/li[3]/button",
+        "key_interactions": 12
     },
     {
-        "IA2UniqueID": -1504,
+        "IA2UniqueID": -37722,
         "nvda_name": "Bespoke Vacuums",
         "nvda_value": null,
         "nvda_states": [
@@ -2046,10 +934,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div/div/ul/li[4]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div/div/ul/li[4]/button",
+        "key_interactions": 13
     },
     {
-        "IA2UniqueID": -1506,
+        "IA2UniqueID": -37724,
         "nvda_name": "Bespoke Dishwashers",
         "nvda_value": null,
         "nvda_states": [
@@ -2057,10 +946,194 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[23]/section/div/div/div/ul/li/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[14]/section/div/div/div/ul/li[5]/button",
+        "key_interactions": 14
     },
     {
-        "IA2UniqueID": -1686,
+        "IA2UniqueID": -37726,
+        "nvda_name": "Buy Smart, Buy Early",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div/div/ul/li/button",
+        "key_interactions": 15
+    },
+    {
+        "IA2UniqueID": -37868,
+        "nvda_name": "49\" Odyssey G9",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div/div/ul/li[2]/button",
+        "key_interactions": 16
+    },
+    {
+        "IA2UniqueID": -37870,
+        "nvda_name": "27\" Odyssey 3D",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div/div/ul/li[3]/button",
+        "key_interactions": 17
+    },
+    {
+        "IA2UniqueID": -37872,
+        "nvda_name": "27\" Odyssey G8",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[16]/section/div/div/div/ul/li[4]/button",
+        "key_interactions": 18
+    },
+    {
+        "IA2UniqueID": -37874,
+        "nvda_name": "9100 PRO SSD",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/button[2]",
+        "key_interactions": 19
+    },
+    {
+        "IA2UniqueID": -37922,
+        "nvda_name": "Next Slide",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/div[2]/div/div/div/button",
+        "key_interactions": 20
+    },
+    {
+        "IA2UniqueID": -38592,
+        "nvda_name": "ft12_feature column carousel_home specific|index Slide 1",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/div[2]/div/div/div/button[2]",
+        "key_interactions": 21
+    },
+    {
+        "IA2UniqueID": -38596,
+        "nvda_name": "ft12_feature column carousel_home specific|index Slide 2",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/div[2]/div/div/div/button[3]",
+        "key_interactions": 22
+    },
+    {
+        "IA2UniqueID": -38600,
+        "nvda_name": "ft12_feature column carousel_home specific|index Slide 3",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[18]/div/div/div[2]/div/div/div/button[4]",
+        "key_interactions": 23
+    },
+    {
+        "IA2UniqueID": -38604,
+        "nvda_name": "ft12_feature column carousel_home specific|index Slide 4",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[20]/div/div/div/ul/li/button",
+        "key_interactions": 24
+    },
+    {
+        "IA2UniqueID": -37938,
+        "nvda_name": "Energy Savings",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[20]/div/div/div/ul/li[2]/button",
+        "key_interactions": 25
+    },
+    {
+        "IA2UniqueID": -37940,
+        "nvda_name": "Wellness Refresh",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[20]/div/div/div/ul/li[3]/button",
+        "key_interactions": 26
+    },
+    {
+        "IA2UniqueID": -37942,
+        "nvda_name": "Home Upgrades",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[22]/div/div/div/ul/li/button",
+        "key_interactions": 27
+    },
+    {
+        "IA2UniqueID": -38088,
+        "nvda_name": "Mobile Accessories",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[22]/div/div/div/ul/li[2]/button",
+        "key_interactions": 28
+    },
+    {
+        "IA2UniqueID": -38090,
+        "nvda_name": "Home Accessories",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div/div/ul/li/button",
+        "key_interactions": 29
+    },
+    {
+        "IA2UniqueID": -38249,
         "nvda_name": "Certified Re-Newed",
         "nvda_value": null,
         "nvda_states": [
@@ -2069,16 +1142,333 @@
             "FOCUSED (2)",
             "SELECTED (4)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[23]/section/div/div/div/ul/li[2]/button"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div/div/ul/li[2]/button",
+        "key_interactions": 30
     },
     {
-        "IA2UniqueID": -47687,
-        "nvda_name": "Discover how our AI empowers you",
+        "IA2UniqueID": -38251,
+        "nvda_name": "Exploring Innovation",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[25]/section/div/div/div/ul/li[3]/button",
+        "key_interactions": 31
+    },
+    {
+        "IA2UniqueID": -38253,
+        "nvda_name": "Energy Savings",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div[2]/div[2]/div/div/div/button",
+        "key_interactions": 32
+    },
+    {
+        "IA2UniqueID": -38608,
+        "nvda_name": "Let our products ease your day Slide 1",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)",
+            "SELECTED (4)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div[2]/div[2]/div/div/div/button[2]",
+        "key_interactions": 33
+    },
+    {
+        "IA2UniqueID": -38612,
+        "nvda_name": "How to choose the best Galaxy AI phone experience for your lifestyle Slide 2",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div[2]/div[2]/div/div/div/button[3]",
+        "key_interactions": 34
+    },
+    {
+        "IA2UniqueID": -38616,
+        "nvda_name": "Empowering a better you Slide 3",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div[2]/div[2]/div/div/div/button[4]",
+        "key_interactions": 35
+    },
+    {
+        "IA2UniqueID": -38620,
+        "nvda_name": "Step into spring refreshed and recharged Slide 4",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/div[2]/div[2]/div/div/div/button[5]",
+        "key_interactions": 36
+    },
+    {
+        "IA2UniqueID": -38624,
+        "nvda_name": "Discover how our AI empowers you Slide 5",
+        "nvda_value": null,
+        "nvda_states": [
+            "SELECTABLE (8388608)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[29]/section/div/form/fieldset/div/div/div/input",
+        "key_interactions": 37
+    },
+    {
+        "IA2UniqueID": -38445,
+        "nvda_name": "Search",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "EDITABLE (67108864)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[29]/section/div/form/fieldset/div/div/div/button",
+        "key_interactions": 38
+    },
+    {
+        "IA2UniqueID": -42841,
+        "nvda_name": "Delete",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[27]/section/div/form/fieldset/div/div/div/input"
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[29]/section/div/form/fieldset/div/button",
+        "key_interactions": 39
+    },
+    {
+        "IA2UniqueID": -38465,
+        "nvda_name": "Accessories",
+        "nvda_value": null,
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/p",
+        "key_interactions": 47
+    },
+    {
+        "IA2UniqueID": -38471,
+        "nvda_name": "Mobile Disclosures:",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div/div/a",
+        "key_interactions": 48
+    },
+    {
+        "IA2UniqueID": -38475,
+        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosure function trim() { [native code] }",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[2]/div/a",
+        "key_interactions": 49
+    },
+    {
+        "IA2UniqueID": -38479,
+        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosure function trim() { [native code] }",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[3]/div/a[2]",
+        "key_interactions": 50
+    },
+    {
+        "IA2UniqueID": -38484,
+        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosure function trim() { [native code] }",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[4]/div/a",
+        "key_interactions": 51
+    },
+    {
+        "IA2UniqueID": -38488,
+        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosure function trim() { [native code] }",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[5]/div/a",
+        "key_interactions": 52
+    },
+    {
+        "IA2UniqueID": -38492,
+        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosure function trim() { [native code] }",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[6]/p",
+        "key_interactions": 53
+    },
+    {
+        "IA2UniqueID": -38494,
+        "nvda_name": "Home Appliance Disclosures:",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[6]/div/div/a[2]",
+        "key_interactions": 54
+    },
+    {
+        "IA2UniqueID": -38499,
+        "nvda_name": "Show More - Home Appliance Disclosure function trim() { [native code] }",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/p[2]",
+        "key_interactions": 55
+    },
+    {
+        "IA2UniqueID": -38500,
+        "nvda_name": "Home Entertainment Disclosures:",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[7]/div/a",
+        "key_interactions": 56
+    },
+    {
+        "IA2UniqueID": -38504,
+        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosure function trim() { [native code] }",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[8]/div/a",
+        "key_interactions": 57
+    },
+    {
+        "IA2UniqueID": -38508,
+        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosure function trim() { [native code] }",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[10]/div/a",
+        "key_interactions": 58
+    },
+    {
+        "IA2UniqueID": -38515,
+        "nvda_name": "Show More - Mobile Disclosures:Home Appliance Disclosures:Home Entertainment Disclosures:Stand Alone Disclosure function trim() { [native code] }",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[11]/p",
+        "key_interactions": 59
+    },
+    {
+        "IA2UniqueID": -38517,
+        "nvda_name": "Stand Alone Disclosures:",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div[2]/div/div/div[2]/div/div[30]/section/div/div/div[11]/div/div/a",
+        "key_interactions": 60
+    },
+    {
+        "IA2UniqueID": -38521,
+        "nvda_name": "Show More - Stand Alone Disclosure function trim() { [native code] }",
+        "nvda_value": null,
+        "nvda_states": [
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div/div/a",
+        "key_interactions": 61
+    },
+    {
+        "IA2UniqueID": -38938,
+        "nvda_name": "SHOP",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[2]/div/a",
+        "key_interactions": 62
+    },
+    {
+        "IA2UniqueID": -38944,
+        "nvda_name": "SUPPORT",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[3]/div/a",
+        "key_interactions": 63
+    },
+    {
+        "IA2UniqueID": -38950,
+        "nvda_name": "OFFERS",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[4]/div/a",
+        "key_interactions": 64
+    },
+    {
+        "IA2UniqueID": -38956,
+        "nvda_name": "SUSTAINABILITY",
+        "nvda_value": null,
+        "nvda_states": [
+            "COLLAPSED (512)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/footer/div/div/div[4]/div[2]/a",
+        "key_interactions": 65
     }
 ]

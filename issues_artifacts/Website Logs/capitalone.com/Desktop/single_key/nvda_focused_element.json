@@ -1,22 +1,25 @@
 {
-    "IA2UniqueID": null,
-    "name": "Lock Screen",
-    "role": "PANE (3)",
+    "IA2UniqueID": -10222,
+    "name": "Password",
+    "role": "EDITABLETEXT (8)",
     "roleText": "None",
     "states": [
+        "PROTECTED (16384)",
         "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
+        "FOCUSED (2)",
+        "REQUIRED (32768)",
+        "EDITABLE (67108864)"
     ],
     "errorMessage": "None",
-    "value": "None",
-    "description": "",
+    "description": "Please enter required information",
     "hasDetails": "False",
     "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "",
+    "descriptionFrom": "ARIA_DESCRIBED_BY (aria-describedby)",
+    "keyboardShortcut": "None",
     "cellCoordsText": "None",
     "includeTableCellCoords": "True",
-    "rowSpan": "1",
-    "columnSpan": "1",
-    "current": "NO (false)"
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None"
 }

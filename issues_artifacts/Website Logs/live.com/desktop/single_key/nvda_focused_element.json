@@ -1,27 +1,9 @@
 {
-    "IA2UniqueID": -844,
-    "name": "Key benefits",
-    "role": "TAB (22)",
-    "roleText": "None",
+    "IA2UniqueID": -30799,
+    "name": "Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365",
     "states": [
-        "OFFSCREEN (4194304)",
-        "SELECTABLE (8388608)",
-        "FOCUSED (2)",
+        "READONLY (128)",
         "FOCUSABLE (16777216)",
-        "SELECTED (4)"
-    ],
-    "errorMessage": "None",
-    "value": "",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "positionInfo_indexInGroup": "1",
-    "positionInfo_similarItemsInGroup": "3"
+        "FOCUSED (2)"
+    ]
 }

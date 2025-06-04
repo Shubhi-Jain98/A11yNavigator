@@ -1,4 +1,15 @@
 {
-    "count of missing paths": 0,
-    "missing paths": null
+    "count of missing paths": 10,
+    "missing paths": [
+        "/html/body/main/nav/div/a",
+        "/html/body/main/nav/div[10]/a",
+        "/html/body/main/nav/div[2]/a",
+        "/html/body/main/nav/div[3]/a",
+        "/html/body/main/nav/div[4]/a",
+        "/html/body/main/nav/div[5]/a",
+        "/html/body/main/nav/div[6]/a",
+        "/html/body/main/nav/div[7]/a",
+        "/html/body/main/nav/div[8]/a",
+        "/html/body/main/nav/div[9]/a"
+    ]
 }

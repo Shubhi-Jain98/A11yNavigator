@@ -1,6 +1,6 @@
 {
-    "IA2UniqueID": -600,
-    "name": "Skip to main content",
+    "IA2UniqueID": -812,
+    "name": "Search with ChatGPT",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -9,7 +9,7 @@
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://openai.com/#main",
+    "value": "https://chatgpt.com/?hints=search",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",

@@ -2,7 +2,7 @@
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):leftControl",
-    "IA2UniqueID": -533,
+    "IA2UniqueID": -567,
     "name": "Capital One | Credit Cards, Checking, Savings & Auto Loans",
     "states": [
         "READONLY (128)",
@@ -10,12 +10,12 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x03AE8C90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0F056870>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):control+numpad7",
-    "IA2UniqueID": -533,
+    "IA2UniqueID": -567,
     "name": "Capital One | Credit Cards, Checking, Savings & Auto Loans",
     "states": [
         "READONLY (128)",
@@ -23,12 +23,12 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x03AE8C90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0F056870>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -533,
+    "IA2UniqueID": -567,
     "name": "Capital One | Credit Cards, Checking, Savings & Auto Loans",
     "states": [
         "READONLY (128)",
@@ -36,12 +36,12 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x03AE8C90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0F056870>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -555,
+    "IA2UniqueID": -1193,
     "name": "Skip to main content",
     "role": "LINK (19)",
     "roleText": "None",
@@ -63,20 +63,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B98B50>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F029150>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101673,
+    "IA2UniqueID": -1199,
     "name": "Capital One Home",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/",
@@ -91,20 +90,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C0DE8F0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F035B70>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101662,
+    "IA2UniqueID": -1207,
     "name": "Credit Cards",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "COLLAPSED (512)",
-        "FOCUSED (2)",
         "LINKED (4096)",
+        "FOCUSED (2)",
         "HASPOPUP (8192)",
         "FOCUSABLE (16777216)"
     ],
@@ -121,20 +119,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15D8D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F025510>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101664,
+    "IA2UniqueID": -1209,
     "name": "Checking & Savings",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "COLLAPSED (512)",
-        "FOCUSED (2)",
         "LINKED (4096)",
+        "FOCUSED (2)",
         "HASPOPUP (8192)",
         "FOCUSABLE (16777216)"
     ],
@@ -151,12 +148,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15DB70>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x066EC690>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101666,
+    "IA2UniqueID": -1211,
     "name": "Auto",
     "role": "LINK (19)",
     "roleText": "None",
@@ -180,20 +177,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BA36B0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C4B0B70>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101668,
+    "IA2UniqueID": -1213,
     "name": "Business",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "COLLAPSED (512)",
-        "FOCUSED (2)",
         "LINKED (4096)",
+        "FOCUSED (2)",
         "HASPOPUP (8192)",
         "FOCUSABLE (16777216)"
     ],
@@ -210,20 +206,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B9E270>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F008EF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101670,
+    "IA2UniqueID": -1215,
     "name": "Commercial",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "COLLAPSED (512)",
-        "FOCUSED (2)",
         "LINKED (4096)",
+        "FOCUSED (2)",
         "HASPOPUP (8192)",
         "FOCUSABLE (16777216)"
     ],
@@ -240,12 +235,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B9EEF0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C481630>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101672,
+    "IA2UniqueID": -1217,
     "name": "Benefits & Tools",
     "role": "LINK (19)",
     "roleText": "None",
@@ -269,12 +264,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BACD30>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00C2B130>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101703,
+    "IA2UniqueID": -1219,
     "name": "Search",
     "role": "BUTTON (9)",
     "roleText": "None",
@@ -295,20 +290,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x00BAC750>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F008270>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101704,
+    "IA2UniqueID": -1220,
     "name": "Help Center",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/help-center/",
@@ -323,20 +317,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B90D30>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x08377E10>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101706,
+    "IA2UniqueID": -1221,
+    "name": "locationsText",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://locations.capitalone.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F056170>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1223,
     "name": "Sign In",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://verified.capitalone.com/auth/signin",
@@ -351,12 +371,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B98B70>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F008C30>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101378,
+    "IA2UniqueID": -909,
     "name": "Username",
     "role": "EDITABLETEXT (8)",
     "roleText": "None",
@@ -379,12 +399,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "current": "NO (false)",
     "placeholder": "None",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0F15D7F0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x066EC2B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101377,
+    "IA2UniqueID": -1172,
     "name": "Password",
     "role": "EDITABLETEXT (8)",
     "roleText": "None",
@@ -408,12 +428,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "current": "NO (false)",
     "placeholder": "None",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0F15DF10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0F05B690>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101380,
+    "IA2UniqueID": -914,
     "name": "Remember me",
     "role": "CHECKBOX (5)",
     "roleText": "None",
@@ -435,12 +455,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15D970>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x036AFCB0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101398,
+    "IA2UniqueID": -916,
     "name": "Want this computer to remember your username? Check this box. Not recommended for shared computers.",
     "role": "LINK (19)",
     "roleText": "None",
@@ -462,20 +482,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B98BB0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7C2BB0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101401,
+    "IA2UniqueID": -1176,
     "name": "Forgot username or password?",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://verified.capitalone.com/sign-in-help/",
@@ -490,12 +509,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01200650>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F035210>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101382,
+    "IA2UniqueID": -1179,
     "name": "Sign in",
     "role": "BUTTON (9)",
     "roleText": "None",
@@ -516,20 +535,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x01200470>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0C481770>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101404,
+    "IA2UniqueID": -1180,
     "name": "Set up online access",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://verified.capitalone.com/enroll/#/pii",
@@ -544,12 +562,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x012007F0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x051C29F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -595,
+    "IA2UniqueID": -921,
     "name": "Explore Capital One’s Banking and Financial Services",
     "role": "HEADING (40)",
     "roleText": "None",
@@ -572,13 +590,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "current": "NO (false)",
     "positionInfo_level": "1",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0134A8D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C4BE4D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101419,
-    "name": "Check eligibility",
+    "IA2UniqueID": -936,
+    "name": "Download the app",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -587,7 +605,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://www.capitalone.com/auto-financing/refinance/",
+    "value": "https://capitalone.smart.link/nbd7duk1i",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -599,20 +617,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B9E850>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7C2BD0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -637,
+    "IA2UniqueID": -960,
+    "name": "See if I'm pre-approved",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/credit-cards/preapprove/?landingPage=ehpcallout",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7C2BB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -965,
     "name": "Compare accounts",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/bank/savings-accounts/",
@@ -627,20 +671,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00FF9050>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x050A7EF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -648,
+    "IA2UniqueID": -970,
     "name": "Check out Auto Navigator",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/cars?PFFSRCID=S-DA-1234567890A-DAD-0041&external_id=COAF_V1_AFF_BAU_COF_P_COF_HIC_HMPG_PLP_XD_71601_Z_Z_20210728",
@@ -655,20 +698,219 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0124E210>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x051C29F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -1070,
+    "IA2UniqueID": -992,
+    "name": "Learn more about this bonus",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F025590>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -1013,
+    "name": "I want to explore my options",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP_LIST (562949953421312)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "explore my options",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C4B0830>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1624,
+    "name": "explore my options ",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "SELECTABLE (8388608)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)",
+        "SELECTED (4)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_indexInGroup": "1",
+    "positionInfo_similarItemsInGroup": "3",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x066ECDF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -1016,
+    "name": "so that I can work on my credit",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "HASPOPUP_LIST (562949953421312)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "work on my credit",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x036AFCB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1638,
+    "name": "work on my credit ",
+    "role": "LISTITEM (15)",
+    "roleText": "None",
+    "states": [
+        "SELECTABLE (8388608)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)",
+        "SELECTED (4)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "positionInfo_indexInGroup": "1",
+    "positionInfo_similarItemsInGroup": "4",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F035CD0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1027,
+    "name": "1",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/#footer-section",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F035CB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):enter",
+    "IA2UniqueID": -1011,
+    "name": "See suggestions",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x08377E10>>"
+}{
+    "gesture": "kb(desktop):tab",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x00C2B210>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1704,
     "name": "See cards you could get today",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/credit-cards/preapprove/",
@@ -683,12 +925,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BACCB0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x066EC510>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -1079,
+    "IA2UniqueID": -1713,
     "name": "See cards to boost your credit&nbsp;",
     "role": "LINK (19)",
     "roleText": "None",
@@ -710,12 +952,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00FF9C70>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x066EC4B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -1088,
+    "IA2UniqueID": -1722,
     "name": "Keep tabs on your credit health",
     "role": "LINK (19)",
     "roleText": "None",
@@ -737,12 +979,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BAC150>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x066EC030>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -1097,
+    "IA2UniqueID": -1731,
     "name": "Get matched with the right card&nbsp;",
     "role": "LINK (19)",
     "roleText": "None",
@@ -764,12 +1006,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00FF9050>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BBB8D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -1052,
+    "IA2UniqueID": -1686,
     "name": "Try a different goal",
     "role": "BUTTON (9)",
     "roleText": "None",
@@ -790,20 +1032,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x00B98310>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x08377E10>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -699,
+    "IA2UniqueID": -1051,
     "name": "Explore all tools",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/digital/tools/",
@@ -818,20 +1059,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F17DCB0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x051C2A90>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -717,
+    "IA2UniqueID": -1070,
     "name": "Get started",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/creditwise/?utm_source=Internal-Other&utm_channel=Homepage&utm_medium=onsite&utm_valprop=creditimprovement&utm_campaign=download&utm_content=signup&utm_cadence=ongoing",
@@ -846,20 +1086,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BACAF0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F08C450>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -734,
+    "IA2UniqueID": -1083,
     "name": "Learn to manage your money to empower what you love",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/learn-grow/",
@@ -874,20 +1113,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BACB30>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0085B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -745,
+    "IA2UniqueID": -1089,
     "name": "Enabling communities to thrive",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/about/our-commitments/",
@@ -902,20 +1140,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C0DE5F0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x066EC130>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -757,
+    "IA2UniqueID": -1095,
     "name": "50% off sips at Capital One Cafés",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/local/",
@@ -930,20 +1167,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B90530>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F08C590>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -770,
+    "IA2UniqueID": -1244,
     "name": "Capital One",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/",
@@ -958,20 +1194,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B90730>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C4B0B70>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101422,
+    "IA2UniqueID": -1259,
     "name": "Instagram",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.instagram.com/capitalone/",
@@ -986,20 +1221,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0541C830>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C4B0830>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101424,
+    "IA2UniqueID": -1260,
+    "name": "X",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://twitter.com/capitalone/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F02FC50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1261,
     "name": "Facebook",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.facebook.com/capitalone/",
@@ -1014,20 +1275,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B98B90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05B830>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101425,
+    "IA2UniqueID": -1262,
     "name": "LinkedIn",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.linkedin.com/company/capital-one/",
@@ -1042,20 +1302,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BA6F50>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BB21B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101552,
+    "IA2UniqueID": -1263,
+    "name": "YouTube",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.youtube.com/user/capitalone/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F08C190>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1285,
     "name": "Credit Cards",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/credit-cards/",
@@ -1070,20 +1356,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B90830>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05BAF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101554,
+    "IA2UniqueID": -1287,
     "name": "Checking & Savings",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/bank/",
@@ -1098,12 +1383,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BA36D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BBB8D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101556,
+    "IA2UniqueID": -1289,
     "name": "Auto",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1125,20 +1410,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B9EB50>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BB2150>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101558,
+    "IA2UniqueID": -1291,
     "name": "Business",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/small-business/homepage/",
@@ -1153,20 +1437,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B90A50>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F08CE50>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101560,
+    "IA2UniqueID": -1293,
     "name": "Commercial",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/commercial/",
@@ -1181,20 +1464,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BA38B0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05BC70>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101564,
+    "IA2UniqueID": -1295,
+    "name": "Capital One Shopping",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://smart.link/qpqs440wc5g68?cp_0=c1lp&cp_1=card_menu_control&cp_2=footer&cp_4=usa&creative_id=card_footer_control",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BBB210>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1297,
     "name": "CreditWise",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/creditwise/?utm_source=Internal-Other&utm_channel=Homepage&utm_medium=Footer&utm_valprop=creditimprovement&utm_campaign=Products&utm_content=signup&utm_cadence=ongoing",
@@ -1209,20 +1518,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BA3410>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BB2210>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101568,
+    "IA2UniqueID": -1300,
     "name": "About",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/about/",
@@ -1237,20 +1545,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F1323D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BCC830>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101570,
+    "IA2UniqueID": -1302,
     "name": "Corporate Information",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/about/corporate-information/",
@@ -1265,20 +1572,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BAC610>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0085B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101572,
+    "IA2UniqueID": -1304,
     "name": "Newsroom",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/about/newsroom/",
@@ -1293,20 +1599,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C11C150>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BB21D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101574,
+    "IA2UniqueID": -1306,
     "name": "Technology",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/tech/",
@@ -1321,20 +1626,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F1344B0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BB2250>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101576,
+    "IA2UniqueID": -1308,
     "name": "Investors",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://investor.capitalone.com/",
@@ -1349,20 +1653,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F134990>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F008C30>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101578,
+    "IA2UniqueID": -1310,
     "name": "Careers & Jobs",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalonecareers.com/",
@@ -1377,20 +1680,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F12BB90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F08CDD0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101580,
+    "IA2UniqueID": -1312,
     "name": "Diversity & Inclusion",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/diversity/",
@@ -1405,20 +1707,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BACEF0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05B690>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101582,
+    "IA2UniqueID": -1314,
     "name": "Canada",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.ca/",
@@ -1433,20 +1734,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BAC270>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BBB290>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101584,
+    "IA2UniqueID": -1316,
     "name": "UK",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.co.uk/",
@@ -1461,20 +1761,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BAC970>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F035530>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101588,
+    "IA2UniqueID": -1319,
     "name": "Locations & ATMs",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://locations.capitalone.com/",
@@ -1489,20 +1788,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15D6F0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05B6F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101590,
+    "IA2UniqueID": -1321,
     "name": "Capital One Travel",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://capitalonetravel.com/?utm_source=navbau",
@@ -1517,23 +1815,22 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BAC070>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F06B5F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101592,
+    "IA2UniqueID": -1323,
     "name": "Mobile App",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://www.capitalone.com/digital/mobile/",
+    "value": "https://www.capitalone.com/digital/tools/mobile/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1545,23 +1842,22 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01200090>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F035EB0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101594,
+    "IA2UniqueID": -1325,
     "name": "Meet Eno",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://www.capitalone.com/digital/eno/",
+    "value": "https://www.capitalone.com/digital/tools/eno/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1573,23 +1869,22 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15D4B0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BBBA50>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101596,
-    "name": "Digital Payments",
+    "IA2UniqueID": -1327,
+    "name": "Digital Tools",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://www.capitalone.com/digital/digital-payments/",
+    "value": "https://www.capitalone.com/digital/tools/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1601,20 +1896,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0134AEF0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BCCD50>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101600,
+    "IA2UniqueID": -1330,
     "name": "Privacy",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/privacy/",
@@ -1629,20 +1923,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0134A890>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0358B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101602,
+    "IA2UniqueID": -1332,
     "name": "Patriot Act Certification",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://ecm.capitalone.com/WCM/digital/pdfs/2024-patriot-act-cert.pdf",
@@ -1657,20 +1950,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15DFB0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F01B090>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101604,
+    "IA2UniqueID": -1334,
     "name": "Wolfsberg Questionnaire",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/digital/wolfsberg-questionnaire/",
@@ -1685,20 +1977,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15DB90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0291F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101606,
+    "IA2UniqueID": -1336,
     "name": "Subpoena Policy",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/digital/subpoena-policy/",
@@ -1713,20 +2004,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F114A30>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BCCA90>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101608,
+    "IA2UniqueID": -1338,
     "name": "Additional Disclosures",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/digital/disclosures/",
@@ -1741,20 +2031,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0124EBB0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05B830>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101614,
+    "IA2UniqueID": -1341,
+    "name": "COVID-19",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/updates/coronavirus/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0294F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1343,
     "name": "Help Center",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/help-center/",
@@ -1769,20 +2085,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C0DE930>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F029370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101616,
+    "IA2UniqueID": -1345,
     "name": "Learn & Grow",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/learn-grow/",
@@ -1797,20 +2112,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15D9D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F06BE70>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101618,
+    "IA2UniqueID": -1347,
     "name": "Resources for Military",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/military/",
@@ -1825,20 +2139,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01200EB0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7C2BD0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101620,
+    "IA2UniqueID": -1349,
     "name": "Accessibility Assistance",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/accessibility/",
@@ -1853,20 +2166,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00FF9270>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0253D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101622,
+    "IA2UniqueID": -1351,
     "name": "Tweet @AskCapitalOne",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://twitter.com/askcapitalone",
@@ -1881,20 +2193,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15D510>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F01B510>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101624,
+    "IA2UniqueID": -1353,
     "name": "Security",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/digital/identity-protection/",
@@ -1909,12 +2220,39 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0124E9D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0085B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -806,
+    "IA2UniqueID": -1355,
+    "name": "Contact Us",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/help-center/contact-us/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F025FB0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1255,
     "name": "Footnotes section content",
     "role": "BUTTON (9)",
     "roleText": "None",
@@ -1936,20 +2274,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x03AF04B0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0C4B0570>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -809,
+    "IA2UniqueID": -1357,
     "name": "FDIC insurance coverage",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/bank/fdic/",
@@ -1964,20 +2301,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F114AB0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F008C90>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -838,
+    "IA2UniqueID": -1374,
+    "name": "Privacy",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/privacy/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C4B0830>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1375,
     "name": "AdChoices",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/privacy/online-privacy-policy#collecting-using-sharing-information-accordion-button-5",
@@ -1992,20 +2355,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F114C90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x051C29F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -841,
+    "IA2UniqueID": -1376,
+    "name": "Terms & Conditions",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/digital/terms-conditions/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7C2BD0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1377,
     "name": "Member: FDIC",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.fdic.gov/",
@@ -2020,12 +2409,38 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0BC2BBD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BCC270>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -174,
+    "IA2UniqueID": -893,
+    "name": "Feedback Survey",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0A7C2A90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -170,
     "name": "View site information",
     "role": "MENUBUTTON (102)",
     "roleText": "None",
@@ -2046,12 +2461,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "1",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0124E570>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06527AD0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -181,
+    "IA2UniqueID": -178,
     "name": "Address and search bar",
     "role": "EDITABLETEXT (8)",
     "roleText": "None",
@@ -2073,12 +2488,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "1",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x00BA6E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x066ECF10>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -315,
+    "IA2UniqueID": -346,
     "name": "Search with Google Lens",
     "role": "BUTTON (9)",
     "roleText": "None",
@@ -2099,12 +2514,38 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "1",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F15D550>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F01B250>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -477,
+    "IA2UniqueID": -438,
+    "name": "Third-party cookies blocked",
+    "role": "BUTTON (9)",
+    "roleText": "None",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "1",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x06527AD0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -508,
     "name": "Bookmark this tab",
     "role": "BUTTON (9)",
     "roleText": "None",
@@ -2125,12 +2566,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "1",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x01200B10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F0290B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -555,
+    "IA2UniqueID": -1193,
     "name": "Skip to main content",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2152,20 +2593,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B9EE10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0352F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101673,
+    "IA2UniqueID": -1199,
     "name": "Capital One Home",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/",
@@ -2180,20 +2620,48 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15D1D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C481030>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101664,
+    "IA2UniqueID": -1207,
+    "name": "Credit Cards",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "COLLAPSED (512)",
+        "LINKED (4096)",
+        "FOCUSED (2)",
+        "HASPOPUP (8192)",
+        "FOCUSABLE (16777216)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/credit-cards/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BBBE30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1209,
     "name": "Checking & Savings",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "COLLAPSED (512)",
-        "FOCUSED (2)",
         "LINKED (4096)",
+        "FOCUSED (2)",
         "HASPOPUP (8192)",
         "FOCUSABLE (16777216)"
     ],
@@ -2210,12 +2678,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x012008D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0359B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101666,
+    "IA2UniqueID": -1211,
     "name": "Auto",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2239,20 +2707,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F16C2B0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F03A190>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101668,
+    "IA2UniqueID": -1213,
     "name": "Business",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "COLLAPSED (512)",
-        "FOCUSED (2)",
         "LINKED (4096)",
+        "FOCUSED (2)",
         "HASPOPUP (8192)",
         "FOCUSABLE (16777216)"
     ],
@@ -2269,20 +2736,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F1320B0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01463850>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101670,
+    "IA2UniqueID": -1215,
     "name": "Commercial",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "COLLAPSED (512)",
-        "FOCUSED (2)",
         "LINKED (4096)",
+        "FOCUSED (2)",
         "HASPOPUP (8192)",
         "FOCUSABLE (16777216)"
     ],
@@ -2299,12 +2765,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B90070>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x014632B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101672,
+    "IA2UniqueID": -1217,
     "name": "Benefits & Tools",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2328,12 +2794,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F152450>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F03AA30>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101703,
+    "IA2UniqueID": -1219,
     "name": "Search",
     "role": "BUTTON (9)",
     "roleText": "None",
@@ -2354,20 +2820,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0A048C90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0C481630>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101704,
+    "IA2UniqueID": -1220,
     "name": "Help Center",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/help-center/",
@@ -2382,20 +2847,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F152570>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F008C90>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101706,
+    "IA2UniqueID": -1221,
+    "name": "locationsText",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://locations.capitalone.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F03AC90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1223,
     "name": "Sign In",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://verified.capitalone.com/auth/signin",
@@ -2410,12 +2901,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BA3970>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F025E10>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101378,
+    "IA2UniqueID": -909,
     "name": "Username",
     "role": "EDITABLETEXT (8)",
     "roleText": "None",
@@ -2438,12 +2929,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "current": "NO (false)",
     "placeholder": "None",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x00BAC2D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0F025DD0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101377,
+    "IA2UniqueID": -1172,
     "name": "Password",
     "role": "EDITABLETEXT (8)",
     "roleText": "None",
@@ -2467,12 +2958,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "current": "NO (false)",
     "placeholder": "None",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x00B98930>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0F0358F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101380,
+    "IA2UniqueID": -914,
     "name": "Remember me",
     "role": "CHECKBOX (5)",
     "roleText": "None",
@@ -2494,12 +2985,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x077A16B0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x083A7170>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101398,
+    "IA2UniqueID": -916,
     "name": "Want this computer to remember your username? Check this box. Not recommended for shared computers.",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2521,12 +3012,39 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C0DE470>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0085B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101382,
+    "IA2UniqueID": -1176,
+    "name": "Forgot username or password?",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://verified.capitalone.com/sign-in-help/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F01B510>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1179,
     "name": "Sign in",
     "role": "BUTTON (9)",
     "roleText": "None",
@@ -2547,20 +3065,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0691A270>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0A7C2BB0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101404,
+    "IA2UniqueID": -1180,
     "name": "Set up online access",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://verified.capitalone.com/enroll/#/pii",
@@ -2575,12 +3092,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x011FDE30>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F08CDD0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -595,
+    "IA2UniqueID": -921,
     "name": "Explore Capital One’s Banking and Financial Services",
     "role": "HEADING (40)",
     "roleText": "None",
@@ -2603,13 +3120,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "current": "NO (false)",
     "positionInfo_level": "1",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x011FD650>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F03AB10>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101419,
-    "name": "Check eligibility",
+    "IA2UniqueID": -936,
+    "name": "Download the app",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2618,7 +3135,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://www.capitalone.com/auto-financing/refinance/",
+    "value": "https://capitalone.smart.link/nbd7duk1i",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2630,20 +3147,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C11C1F0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0085B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -626,
+    "IA2UniqueID": -960,
     "name": "See if I'm pre-approved",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/credit-cards/preapprove/?landingPage=ehpcallout",
@@ -2658,20 +3174,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00FF9F10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x066ECC30>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -637,
+    "IA2UniqueID": -965,
     "name": "Compare accounts",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/bank/savings-accounts/",
@@ -2686,20 +3201,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0134A7D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00C2B210>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -648,
+    "IA2UniqueID": -970,
     "name": "Check out Auto Navigator",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/cars?PFFSRCID=S-DA-1234567890A-DAD-0041&external_id=COAF_V1_AFF_BAU_COF_P_COF_HIC_HMPG_PLP_XD_71601_Z_Z_20210728",
@@ -2714,20 +3228,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F134190>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x036AFCB0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -1070,
+    "IA2UniqueID": -992,
+    "name": "Learn more about this bonus",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F029730>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1704,
     "name": "See cards you could get today",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/credit-cards/preapprove/",
@@ -2742,12 +3282,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00FF9CB0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F056ED0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -1079,
+    "IA2UniqueID": -1713,
     "name": "See cards to boost your credit&nbsp;",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2769,12 +3309,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x055490D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BCC270>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -1088,
+    "IA2UniqueID": -1722,
     "name": "Keep tabs on your credit health",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2796,12 +3336,39 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B9EE90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01463EB0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -1052,
+    "IA2UniqueID": -1731,
+    "name": "Get matched with the right card&nbsp;",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/credit-cards/compare/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0085B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1686,
     "name": "Try a different goal",
     "role": "BUTTON (9)",
     "roleText": "None",
@@ -2822,20 +3389,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x0F15D750>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x00BB2250>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -699,
+    "IA2UniqueID": -1051,
     "name": "Explore all tools",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/digital/tools/",
@@ -2850,20 +3416,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15D230>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C481030>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -717,
+    "IA2UniqueID": -1070,
     "name": "Get started",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/creditwise/?utm_source=Internal-Other&utm_channel=Homepage&utm_medium=onsite&utm_valprop=creditimprovement&utm_campaign=download&utm_content=signup&utm_cadence=ongoing",
@@ -2878,20 +3443,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F15D170>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05F2F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -734,
+    "IA2UniqueID": -1083,
     "name": "Learn to manage your money to empower what you love",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/learn-grow/",
@@ -2906,20 +3470,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F132830>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F008270>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -745,
+    "IA2UniqueID": -1089,
     "name": "Enabling communities to thrive",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/about/our-commitments/",
@@ -2934,20 +3497,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F132F90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F029590>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -770,
+    "IA2UniqueID": -1095,
+    "name": "50% off sips at Capital One Cafés",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/local/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F0253D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1244,
     "name": "Capital One",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/",
@@ -2962,20 +3551,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B90DF0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05B2F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101422,
+    "IA2UniqueID": -1259,
     "name": "Instagram",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.instagram.com/capitalone/",
@@ -2990,20 +3578,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F1323D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F035D30>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101424,
+    "IA2UniqueID": -1260,
+    "name": "X",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://twitter.com/capitalone/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F06BAD0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1261,
     "name": "Facebook",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.facebook.com/capitalone/",
@@ -3018,20 +3632,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B90310>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05BD30>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101425,
+    "IA2UniqueID": -1262,
     "name": "LinkedIn",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.linkedin.com/company/capital-one/",
@@ -3046,20 +3659,46 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F13D0D0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00C9B890>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101552,
+    "IA2UniqueID": -1263,
+    "name": "YouTube",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.youtube.com/user/capitalone/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BCC4F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1285,
     "name": "Credit Cards",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/credit-cards/",
@@ -3074,20 +3713,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F152770>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x051C29F0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101554,
+    "IA2UniqueID": -1287,
     "name": "Checking & Savings",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/bank/",
@@ -3102,12 +3740,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F152250>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F03AA50>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101556,
+    "IA2UniqueID": -1289,
     "name": "Auto",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3129,1050 +3767,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0132B510>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05FA50>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101560,
-    "name": "Commercial",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/commercial/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x077C3A10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101562,
-    "name": "Capital One Shopping",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://smart.link/qpqs440wc5g68?cp_0=c1lp&cp_1=card_menu_control&cp_2=footer&cp_4=usa&creative_id=card_footer_control",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0120D150>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101564,
-    "name": "CreditWise",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/creditwise/?utm_source=Internal-Other&utm_channel=Homepage&utm_medium=Footer&utm_valprop=creditimprovement&utm_campaign=Products&utm_content=signup&utm_cadence=ongoing",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0120DF30>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101568,
-    "name": "About",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/about/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BAC310>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101570,
-    "name": "Corporate Information",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/about/corporate-information/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0120DB50>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101572,
-    "name": "Newsroom",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/about/newsroom/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F134B30>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101576,
-    "name": "Investors",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://investor.capitalone.com/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C10EF70>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101578,
-    "name": "Careers & Jobs",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalonecareers.com/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x055490B0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101580,
-    "name": "Diversity & Inclusion",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/diversity/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F114A30>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101584,
-    "name": "UK",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.co.uk/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0120DAF0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101588,
-    "name": "Locations & ATMs",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://locations.capitalone.com/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B90EF0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101590,
-    "name": "Capital One Travel",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://capitalonetravel.com/?utm_source=navbau",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F1322B0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101594,
-    "name": "Meet Eno",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/digital/eno/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F12BAB0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101600,
-    "name": "Privacy",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/privacy/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F13DB30>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101602,
-    "name": "Patriot Act Certification",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://ecm.capitalone.com/WCM/digital/pdfs/2024-patriot-act-cert.pdf",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B90250>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101604,
-    "name": "Wolfsberg Questionnaire",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/digital/wolfsberg-questionnaire/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F13D9B0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101608,
-    "name": "Additional Disclosures",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/digital/disclosures/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F12BCD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101612,
-    "name": "COVID-19",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/updates/coronavirus/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F12BE30>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101614,
-    "name": "Help Center",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/help-center/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01200870>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101616,
-    "name": "Learn & Grow",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/learn-grow/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0132B650>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101618,
-    "name": "Resources for Military",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/military/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0124E530>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101620,
-    "name": "Accessibility Assistance",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/accessibility/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0124E970>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101624,
-    "name": "Security",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/digital/identity-protection/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x03AF0450>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101626,
-    "name": "Contact Us",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/help-center/contact-us/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B983B0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -806,
-    "name": "Footnotes section content",
-    "role": "BUTTON (9)",
-    "roleText": "None",
-    "states": [
-        "EXPANDED (256)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x077A1CF0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -837,
-    "name": "Privacy",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/privacy/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B98F90>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -838,
-    "name": "AdChoices",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/privacy/online-privacy-policy#collecting-using-sharing-information-accordion-button-5",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F12BB90>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -841,
-    "name": "Member: FDIC",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.fdic.gov/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00FF9A70>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -843,
-    "name": "Feedback Survey",
-    "role": "BUTTON (9)",
-    "roleText": "None",
-    "states": [
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x00FF96D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -174,
-    "name": "View site information",
-    "role": "MENUBUTTON (102)",
-    "roleText": "None",
-    "states": [
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "",
-    "description": "Secure",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "_description-from": "ARIA_DESCRIPTION (aria-description)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "1",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00B98C10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -181,
-    "name": "Address and search bar",
-    "role": "EDITABLETEXT (8)",
-    "roleText": "None",
-    "states": [
-        "FOCUSABLE (16777216)",
-        "AUTOCOMPLETE (524288)",
-        "FOCUSED (2)",
-        "EDITABLE (67108864)"
-    ],
-    "errorMessage": "None",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "Ctrl+L",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "1",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x00B9E510>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -315,
-    "name": "Search with Google Lens",
-    "role": "BUTTON (9)",
-    "roleText": "None",
-    "states": [
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "1",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x00FF9B10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -477,
-    "name": "Bookmark this tab",
-    "role": "BUTTON (9)",
-    "roleText": "None",
-    "states": [
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "1",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_ButtonIa2WebIAccessible object at 0x00B98B50>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -555,
-    "name": "Skip to main content",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/#default-id",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x011FD3F0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101673,
-    "name": "Capital One Home",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BA69D0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101662,
-    "name": "Credit Cards",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "VISITED (2048)",
-        "COLLAPSED (512)",
-        "FOCUSED (2)",
-        "LINKED (4096)",
-        "HASPOPUP (8192)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/credit-cards/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x011E1E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101666,
-    "name": "Auto",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "COLLAPSED (512)",
-        "LINKED (4096)",
-        "FOCUSED (2)",
-        "HASPOPUP (8192)",
-        "FOCUSABLE (16777216)"
-    ],
-    "errorMessage": "None",
-    "value": "https://www.capitalone.com/cars/auto-financing",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0541C830>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101668,
+    "IA2UniqueID": -1291,
     "name": "Business",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
-        "COLLAPSED (512)",
-        "FOCUSED (2)",
         "LINKED (4096)",
-        "HASPOPUP (8192)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/small-business/homepage/",
@@ -4187,22 +3794,19 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F114AB0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F025C10>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101670,
+    "IA2UniqueID": -1293,
     "name": "Commercial",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "VISITED (2048)",
-        "COLLAPSED (512)",
-        "FOCUSED (2)",
         "LINKED (4096)",
-        "HASPOPUP (8192)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
     "value": "https://www.capitalone.com/commercial/",
@@ -4217,24 +3821,22 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F13D870>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F06B690>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -101672,
-    "name": "Benefits & Tools",
+    "IA2UniqueID": -1295,
+    "name": "Capital One Shopping",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "COLLAPSED (512)",
         "LINKED (4096)",
-        "FOCUSED (2)",
-        "HASPOPUP (8192)",
-        "FOCUSABLE (16777216)"
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "unsafe:javascript:void(0);",
+    "value": "https://smart.link/qpqs440wc5g68?cp_0=c1lp&cp_1=card_menu_control&cp_2=footer&cp_4=usa&creative_id=card_footer_control",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -4246,5 +3848,626 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0BC2BBD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0517B8F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1297,
+    "name": "CreditWise",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/creditwise/?utm_source=Internal-Other&utm_channel=Homepage&utm_medium=Footer&utm_valprop=creditimprovement&utm_campaign=Products&utm_content=signup&utm_cadence=ongoing",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F02F450>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1300,
+    "name": "About",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/about/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01463690>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1302,
+    "name": "Corporate Information",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/about/corporate-information/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05F830>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1304,
+    "name": "Newsroom",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/about/newsroom/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05F710>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1306,
+    "name": "Technology",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/tech/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BCCD50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1308,
+    "name": "Investors",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://investor.capitalone.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F008270>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1310,
+    "name": "Careers & Jobs",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalonecareers.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A7C2A90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1312,
+    "name": "Diversity & Inclusion",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/diversity/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BBB5D0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1314,
+    "name": "Canada",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.ca/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BCCD50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1316,
+    "name": "UK",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.co.uk/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F05BD30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1319,
+    "name": "Locations & ATMs",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://locations.capitalone.com/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BBB610>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1321,
+    "name": "Capital One Travel",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://capitalonetravel.com/?utm_source=navbau",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BCCA90>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1323,
+    "name": "Mobile App",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/digital/tools/mobile/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F008C30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1325,
+    "name": "Meet Eno",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/digital/tools/eno/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01463590>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1327,
+    "name": "Digital Tools",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/digital/tools/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F02F450>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1330,
+    "name": "Privacy",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/privacy/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F01BB50>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1332,
+    "name": "Patriot Act Certification",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://ecm.capitalone.com/WCM/digital/pdfs/2024-patriot-act-cert.pdf",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x01463A70>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1334,
+    "name": "Wolfsberg Questionnaire",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/digital/wolfsberg-questionnaire/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F03AA30>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1336,
+    "name": "Subpoena Policy",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/digital/subpoena-policy/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F03A050>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1338,
+    "name": "Additional Disclosures",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/digital/disclosures/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0C4B0830>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1341,
+    "name": "COVID-19",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/updates/coronavirus/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00BBBDF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1343,
+    "name": "Help Center",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/help-center/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0F06BEF0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1345,
+    "name": "Learn & Grow",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://www.capitalone.com/learn-grow/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x066EC1D0>>"
 }

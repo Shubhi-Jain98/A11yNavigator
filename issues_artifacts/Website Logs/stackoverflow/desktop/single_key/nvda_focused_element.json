@@ -1,24 +1,9 @@
 {
-    "IA2UniqueID": -58420,
-    "name": "Search",
-    "role": "COMBOBOX (13)",
-    "roleText": "None",
+    "IA2UniqueID": -37480,
+    "name": "Newest Questions - Stack Overflow",
     "states": [
-        "EXPANDED (256)",
-        "HASPOPUP_LIST (562949953421312)",
-        "FOCUSED (2)",
+        "READONLY (128)",
         "FOCUSABLE (16777216)",
-        "EDITABLE (67108864)"
-    ],
-    "errorMessage": "None",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)"
+        "FOCUSED (2)"
+    ]
 }

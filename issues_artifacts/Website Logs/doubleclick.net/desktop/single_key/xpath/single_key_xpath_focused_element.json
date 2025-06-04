@@ -1,6 +1,6 @@
 [
     {
-        "IA2UniqueID": -768,
+        "IA2UniqueID": -3081,
         "nvda_name": "Enterprise Advertising & Analytics Solutions - Google Marketing Platform",
         "nvda_value": null,
         "nvda_states": [
@@ -8,10 +8,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/div[2]/div/a"
+        "xpath": "/html/body/div/div/div[2]/div/a",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -782,
+        "IA2UniqueID": -3154,
         "nvda_name": "Google",
         "nvda_value": "https://marketingplatform.google.com/about/",
         "nvda_states": [
@@ -19,10 +20,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/div[2]/div[2]/a"
+        "xpath": "/html/body/div/div/div[2]/div[2]/a",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -787,
+        "IA2UniqueID": -3159,
         "nvda_name": "Marketing Platform",
         "nvda_value": "https://marketingplatform.google.com/about/",
         "nvda_states": [
@@ -30,10 +32,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section/div/div[2]/div/div/div/a"
+        "xpath": "/html/body/main/section/div/div[2]/div/div/div/a",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -804,
+        "IA2UniqueID": -3140,
         "nvda_name": "Talk to Sales",
         "nvda_value": "https://marketingplatform.google.com/about/contact-us/",
         "nvda_states": [
@@ -41,10 +44,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[4]/div[2]/div/div/div[3]/a"
+        "xpath": "/html/body/main/section[4]/div[2]/div/div/div[3]/a",
+        "key_interactions": 3
     },
     {
-        "IA2UniqueID": -856,
+        "IA2UniqueID": -3226,
         "nvda_name": "Learn more about Display & Video 360",
         "nvda_value": "https://marketingplatform.google.com/about/display-video-360/",
         "nvda_states": [
@@ -52,10 +56,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[4]/div[3]/div/div/div/ul/li/a"
+        "xpath": "/html/body/main/section[4]/div[3]/div/div/div/ul/li/a",
+        "key_interactions": 4
     },
     {
-        "IA2UniqueID": -1194,
+        "IA2UniqueID": -3138,
         "nvda_name": "analytics icon Analytics 360 Use advanced tools to get a deeper understanding of your customers so you can deliver better experiences.",
         "nvda_value": "https://marketingplatform.google.com/about/analytics-360/",
         "nvda_states": [
@@ -63,10 +68,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[4]/div[3]/div/div/div/ul/li[3]/a"
+        "xpath": "/html/body/main/section[4]/div[3]/div/div/div/ul/li[3]/a",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -1204,
+        "IA2UniqueID": -3245,
         "nvda_name": "search-ads-360 icon Search Ads 360 Get real-time data and unified insights for your search campaigns.",
         "nvda_value": "https://marketingplatform.google.com/about/search-ads-360/",
         "nvda_states": [
@@ -74,10 +80,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[4]/div[3]/div/div/div/ul/li[4]/a"
+        "xpath": "/html/body/main/section[4]/div[3]/div/div/div/ul/li[4]/a",
+        "key_interactions": 6
     },
     {
-        "IA2UniqueID": -1214,
+        "IA2UniqueID": -3256,
         "nvda_name": "tag-manager icon Tag Manager 360 Manage all your tags in one place for a smarter, simpler way to oversee your marketing.",
         "nvda_value": "https://marketingplatform.google.com/about/tag-manager-360/",
         "nvda_states": [
@@ -85,10 +92,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[4]/div[3]/div/div/div/ul/li[5]/a"
+        "xpath": "/html/body/main/section[4]/div[3]/div/div/div/ul/li[5]/a",
+        "key_interactions": 7
     },
     {
-        "IA2UniqueID": -1224,
+        "IA2UniqueID": -3267,
         "nvda_name": "campaign-manager icon Campaign Manager 360 Get a complete view of all your digital media campaigns.",
         "nvda_value": "https://marketingplatform.google.com/about/campaign-manager-360/",
         "nvda_states": [
@@ -96,10 +104,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[5]/div/div/div/div[2]/div/a"
+        "xpath": "/html/body/main/section[5]/div/div/div/div[2]/div/a",
+        "key_interactions": 8
     },
     {
-        "IA2UniqueID": -927,
+        "IA2UniqueID": -3295,
         "nvda_name": "Go to Integration Center",
         "nvda_value": "https://marketingplatform.google.com/home?openIntegrationCenter=true&utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -107,10 +116,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[5]/div/div/div/div[2]/div/ul[2]/li/div/a"
+        "xpath": "/html/body/main/section[5]/div/div/div/div[2]/div/ul[2]/li/div/a",
+        "key_interactions": 9
     },
     {
-        "IA2UniqueID": -938,
+        "IA2UniqueID": -3306,
         "nvda_name": "Learn More",
         "nvda_value": "https://developers.google.com/ads-data-hub",
         "nvda_states": [
@@ -118,10 +128,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[5]/div/div/div/div[2]/div/ul[2]/li[2]/div/a"
+        "xpath": "/html/body/main/section[5]/div/div/div/div[2]/div/ul[2]/li[2]/div/a",
+        "key_interactions": 10
     },
     {
-        "IA2UniqueID": -944,
+        "IA2UniqueID": -3312,
         "nvda_name": "Learn more",
         "nvda_value": "https://marketingplatform.google.com/about/resources/meeting-the-data-challenge-with-google-marketing-platform-and-google-cloud/",
         "nvda_states": [
@@ -129,10 +140,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[6]/div/div/div/div/a"
+        "xpath": "/html/body/main/section[6]/div/div/div/div/a",
+        "key_interactions": 11
     },
     {
-        "IA2UniqueID": -954,
+        "IA2UniqueID": -3322,
         "nvda_name": "Read more",
         "nvda_value": "https://marketingplatform.google.com/about/resources/the-future-of-analytics/",
         "nvda_states": [
@@ -140,10 +152,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[7]/div[2]/div/div/div/ul/li/a"
+        "xpath": "/html/body/main/section[7]/div[2]/div/div/div/ul/li/a",
+        "key_interactions": 12
     },
     {
-        "IA2UniqueID": -1236,
+        "IA2UniqueID": -3337,
         "nvda_name": "The CTV playbook: how the latest technology can amplify your CTV performance GUIDE The CTV playbook: how the latest technology can amplify your CTV performance Read more",
         "nvda_value": "https://marketingplatform.google.com/about/resources/the-ctv-playbook-how-the-latest-technology-can-amplify-your-ctv-performance/",
         "nvda_states": [
@@ -151,10 +164,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[7]/div[2]/div/div/div/ul/li[2]/a"
+        "xpath": "/html/body/main/section[7]/div[2]/div/div/div/ul/li[2]/a",
+        "key_interactions": 13
     },
     {
-        "IA2UniqueID": -1245,
+        "IA2UniqueID": -3346,
         "nvda_name": "The marketer\u2019s playbook for navigating today\u2019s privacy environment GUIDE The marketer\u2019s playbook for navigating today\u2019s privacy environment Read more",
         "nvda_value": "https://marketingplatform.google.com/about/resources/the-marketers-playbook-for-navigating-todays-privacy-environment/",
         "nvda_states": [
@@ -162,10 +176,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[7]/div[2]/div/div/div/ul/li[3]/a"
+        "xpath": "/html/body/main/section[7]/div[2]/div/div/div/ul/li[3]/a",
+        "key_interactions": 14
     },
     {
-        "IA2UniqueID": -1254,
+        "IA2UniqueID": -3355,
         "nvda_name": "The Future of Analytics REPORT The Future of Analytics Read more",
         "nvda_value": "https://marketingplatform.google.com/about/resources/the-future-of-analytics/",
         "nvda_states": [
@@ -173,10 +188,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[7]/div[2]/div/div[2]/a"
+        "xpath": "/html/body/main/section[7]/div[2]/div/div[2]/a",
+        "key_interactions": 15
     },
     {
-        "IA2UniqueID": -999,
+        "IA2UniqueID": -3366,
         "nvda_name": "See all resources",
         "nvda_value": "https://marketingplatform.google.com/about/resources/",
         "nvda_states": [
@@ -184,10 +200,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[8]/div/div[2]/div/div/div/a"
+        "xpath": "/html/body/main/section[8]/div/div[2]/div/div/div/a",
+        "key_interactions": 16
     },
     {
-        "IA2UniqueID": -1011,
+        "IA2UniqueID": -3378,
         "nvda_name": "See solutions",
         "nvda_value": "https://marketingplatform.google.com/about/small-business/",
         "nvda_states": [
@@ -195,10 +212,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/section[9]/div/div/div[2]/div/a"
+        "xpath": "/html/body/main/section[9]/div/div/div[2]/div/a",
+        "key_interactions": 17
     },
     {
-        "IA2UniqueID": -1022,
+        "IA2UniqueID": -3389,
         "nvda_name": "Subscribe",
         "nvda_value": "https://signup.withgoogle.com/newsletter/marketingplatform/",
         "nvda_states": [
@@ -206,21 +224,23 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section/section/div/ul/li/a"
+        "xpath": "/html/body/footer/section/section/div/ul/li/a",
+        "key_interactions": 18
     },
     {
-        "IA2UniqueID": -1030,
+        "IA2UniqueID": -3397,
         "nvda_name": "Share to Blogger",
-        "nvda_value": "https://www.blog.google/products/marketingplatform/",
+        "nvda_value": "https://blog.google/products/marketingplatform/360/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section/section/div/ul/li[2]/a"
+        "xpath": "/html/body/footer/section/section/div/ul/li[2]/a",
+        "key_interactions": 19
     },
     {
-        "IA2UniqueID": -1033,
+        "IA2UniqueID": -3400,
         "nvda_name": "Share to Twitter",
         "nvda_value": "https://twitter.com/GMktgPlatform",
         "nvda_states": [
@@ -228,10 +248,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section/section/div/ul/li[3]/a"
+        "xpath": "/html/body/footer/section/section/div/ul/li[3]/a",
+        "key_interactions": 20
     },
     {
-        "IA2UniqueID": -1036,
+        "IA2UniqueID": -3403,
         "nvda_name": "Share to YouTube",
         "nvda_value": "https://www.youtube.com/c/googlemarketingplatform",
         "nvda_states": [
@@ -239,10 +260,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section/section/div/ul/li[4]/a"
+        "xpath": "/html/body/footer/section/section/div/ul/li[4]/a",
+        "key_interactions": 21
     },
     {
-        "IA2UniqueID": -1039,
+        "IA2UniqueID": -3406,
         "nvda_name": "Share to LinkedIn",
         "nvda_value": "https://www.linkedin.com/showcase/googlemarketingplatform",
         "nvda_states": [
@@ -250,10 +272,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div/div/ul/li/a"
+        "xpath": "/html/body/footer/nav/div/div/div/div/ul/li/a",
+        "key_interactions": 22
     },
     {
-        "IA2UniqueID": -1376,
+        "IA2UniqueID": -3417,
         "nvda_name": "Overview",
         "nvda_value": "https://marketingplatform.google.com/about/",
         "nvda_states": [
@@ -261,10 +284,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div/div/ul/li[2]/a"
+        "xpath": "/html/body/footer/nav/div/div/div/div/ul/li[2]/a",
+        "key_interactions": 23
     },
     {
-        "IA2UniqueID": -1378,
+        "IA2UniqueID": -3419,
         "nvda_name": "For Small Businesses",
         "nvda_value": "https://marketingplatform.google.com/about/small-business/",
         "nvda_states": [
@@ -272,10 +296,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div/div/ul/li[3]/a"
+        "xpath": "/html/body/footer/nav/div/div/div/div/ul/li[3]/a",
+        "key_interactions": 24
     },
     {
-        "IA2UniqueID": -1380,
+        "IA2UniqueID": -3421,
         "nvda_name": "For Enterprise",
         "nvda_value": "https://marketingplatform.google.com/about/enterprise/",
         "nvda_states": [
@@ -283,10 +308,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[2]/div/ul/li/a"
+        "xpath": "/html/body/footer/nav/div/div/div[2]/div/ul/li/a",
+        "key_interactions": 25
     },
     {
-        "IA2UniqueID": -1386,
+        "IA2UniqueID": -3428,
         "nvda_name": "Support",
         "nvda_value": "https://marketingplatform.google.com/about/support/",
         "nvda_states": [
@@ -294,21 +320,23 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[2]/div/ul/li[2]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[2]/div/ul/li[2]/a",
+        "key_interactions": 26
     },
     {
-        "IA2UniqueID": -1388,
+        "IA2UniqueID": -3430,
         "nvda_name": "Blog",
-        "nvda_value": "https://www.blog.google/products/marketingplatform/",
+        "nvda_value": "https://blog.google/products/marketingplatform/360/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[2]/div/ul/li[3]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[2]/div/ul/li[3]/a",
+        "key_interactions": 27
     },
     {
-        "IA2UniqueID": -1390,
+        "IA2UniqueID": -3432,
         "nvda_name": "Analytics Academy",
         "nvda_value": "https://analytics.google.com/analytics/academy/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -316,10 +344,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[2]/div/ul/li[4]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[2]/div/ul/li[4]/a",
+        "key_interactions": 28
     },
     {
-        "IA2UniqueID": -1392,
+        "IA2UniqueID": -3434,
         "nvda_name": "Skillshop",
         "nvda_value": "https://skillshop.withgoogle.com/",
         "nvda_states": [
@@ -327,10 +356,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[2]/div/ul/li[5]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[2]/div/ul/li[5]/a",
+        "key_interactions": 29
     },
     {
-        "IA2UniqueID": -1394,
+        "IA2UniqueID": -3436,
         "nvda_name": "Google Primer",
         "nvda_value": "https://www.yourprimer.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -338,10 +368,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[3]/div/ul/li/a"
+        "xpath": "/html/body/footer/nav/div/div/div[3]/div/ul/li/a",
+        "key_interactions": 30
     },
     {
-        "IA2UniqueID": -1400,
+        "IA2UniqueID": -3443,
         "nvda_name": "Google Marketing Platform Partners",
         "nvda_value": "https://marketingplatform.google.com/about/partners/",
         "nvda_states": [
@@ -349,10 +380,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[3]/div/ul/li[2]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[3]/div/ul/li[2]/a",
+        "key_interactions": 31
     },
     {
-        "IA2UniqueID": -1402,
+        "IA2UniqueID": -3445,
         "nvda_name": "Analytics for developers",
         "nvda_value": "https://developers.google.com/analytics/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -360,10 +392,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[3]/div/ul/li[3]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[3]/div/ul/li[3]/a",
+        "key_interactions": 32
     },
     {
-        "IA2UniqueID": -1404,
+        "IA2UniqueID": -3447,
         "nvda_name": "Tag Manager for developers",
         "nvda_value": "https://developers.google.com/tag-manager/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -371,10 +404,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[3]/div/ul/li[4]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[3]/div/ul/li[4]/a",
+        "key_interactions": 33
     },
     {
-        "IA2UniqueID": -1406,
+        "IA2UniqueID": -3449,
         "nvda_name": "Campaign Manager 360 for developers",
         "nvda_value": "https://developers.google.com/doubleclick-advertisers/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -382,10 +416,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[4]/div/ul/li/a"
+        "xpath": "/html/body/footer/nav/div/div/div[4]/div/ul/li/a",
+        "key_interactions": 34
     },
     {
-        "IA2UniqueID": -1412,
+        "IA2UniqueID": -3456,
         "nvda_name": "Google Ads",
         "nvda_value": "https://ads.google.com/home/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -393,10 +428,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[4]/div/ul/li[2]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[4]/div/ul/li[2]/a",
+        "key_interactions": 35
     },
     {
-        "IA2UniqueID": -1414,
+        "IA2UniqueID": -3458,
         "nvda_name": "Google AdSense",
         "nvda_value": "https://adsense.google.com/start/?subid=ww-en-et-ads-ot-a-marketing_platform!o3&utm_source=internal&utm_medium=et&utm_campaign=marketing_platform",
         "nvda_states": [
@@ -404,10 +440,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[4]/div/ul/li[3]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[4]/div/ul/li[3]/a",
+        "key_interactions": 36
     },
     {
-        "IA2UniqueID": -1416,
+        "IA2UniqueID": -3460,
         "nvda_name": "Google Ad Manager",
         "nvda_value": "https://admanager.google.com/home/",
         "nvda_states": [
@@ -415,10 +452,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[4]/div/ul/li[4]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[4]/div/ul/li[4]/a",
+        "key_interactions": 37
     },
     {
-        "IA2UniqueID": -1418,
+        "IA2UniqueID": -3462,
         "nvda_name": "Google Cloud",
         "nvda_value": "https://cloud.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -426,10 +464,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[4]/div/ul/li[5]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[4]/div/ul/li[5]/a",
+        "key_interactions": 38
     },
     {
-        "IA2UniqueID": -1420,
+        "IA2UniqueID": -3464,
         "nvda_name": "Firebase",
         "nvda_value": "https://firebase.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -437,10 +476,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[5]/div/ul/li/a"
+        "xpath": "/html/body/footer/nav/div/div/div[5]/div/ul/li/a",
+        "key_interactions": 39
     },
     {
-        "IA2UniqueID": -1426,
+        "IA2UniqueID": -3471,
         "nvda_name": "Think with Google",
         "nvda_value": "https://www.thinkwithgoogle.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -448,10 +488,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[5]/div/ul/li[2]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[5]/div/ul/li[2]/a",
+        "key_interactions": 40
     },
     {
-        "IA2UniqueID": -1428,
+        "IA2UniqueID": -3473,
         "nvda_name": "Business Solutions",
         "nvda_value": "https://www.google.com/services/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -459,10 +500,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/nav/div/div/div[5]/div/ul/li[3]/a"
+        "xpath": "/html/body/footer/nav/div/div/div[5]/div/ul/li[3]/a",
+        "key_interactions": 41
     },
     {
-        "IA2UniqueID": -1430,
+        "IA2UniqueID": -3475,
         "nvda_name": "Google Workspace",
         "nvda_value": "https://workspace.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F",
         "nvda_states": [
@@ -470,10 +512,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div/a"
+        "xpath": "/html/body/footer/section[2]/div/a",
+        "key_interactions": 42
     },
     {
-        "IA2UniqueID": -1049,
+        "IA2UniqueID": -3478,
         "nvda_name": "Google",
         "nvda_value": "https://www.google.com/",
         "nvda_states": [
@@ -481,10 +524,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/ul/li/a"
+        "xpath": "/html/body/footer/section[2]/ul/li/a",
+        "key_interactions": 43
     },
     {
-        "IA2UniqueID": -1053,
+        "IA2UniqueID": -3482,
         "nvda_name": "Privacy",
         "nvda_value": "https://www.google.com/intl/en/policies/privacy/",
         "nvda_states": [
@@ -492,10 +536,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/ul/li[2]/a"
+        "xpath": "/html/body/footer/section[2]/ul/li[2]/a",
+        "key_interactions": 44
     },
     {
-        "IA2UniqueID": -1055,
+        "IA2UniqueID": -3484,
         "nvda_name": "Terms",
         "nvda_value": "https://www.google.com/intl/en/policies/terms/",
         "nvda_states": [
@@ -503,10 +548,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/ul/li[3]/a"
+        "xpath": "/html/body/footer/section[2]/ul/li[3]/a",
+        "key_interactions": 45
     },
     {
-        "IA2UniqueID": -1057,
+        "IA2UniqueID": -3093,
         "nvda_name": "About Google",
         "nvda_value": "https://about.google/",
         "nvda_states": [
@@ -514,10 +560,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/ul/li[4]/a"
+        "xpath": "/html/body/footer/section[2]/ul/li[4]/a",
+        "key_interactions": 46
     },
     {
-        "IA2UniqueID": -1059,
+        "IA2UniqueID": -3487,
         "nvda_name": "Google Products",
         "nvda_value": "https://about.google/products/",
         "nvda_states": [
@@ -525,21 +572,23 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/ul[2]/li/a"
+        "xpath": "/html/body/footer/section[2]/ul[2]/li/a",
+        "key_interactions": 47
     },
     {
-        "IA2UniqueID": -782,
-        "nvda_name": "Google",
-        "nvda_value": "https://marketingplatform.google.com/about/",
+        "IA2UniqueID": -3093,
+        "nvda_name": "About Google",
+        "nvda_value": "https://about.google/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/div/div/button"
+        "xpath": "/html/body/div/div/div/div/button",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -776,
+        "IA2UniqueID": -3148,
         "nvda_name": "Open the navigation drawer",
         "nvda_value": null,
         "nvda_states": [
@@ -547,6 +596,7 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/ul[2]/li[2]/select"
+        "xpath": "/html/body/footer/section[2]/ul[2]/li[2]/select",
+        "key_interactions": 0
     }
 ]

@@ -1,0 +1,17 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "IA2UniqueID": -336780,
+            "xpath": "/html/body/div[3]/div/section/div[2]/div/div/input",
+            "nvda_role": "SPINBUTTON (108)",
+            "nvda_name": "Number of Employees",
+            "nvda_value": null,
+            "nvda_states": [
+                "FOCUSABLE (16777216)",
+                "EDITABLE (67108864)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

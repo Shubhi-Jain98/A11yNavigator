@@ -1,22 +1,9 @@
 {
-    "IA2UniqueID": -1119,
-    "name": "WATCH NOW",
-    "role": "BUTTON (9)",
-    "roleText": "None",
+    "IA2UniqueID": -67842,
+    "name": "F1 - The Official Home of Formula 1® Racing",
     "states": [
+        "READONLY (128)",
         "FOCUSABLE (16777216)",
         "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)"
+    ]
 }

@@ -1,5 +1,5 @@
 {
-    "count by default selenium driver": 300,
+    "count by default selenium driver": 299,
     "total_count based on actionable selectors": 84,
     "actionableElements": [
         {
@@ -8,6 +8,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/"
         },
         {
@@ -16,6 +17,7 @@
             "text": "Explore Products",
             "aria-label": "",
             "id": "explore",
+            "placeholder": null,
             "href": "https://www.progressive.com/#ExploreProductsTab"
         },
         {
@@ -24,6 +26,7 @@
             "text": "Claims",
             "aria-label": "",
             "id": "claims",
+            "placeholder": null,
             "href": "https://www.progressive.com/#ClaimsTab"
         },
         {
@@ -32,6 +35,7 @@
             "text": "About Us",
             "aria-label": "",
             "id": "about",
+            "placeholder": null,
             "href": "https://www.progressive.com/#AboutUsTab"
         },
         {
@@ -40,6 +44,7 @@
             "text": "Resources",
             "aria-label": "",
             "id": "resources",
+            "placeholder": null,
             "href": "https://www.progressive.com/#ResourcesTab"
         },
         {
@@ -48,6 +53,7 @@
             "text": "1-866-302-4010\n, Call Us",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "tel:1-866-302-4010"
         },
         {
@@ -56,6 +62,7 @@
             "text": "Log In",
             "aria-label": "",
             "id": "login_link",
+            "placeholder": null,
             "href": "https://www.progressive.com/rp/login?cntgrp=A"
         },
         {
@@ -64,6 +71,7 @@
             "text": "Espa\u00f1ol",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/es/"
         },
         {
@@ -72,6 +80,7 @@
             "text": "SAVINGS!\nBundle & Save\u203a\nAuto + home, renters or condo",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/#s"
         },
         {
@@ -80,6 +89,7 @@
             "text": "POPULAR\nAuto\u203a\nAverage savings of over $800*\nRead the associated disclosure for this savings claim.",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/#l"
         },
         {
@@ -88,6 +98,7 @@
             "text": "*\nRead the associated disclosure for this savings claim.",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/#ToolTipDialog"
         },
         {
@@ -96,6 +107,7 @@
             "text": "Property\u203a\nHome, renters, condo & more",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/#s"
         },
         {
@@ -104,6 +116,7 @@
             "text": "Recreational\u203a\nMotorcycle, RV, boat & more",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/#s"
         },
         {
@@ -112,6 +125,7 @@
             "text": "Life\u203a\nTerm life, whole life & more",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/#s"
         },
         {
@@ -120,6 +134,7 @@
             "text": "Or, see all 30+ products\u203a",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/#p"
         },
         {
@@ -128,6 +143,7 @@
             "text": "Continue previous quote\u203a",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/home-retrieve/"
         },
         {
@@ -136,6 +152,7 @@
             "text": "Find an agent\u203a",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/rp/agent/"
         },
         {
@@ -144,6 +161,7 @@
             "text": "auto insurance",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/auto/"
         },
         {
@@ -152,6 +170,7 @@
             "text": "*\nRead the associated disclosure for this savings claim.",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/#ToolTipDialog"
         },
         {
@@ -160,6 +179,7 @@
             "text": "Auto insurance\u203a",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/auto/"
         },
         {
@@ -168,6 +188,7 @@
             "text": "Bundle auto and property insurance\u203a",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/insurance/bundling/"
         },
         {
@@ -176,6 +197,7 @@
             "text": "Motorcycle insurance\u203a",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/motorcycle/"
         },
         {
@@ -184,6 +206,7 @@
             "text": "RV insurance\u203a",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/rv-trailer/"
         },
         {
@@ -192,6 +215,7 @@
             "text": "Life insurance\u203a",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/life-insurance/"
         },
         {
@@ -200,30 +224,34 @@
             "text": "Explore our products",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/insurance/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[2]/a[1]",
-            "text": "Car insurance\u203a\n389 ARTICLES",
+            "text": "Car insurance\u203a\n388 ARTICLES",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/car-insurance/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[2]/ul[1]/li[1]/a[1]",
-            "text": "Why did your car insurance rate go up?\n5 min read",
+            "text": "Why did your car insurance rate go up?\n5\nmin\nminute\nto read",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/why-insurance-rates-go-up/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]",
-            "text": "What is \"full coverage\" car insurance?\n5 min read",
+            "text": "What is \"full coverage\" car insurance?\n5\nmin\nminute\nto read",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/full-coverage-car-insurance/"
         },
         {
@@ -232,22 +260,25 @@
             "text": "Home insurance\u203a\n153 ARTICLES",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/home-insurance/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[3]/ul[1]/li[1]/a[1]",
-            "text": "How much does homeowners insurance cost?\n5 min read",
+            "text": "How much does homeowners insurance cost?\n5\nmin\nminute\nto read",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/average-homeowners-insurance-cost/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[3]/ul[1]/li[2]/a[1]",
-            "text": "How does homeowners insurance work?\n4 min read",
+            "text": "How does homeowners insurance work?\n4\nmin\nminute\nto read",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/homeowners-101/"
         },
         {
@@ -256,22 +287,25 @@
             "text": "Renters insurance\u203a\n29 ARTICLES",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/renters-insurance/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[4]/ul[1]/li[1]/a[1]",
-            "text": "How does renters insurance work?\n7 min read",
+            "text": "How does renters insurance work?\n7\nmin\nminute\nto read",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/renters-101/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[4]/ul[1]/li[2]/a[1]",
-            "text": "Does renters insurance cover pets?\n4 min read",
+            "text": "Does renters insurance cover pets?\n4\nmin\nminute\nto read",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/does-renters-insurance-cover-pets/"
         },
         {
@@ -280,22 +314,25 @@
             "text": "Life insurance\u203a\n89 ARTICLES",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/life-insurance/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[5]/ul[1]/li[1]/a[1]",
-            "text": "How much does life insurance cost?\n5 min read",
+            "text": "How much does life insurance cost?\n5\nmin\nminute\nto read",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/how-much-is-life-insurance/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[5]/ul[1]/li[2]/a[1]",
-            "text": "Types of life insurance explained\n5 min read",
+            "text": "Types of life insurance explained\n5\nmin\nminute\nto read",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/life-insurance-types/"
         },
         {
@@ -304,22 +341,25 @@
             "text": "Insurance by state\u203a\n300 ARTICLES",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/insurance-by-state/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[6]/ul[1]/li[1]/a[1]",
-            "text": "Car insurance in New York\n4 min read",
+            "text": "Car insurance in New York\n4\nmin\nminute\nto read",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/new-york-car-insurance/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/main[1]/div[5]/div[1]/div[6]/ul[1]/li[2]/a[1]",
-            "text": "Home insurance in Michigan\n3 min read",
+            "text": "Home insurance in Michigan\n3\nmin\nminute\nto read",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/michigan-home-insurance/"
         },
         {
@@ -328,6 +368,7 @@
             "text": "Explore Answers",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/"
         },
         {
@@ -336,6 +377,7 @@
             "text": "Bundling\u203a\nCombine home and auto insurance for more savings.",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/insurance/bundling/"
         },
         {
@@ -344,6 +386,7 @@
             "text": "Diversity & Inclusion\u203a\nProgress \u2013 it\u2019s in our name and in our approach.",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/about/"
         },
         {
@@ -352,6 +395,7 @@
             "text": "Resources\u203a\nExplore tools for navigating insurance and life.",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/resources/"
         },
         {
@@ -360,6 +404,7 @@
             "text": "Careers\u203a\nJoin one of Fortune's 100 Best Companies to Work For.",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/careers/"
         },
         {
@@ -368,6 +413,7 @@
             "text": "Car Insurance",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/auto/"
         },
         {
@@ -376,6 +422,7 @@
             "text": "Home Insurance",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/homeowners/"
         },
         {
@@ -384,6 +431,7 @@
             "text": "Progressive Answers",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/answers/"
         },
         {
@@ -392,6 +440,7 @@
             "text": "Explore All Products",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/insurance/"
         },
         {
@@ -400,6 +449,7 @@
             "text": "About Us",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/about/"
         },
         {
@@ -408,6 +458,7 @@
             "text": "Careers",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://careers.progressive.com/"
         },
         {
@@ -416,6 +467,7 @@
             "text": "Investors",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://investors.progressive.com/"
         },
         {
@@ -424,6 +476,7 @@
             "text": "Newsroom",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://progressive.mediaroom.com/"
         },
         {
@@ -432,6 +485,7 @@
             "text": "Continue Previous Quote",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/home-retrieve/"
         },
         {
@@ -440,6 +494,7 @@
             "text": "Report a Claim",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/claims/"
         },
         {
@@ -448,6 +503,7 @@
             "text": "Make a Payment",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/rp/ezpay/"
         },
         {
@@ -456,6 +512,7 @@
             "text": "PerkShare",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/perkshare/"
         },
         {
@@ -464,6 +521,7 @@
             "text": "1-866-302-4010",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "tel:1-866-302-4010"
         },
         {
@@ -472,6 +530,7 @@
             "text": "Contact Us",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/contact-us/"
         },
         {
@@ -480,6 +539,7 @@
             "text": "Progressive App",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/mobile-app/"
         },
         {
@@ -488,6 +548,7 @@
             "text": "Partner With Us",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/partners/"
         },
         {
@@ -496,14 +557,16 @@
             "text": "",
             "aria-label": "",
             "id": "searchTerm",
+            "placeholder": "",
             "href": ""
         },
         {
             "tag_name": "input",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/input[1]",
-            "text": "",
+            "text": "Search",
             "aria-label": "",
             "id": "ssButton",
+            "placeholder": "",
             "href": ""
         },
         {
@@ -512,6 +575,7 @@
             "text": "Facebook",
             "aria-label": "Facebook",
             "id": "",
+            "placeholder": null,
             "href": "https://www.facebook.com/progressive"
         },
         {
@@ -520,6 +584,7 @@
             "text": "Instagram",
             "aria-label": "Instagram",
             "id": "",
+            "placeholder": null,
             "href": "https://www.instagram.com/progressive/"
         },
         {
@@ -528,6 +593,7 @@
             "text": "YouTube",
             "aria-label": "Youtube",
             "id": "",
+            "placeholder": null,
             "href": "https://www.youtube.com/user/progressive"
         },
         {
@@ -536,6 +602,7 @@
             "text": "TikTok",
             "aria-label": "tiktok",
             "id": "",
+            "placeholder": null,
             "href": "https://www.tiktok.com/@progressive"
         },
         {
@@ -544,6 +611,7 @@
             "text": "X, Formerly Twitter",
             "aria-label": "x, formerly twitter",
             "id": "",
+            "placeholder": null,
             "href": "https://www.twitter.com/progressive"
         },
         {
@@ -552,7 +620,8 @@
             "text": "Lifelanes",
             "aria-label": "Lifelanes",
             "id": "",
-            "href": "https://www.progressive.com/lifelanes/"
+            "placeholder": null,
+            "href": "https://lifelanes.progressive.com/"
         },
         {
             "tag_name": "a",
@@ -560,6 +629,7 @@
             "text": "Contact Us",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/contact-us/"
         },
         {
@@ -568,6 +638,7 @@
             "text": "Site Map",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/sitemap/"
         },
         {
@@ -576,6 +647,7 @@
             "text": "Accessibility Services",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/web-site-accessibility/"
         },
         {
@@ -584,6 +656,7 @@
             "text": "Technical Help",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/help/"
         },
         {
@@ -592,6 +665,7 @@
             "text": "Privacy & Security",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/privacy/"
         },
         {
@@ -600,6 +674,7 @@
             "text": "Terms of Use",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/copyright/"
         },
         {
@@ -608,6 +683,7 @@
             "text": "CA Notice at Collection",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/privacy/privacy-data-request/"
         },
         {
@@ -616,6 +692,7 @@
             "text": "Insurance Resources",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/resources/"
         },
         {
@@ -624,6 +701,7 @@
             "text": "Do Not Sell or Share My Personal Information (CA Residents Only)",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/privacy/do-not-sell-my-information/"
         },
         {
@@ -632,6 +710,7 @@
             "text": "Prices vary based on how you buy",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/shop/car-insurance-rates-differ/"
         },
         {
@@ -640,6 +719,7 @@
             "text": "about comparing car insurance rates,",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/auto/discounts/compare-car-insurance-rates/"
         },
         {
@@ -648,6 +728,7 @@
             "text": "See a list of all the insurers",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/homeowners/homeowners-companies/"
         },
         {
@@ -656,6 +737,7 @@
             "text": "contact us",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/contact-us/"
         },
         {
@@ -664,6 +746,7 @@
             "text": "contact us",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/contact-us/"
         },
         {
@@ -672,6 +755,7 @@
             "text": "https://www.progressiveagent.com",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.progressive.com/rp/agent"
         }
     ]

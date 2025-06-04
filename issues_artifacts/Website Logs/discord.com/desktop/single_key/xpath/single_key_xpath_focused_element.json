@@ -1,6 +1,6 @@
 [
     {
-        "IA2UniqueID": -571,
+        "IA2UniqueID": -740,
         "nvda_name": "Discord - Group Chat That\u2019s All Fun & Games",
         "nvda_value": null,
         "nvda_states": [
@@ -8,10 +8,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li/a",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -633,
+        "IA2UniqueID": -763,
         "nvda_name": "Download",
         "nvda_value": "https://discord.com/download",
         "nvda_states": [
@@ -19,10 +20,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[2]/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[2]/a",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -634,
+        "IA2UniqueID": -765,
         "nvda_name": "Nitro",
         "nvda_value": "https://discord.com/nitro",
         "nvda_states": [
@@ -30,10 +32,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[3]/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[3]/a",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -635,
+        "IA2UniqueID": -767,
         "nvda_name": "Discover",
         "nvda_value": "https://discord.com/servers",
         "nvda_states": [
@@ -41,10 +44,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[4]/div/div/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[4]/div/div/a",
+        "key_interactions": 3
     },
     {
-        "IA2UniqueID": -644,
+        "IA2UniqueID": -775,
         "nvda_name": "None",
         "nvda_value": "https://discord.com/safety",
         "nvda_states": [
@@ -52,10 +56,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[5]/div/div/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[5]/div/div/a",
+        "key_interactions": 4
     },
     {
-        "IA2UniqueID": -653,
+        "IA2UniqueID": -783,
         "nvda_name": "None",
         "nvda_value": "https://discord.com/ads/quests",
         "nvda_states": [
@@ -63,10 +68,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[6]/div/div/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[6]/div/div/a",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -662,
+        "IA2UniqueID": -791,
         "nvda_name": "None",
         "nvda_value": "https://support.discord.com/hc/",
         "nvda_states": [
@@ -74,32 +80,37 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[7]/div/div/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[7]/div/div/a",
+        "key_interactions": 6
     },
     {
-        "IA2UniqueID": -671,
+        "IA2UniqueID": -799,
         "nvda_name": "None",
         "nvda_value": "https://discord.com/blog",
         "nvda_states": [
+            "VISITED (2048)",
             "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[8]/div/div/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[8]/div/div/a",
+        "key_interactions": 7
     },
     {
-        "IA2UniqueID": -679,
+        "IA2UniqueID": -807,
         "nvda_name": "None",
         "nvda_value": "https://discord.com/developers",
         "nvda_states": [
+            "VISITED (2048)",
             "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[9]/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[9]/a",
+        "key_interactions": 8
     },
     {
-        "IA2UniqueID": -680,
+        "IA2UniqueID": -809,
         "nvda_name": "Careers",
         "nvda_value": "https://discord.com/careers",
         "nvda_states": [
@@ -107,10 +118,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div[2]/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div[2]/a[2]",
+        "key_interactions": 9
     },
     {
-        "IA2UniqueID": -682,
+        "IA2UniqueID": -811,
         "nvda_name": "Log In",
         "nvda_value": "https://discord.com/login",
         "nvda_states": [
@@ -118,10 +130,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[2]/div/div/aside/div/a"
+        "xpath": "/html/body/div[3]/div/div[2]/div/div/aside/div/a",
+        "key_interactions": 10
     },
     {
-        "IA2UniqueID": -722,
+        "IA2UniqueID": -1880,
         "nvda_name": "Download for Windows",
         "nvda_value": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
         "nvda_states": [
@@ -129,10 +142,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[11]/div/div/div/div[3]/a"
+        "xpath": "/html/body/div[3]/div/div[11]/div/div/div/div[3]/a",
+        "key_interactions": 11
     },
     {
-        "IA2UniqueID": -1137,
+        "IA2UniqueID": -1367,
         "nvda_name": "Download for Windows",
         "nvda_value": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
         "nvda_states": [
@@ -140,10 +154,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/a"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/a",
+        "key_interactions": 12
     },
     {
-        "IA2UniqueID": -1318,
+        "IA2UniqueID": -1579,
         "nvda_name": "Home page",
         "nvda_value": "https://discord.com/",
         "nvda_states": [
@@ -151,10 +166,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[4]/div[2]/a"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[4]/div[2]/a",
+        "key_interactions": 13
     },
     {
-        "IA2UniqueID": -1329,
+        "IA2UniqueID": -1590,
         "nvda_name": "Twitter",
         "nvda_value": "https://twitter.com/discord",
         "nvda_states": [
@@ -162,10 +178,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[4]/div[2]/a[2]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[4]/div[2]/a[2]",
+        "key_interactions": 14
     },
     {
-        "IA2UniqueID": -1331,
+        "IA2UniqueID": -1592,
         "nvda_name": "Instagram",
         "nvda_value": "https://www.instagram.com/discord/",
         "nvda_states": [
@@ -173,10 +190,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[4]/div[2]/a[3]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[4]/div[2]/a[3]",
+        "key_interactions": 15
     },
     {
-        "IA2UniqueID": -1333,
+        "IA2UniqueID": -1594,
         "nvda_name": "Facebook",
         "nvda_value": "https://www.facebook.com/discord/",
         "nvda_states": [
@@ -184,10 +202,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[4]/div[2]/a[4]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[4]/div[2]/a[4]",
+        "key_interactions": 16
     },
     {
-        "IA2UniqueID": -1335,
+        "IA2UniqueID": -1596,
         "nvda_name": "Youtube",
         "nvda_value": "https://www.youtube.com/discord",
         "nvda_states": [
@@ -195,10 +214,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[4]/div[2]/a[5]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[4]/div[2]/a[5]",
+        "key_interactions": 17
     },
     {
-        "IA2UniqueID": -1337,
+        "IA2UniqueID": -1598,
         "nvda_name": "Tiktok",
         "nvda_value": "https://www.tiktok.com/@discord",
         "nvda_states": [
@@ -206,10 +226,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/nav/a"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/nav/a",
+        "key_interactions": 18
     },
     {
-        "IA2UniqueID": -1345,
+        "IA2UniqueID": -1605,
         "nvda_name": "Download",
         "nvda_value": "https://discord.com/download",
         "nvda_states": [
@@ -217,10 +238,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/nav/a[2]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/nav/a[2]",
+        "key_interactions": 19
     },
     {
-        "IA2UniqueID": -1346,
+        "IA2UniqueID": -1606,
         "nvda_name": "Nitro",
         "nvda_value": "https://discord.com/nitro",
         "nvda_states": [
@@ -228,10 +250,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/nav/a[3]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/nav/a[3]",
+        "key_interactions": 20
     },
     {
-        "IA2UniqueID": -1347,
+        "IA2UniqueID": -1607,
         "nvda_name": "Status",
         "nvda_value": "https://discordstatus.com/",
         "nvda_states": [
@@ -239,10 +262,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/nav/a[4]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/nav/a[4]",
+        "key_interactions": 21
     },
     {
-        "IA2UniqueID": -1348,
+        "IA2UniqueID": -1608,
         "nvda_name": "App Directory",
         "nvda_value": "https://discord.com/application-directory",
         "nvda_states": [
@@ -250,21 +274,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/nav/a[5]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[3]/div/nav/a",
+        "key_interactions": 22
     },
     {
-        "IA2UniqueID": -1349,
-        "nvda_name": "Mobile Experience",
-        "nvda_value": "https://discord.com/mobile",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[3]/div/nav/a"
-    },
-    {
-        "IA2UniqueID": -1356,
+        "IA2UniqueID": -1614,
         "nvda_name": "About",
         "nvda_value": "https://discord.com/company",
         "nvda_states": [
@@ -272,10 +286,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[3]/div/nav/a[2]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[3]/div/nav/a[2]",
+        "key_interactions": 23
     },
     {
-        "IA2UniqueID": -1357,
+        "IA2UniqueID": -1615,
         "nvda_name": "Jobs",
         "nvda_value": "https://discord.com/careers",
         "nvda_states": [
@@ -283,10 +298,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[3]/div/nav/a[3]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[3]/div/nav/a[3]",
+        "key_interactions": 24
     },
     {
-        "IA2UniqueID": -1358,
+        "IA2UniqueID": -1616,
         "nvda_name": "Brand",
         "nvda_value": "https://discord.com/branding",
         "nvda_states": [
@@ -294,10 +310,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[3]/div/nav/a[4]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[3]/div/nav/a[4]",
+        "key_interactions": 25
     },
     {
-        "IA2UniqueID": -1359,
+        "IA2UniqueID": -1617,
         "nvda_name": "Newsroom",
         "nvda_value": "https://discord.com/newsroom",
         "nvda_states": [
@@ -305,10 +322,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a",
+        "key_interactions": 26
     },
     {
-        "IA2UniqueID": -1366,
+        "IA2UniqueID": -1623,
         "nvda_name": "College",
         "nvda_value": "https://discord.com/college",
         "nvda_states": [
@@ -316,10 +334,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[2]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[2]",
+        "key_interactions": 27
     },
     {
-        "IA2UniqueID": -1367,
+        "IA2UniqueID": -1624,
         "nvda_name": "Support",
         "nvda_value": "https://support.discord.com/hc",
         "nvda_states": [
@@ -327,10 +346,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[3]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[3]",
+        "key_interactions": 28
     },
     {
-        "IA2UniqueID": -1368,
+        "IA2UniqueID": -1625,
         "nvda_name": "Safety",
         "nvda_value": "https://discord.com/safety",
         "nvda_states": [
@@ -338,21 +358,24 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[4]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[4]",
+        "key_interactions": 29
     },
     {
-        "IA2UniqueID": -1369,
+        "IA2UniqueID": -1626,
         "nvda_name": "Blog",
         "nvda_value": "https://discord.com/blog",
         "nvda_states": [
+            "VISITED (2048)",
             "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[5]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[5]",
+        "key_interactions": 30
     },
     {
-        "IA2UniqueID": -1370,
+        "IA2UniqueID": -1627,
         "nvda_name": "StreamKit",
         "nvda_value": "https://discord.com/streamkit",
         "nvda_states": [
@@ -360,10 +383,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[6]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[6]",
+        "key_interactions": 31
     },
     {
-        "IA2UniqueID": -1371,
+        "IA2UniqueID": -1628,
         "nvda_name": "Creators",
         "nvda_value": "https://discord.com/creators",
         "nvda_states": [
@@ -371,10 +395,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[7]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[7]",
+        "key_interactions": 32
     },
     {
-        "IA2UniqueID": -1372,
+        "IA2UniqueID": -1629,
         "nvda_name": "Community",
         "nvda_value": "https://discord.com/community",
         "nvda_states": [
@@ -382,32 +407,24 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[8]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[8]",
+        "key_interactions": 33
     },
     {
-        "IA2UniqueID": -1373,
+        "IA2UniqueID": -1630,
         "nvda_name": "Developers",
         "nvda_value": "https://discord.com/developers",
         "nvda_states": [
+            "VISITED (2048)",
             "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[9]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[9]",
+        "key_interactions": 34
     },
     {
-        "IA2UniqueID": -1374,
-        "nvda_name": "Gaming",
-        "nvda_value": "https://discord.com/gaming",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[10]"
-    },
-    {
-        "IA2UniqueID": -1375,
+        "IA2UniqueID": -1631,
         "nvda_name": "Quests",
         "nvda_value": "https://discord.com/quests",
         "nvda_states": [
@@ -415,10 +432,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[11]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[10]",
+        "key_interactions": 35
     },
     {
-        "IA2UniqueID": -1376,
+        "IA2UniqueID": -1632,
         "nvda_name": "Official Third-Party Merch",
         "nvda_value": "https://discordmerch.com/evergreenfooter",
         "nvda_states": [
@@ -426,10 +444,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[12]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/nav/a[11]",
+        "key_interactions": 36
     },
     {
-        "IA2UniqueID": -1377,
+        "IA2UniqueID": -1633,
         "nvda_name": "Feedback",
         "nvda_value": "https://support.discord.com/hc/en-us/community/topics",
         "nvda_states": [
@@ -437,10 +456,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a",
+        "key_interactions": 37
     },
     {
-        "IA2UniqueID": -1384,
+        "IA2UniqueID": -1639,
         "nvda_name": "Terms",
         "nvda_value": "https://discord.com/terms",
         "nvda_states": [
@@ -448,10 +468,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[2]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[2]",
+        "key_interactions": 38
     },
     {
-        "IA2UniqueID": -1385,
+        "IA2UniqueID": -1640,
         "nvda_name": "Privacy",
         "nvda_value": "https://discord.com/privacy",
         "nvda_states": [
@@ -459,10 +480,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[3]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[3]",
+        "key_interactions": 39
     },
     {
-        "IA2UniqueID": -1386,
+        "IA2UniqueID": -1641,
         "nvda_name": "Cookie Settings",
         "nvda_value": "https://discord.com/#",
         "nvda_states": [
@@ -470,10 +492,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[4]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[4]",
+        "key_interactions": 40
     },
     {
-        "IA2UniqueID": -1387,
+        "IA2UniqueID": -1642,
         "nvda_name": "Guidelines",
         "nvda_value": "https://discord.com/guidelines",
         "nvda_states": [
@@ -481,10 +504,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[5]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[5]",
+        "key_interactions": 41
     },
     {
-        "IA2UniqueID": -1388,
+        "IA2UniqueID": -1643,
         "nvda_name": "Acknowledgements",
         "nvda_value": "https://discord.com/acknowledgements",
         "nvda_states": [
@@ -492,10 +516,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[6]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[6]",
+        "key_interactions": 42
     },
     {
-        "IA2UniqueID": -1389,
+        "IA2UniqueID": -1644,
         "nvda_name": "Licences",
         "nvda_value": "https://discord.com/licenses",
         "nvda_states": [
@@ -503,32 +528,23 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[7]"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/nav/a[7]",
+        "key_interactions": 43
     },
     {
-        "IA2UniqueID": -633,
-        "nvda_name": "Download",
-        "nvda_value": "https://discord.com/download",
+        "IA2UniqueID": -1897,
+        "nvda_name": "Discord - Group Chat That\u2019s All Fun & Games",
+        "nvda_value": null,
         "nvda_states": [
-            "LINKED (4096)",
+            "READONLY (128)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/a"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[4]/div/div",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -630,
-        "nvda_name": "None",
-        "nvda_value": "https://discord.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[4]/div/div"
-    },
-    {
-        "IA2UniqueID": -608,
+        "IA2UniqueID": -2050,
         "nvda_name": "Safety",
         "nvda_value": null,
         "nvda_states": [
@@ -537,10 +553,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[5]/div/div"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[5]/div/div",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -611,
+        "IA2UniqueID": -2058,
         "nvda_name": "Quests",
         "nvda_value": null,
         "nvda_states": [
@@ -549,10 +566,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[6]/div/div"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[6]/div/div",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -614,
+        "IA2UniqueID": -2066,
         "nvda_name": "Support",
         "nvda_value": null,
         "nvda_states": [
@@ -561,10 +579,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[7]/div/div"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[7]/div/div",
+        "key_interactions": 3
     },
     {
-        "IA2UniqueID": -598,
+        "IA2UniqueID": -2074,
         "nvda_name": "Blog",
         "nvda_value": null,
         "nvda_states": [
@@ -573,10 +592,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[8]/div/div"
+        "xpath": "/html/body/div[3]/div/header/div[2]/div/div/ul/li[8]/div/div",
+        "key_interactions": 4
     },
     {
-        "IA2UniqueID": -602,
+        "IA2UniqueID": -2082,
         "nvda_name": "Developers",
         "nvda_value": null,
         "nvda_states": [
@@ -585,20 +605,22 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/div[2]/div/div/aside/div/button"
+        "xpath": "/html/body/div[3]/div/div[2]/div/div/aside/div/button",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -606,
+        "IA2UniqueID": -3120,
         "nvda_name": "Open Discord in your browser",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[3]/div"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div/div[3]/div",
+        "key_interactions": 6
     },
     {
-        "IA2UniqueID": -1323,
+        "IA2UniqueID": -2826,
         "nvda_name": "English (UK)",
         "nvda_value": null,
         "nvda_states": [
@@ -607,10 +629,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/div"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[2]/div[2]/div",
+        "key_interactions": 7
     },
     {
-        "IA2UniqueID": -1341,
+        "IA2UniqueID": -2844,
         "nvda_name": "Product",
         "nvda_value": null,
         "nvda_states": [
@@ -619,10 +642,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[3]/div/div"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[3]/div/div",
+        "key_interactions": 8
     },
     {
-        "IA2UniqueID": -1352,
+        "IA2UniqueID": -2853,
         "nvda_name": "Company",
         "nvda_value": null,
         "nvda_states": [
@@ -631,10 +655,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/div"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[4]/div/div",
+        "key_interactions": 9
     },
     {
-        "IA2UniqueID": -1362,
+        "IA2UniqueID": -2862,
         "nvda_name": "Resources",
         "nvda_value": null,
         "nvda_states": [
@@ -643,6 +668,7 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/div"
+        "xpath": "/html/body/div[3]/div/div[13]/div[2]/div/div[5]/div/div",
+        "key_interactions": 10
     }
 ]

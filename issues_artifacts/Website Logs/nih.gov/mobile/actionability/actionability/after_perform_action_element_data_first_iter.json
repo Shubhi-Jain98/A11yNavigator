@@ -1,0 +1,946 @@
+[
+  {
+    "IA2UniqueID": -597,
+    "xpath": "",
+    "nvda_role": "-",
+    "nvda_name": "National Institutes of Health (NIH) | Turning Discovery Into Health",
+    "nvda_value": null,
+    "nvda_states": [
+      "READONLY (128)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -597,
+    "xpath": "",
+    "nvda_role": "-",
+    "nvda_name": "National Institutes of Health (NIH) | Turning Discovery Into Health",
+    "nvda_value": null,
+    "nvda_states": [
+      "READONLY (128)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -683,
+    "xpath": "/html/body/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Skip to main content",
+    "nvda_value": "https://www.nih.gov/#main-content",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -1958,
+    "xpath": "/html/body/div[2]/div/header/div/ul/li/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "U.S. Department of Health & Human Services",
+    "nvda_value": "https://www.hhs.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -1962,
+    "xpath": "/html/body/div[2]/div/header/div[2]/div/div/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "National Institutes of Health (NIH) - Turning Discovery into Health",
+    "nvda_value": "https://www.nih.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -3003,
+    "xpath": "/html/body/div[2]/div/header/div[2]/div/div/a",
+    "nvda_role": "-",
+    "nvda_name": "National Institutes of Health (NIH) | Turning Discovery Into Health",
+    "nvda_value": null,
+    "nvda_states": [
+      "READONLY (128)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -4057,
+    "xpath": "/html/body/div[2]/div/header/div[2]/div/form/input[2]",
+    "nvda_role": "EDITABLETEXT (8)",
+    "nvda_name": "Search the NIH Website",
+    "nvda_value": null,
+    "nvda_states": [
+      "FOCUSABLE (16777216)",
+      "EDITABLE (67108864)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -5136,
+    "xpath": "/html/body/div[2]/div/header/div[2]/div/form/input[3]",
+    "nvda_role": "BUTTON (9)",
+    "nvda_name": "Search",
+    "nvda_value": null,
+    "nvda_states": [
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -6236,
+    "xpath": "/html/body/div[2]/div/header/div[2]/div/ul/li/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Virtual Tour",
+    "nvda_value": "https://www.nih.gov/virtual-tour",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -7359,
+    "xpath": "/html/body/div[2]/div/header/div[2]/div/ul/li[2]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "En Espa\u00f1ol",
+    "nvda_value": "https://salud.nih.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -8909,
+    "xpath": "/html/body/div[2]/div/div/nav/ul/li[2]/div/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Health Information",
+    "nvda_value": "https://www.nih.gov/health-information",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -10512,
+    "xpath": "/html/body/div[2]/div/div/nav/ul/li[3]/div/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Grants & Funding",
+    "nvda_value": "https://www.nih.gov/grants-funding",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -12017,
+    "xpath": "/html/body/div[2]/div/div/nav/ul/li[4]/div/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "News & Events",
+    "nvda_value": "https://www.nih.gov/news-events",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -13612,
+    "xpath": "/html/body/div[2]/div/div/nav/ul/li[5]/div/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Research & Training",
+    "nvda_value": "https://www.nih.gov/research-training",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -15095,
+    "xpath": "/html/body/div[2]/div/div/nav/ul/li[6]/div/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Institutes at NIH",
+    "nvda_value": "https://www.nih.gov/institutes-nih",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -16399,
+    "xpath": "/html/body/div[2]/div/div/nav/ul/li[7]/div/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "About NIH",
+    "nvda_value": "https://www.nih.gov/about-nih",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -18264,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/div/ul/li[5]/div/div[2]/h3/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "75 Years of Advancing Neuroscience",
+    "nvda_value": "https://www.ninds.nih.gov/about-ninds/75th-anniversary",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -19824,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/div/ul/li[5]/div/div[2]/p[2]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Learn more \u00bb",
+    "nvda_value": "https://www.ninds.nih.gov/about-ninds/75th-anniversary",
+    "nvda_states": [
+      "VISITED (2048)",
+      "LINKED (4096)",
+      "FOCUSED (2)",
+      "FOCUSABLE (16777216)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -20750,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/ol/li/a",
+    "nvda_role": "-",
+    "nvda_name": "National Institutes of Health (NIH) | Turning Discovery Into Health",
+    "nvda_value": null,
+    "nvda_states": [
+      "READONLY (128)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -22211,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/ol/li[2]/a",
+    "nvda_role": "-",
+    "nvda_name": "National Institutes of Health (NIH) | Turning Discovery Into Health",
+    "nvda_value": null,
+    "nvda_states": [
+      "READONLY (128)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -23678,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/ol/li[3]/a",
+    "nvda_role": "-",
+    "nvda_name": "National Institutes of Health (NIH) | Turning Discovery Into Health",
+    "nvda_value": null,
+    "nvda_states": [
+      "READONLY (128)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -25116,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/ol/li[4]/a",
+    "nvda_role": "-",
+    "nvda_name": "National Institutes of Health (NIH) | Turning Discovery Into Health",
+    "nvda_value": null,
+    "nvda_states": [
+      "READONLY (128)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -26583,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/ol/li[5]/a",
+    "nvda_role": "-",
+    "nvda_name": "National Institutes of Health (NIH) | Turning Discovery Into Health",
+    "nvda_value": null,
+    "nvda_states": [
+      "READONLY (128)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -28150,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div/div/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Cancer Immunotherapy",
+    "nvda_value": "https://www.nih.gov/news-events/news-releases/combination-immunotherapy-shrank-variety-metastatic-gastrointestinal-cancers",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -29641,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Understanding Alzheimer\u2019s",
+    "nvda_value": "https://www.nih.gov/news-events/nih-research-matters/new-biomarker-tracks-cognitive-decline-alzheimer-s-disease",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -31390,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div[3]/div/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Inherited Blinding Diseases",
+    "nvda_value": "https://www.nih.gov/news-events/news-releases/repurposing-blood-pressure-drug-may-prevent-vision-loss-inherited-blinding-diseases",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -32841,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div[4]/div/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Healthy Eating",
+    "nvda_value": "https://www.nih.gov/news-events/nih-research-matters/midlife-eating-patterns-tied-health-decades-later",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -34411,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div/div/div/div/h2/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "virtual-tour-screenshot-square.jpg",
+    "nvda_value": "https://www.nih.gov/about-nih/virtual-tour-screenshot-square.jpg",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -35489,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Take the Virtual Tour",
+    "nvda_value": "https://www.nih.gov/virtual-tour",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -36762,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div[2]/div/div/div/h2/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "jay-bhattacharya-thumb.jpg",
+    "nvda_value": "https://www.nih.gov/nih-director/jay-bhattacharya-thumb.jpg",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -37699,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div[2]/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "NIH Director",
+    "nvda_value": "https://www.nih.gov/about-nih/who-we-are/nih-director",
+    "nvda_states": [
+      "VISITED (2048)",
+      "LINKED (4096)",
+      "FOCUSED (2)",
+      "FOCUSABLE (16777216)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -38972,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div[3]/div/div/div/h2/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "nih-at-a-glance-funding.jpg",
+    "nvda_value": "https://www.nih.gov/glance/nih-glance-funding.jpg",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -41086,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div[3]/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Funding for Research",
+    "nvda_value": "http://grants.nih.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -43334,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div[4]/div/div/div/h2/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "nih-at-a-glance-labs.jpg",
+    "nvda_value": "https://www.nih.gov/glance/nih-glance-labs.jpg",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -45643,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div[4]/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Labs at NIH",
+    "nvda_value": "http://irp.nih.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -47793,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div[5]/div/div/div/h2/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "improving-health-collage.jpg",
+    "nvda_value": "https://www.nih.gov/impact/improving-health-collage.jpg",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -49432,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div[5]/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Impact of NIH Research",
+    "nvda_value": "https://www.nih.gov/about-nih/what-we-do/impact-nih-research",
+    "nvda_states": [
+      "VISITED (2048)",
+      "LINKED (4096)",
+      "FOCUSED (2)",
+      "FOCUSABLE (16777216)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -50911,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div[6]/div/div/div/h2/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "researcher-holding-petri-dish.jpg",
+    "nvda_value": "https://www.nih.gov/about-nih/researcher-holding-petri-dish.jpg",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -55949,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[3]/div/div/div/div[6]/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Jobs at NIH",
+    "nvda_value": "http://www.jobs.nih.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -60974,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[4]/div/div/div/div/div/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "NIH HEAL Initiative",
+    "nvda_value": "https://heal.nih.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -62570,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[4]/div/div/div/div/div[2]/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Clinical Trials",
+    "nvda_value": "https://www.nih.gov/health-information/nih-clinical-research-trials-you",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -63986,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[4]/div/div/div/div/div[3]/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Accelerating Medicines Partnership",
+    "nvda_value": "https://www.nih.gov/research-training/accelerating-medicines-partnership-amp",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -65214,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[4]/div/div/div/div/div[4]/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Medical Research Initiatives",
+    "nvda_value": "https://www.nih.gov/research-training/medical-research-initiatives",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -66777,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[4]/div/div/div/div/div[5]/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Training at NIH",
+    "nvda_value": "https://www.nih.gov/research-training/training-opportunities",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -67999,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div[4]/div/div/div/div/div[6]/h4/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "RECOVER (link is external)",
+    "nvda_value": "https://recovercovid.org/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -68006,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/ul/li/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Contact Us",
+    "nvda_value": "https://www.nih.gov/about-nih/contact-us",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -69674,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/ul/li[2]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "X (link is external)",
+    "nvda_value": "https://twitter.com/NIH",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -69677,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/ul/li[3]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Facebook (link is external)",
+    "nvda_value": "https://www.facebook.com/nih.gov",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -69680,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/ul/li[4]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Instagram (link is external)",
+    "nvda_value": "https://www.instagram.com/nihgov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -69683,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/ul/li[5]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "YouTube (link is external)",
+    "nvda_value": "https://www.youtube.com/user/nihod",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -69686,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/ul/li[6]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Flickr (link is external)",
+    "nvda_value": "https://www.flickr.com/photos/nihgov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -69689,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/ul/li[7]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "More Social Media from NIH",
+    "nvda_value": "https://www.nih.gov/news-events/social-media-outreach",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -72830,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "NIH Home",
+    "nvda_value": "https://www.nih.gov/",
+    "nvda_states": [
+      "VISITED (2048)",
+      "LINKED (4096)",
+      "FOCUSED (2)",
+      "FOCUSABLE (16777216)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -73359,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li/a",
+    "nvda_role": "-",
+    "nvda_name": "National Institutes of Health (NIH) | Turning Discovery Into Health",
+    "nvda_value": null,
+    "nvda_states": [
+      "READONLY (128)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -74633,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li[2]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Virtual Tour",
+    "nvda_value": "https://www.nih.gov/virtual-tour",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -75544,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li[3]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "En Espa\u00f1ol",
+    "nvda_value": "https://salud.nih.gov/",
+    "nvda_states": [
+      "VISITED (2048)",
+      "LINKED (4096)",
+      "FOCUSED (2)",
+      "FOCUSABLE (16777216)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -76947,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li[4]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Visitor Information",
+    "nvda_value": "https://www.nih.gov/about-nih/visitor-information",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -78274,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li[5]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Frequently Asked Questions",
+    "nvda_value": "https://www.nih.gov/about-nih/frequently-asked-questions",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -80738,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li[6]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Privacy Policy",
+    "nvda_value": "https://www.nih.gov/privacy-policy",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -82625,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li[7]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Disclaimers",
+    "nvda_value": "https://www.nih.gov/disclaimers",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -83896,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li[8]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Accessibility",
+    "nvda_value": "https://www.nih.gov/accessibility",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -85223,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li[9]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "NIH Website Archives",
+    "nvda_value": "https://www.nih.gov/nih-website-archives",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -86528,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul[2]/li/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Nondiscrimination Notice",
+    "nvda_value": "https://www.nih.gov/nondiscrimination-notice",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -87773,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul[2]/li[2]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Freedom of Information Act",
+    "nvda_value": "https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -89056,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul[2]/li[3]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "No Fear Act",
+    "nvda_value": "https://www.edi.nih.gov/no-fear-act",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -89957,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul[2]/li[4]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "HHS Vulnerability Disclosure (link is external)",
+    "nvda_value": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ],
+    "is_link_working": "link worked"
+  },
+  {
+    "IA2UniqueID": -89959,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul[2]/li[5]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "Office of Inspector General (link is external)",
+    "nvda_value": "https://oig.hhs.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -89961,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/ul[2]/li[6]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "USA.gov (link is external)",
+    "nvda_value": "https://www.usa.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -89966,
+    "xpath": "/html/body/div[2]/div/div[3]/footer/p[3]/a",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "U.S. Department of Health and Human Services (link is external)",
+    "nvda_value": "https://www.hhs.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -89966,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/div/ul/li/div/div",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "U.S. Department of Health and Human Services (link is external)",
+    "nvda_value": "https://www.hhs.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -89966,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/div/ul/li[2]/div/div",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "U.S. Department of Health and Human Services (link is external)",
+    "nvda_value": "https://www.hhs.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -89966,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/div/ul/li[3]/div/div",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "U.S. Department of Health and Human Services (link is external)",
+    "nvda_value": "https://www.hhs.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -89966,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/div/ul/li[4]/div/div",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "U.S. Department of Health and Human Services (link is external)",
+    "nvda_value": "https://www.hhs.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  },
+  {
+    "IA2UniqueID": -89966,
+    "xpath": "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div/div/ul/li[5]/div/div",
+    "nvda_role": "LINK (19)",
+    "nvda_name": "U.S. Department of Health and Human Services (link is external)",
+    "nvda_value": "https://www.hhs.gov/",
+    "nvda_states": [
+      "LINKED (4096)",
+      "FOCUSABLE (16777216)",
+      "FOCUSED (2)"
+    ]
+  }
+]

@@ -1,0 +1,2324 @@
+[
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/a[1]",
+            "text": "Skip to main content"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Skip to main content",
+            "location": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "The UC Irvine Libraries"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "The UC Irvine Libraries",
+            "location": {
+                "x": 163,
+                "y": 14
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/a[1]",
+            "text": "ScienceDirect home page"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 32,
+                "y": 56
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+            "text": "Journals & Books"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Journals & Books",
+            "location": {
+                "x": 661,
+                "y": 66
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[2]/ul[1]/li[1]/div[1]/div[1]/div[1]/button[1]",
+            "text": "Help"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Help",
+            "location": {
+                "x": 830,
+                "y": 64
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[2]/a[1]",
+            "text": "My account"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "My account",
+            "location": {
+                "x": 920,
+                "y": 64
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[3]/div[1]/div[1]/button[1]",
+            "text": "University of California Irvine"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "University of California Irvine",
+            "location": {
+                "x": 1056,
+                "y": 64
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "open access"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "open access",
+            "location": {
+                "x": 707,
+                "y": 129
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/input[1]",
+            "text": "Find articles with these terms"
+        },
+        "focused_element_properties": {
+            "tag_name": "input",
+            "text": "",
+            "location": {
+                "x": 116,
+                "y": 194
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]/div[1]/input[1]",
+            "text": "In this journal or book title"
+        },
+        "focused_element_properties": {
+            "tag_name": "input",
+            "text": "",
+            "location": {
+                "x": 370,
+                "y": 194
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/div[1]/input[1]",
+            "text": "Author(s)"
+        },
+        "focused_element_properties": {
+            "tag_name": "input",
+            "text": "",
+            "location": {
+                "x": 623,
+                "y": 194
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[2]/button[1]",
+            "text": "Search"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Search",
+            "location": {
+                "x": 881,
+                "y": 194
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[2]/a[1]",
+            "text": "Advanced search"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Advanced search",
+            "location": {
+                "x": 992,
+                "y": 202
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Explore stories"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Explore stories",
+            "location": {
+                "x": 864,
+                "y": 311
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/ul[1]/li[1]/button[1]",
+            "text": "Confidence in research"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Confidence in research",
+            "location": {
+                "x": 423,
+                "y": 522
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/ul[1]/li[2]/button[1]",
+            "text": "Climate change"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Climate change",
+            "location": {
+                "x": 597,
+                "y": 522
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/ul[1]/li[3]/button[1]",
+            "text": "The Lancet 200"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "The Lancet 200",
+            "location": {
+                "x": 730,
+                "y": 522
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Physical Sciences and Engineering"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Physical Sciences and Engineering",
+            "location": {
+                "x": 112,
+                "y": 769
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]",
+            "text": "Life Sciences"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Life Sciences",
+            "location": {
+                "x": 431,
+                "y": 769
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
+            "text": "Health Sciences"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Health Sciences",
+            "location": {
+                "x": 569,
+                "y": 769
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]",
+            "text": "Social Sciences and Humanities"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Social Sciences and Humanities",
+            "location": {
+                "x": 734,
+                "y": 769
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Chemical Engineering"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Chemical Engineering",
+            "location": {
+                "x": 112,
+                "y": 985
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Chemistry"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Chemistry",
+            "location": {
+                "x": 112,
+                "y": 1017
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Computer Science"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Computer Science",
+            "location": {
+                "x": 112,
+                "y": 1049
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Earth and Planetary Sciences"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Earth and Planetary Sciences",
+            "location": {
+                "x": 112,
+                "y": 1081
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Energy"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Energy",
+            "location": {
+                "x": 112,
+                "y": 1113
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "Engineering"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Engineering",
+            "location": {
+                "x": 112,
+                "y": 1145
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[7]/a[1]",
+            "text": "Materials Science"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Materials Science",
+            "location": {
+                "x": 112,
+                "y": 1177
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[8]/a[1]",
+            "text": "Mathematics"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Mathematics",
+            "location": {
+                "x": 112,
+                "y": 1209
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[9]/a[1]",
+            "text": "Physics and Astronomy"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Physics and Astronomy",
+            "location": {
+                "x": 112,
+                "y": 1241
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Browse all titles in Physical Sciences and Engineering"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Browse all titles in Physical Sciences and Engineering",
+            "location": {
+                "x": 112,
+                "y": 1273
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Nicotinamide mononucleotide (NMN) as an anti-aging health product \u2013 Promises and safety concerns"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Nicotinamide mononucleotide (NMN) as an anti-aging health product \u2013 Promises and safety concerns",
+            "location": {
+                "x": 462,
+                "y": 1003
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "COVID-19 infection: Emergence, transmission, and characteristics of human coronaviruses"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "COVID-19 infection: Emergence, transmission, and characteristics of human coronaviruses",
+            "location": {
+                "x": 462,
+                "y": 1121
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Understanding the role of digital technologies in education: A review"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Understanding the role of digital technologies in education: A review",
+            "location": {
+                "x": 462,
+                "y": 1239
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Sensors and Actuators B: Chemical"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Sensors and Actuators B: Chemical",
+            "location": {
+                "x": 812,
+                "y": 1003
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Microelectronics Journal"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Microelectronics Journal",
+            "location": {
+                "x": 812,
+                "y": 1069
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Chemometrics and Intelligent Laboratory Systems"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Chemometrics and Intelligent Laboratory Systems",
+            "location": {
+                "x": 812,
+                "y": 1135
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "Register now to receive recommended articles based on your activity"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Register now to receive recommended articles based on your activity",
+            "location": {
+                "x": 462,
+                "y": 1379
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Agricultural and Biological Sciences"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Agricultural and Biological Sciences",
+            "location": {
+                "x": 112,
+                "y": 1614
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Biochemistry, Genetics and Molecular Biology",
+            "location": {
+                "x": 112,
+                "y": 1646
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Environmental Science"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Environmental Science",
+            "location": {
+                "x": 112,
+                "y": 1678
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Immunology and Microbiology"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Immunology and Microbiology",
+            "location": {
+                "x": 112,
+                "y": 1710
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Neuroscience"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Neuroscience",
+            "location": {
+                "x": 112,
+                "y": 1742
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Browse all titles in Life Sciences"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Browse all titles in Life Sciences",
+            "location": {
+                "x": 112,
+                "y": 1774
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Sleep during development: Sex and gender differences"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Sleep during development: Sex and gender differences",
+            "location": {
+                "x": 462,
+                "y": 1664
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Female Penis, Male Vagina, and Their Correlated Evolution in a Cave Insect"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Female Penis, Male Vagina, and Their Correlated Evolution in a Cave Insect",
+            "location": {
+                "x": 462,
+                "y": 1756
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "The urokinase receptor: Focused cell surface proteolysis, cell adhesion and signaling"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "The urokinase receptor: Focused cell surface proteolysis, cell adhesion and signaling",
+            "location": {
+                "x": 462,
+                "y": 1848
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Parasitology International"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Parasitology International",
+            "location": {
+                "x": 812,
+                "y": 1664
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Immunology Letters"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Immunology Letters",
+            "location": {
+                "x": 812,
+                "y": 1730
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "International Journal of Biological Macromolecules"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "International Journal of Biological Macromolecules",
+            "location": {
+                "x": 812,
+                "y": 1796
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "Register now to receive recommended articles based on your activity"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Register now to receive recommended articles based on your activity",
+            "location": {
+                "x": 462,
+                "y": 1990
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Medicine and Dentistry"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Medicine and Dentistry",
+            "location": {
+                "x": 112,
+                "y": 2224
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Nursing and Health Professions"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Nursing and Health Professions",
+            "location": {
+                "x": 112,
+                "y": 2256
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Pharmacology, Toxicology and Pharmaceutical Science"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Pharmacology, Toxicology and Pharmaceutical Science",
+            "location": {
+                "x": 112,
+                "y": 2288
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Veterinary Science and Veterinary Medicine"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Veterinary Science and Veterinary Medicine",
+            "location": {
+                "x": 112,
+                "y": 2344
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Browse all titles in Health Sciences"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Browse all titles in Health Sciences",
+            "location": {
+                "x": 112,
+                "y": 2376
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Sleep during development: Sex and gender differences"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Sleep during development: Sex and gender differences",
+            "location": {
+                "x": 462,
+                "y": 2274
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Pr\u00e1cticas sexuales de chicos y chicas espa\u00f1oles de 14-24 a\u00f1os de edad"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Pr\u00e1cticas sexuales de chicos y chicas espa\u00f1oles de 14-24 a\u00f1os de edad",
+            "location": {
+                "x": 462,
+                "y": 2366
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Assessment of the potential for international dissemination of Ebola virus via commercial air travel during the 2014 west African outbreak"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Assessment of the potential for international dissemination of Ebola virus via commercial air travel during the 2014 west African outbreak",
+            "location": {
+                "x": 462,
+                "y": 2458
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Journal of the American College of Cardiology"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Journal of the American College of Cardiology",
+            "location": {
+                "x": 812,
+                "y": 2274
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "European Journal of Cancer"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "European Journal of Cancer",
+            "location": {
+                "x": 812,
+                "y": 2366
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Antiviral Research"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Antiviral Research",
+            "location": {
+                "x": 812,
+                "y": 2432
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "Register now to receive recommended articles based on your activity"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Register now to receive recommended articles based on your activity",
+            "location": {
+                "x": 462,
+                "y": 2626
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Arts and Humanities"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Arts and Humanities",
+            "location": {
+                "x": 112,
+                "y": 2861
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Business, Management and Accounting"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Business, Management and Accounting",
+            "location": {
+                "x": 112,
+                "y": 2893
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Decision Sciences"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Decision Sciences",
+            "location": {
+                "x": 112,
+                "y": 2925
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Economics, Econometrics and Finance"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Economics, Econometrics and Finance",
+            "location": {
+                "x": 112,
+                "y": 2957
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Psychology"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Psychology",
+            "location": {
+                "x": 112,
+                "y": 2989
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "Social Sciences"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Social Sciences",
+            "location": {
+                "x": 112,
+                "y": 3021
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Browse all titles in Social Sciences and Humanities"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Browse all titles in Social Sciences and Humanities",
+            "location": {
+                "x": 112,
+                "y": 3053
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Literature review as a research methodology: An overview and guidelines"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Literature review as a research methodology: An overview and guidelines",
+            "location": {
+                "x": 462,
+                "y": 2911
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Pr\u00e1cticas sexuales de chicos y chicas espa\u00f1oles de 14-24 a\u00f1os de edad"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Pr\u00e1cticas sexuales de chicos y chicas espa\u00f1oles de 14-24 a\u00f1os de edad",
+            "location": {
+                "x": 462,
+                "y": 3029
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Understanding the role of digital technologies in education: A review"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Understanding the role of digital technologies in education: A review",
+            "location": {
+                "x": 462,
+                "y": 3121
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "International Journal of Nursing Studies"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "International Journal of Nursing Studies",
+            "location": {
+                "x": 812,
+                "y": 2911
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Energy Policy"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Energy Policy",
+            "location": {
+                "x": 812,
+                "y": 2977
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Journal of Adolescent Health"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Journal of Adolescent Health",
+            "location": {
+                "x": 812,
+                "y": 3043
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[3]/a[1]",
+            "text": "Register now to receive recommended articles based on your activity"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Register now to receive recommended articles based on your activity",
+            "location": {
+                "x": 462,
+                "y": 3261
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "A"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "A",
+            "location": {
+                "x": 342,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "B"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "B",
+            "location": {
+                "x": 375,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "C"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "C",
+            "location": {
+                "x": 409,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "D"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "D",
+            "location": {
+                "x": 442,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "E"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "E",
+            "location": {
+                "x": 478,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[6]/a[1]",
+            "text": "F"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "F",
+            "location": {
+                "x": 510,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[7]/a[1]",
+            "text": "G"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "G",
+            "location": {
+                "x": 541,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[8]/a[1]",
+            "text": "H"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "H",
+            "location": {
+                "x": 576,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[9]/a[1]",
+            "text": "I"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "I",
+            "location": {
+                "x": 612,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[10]/a[1]",
+            "text": "J"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "J",
+            "location": {
+                "x": 641,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[11]/a[1]",
+            "text": "K"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "K",
+            "location": {
+                "x": 669,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[12]/a[1]",
+            "text": "L"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "L",
+            "location": {
+                "x": 703,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[13]/a[1]",
+            "text": "M"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "M",
+            "location": {
+                "x": 734,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[14]/a[1]",
+            "text": "N"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "N",
+            "location": {
+                "x": 772,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[15]/a[1]",
+            "text": "O"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "O",
+            "location": {
+                "x": 808,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[16]/a[1]",
+            "text": "P"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "P",
+            "location": {
+                "x": 844,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[17]/a[1]",
+            "text": "Q"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Q",
+            "location": {
+                "x": 877,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[18]/a[1]",
+            "text": "R"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "R",
+            "location": {
+                "x": 913,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[19]/a[1]",
+            "text": "S"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "S",
+            "location": {
+                "x": 946,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[20]/a[1]",
+            "text": "T"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "T",
+            "location": {
+                "x": 978,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[21]/a[1]",
+            "text": "U"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "U",
+            "location": {
+                "x": 1010,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[22]/a[1]",
+            "text": "V"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "V",
+            "location": {
+                "x": 1045,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[23]/a[1]",
+            "text": "W"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "W",
+            "location": {
+                "x": 1079,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[24]/a[1]",
+            "text": "X"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "X",
+            "location": {
+                "x": 1119,
+                "y": 3407
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[25]/a[1]",
+            "text": "Y"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Y",
+            "location": {
+                "x": 342,
+                "y": 3435
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[26]/a[1]",
+            "text": "Z"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Z",
+            "location": {
+                "x": 375,
+                "y": 3435
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[27]/a[1]",
+            "text": "0-9"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "0-9",
+            "location": {
+                "x": 408,
+                "y": 3435
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "list of full open access journals and books"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "list of full open access journals and books",
+            "location": {
+                "x": 349,
+                "y": 3671
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "publications with open access articles (includes hybrid journals)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "publications with open access articles (includes hybrid journals)",
+            "location": {
+                "x": 344,
+                "y": 3703
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Elsevier\u2019s open access publishing choices"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Elsevier\u2019s open access publishing choices",
+            "location": {
+                "x": 407,
+                "y": 3735
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Help"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Help",
+            "location": {
+                "x": 120,
+                "y": 3891
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Online video tutorials"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Online video tutorials",
+            "location": {
+                "x": 120,
+                "y": 3915
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Privacy principles"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Privacy principles",
+            "location": {
+                "x": 120,
+                "y": 3939
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Accessibility"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Accessibility",
+            "location": {
+                "x": 120,
+                "y": 3963
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Content syndication on ScienceDirect"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Content syndication on ScienceDirect",
+            "location": {
+                "x": 470,
+                "y": 3891
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Create and manage alerts"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Create and manage alerts",
+            "location": {
+                "x": 470,
+                "y": 3915
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Receive personalized recommendations"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Receive personalized recommendations",
+            "location": {
+                "x": 470,
+                "y": 3939
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Browse by topic"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Browse by topic",
+            "location": {
+                "x": 470,
+                "y": 3963
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "Elsevier Connect"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Elsevier Connect",
+            "location": {
+                "x": 820,
+                "y": 3891
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Publish with Elsevier"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Publish with Elsevier",
+            "location": {
+                "x": 820,
+                "y": 3915
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Scopus"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Scopus",
+            "location": {
+                "x": 820,
+                "y": 3939
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Mendeley"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Mendeley",
+            "location": {
+                "x": 820,
+                "y": 3963
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[1]/a[1]",
+            "text": "Elsevier home page (opens in a new tab)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 32,
+                "y": 4051
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "About ScienceDirect"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "About ScienceDirect",
+            "location": {
+                "x": 122,
+                "y": 4051
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Remote access"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Remote access",
+            "location": {
+                "x": 284,
+                "y": 4051
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Shopping cart"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Shopping cart",
+            "location": {
+                "x": 404,
+                "y": 4051
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Advertise"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Advertise",
+            "location": {
+                "x": 530,
+                "y": 4051
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Contact and support"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Contact and support",
+            "location": {
+                "x": 629,
+                "y": 4051
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Terms and conditions"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Terms and conditions",
+            "location": {
+                "x": 795,
+                "y": 4051
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "Privacy policy"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Privacy policy",
+            "location": {
+                "x": 965,
+                "y": 4051
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[2]/p[1]/button[1]",
+            "text": "Cookie settings"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Cookie settings",
+            "location": {
+                "x": 293,
+                "y": 4085
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/footer[1]/div[3]/a[1]",
+            "text": "RELX home page (opens in a new tab)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 1149,
+                "y": 4051
+            }
+        },
+        "focus_verification": null
+    }
+]

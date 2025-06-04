@@ -1,15 +1,15 @@
 {
-    "IA2UniqueID": -662,
-    "name": "Search lyrics & more",
-    "role": "EDITABLETEXT (8)",
+    "IA2UniqueID": -28589,
+    "name": "None",
+    "role": "LINK (19)",
     "roleText": "None",
     "states": [
+        "LINKED (4096)",
         "FOCUSABLE (16777216)",
-        "REQUIRED (32768)",
-        "FOCUSED (2)",
-        "EDITABLE (67108864)"
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
+    "value": "https://genius.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",

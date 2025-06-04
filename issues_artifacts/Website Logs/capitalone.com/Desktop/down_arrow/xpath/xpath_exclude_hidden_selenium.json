@@ -8,6 +8,7 @@
             "text": "",
             "aria-label": "",
             "id": "unav-l1-logo",
+            "placeholder": null,
             "href": "https://www.capitalone.com/"
         },
         {
@@ -16,6 +17,7 @@
             "text": "Credit Cards",
             "aria-label": "",
             "id": "card",
+            "placeholder": null,
             "href": "https://www.capitalone.com/credit-cards/"
         },
         {
@@ -24,6 +26,7 @@
             "text": "Checking & Savings",
             "aria-label": "",
             "id": "bank",
+            "placeholder": null,
             "href": "https://www.capitalone.com/bank/"
         },
         {
@@ -32,6 +35,7 @@
             "text": "Auto",
             "aria-label": "",
             "id": "auto",
+            "placeholder": null,
             "href": "https://www.capitalone.com/cars/auto-financing"
         },
         {
@@ -40,6 +44,7 @@
             "text": "Business",
             "aria-label": "",
             "id": "businessOOF",
+            "placeholder": null,
             "href": "https://www.capitalone.com/small-business/homepage/"
         },
         {
@@ -48,6 +53,7 @@
             "text": "Commercial",
             "aria-label": "",
             "id": "commercial",
+            "placeholder": null,
             "href": "https://www.capitalone.com/commercial/"
         },
         {
@@ -56,6 +62,7 @@
             "text": "Benefits & Tools",
             "aria-label": "",
             "id": "benefits",
+            "placeholder": null,
             "href": "unsafe:javascript:void(0);"
         },
         {
@@ -64,6 +71,7 @@
             "text": "Search",
             "aria-label": "Search",
             "id": "unav-l1-search",
+            "placeholder": null,
             "href": ""
         },
         {
@@ -72,6 +80,7 @@
             "text": "Help Center",
             "aria-label": "Help Center",
             "id": "unav-l1-helpcenter",
+            "placeholder": null,
             "href": "https://www.capitalone.com/help-center/"
         },
         {
@@ -80,6 +89,7 @@
             "text": "locationsText",
             "aria-label": "locationsText",
             "id": "unav-l1-locations",
+            "placeholder": null,
             "href": "https://locations.capitalone.com/"
         },
         {
@@ -88,6 +98,7 @@
             "text": "Sign In",
             "aria-label": "",
             "id": "unav-l1-signin",
+            "placeholder": null,
             "href": "https://verified.capitalone.com/auth/signin"
         },
         {
@@ -96,6 +107,7 @@
             "text": "Username",
             "aria-label": "Username",
             "id": "ods-input-0",
+            "placeholder": "",
             "href": ""
         },
         {
@@ -104,14 +116,16 @@
             "text": "Password",
             "aria-label": "Password",
             "id": "ods-input-1",
+            "placeholder": "",
             "href": ""
         },
         {
             "tag_name": "input",
             "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/homepage-sign-in[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[2]/div[2]/div[2]/div[1]/div[1]/input[1]",
-            "text": "",
+            "text": "on",
             "aria-label": "",
             "id": "rememberMe",
+            "placeholder": "",
             "href": ""
         },
         {
@@ -120,6 +134,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "javascript:void(0)"
         },
         {
@@ -128,6 +143,7 @@
             "text": "Forgot username or password?",
             "aria-label": "",
             "id": "forgotUnpw",
+            "placeholder": null,
             "href": "https://verified.capitalone.com/sign-in-help/"
         },
         {
@@ -136,6 +152,7 @@
             "text": "Sign in",
             "aria-label": "",
             "id": "noAcctSubmit",
+            "placeholder": null,
             "href": ""
         },
         {
@@ -144,118 +161,133 @@
             "text": "Set up online access",
             "aria-label": "",
             "id": "setUpAccess",
+            "placeholder": null,
             "href": "https://verified.capitalone.com/enroll/#/pii"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[1]/shared-banner1-entry[1]/section[1]/shared-banner1-text-panel-optional-eyebrow[1]/div[1]/shared-banner1-responsive-banner-container[1]/div[1]/shared-banner1-background[1]/div[1]/div[1]/div[1]/div[1]/div[1]/shared-banner1-hero-card[1]/div[1]/div[1]/div[1]/a[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[2]/shared-banner1-entry[1]/section[1]/shared-banner1-text-panel-optional-eyebrow[1]/div[1]/shared-banner1-responsive-banner-container[1]/div[1]/shared-banner1-background[1]/div[1]/div[1]/div[1]/div[1]/div[1]/shared-banner1-hero-card[1]/div[1]/div[1]/div[1]/a[1]",
             "text": "Download the app",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://capitalone.smart.link/nbd7duk1i"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[2]/shared-illustration-set-entry[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/shared-illustration[1]/div[1]/div[2]/div[1]/a[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[3]/shared-illustration-set-entry[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/shared-illustration[1]/div[1]/div[2]/div[1]/a[1]",
             "text": "See if I'm pre-approved",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/credit-cards/preapprove/?landingPage=ehpcallout"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[2]/shared-illustration-set-entry[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/shared-illustration[1]/div[1]/div[2]/div[1]/a[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[3]/shared-illustration-set-entry[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/shared-illustration[1]/div[1]/div[2]/div[1]/a[1]",
             "text": "Compare accounts",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/bank/savings-accounts/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[2]/shared-illustration-set-entry[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/shared-illustration[1]/div[1]/div[2]/div[1]/a[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[3]/shared-illustration-set-entry[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/shared-illustration[1]/div[1]/div[2]/div[1]/a[1]",
             "text": "Check out Auto Navigator",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/cars?PFFSRCID=S-DA-1234567890A-DAD-0041&external_id=COAF_V1_AFF_BAU_COF_P_COF_HIC_HMPG_PLP_XD_71601_Z_Z_20210728"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[3]/shared-checkered-v2-entry[1]/section[1]/shared-checkered-inset-image-center[1]/shared-tile-wrapper[1]/div[1]/div[1]/div[2]/shared-tile-content[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
-            "text": "Browse free resources",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[4]/shared-checkered-v2-entry[1]/section[1]/shared-checkered-inset-image-center[1]/shared-tile-wrapper[1]/div[1]/div[1]/div[2]/shared-tile-content[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "text": "Learn more about this bonus",
             "aria-label": "",
             "id": "",
-            "href": "https://www.capitalone.com/bank/financial-success-hub/?internal_source=hpftcallout&internal_medium=enthp&internal_campaign=financialmonth"
+            "placeholder": null,
+            "href": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[4]/shared-guidance[1]/section[1]/div[1]/div[1]/div[2]/shared-guidance-select[1]/div[1]/button[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[5]/shared-guidance[1]/section[1]/div[1]/div[1]/div[2]/shared-guidance-select[1]/div[1]/button[1]",
             "text": "explore my options",
             "aria-label": "",
             "id": "selectButton0",
+            "placeholder": null,
             "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[4]/shared-guidance[1]/section[1]/div[1]/div[2]/div[2]/shared-guidance-select[1]/div[1]/button[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[5]/shared-guidance[1]/section[1]/div[1]/div[2]/div[2]/shared-guidance-select[1]/div[1]/button[1]",
             "text": "work on my credit",
             "aria-label": "",
             "id": "selectButton1",
+            "placeholder": null,
             "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[4]/shared-guidance[1]/section[1]/div[1]/h4[1]/sup[1]/a[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[5]/shared-guidance[1]/section[1]/div[1]/h4[1]/sup[1]/a[1]",
             "text": "1",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/#footer-section"
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[4]/shared-guidance[1]/section[1]/div[1]/div[3]/button[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[5]/shared-guidance[1]/section[1]/div[1]/div[3]/button[1]",
             "text": "See suggestions",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[5]/shared-checkered-v2-entry[1]/section[1]/shared-checkered-fullbleed-short-form[1]/div[1]/div[1]/shared-tile-wrapper[1]/div[1]/div[1]/div[2]/shared-tile-content[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[6]/shared-checkered-v2-entry[1]/section[1]/shared-checkered-fullbleed-short-form[1]/div[1]/div[1]/shared-tile-wrapper[1]/div[1]/div[1]/div[2]/shared-tile-content[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
             "text": "Explore all tools",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/digital/tools/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[5]/shared-checkered-v2-entry[1]/section[1]/shared-checkered-fullbleed-short-form[1]/div[1]/div[1]/shared-tile-wrapper[1]/div[1]/div[2]/div[2]/shared-tile-content[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[6]/shared-checkered-v2-entry[1]/section[1]/shared-checkered-fullbleed-short-form[1]/div[1]/div[1]/shared-tile-wrapper[1]/div[1]/div[2]/div[2]/shared-tile-content[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
             "text": "Get started",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/creditwise/?utm_source=Internal-Other&utm_channel=Homepage&utm_medium=onsite&utm_valprop=creditimprovement&utm_campaign=download&utm_content=signup&utm_cadence=ongoing"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[6]/shared-card-set-entry[1]/section[1]/shared-card-set-tall-image-cards[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/shared-featured-card[1]/div[1]/div[1]/a[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[7]/shared-card-set-entry[1]/section[1]/shared-card-set-tall-image-cards[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/shared-featured-card[1]/div[1]/div[1]/a[1]",
             "text": "Learn to manage your money to empower what you love",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/learn-grow/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[6]/shared-card-set-entry[1]/section[1]/shared-card-set-tall-image-cards[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/shared-featured-card[1]/div[1]/div[1]/a[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[7]/shared-card-set-entry[1]/section[1]/shared-card-set-tall-image-cards[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/shared-featured-card[1]/div[1]/div[1]/a[1]",
             "text": "Enabling communities to thrive",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/about/our-commitments/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[6]/shared-card-set-entry[1]/section[1]/shared-card-set-tall-image-cards[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/shared-featured-card[1]/div[1]/div[1]/a[1]",
+            "xpath": "/body[1]/content-wrapper[1]/enterprise-root[1]/homepage-entry-page[1]/div[1]/shared-cms-render-component[1]/shared-cms-container-component[1]/shared-cms-base-shared-component[7]/shared-card-set-entry[1]/section[1]/shared-card-set-tall-image-cards[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/shared-featured-card[1]/div[1]/div[1]/a[1]",
             "text": "50% off sips at Capital One Caf\u00e9s",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/local/"
         },
         {
@@ -264,6 +296,7 @@
             "text": "Capital One",
             "aria-label": "Capital One",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/"
         },
         {
@@ -272,6 +305,7 @@
             "text": "Instagram",
             "aria-label": "Instagram",
             "id": "",
+            "placeholder": null,
             "href": "https://www.instagram.com/capitalone/"
         },
         {
@@ -280,6 +314,7 @@
             "text": "X",
             "aria-label": "X",
             "id": "",
+            "placeholder": null,
             "href": "https://twitter.com/capitalone/"
         },
         {
@@ -288,6 +323,7 @@
             "text": "Facebook",
             "aria-label": "Facebook",
             "id": "",
+            "placeholder": null,
             "href": "https://www.facebook.com/capitalone/"
         },
         {
@@ -296,6 +332,7 @@
             "text": "LinkedIn",
             "aria-label": "LinkedIn",
             "id": "",
+            "placeholder": null,
             "href": "https://www.linkedin.com/company/capital-one/"
         },
         {
@@ -304,6 +341,7 @@
             "text": "YouTube",
             "aria-label": "YouTube",
             "id": "",
+            "placeholder": null,
             "href": "https://www.youtube.com/user/capitalone/"
         },
         {
@@ -312,6 +350,7 @@
             "text": "Credit Cards",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/credit-cards/"
         },
         {
@@ -320,6 +359,7 @@
             "text": "Checking & Savings",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/bank/"
         },
         {
@@ -328,6 +368,7 @@
             "text": "Auto",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/cars/auto-financing"
         },
         {
@@ -336,6 +377,7 @@
             "text": "Business",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/small-business/homepage/"
         },
         {
@@ -344,6 +386,7 @@
             "text": "Commercial",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/commercial/"
         },
         {
@@ -352,6 +395,7 @@
             "text": "Capital One Shopping",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://smart.link/qpqs440wc5g68?cp_0=c1lp&cp_1=card_menu_control&cp_2=footer&cp_4=usa&creative_id=card_footer_control"
         },
         {
@@ -360,6 +404,7 @@
             "text": "CreditWise",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/creditwise/?utm_source=Internal-Other&utm_channel=Homepage&utm_medium=Footer&utm_valprop=creditimprovement&utm_campaign=Products&utm_content=signup&utm_cadence=ongoing"
         },
         {
@@ -368,6 +413,7 @@
             "text": "About",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/about/"
         },
         {
@@ -376,6 +422,7 @@
             "text": "Corporate Information",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/about/corporate-information/"
         },
         {
@@ -384,6 +431,7 @@
             "text": "Newsroom",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/about/newsroom/"
         },
         {
@@ -392,6 +440,7 @@
             "text": "Technology",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/tech/"
         },
         {
@@ -400,6 +449,7 @@
             "text": "Investors",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://investor.capitalone.com/"
         },
         {
@@ -408,6 +458,7 @@
             "text": "Careers & Jobs",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalonecareers.com/"
         },
         {
@@ -416,6 +467,7 @@
             "text": "Diversity & Inclusion",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/diversity/"
         },
         {
@@ -424,6 +476,7 @@
             "text": "Canada",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.ca/"
         },
         {
@@ -432,6 +485,7 @@
             "text": "UK",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.co.uk/"
         },
         {
@@ -440,6 +494,7 @@
             "text": "Locations & ATMs",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://locations.capitalone.com/"
         },
         {
@@ -448,6 +503,7 @@
             "text": "Capital One Travel",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://capitalonetravel.com/?utm_source=navbau"
         },
         {
@@ -456,6 +512,7 @@
             "text": "Mobile App",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/digital/tools/mobile/"
         },
         {
@@ -464,6 +521,7 @@
             "text": "Meet Eno",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/digital/tools/eno/"
         },
         {
@@ -472,6 +530,7 @@
             "text": "Digital Tools",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/digital/tools/"
         },
         {
@@ -480,6 +539,7 @@
             "text": "Privacy",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/privacy/"
         },
         {
@@ -488,6 +548,7 @@
             "text": "Patriot Act Certification",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://ecm.capitalone.com/WCM/digital/pdfs/2024-patriot-act-cert.pdf"
         },
         {
@@ -496,6 +557,7 @@
             "text": "Wolfsberg Questionnaire",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/digital/wolfsberg-questionnaire/"
         },
         {
@@ -504,6 +566,7 @@
             "text": "Subpoena Policy",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/digital/subpoena-policy/"
         },
         {
@@ -512,6 +575,7 @@
             "text": "Additional Disclosures",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/digital/disclosures/"
         },
         {
@@ -520,6 +584,7 @@
             "text": "COVID-19",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/updates/coronavirus/"
         },
         {
@@ -528,6 +593,7 @@
             "text": "Help Center",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/help-center/"
         },
         {
@@ -536,6 +602,7 @@
             "text": "Learn & Grow",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/learn-grow/"
         },
         {
@@ -544,6 +611,7 @@
             "text": "Resources for Military",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/military/"
         },
         {
@@ -552,6 +620,7 @@
             "text": "Accessibility Assistance",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/accessibility/"
         },
         {
@@ -560,6 +629,7 @@
             "text": "Tweet @AskCapitalOne",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://twitter.com/askcapitalone"
         },
         {
@@ -568,6 +638,7 @@
             "text": "Security",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/digital/identity-protection/"
         },
         {
@@ -576,6 +647,7 @@
             "text": "Contact Us",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/help-center/contact-us/"
         },
         {
@@ -584,6 +656,7 @@
             "text": "Footnotes",
             "aria-label": "Footnotes section content",
             "id": "",
+            "placeholder": null,
             "href": ""
         },
         {
@@ -592,6 +665,7 @@
             "text": "FDIC insurance coverage",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/bank/fdic/"
         },
         {
@@ -600,6 +674,7 @@
             "text": "Privacy",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/privacy/"
         },
         {
@@ -608,6 +683,7 @@
             "text": "AdChoices",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/privacy/online-privacy-policy#collecting-using-sharing-information-accordion-button-5"
         },
         {
@@ -616,6 +692,7 @@
             "text": "Terms & Conditions",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.capitalone.com/digital/terms-conditions/"
         },
         {
@@ -624,6 +701,7 @@
             "text": "Member: FDIC",
             "aria-label": "Member: FDIC",
             "id": "",
+            "placeholder": null,
             "href": "https://www.fdic.gov/"
         }
     ]

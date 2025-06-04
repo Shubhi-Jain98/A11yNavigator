@@ -1,14 +1,15 @@
 {
-    "IA2UniqueID": -21458,
-    "name": "Next slide",
-    "role": "BUTTON (9)",
+    "IA2UniqueID": -1251,
+    "name": "Privacy Policy",
+    "role": "LINK (19)",
     "roleText": "None",
     "states": [
+        "LINKED (4096)",
         "FOCUSABLE (16777216)",
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "",
+    "value": "https://openai.com/policies/privacy-policy/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",

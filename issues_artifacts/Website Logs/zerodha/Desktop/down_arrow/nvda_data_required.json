@@ -2,461 +2,76 @@
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):leftControl",
-    "IA2UniqueID": -578,
-    "name": "Zerodha: Online brokerage platform for stock trading & investing",
+    "IA2UniqueID": -1460,
+    "name": "The editor is not accessible at this time. To enable screen reader optimized mode, use Shift+Alt+F1",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "editor",
     "states": [
-        "READONLY (128)",
         "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "MULTILINE (1048576)",
+        "EDITABLE (67108864)"
     ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0663BB90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x017F6230>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):control+numpad7",
-    "IA2UniqueID": -578,
-    "name": "Zerodha: Online brokerage platform for stock trading & investing",
+    "IA2UniqueID": -1460,
+    "name": "The editor is not accessible at this time. To enable screen reader optimized mode, use Shift+Alt+F1",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "editor",
     "states": [
-        "READONLY (128)",
         "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "MULTILINE (1048576)",
+        "EDITABLE (67108864)"
     ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0663BB90>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x017F6230>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):tab",
-    "IA2UniqueID": -578,
-    "name": "Zerodha: Online brokerage platform for stock trading & investing",
+    "IA2UniqueID": -1460,
+    "name": "The editor is not accessible at this time. To enable screen reader optimized mode, use Shift+Alt+F1",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "editor",
     "states": [
-        "READONLY (128)",
         "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0663BB90>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
-    "description": "None",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "UNKNOWN (1)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -588,
-    "name": "Signup",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "MULTILINE (1048576)",
+        "EDITABLE (67108864)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -467,14 +82,15 @@ INFO: Found _speakObjectPropertiesCache attribute
     "rowHeaderText": "None",
     "columnHeaderText": "None",
     "current": "NO (false)",
+    "placeholder": "None",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x017F6230>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -483,7 +99,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -495,13 +111,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -510,7 +126,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -522,13 +138,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -537,7 +153,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -549,13 +165,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -564,7 +180,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -576,13 +192,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -591,7 +207,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -603,13 +219,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -618,7 +234,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -630,13 +246,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -645,7 +261,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -657,13 +273,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -672,7 +288,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -684,13 +300,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -699,7 +315,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -711,13 +327,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -726,7 +342,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -738,13 +354,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -753,7 +369,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -765,13 +381,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -780,7 +396,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -792,13 +408,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -807,7 +423,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -819,13 +435,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -834,7 +450,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -846,13 +462,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -861,7 +477,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -873,13 +489,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -888,7 +504,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -900,13 +516,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -915,7 +531,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -927,13 +543,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -942,7 +558,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -954,13 +570,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -969,7 +585,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -981,13 +597,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -996,7 +612,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1008,13 +624,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1023,7 +639,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1035,13 +651,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1050,7 +666,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1062,13 +678,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1077,7 +693,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1089,13 +705,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1104,7 +720,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1116,13 +732,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1131,7 +747,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1143,13 +759,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1158,7 +774,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1170,13 +786,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1185,7 +801,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1197,13 +813,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1212,7 +828,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1224,13 +840,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1239,7 +855,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1251,13 +867,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1266,7 +882,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1278,13 +894,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1293,7 +909,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1305,13 +921,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1320,7 +936,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1332,13 +948,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1347,7 +963,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1359,13 +975,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1374,7 +990,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1386,13 +1002,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1401,7 +1017,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1413,13 +1029,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1428,7 +1044,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1440,13 +1056,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1455,7 +1071,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1467,13 +1083,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1482,7 +1098,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1494,13 +1110,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1509,7 +1125,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1521,13 +1137,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1536,7 +1152,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1548,13 +1164,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1563,7 +1179,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1575,13 +1191,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1590,7 +1206,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1602,13 +1218,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1617,7 +1233,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1629,13 +1245,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1644,7 +1260,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1656,13 +1272,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1671,7 +1287,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1683,13 +1299,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1698,7 +1314,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1710,13 +1326,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1725,7 +1341,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1737,13 +1353,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1752,7 +1368,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1764,13 +1380,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1779,7 +1395,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1791,13 +1407,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1806,7 +1422,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1818,13 +1434,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1833,7 +1449,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1845,13 +1461,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1860,7 +1476,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1872,13 +1488,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1887,7 +1503,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1899,13 +1515,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1914,7 +1530,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1926,13 +1542,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1941,7 +1557,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1953,13 +1569,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1968,7 +1584,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -1980,13 +1596,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -1995,7 +1611,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2007,13 +1623,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2022,7 +1638,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2034,13 +1650,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2049,7 +1665,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2061,13 +1677,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2076,7 +1692,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2088,13 +1704,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2103,7 +1719,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2115,13 +1731,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2130,7 +1746,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2142,13 +1758,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2157,7 +1773,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2169,13 +1785,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2184,7 +1800,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2196,13 +1812,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2211,7 +1827,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2223,13 +1839,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2238,7 +1854,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2250,13 +1866,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2265,7 +1881,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2277,13 +1893,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2292,7 +1908,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2304,13 +1920,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2319,7 +1935,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2331,13 +1947,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2346,7 +1962,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2358,13 +1974,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2373,7 +1989,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2385,13 +2001,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2400,7 +2016,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2412,13 +2028,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2427,7 +2043,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2439,13 +2055,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2454,7 +2070,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2466,13 +2082,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2481,7 +2097,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2493,13 +2109,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2508,7 +2124,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2520,13 +2136,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2535,7 +2151,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2547,13 +2163,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2562,7 +2178,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2574,13 +2190,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2589,7 +2205,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2601,13 +2217,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2616,7 +2232,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2628,13 +2244,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2643,7 +2259,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2655,13 +2271,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2670,7 +2286,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2682,13 +2298,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2697,7 +2313,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2709,13 +2325,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2724,7 +2340,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2736,13 +2352,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2751,7 +2367,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2763,13 +2379,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2778,7 +2394,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2790,13 +2406,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2805,7 +2421,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2817,13 +2433,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2832,7 +2448,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2844,13 +2460,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2859,7 +2475,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2871,13 +2487,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2886,7 +2502,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2898,13 +2514,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2913,7 +2529,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2925,13 +2541,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2940,7 +2556,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2952,13 +2568,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2967,7 +2583,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -2979,13 +2595,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -2994,7 +2610,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3006,13 +2622,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3021,7 +2637,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3033,13 +2649,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3048,7 +2664,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3060,13 +2676,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3075,7 +2691,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3087,13 +2703,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3102,7 +2718,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3114,13 +2730,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3129,7 +2745,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3141,13 +2757,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3156,7 +2772,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3168,13 +2784,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3183,7 +2799,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3195,13 +2811,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3210,7 +2826,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3222,13 +2838,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3237,7 +2853,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3249,13 +2865,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3264,7 +2880,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3276,13 +2892,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3291,7 +2907,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3303,13 +2919,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3318,7 +2934,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3330,13 +2946,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3345,7 +2961,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3357,13 +2973,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3372,7 +2988,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3384,13 +3000,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3399,7 +3015,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3411,13 +3027,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3426,7 +3042,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3438,13 +3054,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3453,7 +3069,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3465,13 +3081,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3480,7 +3096,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3492,13 +3108,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3507,7 +3123,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3519,13 +3135,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3534,7 +3150,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3546,13 +3162,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3561,7 +3177,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3573,13 +3189,13 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -588,
-    "name": "Signup",
+    "IA2UniqueID": -789,
+    "name": "Zerodha logo",
     "role": "LINK (19)",
     "roleText": "None",
     "states": [
@@ -3588,7 +3204,7 @@ INFO: Found _speakObjectPropertiesCache attribute
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://zerodha.com/open-account/",
+    "value": "https://zerodha.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -3600,5 +3216,5 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06657CD0>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06D77BF0>>"
 }

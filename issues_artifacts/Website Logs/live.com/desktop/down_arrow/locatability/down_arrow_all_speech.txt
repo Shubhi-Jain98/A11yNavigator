@@ -1,53 +1,15 @@
-['link', 'Skip to main content']
-Microsoft
+['banner landmark', 'Microsoft', 'link']
 ['link', 'Microsoft 365']
-Outlook
-Support
-For businessPlans and pricingSupport
-For businessPlans and pricingSupport
-['out of list', 'All Microsoft menu', 'navigation landmark', 'list', 'with 2 items', 'link', 'Buy now', 'link', 'Sign in']
-Buy nowSign in
-Buy nowSign in
+['Contextual menu', 'navigation landmark', 'list', 'with 5 items', 'link', 'Outlook', 'clickable', 'button', 'collapsed', 'Products']
+['link', 'For business', 'link', 'Plans and pricing', 'link', 'Support']
 ['out of list', 'search landmark', 'clickable', 'button', 'collapsed', 'Search Microsoft.com']
-['main landmark', 'heading', 'level 1', 'Outlook for everyday email and calendars']
-['Stay on top of multiple accounts with email, calendars, and contacts in one place. Available on ']
-Outlook
-Products
-Outlook
-['out of list', 'link', 'Microsoft 365']
-Microsoft
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-['link', 'Skip to main content']
-Microsoft
-['link', 'Microsoft 365']
-Outlook
-Products
-Support
-For businessPlans and pricingSupport
-For businessPlans and pricingSupport
-['out of list', 'All Microsoft menu', 'navigation landmark', 'list', 'with 2 items', 'link', 'Buy now', 'link', 'Sign in']
-Buy nowSign in
-Buy nowSign in
-['out of list', 'search landmark', 'clickable', 'button', 'collapsed', 'Search Microsoft.com']
-['main landmark', 'heading', 'level 1', 'Outlook for everyday email and calendars']
+['All Microsoft menu', 'navigation landmark', 'list', 'with 2 items', 'link', 'Buy now', 'link', 'Sign in']
+['out of list', 'main landmark', 'heading', 'level 1', 'Outlook for everyday email and calendars']
 ['Stay on top of multiple accounts with email, calendars, and contacts in one place. Available on ']
 ['desktop, mobile, and web.']
 ['link', 'Sign in to Outlook']
 ['link', 'Create free account on Outlook']
- Overview 
+['In Page quick links', 'navigation landmark', ' Overview ', 'list', 'with 7 items', 'visited', 'link', 'current', 'Overview']
 ['link', 'Take the tour']
 ['link', 'Download the app']
 ['link', 'Plans and pricing']
@@ -55,7 +17,7 @@ Buy nowSign in
 ['link', 'News & tips ']
 ['link', 'Frequently Asked Questions']
 ['out of list', 'link', 'See Outlook email plans and pricing']
-OVERVIEW
+['OVERVIEW']
 ['heading', 'level 2', 'Your Outlook can change everything']
 ['tab', 'selected', 'Key benefits']
 ['tab', 'Get more from Outlook']
@@ -63,7 +25,6 @@ OVERVIEW
 ['list', 'with 4 items', 'button', 'expanded', 'heading', 'level 3', 'Together in one place']
 ['See everything you need to manage your day in one view. Easily stay on top of emails, calendars, ']
 ['contacts, and to-do lists—at home or on the go.']
-['graphic', 'Screenshots of desktop and mobile screens displaying an Outlook inbox']
 ['button', 'collapsed', 'heading', 'level 3', 'Connect your accounts']
 ['button', 'collapsed', 'heading', 'level 3', 'Write more effective emails']
 ['button', 'collapsed', 'heading', 'level 3', 'Easily access your files']
@@ -95,16 +56,16 @@ OVERVIEW
 ['link', 'Download Microsoft Outlook in google play']
 ['PLANS & PRICING']
 ['heading', 'level 2', 'Outlook is better with Microsoft 365']
-Yearly
-Monthly
+['tab', 'selected', 'Yearly']
+['tab', 'Monthly']
 ['tab', 'selected', 'For Home']
 ['tab', 'For Business']
 ['PRICING-Yearly-Home tab section', 'region', 'Showing 1-2 of 4 slides']
 ['button', 'unavailable', 'Previous Slide']
 ['button', 'Next Slide']
 ['1 of 4', 'slide']
-Outlook
-Free
+['heading', 'level 3', 'Outlook']
+['Free']
 ['link', 'Create a free Outlook account']
 ['list', 'with 6 items', '• For 1 person\xa0']
 ['• Outlook email and calendar web, desktop, and mobile apps']
@@ -115,9 +76,9 @@ Free
 ['out of list', 'list', 'with 1 item', 'button', 'collapsed', 'opens dialog']
 ['out of list', 'out of slide', '2 of 4', 'slide']
 ['heading', 'level 3', 'Microsoft 365 Basic']
-£19.99
-/year
-.
+['£19.99']
+['/year']
+['Subscription automatically renews unless canceled in Microsoft account. ', 'link', 'See terms', '.']
 ['link', 'Buy now Microsoft 365 Basic']
 ['list', 'with 7 items', '• For 1 person']
 ['• Ad-free Outlook email and calendar web, desktop, and mobile apps\n']
@@ -131,19 +92,16 @@ Free
 ['blank']
 ['blank']
 ['out of list', 'out of slide', '3 of 4', 'slide', 'heading', 'level 3', 'Microsoft 365 Personal']
-£84.99
-/year
-.
+['£84.99']
+['/year']
+['Subscription automatically renews unless canceled in Microsoft account. ', 'link', 'See terms', '.']
 ['link', 'Buy now Microsoft 365 Personal']
 ['list', 'with 10 items', '• For one person']
 ['• Ad-free Outlook and mobile email and calendar with advanced security features']
 ['• 100 GB of mailbox storage', 'link', 'Footnote 5']
 ['• 1 TB (1,000 GB) of ', 'link', 'cloud storage ']
-,
-,
-Footnote 4,Footnote 6
-Footnote 4
-Footnote 6
+['• Word, Excel, PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot', 'link', 'Footnote 2', ',']
+['link', 'Footnote 4', ',', 'link', 'Footnote 6']
 ['• AI-powered image creation and editing with Microsoft Designer', 'link', 'Footnote 4']
 ['• Clipchamp video editor with premium filters and effects']
 ['• Microsoft Defender advanced security for your personal data and devices']
@@ -159,9 +117,9 @@ Footnote 6
 ['button', 'collapsed', 'opens dialog', 'Designer icon']
 ['button', 'collapsed', 'opens dialog', 'Clipchamp icon']
 ['out of list', 'out of slide', '4 of 4', 'slide', 'heading', 'level 3', 'Microsoft 365 Family']
-£104.99
-/year
-.
+['£104.99']
+['/year']
+['Subscription automatically renews unless canceled in Microsoft account. ', 'link', 'See terms', '.']
 ['link', 'Buy now Microsoft 365 Family']
 ['link', 'Try Microsoft 365 Family for free']
 ['link', 'See all plan details ']
@@ -170,11 +128,8 @@ Footnote 6
 ['• Ad-free Outlook and mobile email and calendar with advanced security features']
 ['• Up to 600 GB of mailbox storage (100 GB per person)', 'link', 'Footnote 5']
 ['• Up to 6 TB of ', 'link', 'cloud storage', ', 1 TB (1,000 GB) per person']
-,
-,
-Footnote 4,Footnote 6
-Footnote 4
-Footnote 6
+['• Word, Excel, PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot', 'link', 'Footnote 2', ',']
+['link', 'Footnote 4', ',', 'link', 'Footnote 6']
 ['• AI-powered image creation and editing with Microsoft Designer', 'link', 'Footnote 4']
 ['• Clipchamp video editor with premium filters and effects']
 ['• Microsoft Defender advanced security for your identity,', 'link', 'Footnote 7', ' personal data, and devices\xa0\xa0']
@@ -202,10 +157,10 @@ Footnote 6
 ['MICROSOFT 365 APPS', 'region', 'Showing 1-2 of 9 slides']
 ['button', 'unavailable', 'Previous Slide']
 ['button', 'Next Slide']
-Word
+[' 1 of 9', 'slide', 'Word']
 ['Create impressive documents and improve your writing with built-in intelligent features.\u202f']
 ['link', 'Learn more about Word: Document Editing with Microsoft Word']
-Excel
+['out of slide', ' 2 of 9', 'slide', 'Excel']
 ['Simplify complex data and create compelling spreadsheets with formatting, sparklines, and tables.']
 ['link', 'Learn more about Excel: Spreadsheet Software: Microsoft Excel']
 ['out of slide', 'link', 'Back to MICROSOFT 365 APPS carousel section']
@@ -216,17 +171,17 @@ Excel
 ['heading', 'level 5', 'Microsoft Corporation']
 ['heading', 'level 5', 'Power BI']
 ['Collaborate better with your data.']
-['Rated (#=ratingAverage#) stars out of 5 stars, by 112760 users.']
+['Rated (#=ratingAverage#) stars out of 5 stars, by 119099 users.']
 ['link', 'Learn More']
 ['heading', 'level 5', 'Microsoft Corporation']
-Copilot
+['heading', 'level 5', 'Copilot']
 ['Your copilot for work']
-['Rated (#=ratingAverage#) stars out of 5 stars, by 56823 users.']
+['Rated (#=ratingAverage#) stars out of 5 stars, by 57057 users.']
 ['link', 'Learn More']
 ['heading', 'level 5', 'ADOBE INC.']
 ['heading', 'level 5', 'Adobe Acrobat for Microsoft Teams and Outlook']
 ['Gain insights, edit, convert, and collaborate on PDFs']
-['Rated (#=ratingAverage#) stars out of 5 stars, by 40316 users.']
+['Rated (#=ratingAverage#) stars out of 5 stars, by 42038 users.']
 ['link', 'Learn More']
 ['link', 'View all Outlook apps']
 ['NEWS AND TIPS']
@@ -244,22 +199,22 @@ Copilot
 ['link', 'Learn more about Copilot in outlook']
 ['out of slide', 'link', "Back to NEWS AND TIPS-What's new tab section"]
 ['out of region', 'link', 'back to tabs']
-FAQ
+['heading', 'level 2', 'FAQ']
 ['toggle button', 'not pressed', 'Expand all']
 ['toggle button', 'unavailable', 'pressed', 'Collapse all']
-01/
+['list', 'with 7 items', 'button', 'collapsed', '01/']
 ['button', 'collapsed', 'heading', 'level 3', 'How do I create an Outlook.com account?\xa0']
-02/
+['button', 'collapsed', '02/']
 ['button', 'collapsed', 'heading', 'level 3', 'I have a Hotmail.com, Live.com, or MSN.com email account. Is that the same as Outlook?']
-03/
+['button', 'collapsed', '03/']
 ['button', 'collapsed', 'heading', 'level 3', 'I don’t have an Outlook.com account. Can I still use Outlook apps?']
-04/
+['button', 'collapsed', '04/']
 ['button', 'collapsed', 'heading', 'level 3', 'How does mailbox storage / Microsoft storage work for Outlook?']
-05/
+['button', 'collapsed', '05/']
 ['button', 'collapsed', 'heading', 'level 3', 'Why do I see ads in my Outlook inbox?']
-06/
+['button', 'collapsed', '06/']
 ['button', 'collapsed', 'heading', 'level 3', 'What do I get for Outlook with a Microsoft 365 subscription?']
-07/
+['button', 'collapsed', '07/']
 ['button', 'collapsed', 'heading', 'level 3', 'If I have a personal Office (one-time) license, will I be able to access desktop apps and have an ']
 ['button', 'collapsed', 'heading', 'level 3', 'ad-free Outlook experience?']
 ['out of list', 'graphic', 'A person sitting on a couch looking at a tablet']
@@ -278,7 +233,7 @@ FAQ
 ['Availability of mobile apps varies by country/region.']
 ['link', 'Back to Footnote1']
 ['App availability varies by device/language. Features vary by platform. Minimum age limits may apply ']
-.
+['to use of AI features. ', 'link', 'Details', '.']
 ['link', 'Back to Footnote2']
 ['Features apply to customers who have an @outlook.com, @hotmail.com, @live.com, or @msn.com account.\xa0']
 ['Copilot features are available in Outlook.com, Outlook built into Windows, Outlook on Mac, and iOS ']
@@ -286,10 +241,10 @@ FAQ
 ['link', 'Back to Footnote3']
 ['Available with a Microsoft 365 subscription.']
 ['link', 'Back to Footnote4']
-Learn 
-.
+['AI features only available to subscription owner and cannot be shared; usage limits apply. ', 'link', 'Learn ']
+['link', 'more about usage limits', '.']
 ['link', 'Back to Footnote5']
-Learn 
+['Mailbox storage includes Outlook.com email, attachments, calendar items, and contacts. Click ', 'link', 'Learn ']
 ['link', 'more about Microsoft storage ', ' for more information.']
 ['link', 'Back to Footnote6']
 ['Copilot in Excel requires AutoSave to be enabled, meaning the file must be saved to OneDrive; it ']
@@ -302,12 +257,10 @@ Learn
 ['link', 'Back to Footnote9']
 ['Once your paid subscription begins, cancelation policies vary based on your status as a new ']
 ['customer, product, and domain selections on Microsoft.\u202f', 'link', 'Learn how to cancel your Microsoft ']
-subscription
+['link', 'subscription', '. Cancel your Microsoft 365 subscription any time by going to the Microsoft 365 admin ']
 ['center. When a subscription is canceled, all associated data will be deleted.\u202f', 'link', 'Learn more about data ']
-.
+['link', 'retention, deletion, and destruction in Microsoft 365', '.']
 ['out of list', 'Microsoft Follow links', 'region', 'heading', 'level 2', 'Follow Microsoft 365 ', 'list', 'link', 'Follow Microsoft 365 on Linkedin', 'link', 'Go to the Microsoft 365 Twitter', 'link', 'Go to the ']
-Follow Microsoft 365 Follow Microsoft 365 on LinkedinGo to the Microsoft 365 TwitterGo to the 
-Follow Microsoft 365 Follow Microsoft 365 on LinkedinGo to the Microsoft 365 TwitterGo to the
 ['link', 'Microsoft 365 blog']
 ['out of list', 'out of region', 'content info landmark', 'Footer Resource links', 'navigation landmark', 'heading', 'level 2', "What's new"]
 ['list', 'with 8 items', 'link', "Surface Pro What's new"]
@@ -327,7 +280,7 @@ Follow Microsoft 365 Follow Microsoft 365 on LinkedinGo to the Microsoft 365 Twi
 ['link', 'Microsoft Experience Centre Microsoft Store']
 ['link', 'Recycling Microsoft Store']
 ['link', 'Microsoft Store Promise Microsoft Store']
-Education
+['out of list', 'heading', 'level 2', 'Education']
 ['list', 'with 8 items', 'link', 'Microsoft in education Education']
 ['link', 'Devices for education Education']
 ['link', 'Microsoft Teams for Education Education']
@@ -336,7 +289,7 @@ Education
 ['link', 'Educator training and development Education']
 ['link', 'Deals for students and parents Education']
 ['link', 'Azure for students Education']
-Business
+['out of list', 'heading', 'level 2', 'Business']
 ['list', 'with 8 items', 'link', 'Microsoft Cloud Business']
 ['link', 'Microsoft Security Business']
 ['link', 'Azure Business']
@@ -354,39 +307,18 @@ Business
 ['link', 'AppSource Developer & IT']
 ['link', 'Microsoft Power Platform Developer & IT']
 ['link', 'Visual Studio Developer & IT']
-Company
+['out of list', 'heading', 'level 2', 'Company']
 ['list', 'with 6 items', 'link', 'Careers Company']
 ['link', 'About Microsoft Company']
 ['link', 'Company news Company']
 ['link', 'Privacy at Microsoft Company']
 ['link', 'Investors Company']
 ['link', 'Sustainability Company']
-['out of list', 'link', 'Content Language Selector. Currently set to English (United Kingdom)']
+['out of list', 'visited', 'link', 'Content Language Selector. Currently set to English (United Kingdom)']
 ['link', 'graphic', 'Your Privacy Choices Opt-Out Icon']
 ['link', 'Your Privacy Choices']
 ['link', 'Consumer Health Privacy']
-Privacy
-Contact MicrosoftPrivacyTerms of useTrademarksAbout our adsEU Compliance DoCsRegulatory reporting© 
-Contact MicrosoftPrivacyTerms of useTrademarksAbout our adsEU Compliance DoCsRegulatory reporting©
-Microsoft corporate links
-navigation landmark
-list
-with 8 items
-link
-Contact Microsoft
-link
-Privacy
-link
-Terms of use
-link
-Trademarks
-link
-About our ads
-link
-EU Compliance DoCs
-link
-Regulatory reporting
-© 
+['Microsoft corporate links', 'navigation landmark', 'list', 'with 8 items', 'link', 'Contact Microsoft', 'link', 'Privacy', 'link', 'Terms of use', 'link', 'Trademarks', 'link', 'About our ads', 'link', 'EU Compliance DoCs', 'link', 'Regulatory reporting', '© ']
 ['Microsoft 2025']
 ['Microsoft 2025']
 ['Microsoft 2025']
@@ -402,4 +334,3 @@ Regulatory reporting
 ['Microsoft 2025']
 ['Microsoft 2025']
 ['Microsoft 2025']
-['    fileName_all = os.path.join(tempfile.gettempdir(), "nvda\\\\locatability\\\\down_arrow_all_speech.txt")\n']

@@ -1,11 +1,11 @@
 {
-    "IA2UniqueID": -10044,
-    "name": "ADP France | Fournisseur de Solutions de Paie et de RH",
-    "role": "DOCUMENT (52)",
+    "IA2UniqueID": -48768,
+    "name": "Full Name",
+    "role": "EDITABLETEXT (8)",
     "roleText": "None",
     "states": [
-        "READONLY (128)",
         "FOCUSABLE (16777216)",
+        "EDITABLE (67108864)",
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
@@ -18,5 +18,6 @@
     "includeTableCellCoords": "True",
     "rowHeaderText": "None",
     "columnHeaderText": "None",
-    "current": "NO (false)"
+    "current": "NO (false)",
+    "placeholder": "None"
 }

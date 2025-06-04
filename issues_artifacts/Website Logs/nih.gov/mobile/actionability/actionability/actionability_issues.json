@@ -1,0 +1,17 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "IA2UniqueID": -19524,
+            "xpath": "/html/body/div[2]/div/div[3]/footer/ul/li[2]/a",
+            "nvda_role": "LINK (19)",
+            "nvda_name": "Virtual Tour",
+            "nvda_value": "https://www.nih.gov/virtual-tour",
+            "nvda_states": [
+                "LINKED (4096)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

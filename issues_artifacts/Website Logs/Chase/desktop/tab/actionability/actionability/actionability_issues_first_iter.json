@@ -1,0 +1,89 @@
+{
+    "count of actionability issues": 7,
+    "missing paths": [
+        {
+            "IA2UniqueID": -428340,
+            "xpath": "/html/body/div/footer/div/div[3]/div/div/div/ul/li[12]/a",
+            "nvda_role": "-",
+            "nvda_name": "Tarjeta de cr\u00e9dito, hipoteca, banca, veh\u00edculo | Chase Online | chase.com",
+            "nvda_value": null,
+            "nvda_states": [
+                "READONLY (128)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -428340,
+            "xpath": "/html/body/div/div[2]/div/div/div/div/div/div/p/a",
+            "nvda_role": "-",
+            "nvda_name": "Tarjeta de cr\u00e9dito, hipoteca, banca, veh\u00edculo | Chase Online | chase.com",
+            "nvda_value": null,
+            "nvda_states": [
+                "READONLY (128)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -430069,
+            "xpath": "/html/body/div/div[2]/div/div/div/div[2]/a",
+            "nvda_role": "-",
+            "nvda_name": "Tarjeta de cr\u00e9dito, hipoteca, banca, veh\u00edculo | Chase Online | chase.com",
+            "nvda_value": null,
+            "nvda_states": [
+                "READONLY (128)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -431676,
+            "xpath": "/html/body/div/div[4]/div/div/header/section[2]/section/section/nav/ul/li/a",
+            "nvda_role": "-",
+            "nvda_name": "Tarjeta de cr\u00e9dito, hipoteca, banca, veh\u00edculo | Chase Online | chase.com",
+            "nvda_value": null,
+            "nvda_states": [
+                "READONLY (128)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -433588,
+            "xpath": "/html/body/div/div[4]/div/div/header/section[2]/section/section/nav/ul/li[2]/a",
+            "nvda_role": "-",
+            "nvda_name": "Tarjeta de cr\u00e9dito, hipoteca, banca, veh\u00edculo | Chase Online | chase.com",
+            "nvda_value": null,
+            "nvda_states": [
+                "READONLY (128)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -435495,
+            "xpath": "/html/body/div/div[4]/div/div/header/section[2]/section/section[2]/nav/ul/li[2]/a",
+            "nvda_role": "-",
+            "nvda_name": "Tarjeta de cr\u00e9dito, hipoteca, banca, veh\u00edculo | Chase Online | chase.com",
+            "nvda_value": null,
+            "nvda_states": [
+                "READONLY (128)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        },
+        {
+            "IA2UniqueID": -437454,
+            "xpath": "/html/body/div/div[4]/div/div/header/section[2]/section/section[2]/nav/ul/li[3]/a",
+            "nvda_role": "-",
+            "nvda_name": "Tarjeta de cr\u00e9dito, hipoteca, banca, veh\u00edculo | Chase Online | chase.com",
+            "nvda_value": null,
+            "nvda_states": [
+                "READONLY (128)",
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

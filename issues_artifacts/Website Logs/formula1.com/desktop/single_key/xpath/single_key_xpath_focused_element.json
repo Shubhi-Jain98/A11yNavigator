@@ -4,1101 +4,119 @@
         "nvda_name": null,
         "nvda_value": null,
         "nvda_states": null,
-        "xpath": "/html/body/header/section[2]/nav/ul/li/a"
+        "xpath": "/html/body/header/section/a[2]",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -948,
-        "nvda_name": "Federation Internationale de l'Automobile",
-        "nvda_value": "https://www.fia.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -951,
-        "nvda_name": "F1\u00ae",
-        "nvda_value": "https://www.formula1.com/",
-        "nvda_states": [
-            "VISITED (2048)",
-            "LINKED (4096)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -955,
-        "nvda_name": "F2\u2122",
-        "nvda_value": "https://www.fiaformula2.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -959,
-        "nvda_name": "F3\u2122",
-        "nvda_value": "https://www.fiaformula3.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -963,
-        "nvda_name": "F1\u00ae ACADEMY",
-        "nvda_value": "https://www.f1academy.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/ul[2]/li/a"
-    },
-    {
-        "IA2UniqueID": -968,
-        "nvda_name": "AUTHENTICS",
-        "nvda_value": "https://www.f1authentics.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/ul[2]/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -971,
-        "nvda_name": "STORE",
-        "nvda_value": "https://f1store.formula1.com/en/?_s=bm-fi-f1-prtsite-topnav-230720-jm",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/ul[2]/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -974,
-        "nvda_name": "TICKETS",
-        "nvda_value": "https://tickets.formula1.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/ul[2]/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -977,
-        "nvda_name": "HOSPITALITY",
-        "nvda_value": "https://tickets.formula1.com/en/h-formula1-hospitality",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/ul[2]/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -980,
-        "nvda_name": "EXPERIENCES",
-        "nvda_value": "https://f1experiences.com/?utm_source=formula1.com&utm_medium=referral&utm_campaign=general",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/ul[2]/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -983,
-        "nvda_name": "F1\u00ae TV. To get missing image descriptions, open the context menu.",
-        "nvda_value": "https://f1tv.formula1.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[2]/nav/div/a"
-    },
-    {
-        "IA2UniqueID": -986,
-        "nvda_name": "SIGN IN",
+        "IA2UniqueID": -44199,
+        "nvda_name": "None",
         "nvda_value": "https://account.formula1.com/#/en/login?redirect=https%3A%2F%2Fwww.formula1.com%2F&lead_source=web_f1core",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/header/section[2]/nav/div/a[2]"
+        "xpath": "/html/body/main/div[2]/div/div/div/iframe",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -989,
-        "nvda_name": "SUBSCRIBE",
-        "nvda_value": "https://www.formula1.com/subscribe-to-f1-tv",
+        "IA2UniqueID": -45208,
+        "nvda_name": "Advertisement",
+        "nvda_value": "https://ad.doubleclick.net/pcs/click?xai=AKAOjsvSmuaFhL4OobLqktinMkOKWevNkAj2bXajuGavdgZ2O3y8zqtMDiDYGmE9jOo7SfJuBMp0tlhwFQWPcrZaZUSRR4Yrf59g4oVWk5XxuCyOCrPgk9elu6yUiMOrgLrDEQxLJOf5ncRU1lLEzvTs462n6maarCCJl2ZZfVskLeCusG0Zz4Rym2PLBfNP85ThELQRHR85MOG00U8QBPa2tS-AV2qlnEwbn2iGjtJ9uoZLdStZmjBSfw88NABlYjYr2Dr1R1POPp1LZvPi54XKDIAooNK-XQ3DlyZ64mcg7dq2WuNQa0XqlDZCc-g4gxWacjlREzgo9Hy-0JX8r5AfbZ6gGq5idmMhhUhvBih9vHy5OKmkIORpoVYdZcJJntUktq94fUMbkQAg4W-dP6cKQi9UsYVpwPI-u_jVe2vf2y-UVBVZzvHl98UuIaUbNlWZPBK9tKOKfGolIHHr6GwiApUJ1jGAk8lSjF_LsSIzlks_L00wndDufwv2LzbUEYra4_AlUskAJpUqJPHGVMRPYGP7sztDWMVYVF9GzmeJa_5SWzJkbMBBqw9ICL0SFJauq25jD0Hkq5kDITp7l_SlSgCqTCSjo1TzzqU26OhWIwHhJ2EbrV8GebZECVaoatlpvjBYXp3w5F3jUL2gtswA5Cj5WBiV9uNew0vwQy1s5R_6kjDJjuTjhptOscmn4pZGghXuCiAiV4Xp64B0Btx7qoj_oo_zey1aBrOf5FmbOD_TRSQIi6FwD0AKWnBNRN4LaIbvFxowSui4gCVgj2PGgEZ4d8lEXvLs4KyovqVL4BWh24YmD_6B4HMV-Qg4WElJ0gpE035n_PHW1oI_XId4KO9GfCSHXTMA2JDtNzizRrmOtp3YAJjswJbU0qMEHF3--3BHhJ3ew99sBLyJ4Vd6d7DCsj-x0MTd52XZm2_e30kks_YkceOHmWDH_Cj_l--ID061Xpgj4xvVmQQ-C202YPVf4WeFa_IBbmjS9lTcKd_rLs6P7Zj16stUjftaa3GJCEyrJuEYw077TdhdFo2oWnepTtx5X7OdyBP_-hKz_PVZV7bGXdHBZVvIKGCunOAIYgY4_cgLuvCAN2AxSSyo83eNWfQ3tKoTq6Lgm3LZ3vZDvW4ebjSQw8Ginrd7rNpB5mKhHKmJklZ4_bT6zdpg3gtnEG_UJZhPVLA5VrB46RRogBsSv87taeeK9XQisyraPnNisbY5LBCKG3JToF4h3j5PQt2EYeWHTRmVGMuGmxf_WKzEOhVpRIg99t76HSny3IzCWU-ZIFu97FIBZdbfx8qdEz2yMrCKkJnhXzZLRo_57RugDGOByBkXyA0Itu8H0tqv6eoZqSLUQwU88KRXgrGTQvHncMyg8wlmSKBZ5n2T1L3k7uYwiaJ23d0nAmKd970W4dPDiakhN09GnYXobomnKFT6iewtGWhSbJmsuDz8kQKlEsscs9hcMyM7MEU-kOcclMXojNo-FOCFwLsfbYe8oCEF-AB_92Xf5t8nfX41g7r5fNhYK14QTKSbatTHmG7TRI12MQ7peeFii_duFocREeeMs4wUtrqkhOjEL1g_lwXp3go&sai=AMfl-YQbz4Fm4GUJUxE-5T-ybb9fkuU6dHSbVu0bv2q2c_mAlBp7hpZNmTzQun2qYQuiUuzgPSVRA1XCW5QX2jfvGF8-OBvf86M0nw36AAMw1S1WYqGk3cNqxSzJQa5_781Wu598uB3wNZv5vGgIOl8O9wTszr_gS2EZ6bqrLEY_gaNiXmA969bBNc01YZ6HV4QIVmrYP5KJDQgm4_dkDSSsWi1NdHXo64u1wWABzdmKJ8a3ZB7jUmaYJtJlxRvpNTyucM7EF2hCJfp0OS0xxFMtsmaM7cl0CAGcgfgAcg8RVhMJZ9zLVKruJzu-7j2OhiFKAmqHTM-aoXe2Sko7AkK0qyEuJUo&sig=Cg0ArKJSzMiHerrovraq&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly90ZXJtaW5peC5jb20&urlfix=1&adurl=https://www.terminix.com/pest-control/%3Futm_source%3Ddv360%26utm_medium%3Ddisplay%26utm_campaign%3D2025-dv360-terminix-conversion-national-display-open_market%26utm_content%3Dpest-320x50-gpcsave50-graphicpromo%26dclid%3D%25edclid!",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/header/section[3]/nav/a"
+        "xpath": "/html/body/main/div[2]/div[2]/div/div/a",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -993,
-        "nvda_name": "Formula 1",
-        "nvda_value": "https://www.formula1.com/",
-        "nvda_states": [
-            "VISITED (2048)",
-            "LINKED (4096)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -997,
-        "nvda_name": "Latest",
-        "nvda_value": "https://www.formula1.com/en/latest",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -3697,
-        "nvda_name": "Skip to Video menu",
-        "nvda_value": "https://www.formula1.com/#Video",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -3699,
-        "nvda_name": "Latest",
-        "nvda_value": "https://www.formula1.com/en/latest",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -3701,
-        "nvda_name": "What is F1?",
-        "nvda_value": "https://www.formula1.com/en/page/what-is-f1",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -3703,
-        "nvda_name": "What is F1 TV?",
-        "nvda_value": "https://www.formula1.com/en/page/what-is-f1-tv-pro",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -3705,
-        "nvda_name": "Get involved",
-        "nvda_value": "https://www.formula1.com/en/page/get-involved",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/div/section/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -3717,
-        "nvda_name": "NEWS Michael Schumacher\u2019s Monaco Grand Prix and double title-winning Ferrari F2001 to be sold at auction",
-        "nvda_value": "https://www.formula1.com/en/latest/article/michael-schumachers-monaco-grand-prix-and-double-title-winning-ferrari-f2001.1apCO1xyqyOpbbWuzbyZsP",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/div/section/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -3724,
-        "nvda_name": "INTERVIEW EXCLUSIVE: Perez reveals talks with \u2018a few\u2019 teams as he hints at possible F1 return",
-        "nvda_value": "https://www.formula1.com/en/latest/article/exclusive-sergio-perez-red-bull-f1-next-move-return.5fwYLpfTKv3xY9C3H8li61",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/div/section/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -3731,
-        "nvda_name": "TECHNICAL F1 UNLOCKED TECH WEEKLY: Why Kick Sauber are performing much better than their pre-season testing form suggested",
-        "nvda_value": "https://www.formula1.com/en/latest/article/tech-weekly-why-kick-sauber-are-performing-much-better-than-their-pre-season.6BzTqPXvUde7CXMqj2NnEg",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/div/section[2]/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -3739,
-        "nvda_name": "F1 movie",
-        "nvda_value": "https://www.formula1.com/en/latest/tags/f1-movie.39qA8b1LVU5FsBkma2ZC2A",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/div/section[2]/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -3742,
-        "nvda_name": "F1 75 Live",
-        "nvda_value": "https://www.formula1.com/en/latest/tags/f1-75-live.2YdvMb2uJ5IWJD2JvourzO",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/div/section[2]/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -3745,
-        "nvda_name": "Impact",
-        "nvda_value": "https://www.formula1.com/en/latest/tags/impact.2Xv0Ky85GUqpD8aP9sgUwq",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/div/section[2]/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -3748,
-        "nvda_name": "Beginner's Guide",
-        "nvda_value": "https://www.formula1.com/en/latest/tags/beginner-s-guide.7szZSRQkywApBCsTz1sDwg",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/div/section[2]/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -3751,
-        "nvda_name": "F1 Academy",
-        "nvda_value": "https://www.formula1.com/en/latest/tags/f1-academy.E4U087QqWtfDuC0tsjhUi",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li/section/div/section[2]/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -3754,
-        "nvda_name": "Driver market",
-        "nvda_value": "https://www.formula1.com/en/latest/tags/driver-market.48p0PATNawKYyi0QueUwyS",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -1002,
-        "nvda_name": "Video",
-        "nvda_value": "https://www.formula1.com/en/video",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -1006,
-        "nvda_name": "F1 Unlocked",
-        "nvda_value": "https://www.formula1.com/en/page/discover-unlocked",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -1010,
-        "nvda_name": "Schedule",
-        "nvda_value": "https://www.formula1.com/en/racing/2025",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[4]/section/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -3879,
-        "nvda_name": "Skip to Results menu",
-        "nvda_value": "https://www.formula1.com/#Results",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[4]/section/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -3881,
-        "nvda_name": "Full Schedule",
-        "nvda_value": "https://www.formula1.com/en/racing/2025",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[4]/section/ul[2]/li/a"
-    },
-    {
-        "IA2UniqueID": -3891,
-        "nvda_name": "PREVIOUS FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2025 FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2025 March 21-23",
-        "nvda_value": "https://www.formula1.com/en/racing/2025/china",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[4]/section/ul[2]/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -3899,
-        "nvda_name": "NEXT FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025 FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025 April 04-06",
-        "nvda_value": "https://www.formula1.com/en/racing/2025/japan",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[4]/section/ul[2]/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -3907,
-        "nvda_name": "UPCOMING FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2025 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2025 April 11-13",
-        "nvda_value": "https://www.formula1.com/en/racing/2025/bahrain",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[4]/section/ul[2]/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -3915,
-        "nvda_name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025 April 18-20",
-        "nvda_value": "https://www.formula1.com/en/racing/2025/saudi-arabia",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -1015,
-        "nvda_name": "Results",
-        "nvda_value": "https://www.formula1.com/en/results/2025/races",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[5]/section/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -3985,
-        "nvda_name": "Skip to Drivers menu",
-        "nvda_value": "https://www.formula1.com/#Drivers",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[5]/section/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -3987,
-        "nvda_name": "2025 Season",
-        "nvda_value": "https://www.formula1.com/en/results/2025/races/1255/china/race-result",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[5]/section/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -3989,
-        "nvda_name": "Driver Standings",
-        "nvda_value": "https://www.formula1.com/en/results/2025/drivers",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[5]/section/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -3991,
-        "nvda_name": "Team Standings",
-        "nvda_value": "https://www.formula1.com/en/results/2025/team",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[5]/section/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -3993,
-        "nvda_name": "Archive 1950-2024",
-        "nvda_value": "https://www.formula1.com/en/results/1950/races/94/great-britain/race-result",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[5]/section/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -3995,
-        "nvda_name": "F1 Awards",
-        "nvda_value": "https://www.formula1.com/en/results/awards",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -1020,
-        "nvda_name": "Drivers",
-        "nvda_value": "https://www.formula1.com/en/drivers",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -4092,
-        "nvda_name": "Skip to Teams menu",
-        "nvda_value": "https://www.formula1.com/#Teams",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -4094,
-        "nvda_name": "All Drivers",
-        "nvda_value": "https://www.formula1.com/en/drivers",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -4096,
-        "nvda_name": "Hall of Fame",
-        "nvda_value": "https://www.formula1.com/en/drivers/hall-of-fame",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li/a"
-    },
-    {
-        "IA2UniqueID": -4103,
-        "nvda_name": "AlexanderALBON",
-        "nvda_value": "https://www.formula1.com/en/drivers/alexander-albon",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -4107,
-        "nvda_name": "FernandoALONSO",
-        "nvda_value": "https://www.formula1.com/en/drivers/fernando-alonso",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -4111,
-        "nvda_name": "KimiANTONELLI",
-        "nvda_value": "https://www.formula1.com/en/drivers/kimi-antonelli",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -4115,
-        "nvda_name": "OliverBEARMAN",
-        "nvda_value": "https://www.formula1.com/en/drivers/oliver-bearman",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -4119,
-        "nvda_name": "GabrielBORTOLETO",
-        "nvda_value": "https://www.formula1.com/en/drivers/gabriel-bortoleto",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -4123,
-        "nvda_name": "JackDOOHAN",
-        "nvda_value": "https://www.formula1.com/en/drivers/jack-doohan",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -4127,
-        "nvda_name": "PierreGASLY",
-        "nvda_value": "https://www.formula1.com/en/drivers/pierre-gasly",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -4131,
-        "nvda_name": "IsackHADJAR",
-        "nvda_value": "https://www.formula1.com/en/drivers/isack-hadjar",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[9]/a"
-    },
-    {
-        "IA2UniqueID": -4135,
-        "nvda_name": "LewisHAMILTON",
-        "nvda_value": "https://www.formula1.com/en/drivers/lewis-hamilton",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[10]/a"
-    },
-    {
-        "IA2UniqueID": -4139,
-        "nvda_name": "NicoHULKENBERG",
-        "nvda_value": "https://www.formula1.com/en/drivers/nico-hulkenberg",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[11]/a"
-    },
-    {
-        "IA2UniqueID": -4143,
-        "nvda_name": "LiamLAWSON",
-        "nvda_value": "https://www.formula1.com/en/drivers/liam-lawson",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[12]/a"
-    },
-    {
-        "IA2UniqueID": -4147,
-        "nvda_name": "CharlesLECLERC",
-        "nvda_value": "https://www.formula1.com/en/drivers/charles-leclerc",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[13]/a"
-    },
-    {
-        "IA2UniqueID": -4151,
-        "nvda_name": "LandoNORRIS",
-        "nvda_value": "https://www.formula1.com/en/drivers/lando-norris",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[14]/a"
-    },
-    {
-        "IA2UniqueID": -4155,
-        "nvda_name": "EstebanOCON",
-        "nvda_value": "https://www.formula1.com/en/drivers/esteban-ocon",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[15]/a"
-    },
-    {
-        "IA2UniqueID": -4159,
-        "nvda_name": "OscarPIASTRI",
-        "nvda_value": "https://www.formula1.com/en/drivers/oscar-piastri",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[16]/a"
-    },
-    {
-        "IA2UniqueID": -4163,
-        "nvda_name": "GeorgeRUSSELL",
-        "nvda_value": "https://www.formula1.com/en/drivers/george-russell",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[17]/a"
-    },
-    {
-        "IA2UniqueID": -4167,
-        "nvda_name": "CarlosSAINZ",
-        "nvda_value": "https://www.formula1.com/en/drivers/carlos-sainz",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[18]/a"
-    },
-    {
-        "IA2UniqueID": -4171,
-        "nvda_name": "LanceSTROLL",
-        "nvda_value": "https://www.formula1.com/en/drivers/lance-stroll",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[19]/a"
-    },
-    {
-        "IA2UniqueID": -4175,
-        "nvda_name": "YukiTSUNODA",
-        "nvda_value": "https://www.formula1.com/en/drivers/yuki-tsunoda",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[6]/section/ul[2]/li[20]/a"
-    },
-    {
-        "IA2UniqueID": -4179,
-        "nvda_name": "MaxVERSTAPPEN",
-        "nvda_value": "https://www.formula1.com/en/drivers/max-verstappen",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -1025,
-        "nvda_name": "Teams",
-        "nvda_value": "https://www.formula1.com/en/teams",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -4395,
-        "nvda_name": "Skip to Gaming menu",
-        "nvda_value": "https://www.formula1.com/#Gaming",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -4397,
-        "nvda_name": "All Teams",
-        "nvda_value": "https://www.formula1.com/en/teams",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul[2]/li/a"
-    },
-    {
-        "IA2UniqueID": -4404,
-        "nvda_name": "Alpine Alpine",
-        "nvda_value": "https://www.formula1.com/en/teams/alpine",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul[2]/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -4409,
-        "nvda_name": "Aston Martin Aston Martin",
-        "nvda_value": "https://www.formula1.com/en/teams/aston-martin",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul[2]/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -4414,
-        "nvda_name": "Ferrari Ferrari",
-        "nvda_value": "https://www.formula1.com/en/teams/ferrari",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul[2]/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -4419,
-        "nvda_name": "Haas Haas",
-        "nvda_value": "https://www.formula1.com/en/teams/haas",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul[2]/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -4424,
-        "nvda_name": "Kick Sauber Kick Sauber",
-        "nvda_value": "https://www.formula1.com/en/teams/kick-sauber",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul[2]/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -4429,
-        "nvda_name": "McLaren McLaren",
-        "nvda_value": "https://www.formula1.com/en/teams/mclaren",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul[2]/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -4434,
-        "nvda_name": "Mercedes Mercedes",
-        "nvda_value": "https://www.formula1.com/en/teams/mercedes",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul[2]/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -4439,
-        "nvda_name": "Racing Bulls Racing Bulls",
-        "nvda_value": "https://www.formula1.com/en/teams/racing-bulls",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul[2]/li[9]/a"
-    },
-    {
-        "IA2UniqueID": -4444,
-        "nvda_name": "Red Bull Racing Red Bull Racing",
-        "nvda_value": "https://www.formula1.com/en/teams/red-bull-racing",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[7]/section/ul[2]/li[10]/a"
-    },
-    {
-        "IA2UniqueID": -4449,
-        "nvda_name": "Williams Williams",
-        "nvda_value": "https://www.formula1.com/en/teams/williams",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -1030,
-        "nvda_name": "Gaming",
-        "nvda_value": "https://www.formula1.com/en/page/gaming",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[8]/section/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -4555,
-        "nvda_name": "Skip to Live Timing menu",
-        "nvda_value": "https://www.formula1.com/#Live%20Timing",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[8]/section/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -4557,
-        "nvda_name": "Esports",
-        "nvda_value": "https://f1esports.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[8]/section/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -4559,
-        "nvda_name": "Fantasy",
-        "nvda_value": "https://fantasy.formula1.com/en/?utm_source=web_formula1.com&utm_medium=internal_referral&utm_campaign=navigation",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[8]/section/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -4561,
-        "nvda_name": "F1 24",
-        "nvda_value": "https://www.ea.com/en-gb/games/f1/f1-24",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[8]/section/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -4563,
-        "nvda_name": "F1 Manager 24",
-        "nvda_value": "https://www.f1manager.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[8]/section/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -4565,
-        "nvda_name": "F1 Predict",
-        "nvda_value": "https://f1predict.formula1.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[8]/section/ul/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -4567,
-        "nvda_name": "F1 Mobile Racing",
-        "nvda_value": "https://www.ea.com/en-gb/games/f1/f1-mobile-racing",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[8]/section/ul/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -4569,
-        "nvda_name": "F1 Clash",
-        "nvda_value": "https://www.hutch.io/our-games/f1-clash/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/section[3]/nav/ul/li[9]/a"
-    },
-    {
-        "IA2UniqueID": -1035,
-        "nvda_name": "Live Timing",
-        "nvda_value": "https://www.formula1.com/en/timing/f1-live",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[2]/div[2]/div/div/a"
-    },
-    {
-        "IA2UniqueID": -1048,
+        "IA2UniqueID": -44212,
         "nvda_name": "None",
-        "nvda_value": "https://www.formula1.com/en/latest/article/exclusive-sergio-perez-red-bull-f1-next-move-return.5fwYLpfTKv3xY9C3H8li61",
+        "nvda_value": "https://www.formula1.com/en/latest/article/from-brilliance-in-baku-to-struggles-in-sao-paulo-colapintos-9-grand-prix.maPeHxz8m22afztEjBhNI",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li/a"
+        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li/a",
+        "key_interactions": 3
     },
     {
-        "IA2UniqueID": -1058,
-        "nvda_name": "TECHNICAL F1 UNLOCKED TECH WEEKLY: Why Kick Sauber are performing much better than their pre-season testing form suggested",
-        "nvda_value": "https://www.formula1.com/en/latest/article/tech-weekly-why-kick-sauber-are-performing-much-better-than-their-pre-season.6BzTqPXvUde7CXMqj2NnEg",
+        "IA2UniqueID": -44222,
+        "nvda_name": "FEATURE F1 UNLOCKED \u2018We want to be fresh, bold and new\u2019 \u2013 Cadillac chiefs on their plans for F1, and the drivers on their shortlist",
+        "nvda_value": "https://www.formula1.com/en/latest/article/we-want-to-be-fresh-bold-and-new-cadillac-chiefs-on-their-plans-for-f1-and.4CRA8SM1fg6ON2ylHCdPpZ",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li[2]/a"
+        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li[2]/a",
+        "key_interactions": 4
     },
     {
-        "IA2UniqueID": -1066,
-        "nvda_name": "IMAGE GALLERY GALLERY: Red Bull unveil special white and red livery for Japanese Grand Prix",
-        "nvda_value": "https://www.formula1.com/en/latest/article/gallery-red-bull-unveil-special-white-and-red-livery-for-japanese-grand-prix.6ed0ssKwGkFA30a0HpfSVN",
+        "IA2UniqueID": -44230,
+        "nvda_name": "NEWS \u2018I\u2019m impressed, he\u2019ll be fine\u2019 \u2013 Red Bull praise Tsunoda for avoiding \u2018intimidation\u2019 of being Verstappen\u2019s team mate",
+        "nvda_value": "https://www.formula1.com/en/latest/article/im-impressed-hell-be-fine-red-bull-praise-tsunoda-for-avoiding-intimidation.4wLDQ8z7xZSHiij37EbIgS",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li[3]/a"
+        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li[3]/a",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -1076,
-        "nvda_name": "NEWS Ex-Red Bull driver Webber assesses challenge facing team after \u2018unacceptable\u2019 lap time difference between Verstappen and Lawson",
-        "nvda_value": "https://www.formula1.com/en/latest/article/ex-red-bull-driver-webber-assesses-challenge-facing-team-after-unacceptable.6dLQo4t5xiRkSzAaewOwxZ",
+        "IA2UniqueID": -44238,
+        "nvda_name": "NEWS Wolff insists Hamilton magic 'is still there' as he backs him 'to be stellar' at Ferrari",
+        "nvda_value": "https://www.formula1.com/en/latest/article/wolff-insists-hamilton-magic-is-still-there-as-he-backs-him-to-be-stellar-at.3urrB4IT5AkEAPprUqEYWr",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li[4]/a"
+        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li[4]/a",
+        "key_interactions": 6
     },
     {
-        "IA2UniqueID": -1084,
-        "nvda_name": "NEWS Michael Schumacher\u2019s Monaco Grand Prix and double title-winning Ferrari F2001 to be sold at auction",
-        "nvda_value": "https://www.formula1.com/en/latest/article/michael-schumachers-monaco-grand-prix-and-double-title-winning-ferrari-f2001.1apCO1xyqyOpbbWuzbyZsP",
+        "IA2UniqueID": -44246,
+        "nvda_name": "NEWS 'I couldn't let him go to Mercedes and I hated that' \u2013 Claire Williams on why she stopped Russell signing for the Silver Arrows earlier",
+        "nvda_value": "https://www.formula1.com/en/latest/article/i-couldnt-let-him-go-to-mercedes-and-i-hated-that-claire-williams-on-why-she.08Rlr8s4h0qg9nd3dru21",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li[5]/a"
+        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li[5]/a",
+        "key_interactions": 7
     },
     {
-        "IA2UniqueID": -1093,
-        "nvda_name": "NEWS Alpine reserve Ryo Hirakawa to drive in FP1 at Japanese Grand Prix",
-        "nvda_value": "https://www.formula1.com/en/latest/article/alpine-reserve-ryo-hirakawa-to-drive-in-fp1-at-japanese-grand-prix.5IIKSSCavLbqsTNWewsP8",
+        "IA2UniqueID": -44256,
+        "nvda_name": "VIDEO WATCH: The drivers react to finding out their \u2018F1 25\u2019 game ratings",
+        "nvda_value": "https://www.formula1.com/en/latest/article/watch-the-drivers-react-to-finding-out-their-f1-25-game-ratings.2NdsC7j7yADWkoK4aI7YXo",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li[6]/a"
+        "xpath": "/html/body/main/div[2]/div[2]/div[2]/div/li[6]/a",
+        "key_interactions": 8
     },
     {
-        "IA2UniqueID": -1101,
-        "nvda_name": "FEATURE F1 UNLOCKED Crypto.com Overtake of the Month \u2013 Vote for Your Favourite Move Now!",
-        "nvda_value": "https://www.formula1.com/en/latest/article/crypto-com-overtake-of-the-month-award-2025.4xOyfvuGKG3ZqOgUfiPCPO",
+        "IA2UniqueID": -44264,
+        "nvda_name": "FEATURE ANALYSIS: Why Alpine chose to promote Colapinto and bench Doohan \u2013 concluding a dramatic 12 hours after Oakes' resignation",
+        "nvda_value": "https://www.formula1.com/en/latest/article/analysis-why-alpine-chose-to-promote-colapinto-and-bench-doohan-concluding-a.3gwUk9nDWguz7Oy4T2MBKa",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[2]/div[2]/a"
+        "xpath": "/html/body/main/div[2]/div[2]/div[2]/a",
+        "key_interactions": 9
     },
     {
-        "IA2UniqueID": -1110,
+        "IA2UniqueID": -44274,
         "nvda_name": "VIEW LATEST NEWS",
         "nvda_value": "https://www.formula1.com/en/latest/all",
         "nvda_states": [
@@ -1106,54 +124,71 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[4]/div[2]/div[2]/li/a"
+        "xpath": "/html/body/main/div[2]/div[4]/div[2]/div/div/div/div/iframe",
+        "key_interactions": 10
     },
     {
-        "IA2UniqueID": -1146,
-        "nvda_name": "FEATURE IT'S RACE WEEK: 5 storylines we're excited about ahead of the 2025 Japanese Grand Prix",
-        "nvda_value": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2025-japanese.5dSOuQkuyC0NInhzWuDFx",
+        "IA2UniqueID": -44274,
+        "nvda_name": "VIEW LATEST NEWS",
+        "nvda_value": "https://www.formula1.com/en/latest/all",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[4]/div[2]/div[2]/li[2]/a"
+        "xpath": "/html/body/main/div[2]/div[4]/div[2]/div[2]/li/a",
+        "key_interactions": 11
     },
     {
-        "IA2UniqueID": -1155,
-        "nvda_name": "FEATURE TREMAYNE: Japanese drivers have a rich history in F1 \u2013 but can Yuki Tsunoda grab his chance and be the best of them all?",
-        "nvda_value": "https://www.formula1.com/en/latest/article/tremayne-japanese-drivers-have-a-rich-history-in-f1-but-can-yuki-tsunoda.1Y8vuwve0uHWMZqkYzJyLW",
+        "IA2UniqueID": -44308,
+        "nvda_name": "VIDEO F1 UNLOCKED WATCH: Go behind the scenes of LEGO\u2019s incredible car build for the special F1 drivers\u2019 parade in Miami",
+        "nvda_value": "https://www.formula1.com/en/latest/article/watch-go-behind-the-scenes-of-legos-incredible-car-build-for-the-special-f1.pIbtSusBcI4uQcBFpvM3r",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[4]/div[2]/div[2]/li[3]/a"
+        "xpath": "/html/body/main/div[2]/div[4]/div[2]/div[2]/li[2]/a",
+        "key_interactions": 12
     },
     {
-        "IA2UniqueID": -1164,
-        "nvda_name": "OPINION F1 UNLOCKED JACQUES: Tsunoda\u2019s Red Bull promotion is a deserved reward \u2013 but Lawson needs to take inspiration from Gasly and Albon",
-        "nvda_value": "https://www.formula1.com/en/latest/article/jacques-tsunodas-red-bull-promotion-is-a-deserved-reward-but-lawson-needs-to.1sN0Uf9bbeJR327bPAwpfU",
+        "IA2UniqueID": -44315,
+        "nvda_name": "FEATURE F1 UNLOCKED PALMER: Why isn't it clicking yet for Lewis Hamilton and Ferrari this year?",
+        "nvda_value": "https://www.formula1.com/en/latest/article/palmer-why-isnt-it-clicking-yet-for-lewis-hamilton-and-ferrari-this-year.AGqkyX7ppaafK2wuDK2Gn",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[2]/div[4]/div[2]/div[2]/li[4]/a"
+        "xpath": "/html/body/main/div[2]/div[4]/div[2]/div[2]/li[3]/a",
+        "key_interactions": 13
     },
     {
-        "IA2UniqueID": -1172,
-        "nvda_name": "FEATURE From infamous title deciders to home race heartbreaks \u2013 7 of the most dramatic disqualifications in F1 history",
-        "nvda_value": "https://www.formula1.com/en/latest/article/from-infamous-title-deciders-to-home-race-heartbreaks-7-of-the-most-dramatic.3gUysRekRcxhLJ1MgzvFDZ",
+        "IA2UniqueID": -44322,
+        "nvda_name": "FEATURE F1 UNLOCKED THIS WEEK IN F1: 10 quiz questions on the Miami Grand Prix and the latest F1 news",
+        "nvda_value": "https://www.formula1.com/en/latest/article/this-week-in-f1-10-quiz-questions-on-the-miami-grand-prix-and-the-latest-f1.5VYeYIbSp5L5awMwPTduYk",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[3]/div/div/div/div/h2/a"
+        "xpath": "/html/body/main/div[2]/div[4]/div[2]/div[2]/li[4]/a",
+        "key_interactions": 14
     },
     {
-        "IA2UniqueID": -1195,
+        "IA2UniqueID": -44329,
+        "nvda_name": "INTERVIEW F1 UNLOCKED \u2018You\u2019re going to feel like you\u2019re in the seat\u2019 \u2013 Kerry Condon on the excitement of the \u2018F1\u2019 movie and what\u2019s in store for audiences",
+        "nvda_value": "https://www.formula1.com/en/latest/article/apple-original-films-f1-movie-kerry-condon.iwfMPSmZzhFDWtTjD8lWd",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[3]/div/div/div/div/h2/a",
+        "key_interactions": 15
+    },
+    {
+        "IA2UniqueID": -44353,
         "nvda_name": "More news",
         "nvda_value": "https://www.formula1.com/en/latest/all.html",
         "nvda_states": [
@@ -1161,87 +196,95 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[3]/div/div/div[2]/li/a"
+        "xpath": "/html/body/main/div[3]/div/div/div[2]/li/a",
+        "key_interactions": 16
     },
     {
-        "IA2UniqueID": -1200,
-        "nvda_name": "PODCAST F1 NATION: Tsunoda's Red Bull chance and the McLaren intra-team battle \u2013 it's our Japanese GP preview",
-        "nvda_value": "https://www.formula1.com/en/latest/article/f1-nation-tsunodas-red-bull-chance-and-the-mclaren-intra-team-battle-its-our.5ErMQDybSoPM3XfjIP4YCT",
+        "IA2UniqueID": -44363,
+        "nvda_name": "NEWS O\u2019Ward to make latest FP1 appearance for McLaren at Mexico City Grand Prix",
+        "nvda_value": "https://www.formula1.com/en/latest/article/oward-to-make-latest-fp1-appearance-for-mclaren-at-mexico-city-grand-prix.6P05aIWu0STCR8vCr7nuMC",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[3]/div/div/div[2]/li[2]/a"
+        "xpath": "/html/body/main/div[3]/div/div/div[2]/li[2]/a",
+        "key_interactions": 17
     },
     {
-        "IA2UniqueID": -1208,
-        "nvda_name": "NEWS Formula 2 racer Victor Martins joins Williams Driver Academy",
-        "nvda_value": "https://www.formula1.com/en/latest/article/formula-2-racer-victor-martins-joins-williams-driver-academy.2eXuNm611Kx4ezYXjmVKUK",
+        "IA2UniqueID": -44369,
+        "nvda_name": "NEWS Special Super Friday line-up to kick off 2025 Dutch Grand Prix weekend in Zandvoort",
+        "nvda_value": "https://www.formula1.com/en/latest/article/special-super-friday-line-up-to-kick-off-2025-dutch-grand-prix-weekend-in.37iq01IlQycY2JQyIzLt4i",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[3]/div/div/div[2]/li[3]/a"
+        "xpath": "/html/body/main/div[3]/div/div/div[2]/li[3]/a",
+        "key_interactions": 18
     },
     {
-        "IA2UniqueID": -1215,
-        "nvda_name": "NEWS \u2018I feel really lucky\u2019 \u2013 Antonelli expands on what it\u2019s like working with race engineer \u2018Bono\u2019",
-        "nvda_value": "https://www.formula1.com/en/latest/article/i-feel-really-lucky-antonelli-expands-on-what-its-like-working-with-race.k1diHZ3DTDuvgoIlgxG0i",
+        "IA2UniqueID": -44375,
+        "nvda_name": "NEWS \u2018Slow all season\u2019 \u2013 Stroll urges Aston Martin to improve car \u2018in all areas\u2019 after struggles continue in Miami",
+        "nvda_value": "https://www.formula1.com/en/latest/article/slow-all-season-stroll-calls-on-aston-martin-to-improve-car-in-all-areas.b77OukbCIPwfywzXd6qrC",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[3]/div/div/div[2]/li[4]/a"
+        "xpath": "/html/body/main/div[3]/div/div/div[2]/li[4]/a",
+        "key_interactions": 19
     },
     {
-        "IA2UniqueID": -1222,
-        "nvda_name": "FEATURE Broken bones, Hamilton\u2019s friendship and goosebumps at Williams \u2013 Getting to know the real James Vowles",
-        "nvda_value": "https://www.formula1.com/en/latest/article/broken-bones-hamiltons-friendship-and-goosebumps-at-williams-getting-to-know.31tjr2UAS4VutvHzV3tA9J",
+        "IA2UniqueID": -44381,
+        "nvda_name": "NEWS \u2018He can be very proud\u2019 \u2013 Piastri voices support for Doohan after fellow Australian\u2019s Alpine demotion",
+        "nvda_value": "https://www.formula1.com/en/latest/article/he-can-be-very-proud-piastri-voices-support-for-doohan-after-fellow.3op1sXpHwMMrGRbuFBPzIA",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[3]/div[2]/div/div/div/iframe"
+        "xpath": "/html/body/main/div[3]/div[2]/div/div/div/iframe",
+        "key_interactions": 20
     },
     {
-        "IA2UniqueID": -3023,
+        "IA2UniqueID": -48184,
         "nvda_name": "None",
-        "nvda_value": "https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsvq04WFXTyOnlD7jslCHSvQdtmqryRf3q8oNt86tJ5FGvc9m6WagXABnepNY7NWXucaJrHp33_wHK58gXtJbC0KHlh22iKzqy3hWu2ZF2FG3lModrlPvZpyLSkjZvJcsqjUawJ-OrSM2YCwG-O_9xDIndPCUoUfkGYprd1egYzIspR8_4IW0P0cQo_x4IA0i0BDeFclihf8GrRcEW3lKkp6qVjHQrHTMjpua4c95Chbf-in0neiDDYoTAE7GvaVtTKZygA5ncXLTcLgRlPyJzhMgo4kj5yv1Rv-SoSAcU7eEL0CKcptMCdYnNjfoGhiWYLI0yuPHW7_3JDCX3FbnFOs5o-wm9PsX5Xx062xzz25pDovXldN_RdZBwFbiim39L1cWP1GCJMLUOx9XPIURA23WoWHu7HDwkHXc6uKMGqV6XyT9CvFDocJsZDydt-rZmr-5TK9FpcjaPY&sai=AMfl-YSXuZa91VxPpHLBF2HfSy7bsV3jpUnCNT2c5KHZUpk_HUHtqevKqA6g_xkKeJeLijSUTAhdMuNpAqckBsYHC9MEpGRw8XJ8IXwx0grKbFV_qmPsmtWN3wPCSEGmctnSNFhNn7owFC1vhTH4E3DFSQ&sig=Cg0ArKJSzGFEyMb_xJy7&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.gainbridge.io%3Futm_source%3Df1miami%26utm_medium%3Devent%26utm_campaign%3Dbanner&nm=1",
+        "nvda_value": "https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjssFT5dIgzexyOssUmzfCWZDIkc6Rw8MBju_6uN31w-r3i1oIEZo1BJTYyTUEsdit0ZmNQhwTE7WfQoef0Flvk4lg8jXEeJvNF9-6UFBB9EMy5Zjw0m35r_R6Mp5QM7rL-7P0PHb4P_Gou4-cth8tQsEfXl4x4h1Fu3R92hGIY4WTqo3ZBjTDDNLNW_dMRqHzgPa8lkvaHhB5idxq5hHAhhyauSFlpZonUUAQA7dmYGrZ9cXpKZwCxF2kzq6LQvkzhnKtOnL_wB4ivNBCR6YxH_AocTjFxIUrR5wfiQs7UqGkbHsH9jfZQJ1kfH-b4zOguc040Z6kjOd1ca5JfGe0Zf3KvnaAjTFVqlAtKj5QD9XDeOdA1JFKjXaXILV_DhmFQeFPxlpqHNhD5evMQzYcqC-7Vprh9TgmSPKNNUdLVTM7I7HFaCsxlWgUvqJMO99zjb51QM&sai=AMfl-YQVPvMh7Kc2m_x2c4ewUL4U7EVgZt5anS2kHvorJeYtw0coH6OAficmS-_-quichlChOwDpAE1YrRqLzxFRze80u1VXSUrHHTcG785_6hf48joODGL6jjqH_K_b3iNTXH39Gn3TdXAUFOzwZZgvcw&sig=Cg0ArKJSzBj80g2kGxgI&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.formula1.com/en/latest/article/f1-unlocked-red-carpet-unlocked-nyc.NUJkRJy25twoZyJYf4Clb%3Futm_source%3Df1%26utm_medium%3DHouseadsUS%26utm_campaign%3DUnlockedRC&nm=1",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[4]/div/label/div/div[2]/span/a"
+        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[8]/div/label/div/div[2]/span/a",
+        "key_interactions": 21
     },
     {
-        "IA2UniqueID": -1271,
-        "nvda_name": "FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025",
-        "nvda_value": "https://www.formula1.com/en/racing/2025/japan",
+        "IA2UniqueID": -44461,
+        "nvda_name": "FORMULA 1 AWS GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2025",
+        "nvda_value": "https://www.formula1.com/en/racing/2025/emiliaromagna",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[4]/div/label/div/div[3]/a"
+        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[8]/div/label/div/div[3]/a",
+        "key_interactions": 22
     },
     {
-        "IA2UniqueID": -1274,
+        "IA2UniqueID": -44465,
         "nvda_name": "VIEW SCHEDULE",
-        "nvda_value": "https://www.formula1.com/en/racing/2025/japan",
+        "nvda_value": "https://www.formula1.com/en/racing/2025/emiliaromagna",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[4]/div/label/div/div[4]/a"
+        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[8]/div/label/div/div[4]/a",
+        "key_interactions": 23
     },
     {
-        "IA2UniqueID": -1277,
+        "IA2UniqueID": -44476,
         "nvda_name": "TAG Heuer, Formula 1 official timepiece",
         "nvda_value": "https://www.tagheuer.com/",
         "nvda_states": [
@@ -1249,10 +292,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[4]/div/label/div/div[4]/div[2]/a"
+        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[8]/div/label/div/div[4]/div[2]/a",
+        "key_interactions": 24
     },
     {
-        "IA2UniqueID": -1290,
+        "IA2UniqueID": -45158,
         "nvda_name": "TAG Heuer Clock",
         "nvda_value": "https://www.tagheuer.com/",
         "nvda_states": [
@@ -1260,109 +304,95 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div/a"
+        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div/a[2]",
+        "key_interactions": 25
     },
     {
-        "IA2UniqueID": -1535,
+        "IA2UniqueID": -44715,
         "nvda_name": "None",
-        "nvda_value": "https://www.formula1.com/en/drivers/max-verstappen",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div/a[2]"
-    },
-    {
-        "IA2UniqueID": -1546,
-        "nvda_name": "None",
-        "nvda_value": "https://www.formula1.com/en/drivers/lando-norris",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div/a[3]"
-    },
-    {
-        "IA2UniqueID": -1557,
-        "nvda_name": "None",
-        "nvda_value": "https://www.formula1.com/en/drivers/george-russell",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -1571,
-        "nvda_name": "1Lando\u00a0NORRIS McLaren 44 PTS chevron-right",
-        "nvda_value": "https://www.formula1.com/en/drivers/lando-norris",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -1578,
-        "nvda_name": "2Max\u00a0VERSTAPPEN Red Bull Racing 36 PTS chevron-right",
-        "nvda_value": "https://www.formula1.com/en/drivers/max-verstappen",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -1585,
-        "nvda_name": "3George\u00a0RUSSELL Mercedes 35 PTS chevron-right",
-        "nvda_value": "https://www.formula1.com/en/drivers/george-russell",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -1592,
-        "nvda_name": "4Oscar\u00a0PIASTRI McLaren 34 PTS chevron-right",
         "nvda_value": "https://www.formula1.com/en/drivers/oscar-piastri",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li[5]/a"
+        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li/a",
+        "key_interactions": 26
     },
     {
-        "IA2UniqueID": -1599,
-        "nvda_name": "5Kimi\u00a0ANTONELLI Mercedes 22 PTS chevron-right",
+        "IA2UniqueID": -44721,
+        "nvda_name": "1\u00a0PIASTRI 131 PTS chevron-right",
+        "nvda_value": "https://www.formula1.com/en/drivers/oscar-piastri",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li[2]/a",
+        "key_interactions": 27
+    },
+    {
+        "IA2UniqueID": -44726,
+        "nvda_name": "2\u00a0NORRIS 115 PTS chevron-right",
+        "nvda_value": "https://www.formula1.com/en/drivers/lando-norris",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li[3]/a",
+        "key_interactions": 28
+    },
+    {
+        "IA2UniqueID": -44731,
+        "nvda_name": "3\u00a0VERSTAPPEN 99 PTS chevron-right",
+        "nvda_value": "https://www.formula1.com/en/drivers/max-verstappen",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li[4]/a",
+        "key_interactions": 29
+    },
+    {
+        "IA2UniqueID": -44736,
+        "nvda_name": "4\u00a0RUSSELL 93 PTS chevron-right",
+        "nvda_value": "https://www.formula1.com/en/drivers/george-russell",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li[5]/a",
+        "key_interactions": 30
+    },
+    {
+        "IA2UniqueID": -44741,
+        "nvda_name": "5\u00a0LECLERC 53 PTS chevron-right",
+        "nvda_value": "https://www.formula1.com/en/drivers/charles-leclerc",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li[6]/a",
+        "key_interactions": 31
+    },
+    {
+        "IA2UniqueID": -44746,
+        "nvda_name": "6\u00a0ANTONELLI 48 PTS chevron-right",
         "nvda_value": "https://www.formula1.com/en/drivers/kimi-antonelli",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/ul/li[6]/a"
+        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/a",
+        "key_interactions": 32
     },
     {
-        "IA2UniqueID": -1606,
-        "nvda_name": "6Alexander\u00a0ALBON Williams 16 PTS chevron-right",
-        "nvda_value": "https://www.formula1.com/en/drivers/alexander-albon",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[2]/div/div/div/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -1612,
+        "IA2UniqueID": -44756,
         "nvda_name": "VIEW FULL STANDINGS",
         "nvda_value": "https://www.formula1.com/en/results/2025/drivers",
         "nvda_states": [
@@ -1370,10 +400,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div[3]/div/a"
+        "xpath": "/html/body/main/div[4]/div[3]/div/a",
+        "key_interactions": 33
     },
     {
-        "IA2UniqueID": -1619,
+        "IA2UniqueID": -44796,
         "nvda_name": "F1\u00ae Authentics - F1 and team memorabilia F1\u00ae Authentics - F1 and team memorabilia SHOP NOW",
         "nvda_value": "https://www.f1authentics.com/",
         "nvda_states": [
@@ -1381,10 +412,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div[3]/div/a[2]"
+        "xpath": "/html/body/main/div[4]/div[3]/div/a[2]",
+        "key_interactions": 34
     },
     {
-        "IA2UniqueID": -1630,
+        "IA2UniqueID": -44797,
         "nvda_name": "F1\u00ae Store - Official F1 & team merchandise F1\u00ae Store - Official F1 & team merchandise SHOP NOW",
         "nvda_value": "https://f1store.formula1.com/en/?_s=bm-fi-f1-prtsite-storebanner-161023-AB",
         "nvda_states": [
@@ -1392,10 +424,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div[3]/div/a[3]"
+        "xpath": "/html/body/main/div[4]/div[3]/div/a[3]",
+        "key_interactions": 35
     },
     {
-        "IA2UniqueID": -1641,
+        "IA2UniqueID": -44798,
         "nvda_name": "Get closer to the action with F1\u00ae TV Get closer to the action with F1\u00ae TV SUBSCRIBE NOW",
         "nvda_value": "https://f1tv.formula1.com/",
         "nvda_states": [
@@ -1403,10 +436,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div[4]/div/div/ul/li/a"
+        "xpath": "/html/body/main/div[4]/div[4]/div/div/ul/li/a",
+        "key_interactions": 36
     },
     {
-        "IA2UniqueID": -1661,
+        "IA2UniqueID": -44807,
         "nvda_name": "Impact",
         "nvda_value": "https://www.formula1.com/en/latest/tags/impact.2Xv0Ky85GUqpD8aP9sgUwq",
         "nvda_states": [
@@ -1414,10 +448,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div[4]/div/div/ul/li[2]/a"
+        "xpath": "/html/body/main/div[4]/div[4]/div/div/ul/li[2]/a",
+        "key_interactions": 37
     },
     {
-        "IA2UniqueID": -1667,
+        "IA2UniqueID": -44812,
         "nvda_name": "Race calendar",
         "nvda_value": "https://www.formula1.com/en/latest/tags/race-calendar.2Sa4DEdBSUMcOqa8aYceEe",
         "nvda_states": [
@@ -1425,10 +460,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div[4]/div/div/ul/li[3]/a"
+        "xpath": "/html/body/main/div[4]/div[4]/div/div/ul/li[3]/a",
+        "key_interactions": 38
     },
     {
-        "IA2UniqueID": -1673,
+        "IA2UniqueID": -44817,
         "nvda_name": "Podcasts",
         "nvda_value": "https://www.formula1.com/en/latest/tags/podcasts.5Wy3IsJQnmweQC6igqEOio",
         "nvda_states": [
@@ -1436,10 +472,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/main/div[4]/div[4]/div/div/ul/li[4]/a"
+        "xpath": "/html/body/main/div[4]/div[4]/div/div/ul/li[4]/a",
+        "key_interactions": 39
     },
     {
-        "IA2UniqueID": -1679,
+        "IA2UniqueID": -44822,
         "nvda_name": "Esports",
         "nvda_value": "https://www.formula1.com/en/latest/tags/esports.N0CpHwC3MAUK4iwAEYi6e",
         "nvda_states": [
@@ -1447,10 +484,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section/div/ul/li[2]/a"
+        "xpath": "/html/body/footer/section/div/ul/li[2]/a",
+        "key_interactions": 40
     },
     {
-        "IA2UniqueID": -1690,
+        "IA2UniqueID": -44839,
         "nvda_name": "Get it on Google Play",
         "nvda_value": "https://play.google.com/store/apps/details?id=com.softpauer.f1timingapp2014.basic&hl=en_GB",
         "nvda_states": [
@@ -1458,10 +496,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section/div/ul/li[3]/a"
+        "xpath": "/html/body/footer/section/div/ul/li[3]/a",
+        "key_interactions": 41
     },
     {
-        "IA2UniqueID": -1693,
+        "IA2UniqueID": -44841,
         "nvda_name": "Download on the Apple App Store",
         "nvda_value": "https://apps.apple.com/gb/app/official-f1-app/id835022598",
         "nvda_states": [
@@ -1469,10 +508,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section/div/ul[2]/li/a"
+        "xpath": "/html/body/footer/section/div/ul[2]/li/a",
+        "key_interactions": 42
     },
     {
-        "IA2UniqueID": -1697,
+        "IA2UniqueID": -44846,
         "nvda_name": "Facebook logo",
         "nvda_value": "https://www.facebook.com/Formula1",
         "nvda_states": [
@@ -1480,10 +520,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section/div/ul[2]/li[2]/a"
+        "xpath": "/html/body/footer/section/div/ul[2]/li[2]/a",
+        "key_interactions": 43
     },
     {
-        "IA2UniqueID": -1700,
+        "IA2UniqueID": -44848,
         "nvda_name": "Twitter logo",
         "nvda_value": "https://twitter.com/f1",
         "nvda_states": [
@@ -1491,10 +532,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section/div/ul[2]/li[3]/a"
+        "xpath": "/html/body/footer/section/div/ul[2]/li[3]/a",
+        "key_interactions": 44
     },
     {
-        "IA2UniqueID": -1703,
+        "IA2UniqueID": -44850,
         "nvda_name": "Instagram logo",
         "nvda_value": "https://www.instagram.com/f1/",
         "nvda_states": [
@@ -1502,10 +544,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section/div/ul[2]/li[4]/a"
+        "xpath": "/html/body/footer/section/div/ul[2]/li[4]/a",
+        "key_interactions": 45
     },
     {
-        "IA2UniqueID": -1706,
+        "IA2UniqueID": -44852,
         "nvda_name": "YouTube logo",
         "nvda_value": "https://www.youtube.com/F1",
         "nvda_states": [
@@ -1513,10 +556,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div/a"
+        "xpath": "/html/body/footer/section[2]/div/a",
+        "key_interactions": 46
     },
     {
-        "IA2UniqueID": -1711,
+        "IA2UniqueID": -44862,
         "nvda_name": "Our partners",
         "nvda_value": "https://www.formula1.com/en/information/formula-1-partners.2shz7bIVhGgS3ovP69N3Rs",
         "nvda_states": [
@@ -1524,10 +568,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li/a",
+        "key_interactions": 47
     },
     {
-        "IA2UniqueID": -1716,
+        "IA2UniqueID": -44864,
         "nvda_name": "LVMH",
         "nvda_value": "https://www.lvmh.com/en",
         "nvda_states": [
@@ -1535,10 +580,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[2]/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[2]/a",
+        "key_interactions": 48
     },
     {
-        "IA2UniqueID": -1719,
+        "IA2UniqueID": -44866,
         "nvda_name": "Pirelli",
         "nvda_value": "http://bit.ly/2IjWDjE",
         "nvda_states": [
@@ -1546,10 +592,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[3]/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[3]/a",
+        "key_interactions": 49
     },
     {
-        "IA2UniqueID": -1722,
+        "IA2UniqueID": -44868,
         "nvda_name": "Aramco",
         "nvda_value": "https://www.saudiaramco.com/",
         "nvda_states": [
@@ -1557,10 +604,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[4]/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[4]/a",
+        "key_interactions": 50
     },
     {
-        "IA2UniqueID": -1725,
+        "IA2UniqueID": -44870,
         "nvda_name": "Heineken",
         "nvda_value": "https://www.heineken.com/",
         "nvda_states": [
@@ -1568,10 +616,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[5]/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[5]/a",
+        "key_interactions": 51
     },
     {
-        "IA2UniqueID": -1728,
+        "IA2UniqueID": -44872,
         "nvda_name": "AWS",
         "nvda_value": "https://aws.amazon.com/f1/",
         "nvda_states": [
@@ -1579,10 +628,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[6]/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[6]/a",
+        "key_interactions": 52
     },
     {
-        "IA2UniqueID": -1731,
+        "IA2UniqueID": -44874,
         "nvda_name": "Lenovo",
         "nvda_value": "https://www.lenovo.com/",
         "nvda_states": [
@@ -1590,10 +640,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[7]/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[7]/a",
+        "key_interactions": 53
     },
     {
-        "IA2UniqueID": -1734,
+        "IA2UniqueID": -44876,
         "nvda_name": "DHL",
         "nvda_value": "https://inmotion.dhl/en/formula-1/?utm_content=DHL-F1&utm_source=f1&utm_medium=website&utm_campaign=DHL-F1",
         "nvda_states": [
@@ -1601,10 +652,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[8]/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[8]/a",
+        "key_interactions": 54
     },
     {
-        "IA2UniqueID": -1737,
+        "IA2UniqueID": -44878,
         "nvda_name": "Qatar Airways",
         "nvda_value": "https://www.qatarairways.com/",
         "nvda_states": [
@@ -1612,10 +664,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[9]/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[9]/a",
+        "key_interactions": 55
     },
     {
-        "IA2UniqueID": -1740,
+        "IA2UniqueID": -44880,
         "nvda_name": "MSC",
         "nvda_value": "http://www.msccruises.com/",
         "nvda_states": [
@@ -1623,10 +676,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[10]/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[10]/a",
+        "key_interactions": 56
     },
     {
-        "IA2UniqueID": -1743,
+        "IA2UniqueID": -44882,
         "nvda_name": "Crypto.com",
         "nvda_value": "https://www.crypto.com/",
         "nvda_states": [
@@ -1634,10 +688,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[11]/a"
+        "xpath": "/html/body/footer/section[2]/div[2]/ul/li[11]/a",
+        "key_interactions": 57
     },
     {
-        "IA2UniqueID": -1746,
+        "IA2UniqueID": -44884,
         "nvda_name": "Salesforce",
         "nvda_value": "https://www.salesforce.com/campaign/formula1/?d=7013y000002RO1gAAG&utm_source=formula1&utm_medium=referral&utm_campaign=us_c360aw&utm_content=formula1-salesforce-logo_7013y000002RO1gAAG",
         "nvda_states": [
@@ -1645,10 +700,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li/a"
+        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li/a",
+        "key_interactions": 58
     },
     {
-        "IA2UniqueID": -1786,
+        "IA2UniqueID": -45151,
         "nvda_name": "Latest",
         "nvda_value": "https://www.formula1.com/en/latest",
         "nvda_states": [
@@ -1656,10 +712,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li[2]/a"
+        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li[2]/a",
+        "key_interactions": 59
     },
     {
-        "IA2UniqueID": -1788,
+        "IA2UniqueID": -45152,
         "nvda_name": "What is F1?",
         "nvda_value": "https://www.formula1.com/en/page/what-is-f1",
         "nvda_states": [
@@ -1667,10 +724,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li[3]/a"
+        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li[3]/a",
+        "key_interactions": 60
     },
     {
-        "IA2UniqueID": -1790,
+        "IA2UniqueID": -45153,
         "nvda_name": "Video",
         "nvda_value": "https://www.formula1.com/en/video",
         "nvda_states": [
@@ -1678,10 +736,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li[4]/a"
+        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li[4]/a",
+        "key_interactions": 61
     },
     {
-        "IA2UniqueID": -1792,
+        "IA2UniqueID": -45154,
         "nvda_name": "Drivers",
         "nvda_value": "https://www.formula1.com/en/drivers",
         "nvda_states": [
@@ -1689,10 +748,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li[5]/a"
+        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li[5]/a",
+        "key_interactions": 62
     },
     {
-        "IA2UniqueID": -1794,
+        "IA2UniqueID": -45155,
         "nvda_name": "Teams",
         "nvda_value": "https://www.formula1.com/en/teams",
         "nvda_states": [
@@ -1700,10 +760,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li[6]/a"
+        "xpath": "/html/body/footer/section[2]/div[3]/div/ul/li[6]/a",
+        "key_interactions": 63
     },
     {
-        "IA2UniqueID": -1796,
+        "IA2UniqueID": -45156,
         "nvda_name": "Schedule",
         "nvda_value": "https://www.formula1.com/en/racing/2025",
         "nvda_states": [
@@ -1711,241 +772,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[2]/a"
+        "xpath": "/html/body/footer/section[2]/div[3]/div[6]/ul/li/a",
+        "key_interactions": 64
     },
     {
-        "IA2UniqueID": -1798,
-        "nvda_name": "Results",
-        "nvda_value": "https://www.formula1.com/en/results/2025/races",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[2]/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -1802,
-        "nvda_name": "2025 SEASON",
-        "nvda_value": "https://www.formula1.com/en/results/2025/races/1255/china/race-result",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[2]/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -1804,
-        "nvda_name": "DRIVER STANDINGS",
-        "nvda_value": "https://www.formula1.com/en/results/2025/drivers",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[2]/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -1806,
-        "nvda_name": "TEAM STANDINGS",
-        "nvda_value": "https://www.formula1.com/en/results/2025/team",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[2]/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -1808,
-        "nvda_name": "ARCHIVE 1950-2024",
-        "nvda_value": "https://www.formula1.com/en/results/1950/races/94/great-britain/race-result",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[2]/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -1810,
-        "nvda_name": "F1 AWARDS",
-        "nvda_value": "https://www.formula1.com/en/results/awards",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[3]/a"
-    },
-    {
-        "IA2UniqueID": -1812,
-        "nvda_name": "Gaming",
-        "nvda_value": "https://www.formula1.com/en/page/gaming",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[3]/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -1816,
-        "nvda_name": "ESPORTS",
-        "nvda_value": "https://f1esports.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[3]/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -1818,
-        "nvda_name": "FANTASY",
-        "nvda_value": "https://fantasy.formula1.com/en/?utm_source=web_formula1.com&utm_medium=internal_referral&utm_campaign=navigation",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[3]/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -1820,
-        "nvda_name": "F1 24",
-        "nvda_value": "https://www.ea.com/en-gb/games/f1/f1-24",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[3]/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -1822,
-        "nvda_name": "F1 MANAGER 24",
-        "nvda_value": "https://www.f1manager.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[3]/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -1824,
-        "nvda_name": "F1 PREDICT",
-        "nvda_value": "https://f1predict.formula1.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[3]/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -1826,
-        "nvda_name": "F1 MOBILE RACING",
-        "nvda_value": "https://www.ea.com/en-gb/games/f1/f1-mobile-racing",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[3]/ul/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -1828,
-        "nvda_name": "F1 CLASH",
-        "nvda_value": "https://www.hutch.io/our-games/f1-clash/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[4]/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -1832,
-        "nvda_name": "Live Timing",
-        "nvda_value": "https://www.formula1.com/en/timing/f1-live",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[5]/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -1836,
-        "nvda_name": "Tickets",
-        "nvda_value": "https://tickets.formula1.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[5]/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -1838,
-        "nvda_name": "F1\u00ae Experiences",
-        "nvda_value": "https://f1experiences.com/?utm_source=formula1.com&utm_medium=referral&utm_campaign=general",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[5]/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -1840,
-        "nvda_name": "Store",
-        "nvda_value": "https://f1store.formula1.com/en/?_s=bm-fi-f1-prtsite-topnav-230720-jm",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[5]/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -1842,
-        "nvda_name": "Paddock Club",
-        "nvda_value": "https://tickets.formula1.com/en/pc-paddock-club",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[5]/ul/li[5]/a"
-    },
-    {
-        "IA2UniqueID": -1844,
-        "nvda_name": "F1\u00ae TV",
-        "nvda_value": "https://f1tv.formula1.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[5]/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -1846,
-        "nvda_name": "F1\u00ae Authentics",
-        "nvda_value": "https://www.f1authentics.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[3]/div[6]/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -1850,
+        "IA2UniqueID": -45157,
         "nvda_name": "Rules & Regulations",
         "nvda_value": "https://www.formula1.com/en/latest/article/from-fastest-lap-to-increased-rookie-running-7-rule-changes-you-need-to-know.pgdSMDnDyv1aJUgtcKPp6",
         "nvda_states": [
@@ -1953,593 +784,43 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/ul/li/a"
+        "xpath": "/html/body/footer/section[2]/div[4]/a",
+        "key_interactions": 65
     },
     {
-        "IA2UniqueID": -1853,
-        "nvda_name": "CONTACTS",
-        "nvda_value": "https://www.formula1.com/en/latest/article/faqs-and-contact-information.1TqkueKz2aRd9diRUQlq2U",
+        "IA2UniqueID": -48905,
+        "nvda_name": "F1 - The Official Home of Formula 1\u00ae Racing",
+        "nvda_value": null,
         "nvda_states": [
-            "LINKED (4096)",
+            "READONLY (128)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/ul/li[2]/a"
+        "xpath": "/html/body/footer/section[2]/div[3]/button",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -1855,
-        "nvda_name": "F1\u00ae TV SUPPORT",
-        "nvda_value": "https://support.f1.tv/s/?language=en_US",
+        "IA2UniqueID": -50796,
+        "nvda_name": "Results",
+        "nvda_value": null,
         "nvda_states": [
-            "LINKED (4096)",
+            "COLLAPSED (512)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/ul/li[3]/a"
+        "xpath": "/html/body/footer/section[2]/div[3]/button[2]",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -1857,
-        "nvda_name": "PRIVACY POLICY",
-        "nvda_value": "https://account.formula1.com/#/en/privacy-policy",
+        "IA2UniqueID": -50798,
+        "nvda_name": "Gaming",
+        "nvda_value": null,
         "nvda_states": [
-            "LINKED (4096)",
+            "COLLAPSED (512)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/footer/section[2]/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -1859,
-        "nvda_name": "COOKIES POLICY",
-        "nvda_value": "https://account.formula1.com/#/en/cookie-policy/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[6]/a"
-    },
-    {
-        "IA2UniqueID": -1865,
-        "nvda_name": "GUIDELINES",
-        "nvda_value": "https://www.formula1.com/en/information/guidelines.4EOKE9RRqevL4niTK9kWyt",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[7]/a"
-    },
-    {
-        "IA2UniqueID": -1867,
-        "nvda_name": "LEGAL NOTICES",
-        "nvda_value": "https://www.formula1.com/en/information/legal-notices.7egvZU48hzrypubGBNcQKt",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[8]/a"
-    },
-    {
-        "IA2UniqueID": -1869,
-        "nvda_name": "CODE OF CONDUCT",
-        "nvda_value": "https://media.formula1.com/image/upload/v1731681061/fom-website/manual/Misc/f1_code_of_conduct/FOM_24_Code_of_Conduct_AWK_2024_R5.pdf",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[9]/a"
-    },
-    {
-        "IA2UniqueID": -1871,
-        "nvda_name": "ANTI-BRIBERY",
-        "nvda_value": "https://www.formula1.com/en/information/formula-1-anti-bribery-principles.6c4e0k31Ao87urACz8RwfU",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[10]/a"
-    },
-    {
-        "IA2UniqueID": -1873,
-        "nvda_name": "HUMAN RIGHTS",
-        "nvda_value": "https://www.formula1.com/en/information/statement-of-commitment-to-respect-for-human-rights.1OC6AmJr53THNGI9TNFxjf",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[11]/a"
-    },
-    {
-        "IA2UniqueID": -1875,
-        "nvda_name": "GENDER PAY REPORT",
-        "nvda_value": "https://media.formula1.com/image/upload/v1710501054/content/dam/fom-website/manual/Misc/GenderPay/F1GenderPayGapReport2024.pdf",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[12]/a"
-    },
-    {
-        "IA2UniqueID": -1877,
-        "nvda_name": "TERMS OF USE",
-        "nvda_value": "https://account.formula1.com/#/en/terms-of-use",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[13]/a"
-    },
-    {
-        "IA2UniqueID": -1879,
-        "nvda_name": "PARTNERS",
-        "nvda_value": "https://www.formula1.com/en/information/formula-1-partners.2shz7bIVhGgS3ovP69N3Rs",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[14]/a"
-    },
-    {
-        "IA2UniqueID": -1881,
-        "nvda_name": "F1\u00ae FAN VOICE",
-        "nvda_value": "https://www.f1fanvoice.com/auth/sign_in",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[15]/a"
-    },
-    {
-        "IA2UniqueID": -1883,
-        "nvda_name": "BEYOND THE GRID - THE F1\u00ae PODCAST",
-        "nvda_value": "https://www.formula1.com/en/latest/tags/beyond-the-grid.63HGi6Q0grEg1ToZBtPNQ9",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[16]/a"
-    },
-    {
-        "IA2UniqueID": -1885,
-        "nvda_name": "F1\u00ae CORPORATE SITE",
-        "nvda_value": "https://corp.formula1.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[17]/a"
-    },
-    {
-        "IA2UniqueID": -1887,
-        "nvda_name": "BECOME AN AFFILIATE",
-        "nvda_value": "https://signup.partnerize.com/signup/en/formula1",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[18]/a"
-    },
-    {
-        "IA2UniqueID": -1889,
-        "nvda_name": "OFFICIAL F1\u00ae RACE PROGRAMME",
-        "nvda_value": "https://linktr.ee/F1raceprogramme",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[19]/a"
-    },
-    {
-        "IA2UniqueID": -1891,
-        "nvda_name": "MODERN SLAVERY STATEMENT",
-        "nvda_value": "https://www.formula1.com/en/information/formula-1-modern-slavery-statement-2024-2025.kXcj3meEwCnAtHoSNSySQ",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/div[4]/a"
-    },
-    {
-        "IA2UniqueID": -948,
-        "nvda_name": "Federation Internationale de l'Automobile",
-        "nvda_value": "https://www.fia.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/header/a"
-    },
-    {
-        "IA2UniqueID": -943,
-        "nvda_name": "SKIP TO CONTENT",
-        "nvda_value": "https://www.formula1.com/#maincontent",
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "LINKED (4096)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/main/div[2]/div[3]/div/div/div/button"
-    },
-    {
-        "IA2UniqueID": -1119,
-        "nvda_name": "WATCH NOW",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[2]/div[5]/div/div/div/button"
-    },
-    {
-        "IA2UniqueID": -1184,
-        "nvda_name": "WATCH NOW",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[4]/div/label/div/div[4]/div/div/button"
-    },
-    {
-        "IA2UniqueID": -1284,
-        "nvda_name": "TRACK TIME 17:34",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[3]/div/a/div/div/div/div/button"
-    },
-    {
-        "IA2UniqueID": -1627,
-        "nvda_name": "SHOP NOW",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[3]/div/a[2]/div/div/div/div/button"
-    },
-    {
-        "IA2UniqueID": -1638,
-        "nvda_name": "SHOP NOW",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[3]/div/a[3]/div/div/div/div/button"
-    },
-    {
-        "IA2UniqueID": -1649,
-        "nvda_name": "SUBSCRIBE NOW",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[5]/button"
-    },
-    {
-        "IA2UniqueID": -1861,
-        "nvda_name": "COOKIE PREFERENCES",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/footer/section[2]/ul/li[20]/button"
-    },
-    {
-        "IA2UniqueID": -1119,
-        "nvda_name": "WATCH NOW",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[2]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -909,
-        "nvda_name": "Australia AUSTRALIA 16 MAR",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[3]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -910,
-        "nvda_name": "China CHINA 23 MAR",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[4]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -1284,
-        "nvda_name": "TRACK TIME 17:39",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[5]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -912,
-        "nvda_name": "Bahrain BAHRAIN 13 APR",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[6]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -913,
-        "nvda_name": "Saudi Arabia SAUDI ARABIA 20 APR",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[7]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -914,
-        "nvda_name": "United States MIAMI 4 MAY",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[8]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -915,
-        "nvda_name": "Italy EMILIA-ROMAGNA 18 MAY",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[9]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -916,
-        "nvda_name": "Monaco MONACO 25 MAY",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[10]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -917,
-        "nvda_name": "Spain SPAIN 1 JUN",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[11]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -918,
-        "nvda_name": "Canada CANADA 15 JUN",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[12]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -919,
-        "nvda_name": "Austria AUSTRIA 29 JUN",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[13]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -920,
-        "nvda_name": "United Kingdom GREAT BRITAIN 6 JUL",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[14]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -921,
-        "nvda_name": "Belgium BELGIUM 27 JUL",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[15]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -922,
-        "nvda_name": "Hungary HUNGARY 3 AUG",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[16]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -923,
-        "nvda_name": "Netherlands NETHERLANDS 31 AUG",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[17]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -924,
-        "nvda_name": "Italy ITALY 7 SEP",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[18]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -925,
-        "nvda_name": "Azerbaijan AZERBAIJAN 21 SEP",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[19]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -926,
-        "nvda_name": "Singapore SINGAPORE 5 OCT",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[20]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -927,
-        "nvda_name": "United States UNITED STATES 19 OCT",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[21]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -928,
-        "nvda_name": "Mexico MEXICO 26 OCT",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[22]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -929,
-        "nvda_name": "Brazil BRAZIL 9 NOV",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[23]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -930,
-        "nvda_name": "United States LAS VEGAS 22 NOV",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[24]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -931,
-        "nvda_name": "Qatar QATAR 30 NOV",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div/div/form/fieldset/div[25]/div/label/input"
-    },
-    {
-        "IA2UniqueID": -932,
-        "nvda_name": "United Arab Emirates ABU DHABI 7 DEC",
-        "nvda_value": null,
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)",
-            "CHECKABLE (134217728)"
-        ],
-        "xpath": "/html/body/main/div[4]/div[2]/ul/li"
+        "xpath": "/html/body/footer/section[2]/button",
+        "key_interactions": 2
     }
 ]

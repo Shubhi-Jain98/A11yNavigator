@@ -1,1336 +1,2427 @@
 {
-    "count by default selenium driver": 455,
-    "total_count based on actionable selectors": 266,
+    "count by default selenium driver": 458,
+    "total_count based on actionable selectors": 269,
     "actionableElements": [
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/nav[1]/div[1]/span[1]/a[1]",
-            "text": "post"
+            "text": "post",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://post.craigslist.org/c/orc"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/nav[1]/div[1]/span[1]/a[2]",
-            "text": "acct"
+            "text": "acct",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://accounts.craigslist.org/login/home"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/nav[1]/div[2]/h2[1]/div[1]/a[1]",
-            "text": "orange co"
+            "text": "orange co",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/#"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[1]/li[1]/a[1]",
-            "text": "post an ad"
+            "text": "post an ad",
+            "aria-label": "",
+            "id": "post",
+            "placeholder": null,
+            "href": "https://post.craigslist.org/c/orc"
         },
         {
             "tag_name": "input",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[1]/div[1]/input[1]",
-            "text": ""
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": "search craigslist",
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/h4[1]/a[1]",
-            "text": "event calendar"
+            "text": "event calendar",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[2]/td[5]/a[1]",
+            "text": "24",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-04-24"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[2]/td[6]/a[1]",
+            "text": "25",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-04-25"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[2]/td[7]/a[1]",
+            "text": "26",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-04-26"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[1]/a[1]",
-            "text": "30"
+            "text": "27",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-04-27"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/a[1]",
-            "text": "31"
+            "text": "28",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-04-28"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[3]/a[1]",
-            "text": "1"
+            "text": "29",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-04-29"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[4]/a[1]",
-            "text": "2"
+            "text": "30",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-04-30"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[5]/a[1]",
-            "text": "3"
+            "text": "1",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-01"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[6]/a[1]",
-            "text": "4"
+            "text": "2",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-02"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[3]/td[7]/a[1]",
-            "text": "5"
+            "text": "3",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-03"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[1]/a[1]",
-            "text": "6"
+            "text": "4",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-04"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[2]/a[1]",
-            "text": "7"
+            "text": "5",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-05"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[3]/a[1]",
-            "text": "8"
+            "text": "6",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-06"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[4]/a[1]",
-            "text": "9"
+            "text": "7",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-07"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[5]/a[1]",
-            "text": "10"
+            "text": "8",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-08"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[6]/a[1]",
-            "text": "11"
+            "text": "9",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-09"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[4]/td[7]/a[1]",
-            "text": "12"
+            "text": "10",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-10"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[1]/a[1]",
-            "text": "13"
+            "text": "11",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-11"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/a[1]",
-            "text": "14"
+            "text": "12",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-12"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[3]/a[1]",
-            "text": "15"
+            "text": "13",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-13"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[4]/a[1]",
-            "text": "16"
+            "text": "14",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-14"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[5]/a[1]",
-            "text": "17"
+            "text": "15",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-15"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[6]/a[1]",
-            "text": "18"
+            "text": "16",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-16"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/div[2]/table[1]/tbody[1]/tr[5]/td[7]/a[1]",
-            "text": "19"
+            "text": "17",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eee?sale_date=2025-05-17"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[2]/li[1]/a[1]",
-            "text": "help, faq, abuse, legal"
+            "text": "help, faq, abuse, legal",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/help/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[2]/li[2]/a[1]",
-            "text": "avoid scams & fraud"
+            "text": "avoid scams & fraud",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/help/safety/scams"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[2]/li[3]/a[1]",
-            "text": "personal safety tips"
+            "text": "personal safety tips",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/help/safety"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[3]/li[1]/a[1]",
-            "text": "about craigslist"
+            "text": "about craigslist",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[3]/li[2]/a[1]",
-            "text": "best-of-craigslist"
+            "text": "best-of-craigslist",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/best/all/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[3]/li[3]/a[1]",
-            "text": "craigslist is hiring"
+            "text": "craigslist is hiring",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/craigslist_is_hiring"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[3]/li[4]/a[1]",
-            "text": "what's new"
+            "text": "what's new",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/whats-new"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[3]/li[5]/a[1]",
-            "text": "system status"
+            "text": "system status",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/help/system-status"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[4]/li[1]/a[1]",
-            "text": "craigslist charitable"
+            "text": "craigslist charitable",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslistfund.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[4]/li[2]/a[1]",
-            "text": "\ud83c\udf0e\ud83d\udc2e\ud83d\udc37\ud83d\udc14\ud83d\udc1f"
+            "text": "\ud83c\udf0e\ud83d\udc2e\ud83d\udc37\ud83d\udc14\ud83d\udc1f",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslistfund.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[2]/ul[4]/li[3]/a[1]",
-            "text": "craig newmark\nphilanthropies"
+            "text": "craig newmark\nphilanthropies",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://craignewmarkphilanthropies.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/h3[1]/a[1]",
-            "text": "community"
+            "text": "community",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ccc"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "activities"
+            "text": "activities",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/act"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "artists"
+            "text": "artists",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ats"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "childcare"
+            "text": "childcare",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/kid"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "classes"
+            "text": "classes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/cls"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "events"
+            "text": "events",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/eve"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "general"
+            "text": "general",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/com"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "groups"
+            "text": "groups",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/grp"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "local news"
+            "text": "local news",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/vnn"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]",
-            "text": "lost+found"
+            "text": "lost+found",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/laf"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]",
-            "text": "missed connections"
+            "text": "missed connections",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/mis"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]",
-            "text": "musicians"
+            "text": "musicians",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/muc"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]",
-            "text": "pets"
+            "text": "pets",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/pet"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]",
-            "text": "politics"
+            "text": "politics",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/pol"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]",
-            "text": "rants & raves"
+            "text": "rants & raves",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/rnr"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]",
-            "text": "rideshare"
+            "text": "rideshare",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/rid"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]",
-            "text": "volunteers"
+            "text": "volunteers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/vol"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/h3[1]/a[1]",
-            "text": "services"
+            "text": "services",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/bbb"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "automotive"
+            "text": "automotive",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/aos"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "beauty"
+            "text": "beauty",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/bts"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "cell/mobile"
+            "text": "cell/mobile",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/cms"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "computer"
+            "text": "computer",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/cps"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "creative"
+            "text": "creative",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/crs"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "cycle"
+            "text": "cycle",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/cys"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "event"
+            "text": "event",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/evs"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "farm+garden"
+            "text": "farm+garden",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/fgs"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[9]/a[1]",
-            "text": "financial"
+            "text": "financial",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/fns"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[10]/a[1]",
-            "text": "health/well"
+            "text": "health/well",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/hws"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[11]/a[1]",
-            "text": "household"
+            "text": "household",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/hss"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[1]/a[1]",
-            "text": "labor/move"
+            "text": "labor/move",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/lbs"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[2]/a[1]",
-            "text": "legal"
+            "text": "legal",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/lgs"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[3]/a[1]",
-            "text": "lessons"
+            "text": "lessons",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/lss"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[4]/a[1]",
-            "text": "marine"
+            "text": "marine",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/mas"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[5]/a[1]",
-            "text": "pet"
+            "text": "pet",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/pas"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[6]/a[1]",
-            "text": "real estate"
+            "text": "real estate",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/rts"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[7]/a[1]",
-            "text": "skilled trade"
+            "text": "skilled trade",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sks"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[8]/a[1]",
-            "text": "sm biz ads"
+            "text": "sm biz ads",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/biz"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[9]/a[1]",
-            "text": "travel/vac"
+            "text": "travel/vac",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/trv"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[2]/li[10]/a[1]",
-            "text": "write/ed/tran"
+            "text": "write/ed/tran",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/wet"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/h3[1]/a[1]",
-            "text": "discussion forums"
+            "text": "discussion forums",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "apple"
+            "text": "apple",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=3232"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "arts"
+            "text": "arts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=49"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "atheist"
+            "text": "atheist",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=78"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "autos"
+            "text": "autos",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=5"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "beauty"
+            "text": "beauty",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=88"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "bikes"
+            "text": "bikes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=95"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "celebs"
+            "text": "celebs",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=47"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "comp"
+            "text": "comp",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=34"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[9]/a[1]",
-            "text": "cosmos"
+            "text": "cosmos",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=1564"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[10]/a[1]",
-            "text": "diet"
+            "text": "diet",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=122"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[11]/a[1]",
-            "text": "divorce"
+            "text": "divorce",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=76"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[12]/a[1]",
-            "text": "dying"
+            "text": "dying",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=130"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[13]/a[1]",
-            "text": "eco"
+            "text": "eco",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=99"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[14]/a[1]",
-            "text": "feedbk"
+            "text": "feedbk",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=8"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[15]/a[1]",
-            "text": "film"
+            "text": "film",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=41"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[16]/a[1]",
-            "text": "fixit"
+            "text": "fixit",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=64"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[1]/li[17]/a[1]",
-            "text": "food"
+            "text": "food",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=22"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[1]/a[1]",
-            "text": "frugal"
+            "text": "frugal",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=2007"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[2]/a[1]",
-            "text": "gaming"
+            "text": "gaming",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=85"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[3]/a[1]",
-            "text": "garden"
+            "text": "garden",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=54"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[4]/a[1]",
-            "text": "haiku"
+            "text": "haiku",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=575"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[5]/a[1]",
-            "text": "help"
+            "text": "help",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=9"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[6]/a[1]",
-            "text": "history"
+            "text": "history",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=81"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[7]/a[1]",
-            "text": "housing"
+            "text": "housing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=6"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[8]/a[1]",
-            "text": "jobs"
+            "text": "jobs",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=7"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[9]/a[1]",
-            "text": "jokes"
+            "text": "jokes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=1257"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[10]/a[1]",
-            "text": "legal"
+            "text": "legal",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=73"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[11]/a[1]",
-            "text": "manners"
+            "text": "manners",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=79"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[12]/a[1]",
-            "text": "marriage"
+            "text": "marriage",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=1926"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[13]/a[1]",
-            "text": "money"
+            "text": "money",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=53"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[14]/a[1]",
-            "text": "music"
+            "text": "music",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=24"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[15]/a[1]",
-            "text": "open"
+            "text": "open",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=4"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[16]/a[1]",
-            "text": "parent"
+            "text": "parent",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=39"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[2]/li[17]/a[1]",
-            "text": "pets"
+            "text": "pets",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=26"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[1]/a[1]",
-            "text": "philos"
+            "text": "philos",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=71"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[2]/a[1]",
-            "text": "photo"
+            "text": "photo",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=5500"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[3]/a[1]",
-            "text": "politics"
+            "text": "politics",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=20"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[4]/a[1]",
-            "text": "psych"
+            "text": "psych",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=29"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[5]/a[1]",
-            "text": "recover"
+            "text": "recover",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=12"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[6]/a[1]",
-            "text": "religion"
+            "text": "religion",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=59"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[7]/a[1]",
-            "text": "rofo"
+            "text": "rofo",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=28"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[8]/a[1]",
-            "text": "science"
+            "text": "science",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=96"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[9]/a[1]",
-            "text": "spirit"
+            "text": "spirit",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=93"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[10]/a[1]",
-            "text": "sports"
+            "text": "sports",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=32"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[11]/a[1]",
-            "text": "super"
+            "text": "super",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=2012"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[12]/a[1]",
-            "text": "tax"
+            "text": "tax",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=1040"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[13]/a[1]",
-            "text": "travel"
+            "text": "travel",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=42"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[14]/a[1]",
-            "text": "tv"
+            "text": "tv",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=98"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[15]/a[1]",
-            "text": "vegan"
+            "text": "vegan",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=2400"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[16]/a[1]",
-            "text": "words"
+            "text": "words",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=7000"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[2]/div[3]/div[1]/ul[3]/li[17]/a[1]",
-            "text": "writing"
+            "text": "writing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://forums.craigslist.org/?areaID=103&forumID=27"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/h3[1]/a[1]",
-            "text": "housing"
+            "text": "housing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/hhh"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "apts / housing"
+            "text": "apts / housing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/apa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "housing swap"
+            "text": "housing swap",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/swp"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "housing wanted"
+            "text": "housing wanted",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/hsw"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "office / commercial"
+            "text": "office / commercial",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/off"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "parking / storage"
+            "text": "parking / storage",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/prk"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "real estate for sale"
+            "text": "real estate for sale",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/rea"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "rooms / shared"
+            "text": "rooms / shared",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/roo"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "rooms wanted"
+            "text": "rooms wanted",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sha"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[9]/a[1]",
-            "text": "sublets / temporary"
+            "text": "sublets / temporary",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sub"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[10]/a[1]",
-            "text": "vacation rentals"
+            "text": "vacation rentals",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/vac"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/h3[1]/a[1]",
-            "text": "for sale"
+            "text": "for sale",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sss"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "antiques"
+            "text": "antiques",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ata"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "appliances"
+            "text": "appliances",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ppa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "arts+crafts"
+            "text": "arts+crafts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ara"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "atv/utv/sno"
+            "text": "atv/utv/sno",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sna"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "auto parts"
+            "text": "auto parts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/pta"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "aviation"
+            "text": "aviation",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ava"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "baby+kid"
+            "text": "baby+kid",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/baa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "barter"
+            "text": "barter",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/bar"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[9]/a[1]",
-            "text": "beauty+hlth"
+            "text": "beauty+hlth",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/haa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[10]/a[1]",
-            "text": "bike parts"
+            "text": "bike parts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/bip"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[11]/a[1]",
-            "text": "bikes"
+            "text": "bikes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/bia"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[12]/a[1]",
-            "text": "boat parts"
+            "text": "boat parts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/bpa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[13]/a[1]",
-            "text": "boats"
+            "text": "boats",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/boo"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[14]/a[1]",
-            "text": "books"
+            "text": "books",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/bka"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[15]/a[1]",
-            "text": "business"
+            "text": "business",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/bfa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[16]/a[1]",
-            "text": "cars+trucks"
+            "text": "cars+trucks",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/cta"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[17]/a[1]",
-            "text": "cds/dvd/vhs"
+            "text": "cds/dvd/vhs",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ema"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[18]/a[1]",
-            "text": "cell phones"
+            "text": "cell phones",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/moa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[19]/a[1]",
-            "text": "clothes+acc"
+            "text": "clothes+acc",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/cla"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[20]/a[1]",
-            "text": "collectibles"
+            "text": "collectibles",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/cba"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[21]/a[1]",
-            "text": "computer parts"
+            "text": "computer parts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/syp"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[22]/a[1]",
-            "text": "computers"
+            "text": "computers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sya"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[23]/a[1]",
-            "text": "electronics"
+            "text": "electronics",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ela"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[1]/a[1]",
-            "text": "farm+garden"
+            "text": "farm+garden",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/gra"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[2]/a[1]",
-            "text": "free"
+            "text": "free",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/zip"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[3]/a[1]",
-            "text": "furniture"
+            "text": "furniture",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/fua"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[4]/a[1]",
-            "text": "garage sale"
+            "text": "garage sale",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/gms"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[5]/a[1]",
-            "text": "general"
+            "text": "general",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/foa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[6]/a[1]",
-            "text": "heavy equip"
+            "text": "heavy equip",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/hva"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[7]/a[1]",
-            "text": "household"
+            "text": "household",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/hsa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[8]/a[1]",
-            "text": "jewelry"
+            "text": "jewelry",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/jwa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[9]/a[1]",
-            "text": "materials"
+            "text": "materials",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/maa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[10]/a[1]",
-            "text": "motorcycle parts"
+            "text": "motorcycle parts",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/mpa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[11]/a[1]",
-            "text": "motorcycles"
+            "text": "motorcycles",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/mca"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[12]/a[1]",
-            "text": "music instr"
+            "text": "music instr",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/msa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[13]/a[1]",
-            "text": "photo+video"
+            "text": "photo+video",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/pha"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[14]/a[1]",
-            "text": "rvs+camp"
+            "text": "rvs+camp",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/rva"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[15]/a[1]",
-            "text": "sporting"
+            "text": "sporting",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sga"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[16]/a[1]",
-            "text": "tickets"
+            "text": "tickets",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/tia"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[17]/a[1]",
-            "text": "tools"
+            "text": "tools",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/tla"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[18]/a[1]",
-            "text": "toys+games"
+            "text": "toys+games",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/taa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[19]/a[1]",
-            "text": "trailers"
+            "text": "trailers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/tra"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[20]/a[1]",
-            "text": "video gaming"
+            "text": "video gaming",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/vga"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[21]/a[1]",
-            "text": "wanted"
+            "text": "wanted",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/waa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[22]/a[1]",
-            "text": "wheels+tires"
+            "text": "wheels+tires",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/wta"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/h3[1]/a[1]",
-            "text": "jobs"
+            "text": "jobs",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/jjj"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "accounting+finance"
+            "text": "accounting+finance",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/acc"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "admin / office"
+            "text": "admin / office",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ofc"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "arch / engineering"
+            "text": "arch / engineering",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/egr"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "art / media / design"
+            "text": "art / media / design",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/med"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "biotech / science"
+            "text": "biotech / science",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sci"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "business / mgmt"
+            "text": "business / mgmt",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/bus"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "customer service"
+            "text": "customer service",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/csr"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "education"
+            "text": "education",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/edu"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[9]/a[1]",
-            "text": "etc / misc"
+            "text": "etc / misc",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/etc"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[10]/a[1]",
-            "text": "food / bev / hosp"
+            "text": "food / bev / hosp",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/fbh"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[11]/a[1]",
-            "text": "general labor"
+            "text": "general labor",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/lab"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[12]/a[1]",
-            "text": "government"
+            "text": "government",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/gov"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[13]/a[1]",
-            "text": "human resources"
+            "text": "human resources",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/hum"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[14]/a[1]",
-            "text": "legal / paralegal"
+            "text": "legal / paralegal",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/lgl"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[15]/a[1]",
-            "text": "manufacturing"
+            "text": "manufacturing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/mnu"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[16]/a[1]",
-            "text": "marketing / pr / ad"
+            "text": "marketing / pr / ad",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/mar"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[17]/a[1]",
-            "text": "medical / health"
+            "text": "medical / health",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/hea"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[18]/a[1]",
-            "text": "nonprofit sector"
+            "text": "nonprofit sector",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/npo"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[19]/a[1]",
-            "text": "real estate"
+            "text": "real estate",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/rej"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[20]/a[1]",
-            "text": "retail / wholesale"
+            "text": "retail / wholesale",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ret"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[21]/a[1]",
-            "text": "sales / biz dev"
+            "text": "sales / biz dev",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sls"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[22]/a[1]",
-            "text": "salon / spa / fitness"
+            "text": "salon / spa / fitness",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/spa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[23]/a[1]",
-            "text": "security"
+            "text": "security",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sec"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[24]/a[1]",
-            "text": "skilled trade / craft"
+            "text": "skilled trade / craft",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/trd"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[25]/a[1]",
-            "text": "software / qa / dba"
+            "text": "software / qa / dba",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sof"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[26]/a[1]",
-            "text": "systems / network"
+            "text": "systems / network",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/sad"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[27]/a[1]",
-            "text": "technical support"
+            "text": "technical support",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/tch"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[28]/a[1]",
-            "text": "transport"
+            "text": "transport",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/trp"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[29]/a[1]",
-            "text": "tv / film / video"
+            "text": "tv / film / video",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/tfr"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[30]/a[1]",
-            "text": "web / info design"
+            "text": "web / info design",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/web"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[1]/div[1]/ul[1]/li[31]/a[1]",
-            "text": "writing / editing"
+            "text": "writing / editing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/wri"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/h3[1]/a[1]",
-            "text": "gigs"
+            "text": "gigs",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/ggg"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "computer"
+            "text": "computer",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/cpg"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "creative"
+            "text": "creative",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/crg"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "crew"
+            "text": "crew",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/cwg"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "domestic"
+            "text": "domestic",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/dmg"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[2]/li[1]/a[1]",
-            "text": "event"
+            "text": "event",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/evg"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[2]/li[2]/a[1]",
-            "text": "labor"
+            "text": "labor",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/lbg"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[2]/li[3]/a[1]",
-            "text": "talent"
+            "text": "talent",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/tlg"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[2]/div[1]/ul[2]/li[4]/a[1]",
-            "text": "writing"
+            "text": "writing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/wrg"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[3]/div[4]/div[3]/h3[1]/a[1]",
-            "text": "resumes"
+            "text": "resumes",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/search/rrr"
         },
         {
             "tag_name": "select",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/div[1]/select[1]",
-            "text": "dansk\ndeutsch\nenglish\nespa\u00f1ol\nfran\u00e7ais\nitaliano\nportugu\u00eas\nsuomi\nsvenska\nti\u1ebfng vi\u1ec7t\nt\u00fcrk\u00e7e\n\u0440\u0443\u0441\u0441\u043a\u0438\u0439\n\u4e2d\u6587\n\u65e5\u672c\u8a9e\n\ud55c\uad6d\ub9d0"
+            "text": "dansk\ndeutsch\nenglish\nespa\u00f1ol\nfran\u00e7ais\nitaliano\nportugu\u00eas\nsuomi\nsvenska\nti\u1ebfng vi\u1ec7t\nt\u00fcrk\u00e7e\n\u0440\u0443\u0441\u0441\u043a\u0438\u0439\n\u4e2d\u6587\n\u65e5\u672c\u8a9e\n\ud55c\uad6d\ub9d0",
+            "aria-label": "",
+            "id": "chlang",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
-            "text": "bakersfield"
+            "text": "bakersfield",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://bakersfield.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
-            "text": "flagstaff"
+            "text": "flagstaff",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://flagstaff.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[3]/a[1]",
-            "text": "fresno"
+            "text": "fresno",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://fresno.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[4]/a[1]",
-            "text": "gold country"
+            "text": "gold country",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://goldcountry.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[5]/a[1]",
-            "text": "hanford"
+            "text": "hanford",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://hanford.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[6]/a[1]",
-            "text": "imperial co"
+            "text": "imperial co",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://imperial.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[7]/a[1]",
-            "text": "inland empire"
+            "text": "inland empire",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://inlandempire.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[8]/a[1]",
-            "text": "las vegas"
+            "text": "las vegas",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://lasvegas.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[9]/a[1]",
-            "text": "los angeles"
+            "text": "los angeles",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://losangeles.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[10]/a[1]",
-            "text": "merced"
+            "text": "merced",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://merced.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[11]/a[1]",
-            "text": "modesto"
+            "text": "modesto",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://modesto.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[12]/a[1]",
-            "text": "mohave co"
+            "text": "mohave co",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://mohave.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[13]/a[1]",
-            "text": "monterey"
+            "text": "monterey",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://monterey.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[14]/a[1]",
-            "text": "palm springs"
+            "text": "palm springs",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://palmsprings.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[15]/a[1]",
-            "text": "phoenix"
+            "text": "phoenix",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://phoenix.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[16]/a[1]",
-            "text": "prescott"
+            "text": "prescott",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://prescott.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[17]/a[1]",
-            "text": "reno"
+            "text": "reno",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://reno.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[18]/a[1]",
-            "text": "sacramento"
+            "text": "sacramento",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://sacramento.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[19]/a[1]",
-            "text": "san diego"
+            "text": "san diego",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://sandiego.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[20]/a[1]",
-            "text": "san luis obispo"
+            "text": "san luis obispo",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://slo.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[21]/a[1]",
-            "text": "santa barbara"
+            "text": "santa barbara",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://santabarbara.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[22]/a[1]",
-            "text": "santa maria"
+            "text": "santa maria",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://santamaria.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[23]/a[1]",
-            "text": "sf bay area"
+            "text": "sf bay area",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://sfbay.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[24]/a[1]",
-            "text": "st george"
+            "text": "st george",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://stgeorge.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[25]/a[1]",
-            "text": "stockton"
+            "text": "stockton",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://stockton.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[26]/a[1]",
-            "text": "tucson"
+            "text": "tucson",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://tucson.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[27]/a[1]",
-            "text": "ventura"
+            "text": "ventura",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://ventura.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[28]/a[1]",
-            "text": "visalia-tulare"
+            "text": "visalia-tulare",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://visalia.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[29]/a[1]",
-            "text": "yuba-sutter"
+            "text": "yuba-sutter",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://yubasutter.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[30]/a[1]",
-            "text": "yuma"
+            "text": "yuma",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://yuma.craigslist.org/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[2]/a[1]",
-            "text": "help"
+            "text": "help",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/help/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[3]/a[1]",
-            "text": "safety"
+            "text": "safety",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/help/safety"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[4]/a[1]",
-            "text": "privacy"
+            "text": "privacy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/privacy.policy"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[5]/a[1]",
-            "text": "terms"
+            "text": "terms",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/terms.of.use"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[6]/a[1]",
-            "text": "about"
+            "text": "about",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[7]/a[1]",
-            "text": "app"
+            "text": "app",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.craigslist.org/about/craigslist_app"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[2]/footer[1]/ul[1]/li[8]/a[1]",
-            "text": "sitemap"
+            "text": "sitemap",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://orangecounty.craigslist.org/sitemap.html"
         }
     ]
 }

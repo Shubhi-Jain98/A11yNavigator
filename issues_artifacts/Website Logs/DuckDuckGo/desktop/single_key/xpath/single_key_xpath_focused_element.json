@@ -1,557 +1,6 @@
 [
     {
-        "IA2UniqueID": -22778,
-        "nvda_name": "DuckDuckGo - Protection. Privacy. Peace of mind.",
-        "nvda_value": null,
-        "nvda_states": [
-            "READONLY (128)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div/div/div[2]/div/header/div/section[3]/a"
-    },
-    {
-        "IA2UniqueID": -23792,
-        "nvda_name": "Chat",
-        "nvda_value": "https://duck.ai/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div/div[2]/section/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -23059,
-        "nvda_name": "Download Browser",
-        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div/div[2]/section/div/a"
-    },
-    {
-        "IA2UniqueID": -23063,
-        "nvda_name": "Boost your protection with a fast, secure VPN + 2 more premium services.",
-        "nvda_value": "https://duckduckgo.com/pro?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div/div[3]/a"
-    },
-    {
-        "IA2UniqueID": -23070,
-        "nvda_name": "None",
-        "nvda_value": "https://duckduckgo.com/#features",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div/div[2]/div/a"
-    },
-    {
-        "IA2UniqueID": -23078,
-        "nvda_name": "Download DuckDuckGo Browser",
-        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div/ul/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -23088,
-        "nvda_name": "Mac",
-        "nvda_value": "https://duckduckgo.com/mac?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div/ul/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -23091,
-        "nvda_name": "Windows",
-        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div/ul/ul[2]/li/a"
-    },
-    {
-        "IA2UniqueID": -23096,
-        "nvda_name": "iOS",
-        "nvda_value": "https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361?platform=iphone&pt=866401&mt=8",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div/ul/ul[2]/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -23099,
-        "nvda_name": "Android",
-        "nvda_value": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&referrer=origin%3Dfunnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div[2]/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -23109,
-        "nvda_name": "Chrome",
-        "nvda_value": "https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div[2]/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -23112,
-        "nvda_name": "Edge",
-        "nvda_value": "https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div[2]/ul/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -23115,
-        "nvda_name": "Firefox",
-        "nvda_value": "https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div[2]/ul/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -23118,
-        "nvda_name": "Opera",
-        "nvda_value": "https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[3]/div[2]/div/div/a"
-    },
-    {
-        "IA2UniqueID": -23277,
-        "nvda_name": "Download DuckDuckGo Browser",
-        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div[2]/section/div[2]/div[2]/div/a"
-    },
-    {
-        "IA2UniqueID": -23293,
-        "nvda_name": "Learn more",
-        "nvda_value": "https://spreadprivacy.com/is-duckduckgo-a-good-search-engine",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div[2]/section[2]/div/div[3]/div/a"
-    },
-    {
-        "IA2UniqueID": -23311,
-        "nvda_name": "Learn more",
-        "nvda_value": "https://spreadprivacy.com/duckduckgo-tracker-radar",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div[2]/section[3]/div/div[2]/div/a"
-    },
-    {
-        "IA2UniqueID": -23323,
-        "nvda_name": "Learn more",
-        "nvda_value": "https://www.spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div[2]/section[4]/div/div[3]/div/a"
-    },
-    {
-        "IA2UniqueID": -23882,
-        "nvda_name": "Learn more",
-        "nvda_value": "https://spreadprivacy.com/app-tracking-protection-open-beta",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/div/section[2]/div/a"
-    },
-    {
-        "IA2UniqueID": -23346,
-        "nvda_name": "See how we make money",
-        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[2]/div/div[2]/div/div/a"
-    },
-    {
-        "IA2UniqueID": -23841,
-        "nvda_name": "Download DuckDuckGo Browser",
-        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[2]/div/div[2]/div/div[2]/div/a"
-    },
-    {
-        "IA2UniqueID": -23417,
-        "nvda_name": "Download DuckDuckGo on the App Store",
-        "nvda_value": "https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361?platform=iphone&ct=home-atb-home&pt=866401&mt=8",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[2]/div/div[2]/div/div[2]/div[2]/a"
-    },
-    {
-        "IA2UniqueID": -23426,
-        "nvda_name": "Download DuckDuckGo on Google Play",
-        "nvda_value": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&referrer=utm_campaign%3Dhome-atb-home%26origin%3Dfunnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[3]/div/div/figure/div/figcaption/a"
-    },
-    {
-        "IA2UniqueID": -23442,
-        "nvda_name": "Read article on WIRED Magazine",
-        "nvda_value": "https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[3]/div/div[2]/figure/div/figcaption/a"
-    },
-    {
-        "IA2UniqueID": -23452,
-        "nvda_name": "Read article on The Verge",
-        "nvda_value": "https://www.theverge.com/2021/7/20/22576352/duckduckgo-email-protection-privacy-trackers-apple-alternative",
-        "nvda_states": [
-            "VISITED (2048)",
-            "LINKED (4096)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[3]/div/div[3]/figure/div/figcaption/a"
-    },
-    {
-        "IA2UniqueID": -23462,
-        "nvda_name": "Read article on USA Today",
-        "nvda_value": "https://www.usatoday.com/story/tech/columnist/komando/2020/11/21/6-internet-search-engines-respect-your-privacy/6306467002/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[3]/div/div[4]/figure/div/figcaption/a"
-    },
-    {
-        "IA2UniqueID": -23472,
-        "nvda_name": "Read article on CNET",
-        "nvda_value": "https://www.cnet.com/tech/services-and-software/how-to-use-duckduckgo-to-search-the-web-privately-on-your-phone-and-computer/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section/div/p/a"
-    },
-    {
-        "IA2UniqueID": -23487,
-        "nvda_name": "choose DuckDuckGo over Chrome and other browsers",
-        "nvda_value": "https://duckduckgo.com/compare-privacy",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section/div/p/a[2]"
-    },
-    {
-        "IA2UniqueID": -23488,
-        "nvda_name": "privacy-respecting search ads",
-        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section/div/p/a[3]"
-    },
-    {
-        "IA2UniqueID": -23489,
-        "nvda_name": "Learn more",
-        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages/company/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li/p/a"
-    },
-    {
-        "IA2UniqueID": -23552,
-        "nvda_name": "About DuckDuckGo",
-        "nvda_value": "https://duckduckgo.com/about",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[2]/p/a"
-    },
-    {
-        "IA2UniqueID": -23554,
-        "nvda_name": "About Our Browser",
-        "nvda_value": "https://duckduckgo.com/app?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[3]/p/a"
-    },
-    {
-        "IA2UniqueID": -23556,
-        "nvda_name": "Privacy Pro",
-        "nvda_value": "https://duckduckgo.com/pro?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[4]/p/a"
-    },
-    {
-        "IA2UniqueID": -23559,
-        "nvda_name": "What\u2019s New",
-        "nvda_value": "https://duckduckgo.com/updates",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[5]/p/a"
-    },
-    {
-        "IA2UniqueID": -23561,
-        "nvda_name": "Compare Privacy",
-        "nvda_value": "https://duckduckgo.com/compare-privacy",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[6]/p/a"
-    },
-    {
-        "IA2UniqueID": -23563,
-        "nvda_name": "Blog",
-        "nvda_value": "https://spreadprivacy.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[7]/p/a"
-    },
-    {
-        "IA2UniqueID": -23565,
-        "nvda_name": "Newsletter",
-        "nvda_value": "https://duckduckgo.com/newsletter",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li/p/a"
-    },
-    {
-        "IA2UniqueID": -23576,
-        "nvda_name": "Help",
-        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[2]/p/a"
-    },
-    {
-        "IA2UniqueID": -23578,
-        "nvda_name": "Careers",
-        "nvda_value": "https://duckduckgo.com/hiring",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[3]/p/a"
-    },
-    {
-        "IA2UniqueID": -23580,
-        "nvda_name": "Privacy Policy",
-        "nvda_value": "https://duckduckgo.com/privacy",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[4]/p/a"
-    },
-    {
-        "IA2UniqueID": -23582,
-        "nvda_name": "Terms of Service",
-        "nvda_value": "https://duckduckgo.com/terms",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[5]/p/a"
-    },
-    {
-        "IA2UniqueID": -23584,
-        "nvda_name": "Press Kit",
-        "nvda_value": "https://duckduckgo.com/press",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[6]/p/a"
-    },
-    {
-        "IA2UniqueID": -23586,
-        "nvda_name": "Advertise on Search",
-        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a"
-    },
-    {
-        "IA2UniqueID": -23598,
-        "nvda_name": "choose DuckDuckGo over Chrome and other browsers",
-        "nvda_value": "https://duckduckgo.com/compare-privacy",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a[2]"
-    },
-    {
-        "IA2UniqueID": -23599,
-        "nvda_name": "privacy-respecting search ads",
-        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a[3]"
-    },
-    {
-        "IA2UniqueID": -23600,
-        "nvda_name": "Mac",
-        "nvda_value": "https://duckduckgo.com/mac?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a[4]"
-    },
-    {
-        "IA2UniqueID": -23601,
-        "nvda_name": "Windows",
-        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a[5]"
-    },
-    {
-        "IA2UniqueID": -23602,
-        "nvda_name": "iOS",
-        "nvda_value": "https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361?platform=iphone",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a[6]"
-    },
-    {
-        "IA2UniqueID": -23603,
-        "nvda_name": "Android",
-        "nvda_value": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&referrer=origin%3Dfunnel_home_website_protaglineexp_tagline",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div[2]/div/div[2]/div/p/a"
-    },
-    {
-        "IA2UniqueID": -23792,
-        "nvda_name": "Chat",
-        "nvda_value": "https://duck.ai/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div/div/div[2]/div/header/div/section/a"
-    },
-    {
-        "IA2UniqueID": -23037,
+        "IA2UniqueID": -23721,
         "nvda_name": "Learn about DuckDuckGo",
         "nvda_value": "https://duckduckgo.com/about",
         "nvda_states": [
@@ -559,10 +8,587 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div/div/div[2]/div/header/div/section[2]/form/div/div/input"
+        "xpath": "/html/body/div/div/main/article/div/div/div/header/div/section[2]/a",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -23804,
+        "IA2UniqueID": -23724,
+        "nvda_name": "Chat",
+        "nvda_value": "https://duck.ai/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div/div[2]/section/ul/li[2]/a",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -22878,
+        "nvda_name": "Download Browser",
+        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home___hero",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div/div[3]/a",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -22884,
+        "nvda_name": "None",
+        "nvda_value": "https://duckduckgo.com/#features",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div/div[2]/div/a",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -22897,
+        "nvda_name": "Download DuckDuckGo Browser",
+        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home___details",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div/ul/ul/li/a",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -22916,
+        "nvda_name": "Mac",
+        "nvda_value": "https://duckduckgo.com/mac?origin=funnel_home___details",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div/ul/ul/li[2]/a",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -22920,
+        "nvda_name": "Windows",
+        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home___details",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div/ul/ul[2]/li/a",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -22925,
+        "nvda_name": "iOS",
+        "nvda_value": "https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361?platform=iphone&pt=866401&mt=8",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div/ul/ul[2]/li[2]/a",
+        "key_interactions": 7
+    },
+    {
+        "IA2UniqueID": -22929,
+        "nvda_name": "Android",
+        "nvda_value": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&referrer=origin%3Dfunnel_home",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div[2]/ul/li/a",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -22937,
+        "nvda_name": "Chrome",
+        "nvda_value": "https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div[2]/ul/li[2]/a",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -22941,
+        "nvda_name": "Edge",
+        "nvda_value": "https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div[2]/ul/ul/li/a",
+        "key_interactions": 10
+    },
+    {
+        "IA2UniqueID": -22946,
+        "nvda_name": "Firefox",
+        "nvda_value": "https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[2]/div[2]/div/div[2]/div/div[2]/ul/ul/li[2]/a",
+        "key_interactions": 11
+    },
+    {
+        "IA2UniqueID": -22950,
+        "nvda_name": "Opera",
+        "nvda_value": "https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div/div[3]/div[2]/div/div/a",
+        "key_interactions": 12
+    },
+    {
+        "IA2UniqueID": -23100,
+        "nvda_name": "Download DuckDuckGo Browser",
+        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home___details",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div[2]/section/div[2]/div[2]/div/a",
+        "key_interactions": 13
+    },
+    {
+        "IA2UniqueID": -23116,
+        "nvda_name": "Learn more",
+        "nvda_value": "https://spreadprivacy.com/is-duckduckgo-a-good-search-engine",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div[2]/section[2]/div/div[3]/div/a",
+        "key_interactions": 14
+    },
+    {
+        "IA2UniqueID": -23140,
+        "nvda_name": "Learn more",
+        "nvda_value": "https://spreadprivacy.com/duckduckgo-tracker-radar",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div[2]/section[3]/div/div[2]/div/a",
+        "key_interactions": 15
+    },
+    {
+        "IA2UniqueID": -23152,
+        "nvda_name": "Learn more",
+        "nvda_value": "https://www.spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section/div/div[2]/section[4]/div/div[3]/div/a",
+        "key_interactions": 16
+    },
+    {
+        "IA2UniqueID": -23177,
+        "nvda_name": "Learn more",
+        "nvda_value": "https://spreadprivacy.com/app-tracking-protection-open-beta",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/div/section[2]/div/a",
+        "key_interactions": 17
+    },
+    {
+        "IA2UniqueID": -23185,
+        "nvda_name": "See how we make money",
+        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[2]/div/div[2]/div/div/a",
+        "key_interactions": 18
+    },
+    {
+        "IA2UniqueID": -23260,
+        "nvda_name": "Download DuckDuckGo Browser",
+        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home___details",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[2]/div/div[2]/div/div[2]/div/a",
+        "key_interactions": 19
+    },
+    {
+        "IA2UniqueID": -23264,
+        "nvda_name": "Download DuckDuckGo on the App Store",
+        "nvda_value": "https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361?platform=iphone&ct=home-atb-home&pt=866401&mt=8",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[2]/div/div[2]/div/div[2]/div[2]/a",
+        "key_interactions": 20
+    },
+    {
+        "IA2UniqueID": -23274,
+        "nvda_name": "Download DuckDuckGo on Google Play",
+        "nvda_value": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&referrer=utm_campaign%3Dhome-atb-home%26origin%3Dfunnel_home",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[3]/div/div/figure/div/figcaption/a",
+        "key_interactions": 21
+    },
+    {
+        "IA2UniqueID": -23294,
+        "nvda_name": "Read article on WIRED Magazine",
+        "nvda_value": "https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[3]/div/div[2]/figure/div/figcaption/a",
+        "key_interactions": 22
+    },
+    {
+        "IA2UniqueID": -23305,
+        "nvda_name": "Read article on The Verge",
+        "nvda_value": "https://www.theverge.com/2021/7/20/22576352/duckduckgo-email-protection-privacy-trackers-apple-alternative",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[3]/div/div[3]/figure/div/figcaption/a",
+        "key_interactions": 23
+    },
+    {
+        "IA2UniqueID": -23316,
+        "nvda_name": "Read article on USA Today",
+        "nvda_value": "https://www.usatoday.com/story/tech/columnist/komando/2020/11/21/6-internet-search-engines-respect-your-privacy/6306467002/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[3]/div/div[4]/figure/div/figcaption/a",
+        "key_interactions": 24
+    },
+    {
+        "IA2UniqueID": -23327,
+        "nvda_name": "Read article on CNET",
+        "nvda_value": "https://www.cnet.com/tech/services-and-software/how-to-use-duckduckgo-to-search-the-web-privately-on-your-phone-and-computer/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section/div/p/a",
+        "key_interactions": 25
+    },
+    {
+        "IA2UniqueID": -23344,
+        "nvda_name": "choose DuckDuckGo over Chrome and other browsers",
+        "nvda_value": "https://duckduckgo.com/compare-privacy",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section/div/p/a[2]",
+        "key_interactions": 26
+    },
+    {
+        "IA2UniqueID": -23345,
+        "nvda_name": "privacy-respecting search ads",
+        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section/div/p/a[3]",
+        "key_interactions": 27
+    },
+    {
+        "IA2UniqueID": -23346,
+        "nvda_name": "Learn more",
+        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages/company/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li/p/a",
+        "key_interactions": 28
+    },
+    {
+        "IA2UniqueID": -23407,
+        "nvda_name": "About DuckDuckGo",
+        "nvda_value": "https://duckduckgo.com/about",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[2]/p/a",
+        "key_interactions": 29
+    },
+    {
+        "IA2UniqueID": -23410,
+        "nvda_name": "About Our Browser",
+        "nvda_value": "https://duckduckgo.com/app?origin=funnel_home",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[3]/p/a",
+        "key_interactions": 30
+    },
+    {
+        "IA2UniqueID": -23413,
+        "nvda_name": "Privacy Pro",
+        "nvda_value": "https://duckduckgo.com/pro?origin=funnel_home",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[4]/p/a",
+        "key_interactions": 31
+    },
+    {
+        "IA2UniqueID": -23417,
+        "nvda_name": "What\u2019s New",
+        "nvda_value": "https://duckduckgo.com/updates",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[5]/p/a",
+        "key_interactions": 32
+    },
+    {
+        "IA2UniqueID": -23420,
+        "nvda_name": "Compare Privacy",
+        "nvda_value": "https://duckduckgo.com/compare-privacy",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[6]/p/a",
+        "key_interactions": 33
+    },
+    {
+        "IA2UniqueID": -23423,
+        "nvda_name": "Blog",
+        "nvda_value": "https://spreadprivacy.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div/ul/li[7]/p/a",
+        "key_interactions": 34
+    },
+    {
+        "IA2UniqueID": -23426,
+        "nvda_name": "Newsletter",
+        "nvda_value": "https://duckduckgo.com/newsletter",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li/p/a",
+        "key_interactions": 35
+    },
+    {
+        "IA2UniqueID": -23432,
+        "nvda_name": "Help",
+        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[2]/p/a",
+        "key_interactions": 36
+    },
+    {
+        "IA2UniqueID": -23435,
+        "nvda_name": "Community",
+        "nvda_value": "https://www.reddit.com/r/duckduckgo/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[3]/p/a",
+        "key_interactions": 37
+    },
+    {
+        "IA2UniqueID": -23438,
+        "nvda_name": "Careers",
+        "nvda_value": "https://duckduckgo.com/hiring",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[4]/p/a",
+        "key_interactions": 38
+    },
+    {
+        "IA2UniqueID": -23441,
+        "nvda_name": "Privacy Policy",
+        "nvda_value": "https://duckduckgo.com/privacy",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[5]/p/a",
+        "key_interactions": 39
+    },
+    {
+        "IA2UniqueID": -23444,
+        "nvda_name": "Terms of Service",
+        "nvda_value": "https://duckduckgo.com/terms",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[6]/p/a",
+        "key_interactions": 40
+    },
+    {
+        "IA2UniqueID": -23447,
+        "nvda_name": "Press Kit",
+        "nvda_value": "https://duckduckgo.com/press",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/nav/div[2]/ul/li[7]/p/a",
+        "key_interactions": 41
+    },
+    {
+        "IA2UniqueID": -23450,
+        "nvda_name": "Advertise on Search",
+        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a",
+        "key_interactions": 42
+    },
+    {
+        "IA2UniqueID": -23455,
+        "nvda_name": "choose DuckDuckGo over Chrome and other browsers",
+        "nvda_value": "https://duckduckgo.com/compare-privacy",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a[2]",
+        "key_interactions": 43
+    },
+    {
+        "IA2UniqueID": -23456,
+        "nvda_name": "privacy-respecting search ads",
+        "nvda_value": "https://duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a[3]",
+        "key_interactions": 44
+    },
+    {
+        "IA2UniqueID": -23457,
+        "nvda_name": "Mac",
+        "nvda_value": "https://duckduckgo.com/mac?origin=funnel_home___details",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a[4]",
+        "key_interactions": 45
+    },
+    {
+        "IA2UniqueID": -23458,
+        "nvda_name": "Windows",
+        "nvda_value": "https://duckduckgo.com/windows?origin=funnel_home___details",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a[5]",
+        "key_interactions": 46
+    },
+    {
+        "IA2UniqueID": -23459,
+        "nvda_name": "iOS",
+        "nvda_value": "https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361?platform=iphone",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div/div/div[2]/div/div/p/a[6]",
+        "key_interactions": 47
+    },
+    {
+        "IA2UniqueID": -23460,
+        "nvda_name": "Android",
+        "nvda_value": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&referrer=origin%3Dfunnel_home",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div[2]/section/footer/div/div[2]/div/div[2]/div/p/a",
+        "key_interactions": 48
+    },
+    {
+        "IA2UniqueID": -26657,
         "nvda_name": "Search with DuckDuckGo",
         "nvda_value": null,
         "nvda_states": [
@@ -573,40 +599,48 @@
             "AUTOCOMPLETE (524288)",
             "EDITABLE (67108864)"
         ],
-        "xpath": "/html/body/div/div/main/article/div/div/div[2]/div/header/div/section[2]/form/div/div/div/button"
+        "xpath": "/html/body/div/div/main/article/div/div/div/header/div[2]/form/div/div/input",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -66866,
+        "IA2UniqueID": -26657,
+        "nvda_name": "Search with DuckDuckGo",
+        "nvda_value": null,
+        "nvda_states": [
+            "EXPANDED (256)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)",
+            "REQUIRED (32768)",
+            "AUTOCOMPLETE (524288)",
+            "EDITABLE (67108864)"
+        ],
+        "xpath": "/html/body/div/div/main/article/div/div/div/header/div[2]/form/div/div/div/button",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -27382,
         "nvda_name": "Clear search input",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div/div/div[2]/div/header/div/section[2]/form/div/div/div/button[2]"
+        "xpath": "/html/body/div/div/main/article/div/div/div/header/div[2]/form/div/div/div/button[2]",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -23803,
+        "IA2UniqueID": -26656,
         "nvda_name": "Search",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div/div/div[2]/div/header/div/section[3]/nav/ul/li/button"
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section/h3/button",
+        "key_interactions": 3
     },
     {
-        "IA2UniqueID": -23039,
-        "nvda_name": "Menu",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section/h3/button"
-    },
-    {
-        "IA2UniqueID": -23486,
+        "IA2UniqueID": -27030,
         "nvda_name": "What is DuckDuckGo?",
         "nvda_value": null,
         "nvda_states": [
@@ -614,10 +648,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[2]/h3/button"
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[2]/h3/button",
+        "key_interactions": 4
     },
     {
-        "IA2UniqueID": -23496,
+        "IA2UniqueID": -27040,
         "nvda_name": "How does DuckDuckGo protect my privacy?",
         "nvda_value": null,
         "nvda_states": [
@@ -625,10 +660,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[3]/h3/button"
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[3]/h3/button",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -23501,
+        "IA2UniqueID": -27045,
         "nvda_name": "Does DuckDuckGo block all trackers on websites I visit?",
         "nvda_value": null,
         "nvda_states": [
@@ -636,10 +672,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[4]/h3/button"
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[4]/h3/button",
+        "key_interactions": 6
     },
     {
-        "IA2UniqueID": -23506,
+        "IA2UniqueID": -27050,
         "nvda_name": "How many people use DuckDuckGo?",
         "nvda_value": null,
         "nvda_states": [
@@ -647,10 +684,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[5]/h3/button"
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[5]/h3/button",
+        "key_interactions": 7
     },
     {
-        "IA2UniqueID": -23511,
+        "IA2UniqueID": -27055,
         "nvda_name": "How does DuckDuckGo make money?",
         "nvda_value": null,
         "nvda_states": [
@@ -658,10 +696,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[6]/h3/button"
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[6]/h3/button",
+        "key_interactions": 8
     },
     {
-        "IA2UniqueID": -23516,
+        "IA2UniqueID": -27060,
         "nvda_name": "Why use DuckDuckGo instead of Google?",
         "nvda_value": null,
         "nvda_states": [
@@ -669,10 +708,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[7]/h3/button"
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[7]/h3/button",
+        "key_interactions": 9
     },
     {
-        "IA2UniqueID": -23521,
+        "IA2UniqueID": -27065,
         "nvda_name": "Is Incognito Mode private?",
         "nvda_value": null,
         "nvda_states": [
@@ -680,10 +720,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[8]/h3/button"
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[8]/h3/button",
+        "key_interactions": 10
     },
     {
-        "IA2UniqueID": -23526,
+        "IA2UniqueID": -27070,
         "nvda_name": "How do DuckDuckGo Search results compare to Google's?",
         "nvda_value": null,
         "nvda_states": [
@@ -691,42 +732,7 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[9]/h3/button"
-    },
-    {
-        "IA2UniqueID": -23804,
-        "nvda_name": "Search with DuckDuckGo",
-        "nvda_value": null,
-        "nvda_states": [
-            "EXPANDED (256)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)",
-            "REQUIRED (32768)",
-            "AUTOCOMPLETE (524288)",
-            "EDITABLE (67108864)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div/div/div[2]/div/header/div/section[2]/form/div/div[2]/ul/li[2]"
-    },
-    {
-        "IA2UniqueID": -67231,
-        "nvda_name": "ffe transportation",
-        "nvda_value": null,
-        "nvda_states": [
-            "SELECTABLE (8388608)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div/div/div[2]/div/header/div/section[2]/form/div/div[2]/ul/li[3]"
-    },
-    {
-        "IA2UniqueID": -67232,
-        "nvda_name": "ffestiniog railway",
-        "nvda_value": null,
-        "nvda_states": [
-            "SELECTABLE (8388608)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/main/article/div/div/div[2]/div/header/div/section[2]/form/div/div[2]/ul/li[4]"
+        "xpath": "/html/body/div/div/main/article/div[2]/section/div/section[4]/div/div[2]/div/div/div/section[9]/h3/button",
+        "key_interactions": 11
     }
 ]

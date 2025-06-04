@@ -1,0 +1,1164 @@
+[
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/span[1]/a[1]",
+            "text": "Flights"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Flights",
+            "location": {
+                "x": 194,
+                "y": 115
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/span[1]/a[1]",
+            "text": "Hotels"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Hotels",
+            "location": {
+                "x": 264,
+                "y": 115
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": "issue",
+        "element_data": {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/label[1]/input[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "input",
+            "text": "",
+            "location": {
+                "x": 76,
+                "y": 263
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "input",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/label[1]/input[1]",
+            "text": ""
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "San FranciscoDelhi"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "ChicagoDelhi"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "SEARCH"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Investor Relations"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Testimonial"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Reviews"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "MMT Foundation"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "CSR Policy & Committee"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Travel Community"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[1]/a[1]",
+            "text": "Contact Us"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[2]/a[1]",
+            "text": "Payment Security"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[3]/a[1]",
+            "text": "Privacy Policy"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[4]/a[1]",
+            "text": "Cookie Policy"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[5]/a[1]",
+            "text": "User Agreement"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[6]/a[1]",
+            "text": "Terms of Service"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[2]/li[7]/a[1]",
+            "text": "Franchise Offices"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[1]/a[1]",
+            "text": "Book Flights From US"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[2]/a[1]",
+            "text": "Book Flights From UAE"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[3]/a[1]",
+            "text": "Book Hotels From UAE"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[3]/li[4]/a[1]",
+            "text": "Flight Status"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[1]/a[1]",
+            "text": "Chicago To Delhi Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[2]/a[1]",
+            "text": "Chicago To Hyderabad Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[3]/a[1]",
+            "text": "Flights From New York To Delhi"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[4]/a[1]",
+            "text": "Flights From Boston To Mumbai"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[5]/a[1]",
+            "text": "Chicago To Mumbai Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[6]/a[1]",
+            "text": "New York To Mumbai Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[7]/a[1]",
+            "text": "Dfw To Hyd Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[8]/a[1]",
+            "text": "Boston To Delhi Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[9]/a[1]",
+            "text": "Seattle To Delhi Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[10]/a[1]",
+            "text": "Atlanta To Delhi Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[11]/a[1]",
+            "text": "Atlanta To Hyderabad Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[12]/a[1]",
+            "text": "Flights From Hyderabad To Dallas"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[13]/a[1]",
+            "text": "Seattle To Mumbai Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[14]/a[1]",
+            "text": "Flight From Newark To Mumbai"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[15]/a[1]",
+            "text": "Dallas To Delhi Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[16]/a[1]",
+            "text": "Houston To Mumbai Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[17]/a[1]",
+            "text": "Dallas To Mumbai Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[18]/a[1]",
+            "text": "San Francisco To Delhi Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[19]/a[1]",
+            "text": "Boston To Hyderabad Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[20]/a[1]",
+            "text": "Chicago To Chennai Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[21]/a[1]",
+            "text": "Sfo To Blr Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[22]/a[1]",
+            "text": "Houston To Hyderabad Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[23]/a[1]",
+            "text": "Houston To Delhi Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[24]/a[1]",
+            "text": "Newark To Delhi Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[25]/a[1]",
+            "text": "Seattle To Bangalore Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[26]/a[1]",
+            "text": "Chicago To Bangalore Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[27]/a[1]",
+            "text": "Atlanta To Mumbai Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[28]/a[1]",
+            "text": "Chicago To Ahmedabad Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[29]/a[1]",
+            "text": "Dallas To Chennai Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[30]/a[1]",
+            "text": "Mumbai To Chicago Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[31]/a[1]",
+            "text": "Atlanta To Chennai Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[32]/a[1]",
+            "text": "Flights From Hyderabad To Atlanta"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[33]/a[1]",
+            "text": "New York To Hyderabad Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[34]/a[1]",
+            "text": "San Francisco To Mumbai Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[35]/a[1]",
+            "text": "Boston To Chennai Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[36]/a[1]",
+            "text": "Lax To Hyd Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[37]/a[1]",
+            "text": "Seattle To Chennai Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[38]/a[1]",
+            "text": "Delhi To Dallas Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[39]/a[1]",
+            "text": "Mumbai To Atlanta Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[40]/a[1]",
+            "text": "Austin To Delhi Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[41]/a[1]",
+            "text": "Mumbai To Dallas Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[42]/a[1]",
+            "text": "Chennai To Dallas Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[43]/a[1]",
+            "text": "Atlanta To Ahmedabad Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[44]/a[1]",
+            "text": "Chicago To Kolkata Flight"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[45]/a[1]",
+            "text": "Newark To Hyderabad Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[4]/li[46]/a[1]",
+            "text": "Boston To Bangalore Flights"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[1]/a[1]",
+            "text": "Hotels in Jaipur"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[2]/a[1]",
+            "text": "Hotels in Puri"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[3]/a[1]",
+            "text": "Hotels in Goa"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[4]/a[1]",
+            "text": "Hotels in Delhi"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[5]/a[1]",
+            "text": "Hotels in Mysore"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[6]/a[1]",
+            "text": "Hotels in Ooty"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[7]/a[1]",
+            "text": "Hotels in Udaipur"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[8]/a[1]",
+            "text": "Hotels in Gurgaon"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[9]/a[1]",
+            "text": "Hotels in Jaisalmer"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[10]/a[1]",
+            "text": "Hotels in Mahabaleshwar"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[11]/a[1]",
+            "text": "Hotels in Mumbai"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[12]/a[1]",
+            "text": "Hotels in Mussoorie"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[13]/a[1]",
+            "text": "Hotels in Nainital"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[14]/a[1]",
+            "text": "Hotels in Pondicherry"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[15]/a[1]",
+            "text": "Hotels in Bangalore"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[16]/a[1]",
+            "text": "Hotels in Rameshwaram"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[17]/a[1]",
+            "text": "Hotels in Rishikesh"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/ul[5]/li[18]/a[1]",
+            "text": "Hotels in Mount Abu"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[1]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 37,
+                "y": 1485
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[1]/a[2]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 112,
+                "y": 1485
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[1]/a[3]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 187,
+                "y": 1485
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[1]/a[4]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 262,
+                "y": 1485
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": "issue",
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[2]/p[2]/span[1]/a[1]",
+            "text": "India"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "India",
+            "location": {
+                "x": 1140,
+                "y": 1506
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": "issue",
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[2]/p[2]/span[1]/a[2]",
+            "text": "USA"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "USA",
+            "location": {
+                "x": 1178,
+                "y": 3637
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": "issue",
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[3]/div[1]/div[2]/p[2]/span[1]/a[3]",
+            "text": "UAE"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "UAE",
+            "location": {
+                "x": 1209,
+                "y": 1506
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[4]/div[2]",
+            "text": "Return\nTap to add a return date for bigger discounts",
+            "event_listener": "yes"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+            "text": "With over 5 million satisfied customers, MakeMyTrip is a leading flight booking company, guaranteeing the best air travel. With so many new flights and airlines to choose from, we, at MakeMyTrip ensure that you get the best of deals every time you book your flight tickets with us. Enjoy a customer-friendly experience for cheap flights as well as hotel and holiday bookings using our desktop site or mobile app. You can complete your booking with utmost ease, at the click of a button. Our several w...",
+            "event_listener": "yes"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/section[1]/article[1]/div[2]/div[1]/div[1]/div[1]",
+            "text": "Established in the year 2000, we at MakeMyTrip offer our customers the best air ticket deals along with making the entire booking experience seamless and achievable with just a few clicks. We provide premium customer service and a 24/7 customer helpline to ease the booking procedure for your air travel. With so many cheap flights to choose from, you can book your the cheapest air ticket rates on our website or mobile app.",
+            "event_listener": "yes"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    }
+]

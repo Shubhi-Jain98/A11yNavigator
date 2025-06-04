@@ -1,0 +1,3098 @@
+[
+    {
+        "focus_successful": true,
+        "action_performed": "issue",
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/a[1]",
+            "text": "Skip to main content"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Skip to main content",
+            "location": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/a[2]",
+            "text": "Stack Overflow"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Stack Overflow",
+            "location": {
+                "x": 48,
+                "y": 3
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/header[1]/div[1]/ol[1]/li[2]/button[1]",
+            "text": "Products"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Products",
+            "location": {
+                "x": 89,
+                "y": 16
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/ol[1]/li[2]/button[1]",
+            "text": "Search"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "",
+            "location": {
+                "x": 362,
+                "y": 3
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/ol[1]/li[3]/a[1]",
+            "text": "Log in"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Log in",
+            "location": {
+                "x": 402,
+                "y": 13
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[1]/nav[1]/ol[1]/li[4]/a[1]",
+            "text": "Sign up"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Sign up",
+            "location": {
+                "x": 463,
+                "y": 13
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Ask Question"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Ask Question",
+            "location": {
+                "x": 427,
+                "y": 80
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Newest"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Newest",
+            "location": {
+                "x": 20,
+                "y": 177
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[2]",
+            "text": "Active"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Active",
+            "location": {
+                "x": 72,
+                "y": 177
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/button[1]",
+            "text": "More"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "More",
+            "location": {
+                "x": 118,
+                "y": 177
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/button[1]",
+            "text": "Filter"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Filter",
+            "location": {
+                "x": 457,
+                "y": 173
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/h3[1]/a[1]",
+            "text": "DialogParentMessageReceived not triggering event handler after MessageChild method used to send message to dialog"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Media Projection permission missing",
+            "location": {
+                "x": 16,
+                "y": 261
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "office-js"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "service",
+            "location": {
+                "x": 16,
+                "y": 318
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "outlook-web-addins"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "linq",
+            "location": {
+                "x": 67,
+                "y": 318
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 265,
+                "y": 396
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Mani"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "rich neadle",
+            "location": {
+                "x": 325,
+                "y": 344
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/h3[1]/a[1]",
+            "text": "Space-Saving Y-Axis on Faceted Chart"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "How to ignore case using the Zip operator in Linq",
+            "location": {
+                "x": 16,
+                "y": 420
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "vega-lite"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "regex",
+            "location": {
+                "x": 16,
+                "y": 473
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 314,
+                "y": 478
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "cwollett"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Martin Pfeffer",
+            "location": {
+                "x": 318,
+                "y": 457
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/h3[1]/a[1]",
+            "text": "Apple Silicon zsh: command not found after restart"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Trouble figuring out Regex to match where the segment contains either of two characters, but can have spaces anywhere along the way",
+            "location": {
+                "x": 16,
+                "y": 533
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "macos"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "next.js",
+            "location": {
+                "x": 16,
+                "y": 622
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "terminal"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "react-server-components",
+            "location": {
+                "x": 68,
+                "y": 622
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "homebrew"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "jmeter-3.2",
+            "location": {
+                "x": 166,
+                "y": 599
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 290,
+                "y": 604
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "George Heints"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Dale K",
+            "location": {
+                "x": 340,
+                "y": 634
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/h3[1]/a[1]",
+            "text": "Excel VBA connect to postgres with run-time error at recordset.Open"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Accessing SQL Server Configuration Manager with Python",
+            "location": {
+                "x": 16,
+                "y": 681
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "excel"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "django-allauth",
+            "location": {
+                "x": 16,
+                "y": 739
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "vba"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "wmi",
+            "location": {
+                "x": 72,
+                "y": 739
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 300,
+                "y": 743
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[4]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "bejo"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "ValNik",
+            "location": {
+                "x": 345,
+                "y": 745
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/h3[1]/a[1]",
+            "text": "Facing an issue with mapping configuration"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "ASP .NET MVC: How to create a Javascript file that contains the functions?",
+            "location": {
+                "x": 16,
+                "y": 818
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "quarkus"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "javascript",
+            "location": {
+                "x": 16,
+                "y": 875
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 338,
+                "y": 918
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[5]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "soheil_ptr"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "lmtaq",
+            "location": {
+                "x": 358,
+                "y": 920
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/h3[1]/a[1]",
+            "text": "Image alt captions showing as 'undefined' on modal image"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "How to convert String into DateFormat in java?",
+            "location": {
+                "x": 16,
+                "y": 996
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "javascript"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "java",
+            "location": {
+                "x": 16,
+                "y": 1054
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "onclick"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "vba",
+            "location": {
+                "x": 60,
+                "y": 1073
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "innerhtml"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "postgresql",
+            "location": {
+                "x": 95,
+                "y": 1073
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "caption"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "runtime-error",
+            "location": {
+                "x": 170,
+                "y": 1073
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 350,
+                "y": 1078
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[6]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Louis Cairns"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "user29783602",
+            "location": {
+                "x": 327,
+                "y": 1109
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/h3[1]/a[1]",
+            "text": "Download button in R shiny not responding"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Maximize efficiency for this LeetCode style problem",
+            "location": {
+                "x": 16,
+                "y": 1182
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 330,
+                "y": 1247
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "r"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "linux",
+            "location": {
+                "x": 16,
+                "y": 1243
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "function"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "docker",
+            "location": {
+                "x": 59,
+                "y": 1243
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "shiny"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "alpine-linux",
+            "location": {
+                "x": 113,
+                "y": 1243
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "download"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "openrc",
+            "location": {
+                "x": 195,
+                "y": 1243
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 327,
+                "y": 1247
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[7]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "sutsabs"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "halfer",
+            "location": {
+                "x": 347,
+                "y": 1249
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/h3[1]/a[1]",
+            "text": "Why isn't the create method in my custom manager working?"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Is there a better way to run openrc in a container than enabling 'softlevel'? [closed]",
+            "location": {
+                "x": 16,
+                "y": 1326
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "django"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "linux",
+            "location": {
+                "x": 16,
+                "y": 1402
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 314,
+                "y": 1383
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[8]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Jacob Torres"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "chepner",
+            "location": {
+                "x": 334,
+                "y": 1385
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/h3[1]/a[1]",
+            "text": "403 forbidden using websockets with spring boot"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Can you limit the maximum filesize upload to an S3 bucket via a *bucket policy* that just applies to any/all potential uploads?",
+            "location": {
+                "x": 16,
+                "y": 1461
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "java"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "amazon-web-services",
+            "location": {
+                "x": 45,
+                "y": 1538
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "angular"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "sql-server",
+            "location": {
+                "x": 47,
+                "y": 1514
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "spring"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "aws-cdk",
+            "location": {
+                "x": 266,
+                "y": 1466
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 327,
+                "y": 1499
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[9]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Abas jama"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "ValNik",
+            "location": {
+                "x": 343,
+                "y": 1496
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/h3[1]/a[1]",
+            "text": "Using LINQ extensions, how do I include multiple sub-details"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Cannot add ManagedPolicy to the lambda that is created in the same stack",
+            "location": {
+                "x": 16,
+                "y": 1573
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "linq"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "amazon-web-services",
+            "location": {
+                "x": 45,
+                "y": 1631
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 327,
+                "y": 1664
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[10]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Joe"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "ValNik",
+            "location": {
+                "x": 343,
+                "y": 1637
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/h3[1]/a[1]",
+            "text": "SFTP Download Files From Directory"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "count how many event between dates sql in different rows",
+            "location": {
+                "x": 16,
+                "y": 1713
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "c#"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "mysql",
+            "location": {
+                "x": 16,
+                "y": 1770
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 323,
+                "y": 1775
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[11]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "user3147607"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "ValNik",
+            "location": {
+                "x": 343,
+                "y": 1777
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/h3[1]/a[1]",
+            "text": "How to set the default JavaFX version when creating a JavaFX application"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "count how many event between dates sql in different rows",
+            "location": {
+                "x": 16,
+                "y": 1853
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "java"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "mysql",
+            "location": {
+                "x": 16,
+                "y": 1910
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 323,
+                "y": 1915
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[12]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "yuchen han"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "ValNik",
+            "location": {
+                "x": 343,
+                "y": 1917
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/h3[1]/a[1]",
+            "text": "You cannot access body after reading from request's data stream while reading JSON"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "count how many event between dates sql in different rows",
+            "location": {
+                "x": 16,
+                "y": 1989
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "python"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "provisioning",
+            "location": {
+                "x": 16,
+                "y": 2061
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "json"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "android-device-owner",
+            "location": {
+                "x": 102,
+                "y": 2061
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "django"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "intellij-idea",
+            "location": {
+                "x": 105,
+                "y": 2046
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 302,
+                "y": 2094
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[13]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Sebastien D"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Greg Swindle",
+            "location": {
+                "x": 321,
+                "y": 2092
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/h3[1]/a[1]",
+            "text": "How do I hide/show a <text> element within <g> giving a sibling elements width?"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Fluent Validation - Multiple messages for one rule",
+            "location": {
+                "x": 16,
+                "y": 2164
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "javascript"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "blazor-server-side",
+            "location": {
+                "x": 16,
+                "y": 2221
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "css"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "fluentvalidation",
+            "location": {
+                "x": 132,
+                "y": 2221
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "reactjs"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "continuous-integration",
+            "location": {
+                "x": 146,
+                "y": 2197
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[14]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "svg"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "automated-tests",
+            "location": {
+                "x": 292,
+                "y": 2197
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/h3[1]/a[1]",
+            "text": "Power Pivot for Excel system error: Mismatch, Datatype conversion failed"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Excel VBA connect to postgres with run-time error at recordset.Open",
+            "location": {
+                "x": 16,
+                "y": 2243
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": "issue",
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "excel"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "macos",
+            "location": {
+                "x": 16,
+                "y": 2300
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "types"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "terminal",
+            "location": {
+                "x": 67,
+                "y": 2300
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "data-conversion"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "homebrew",
+            "location": {
+                "x": 130,
+                "y": 2300
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "powerpivot"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "zsh",
+            "location": {
+                "x": 205,
+                "y": 2300
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[2]/a[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 358,
+                "y": 2306
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[3]/div[15]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]",
+            "text": "John Hendrick"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Mani",
+            "location": {
+                "x": 378,
+                "y": 2308
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[1]",
+            "text": "15"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "15",
+            "location": {
+                "x": 351,
+                "y": 2397
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[2]",
+            "text": "30"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "30",
+            "location": {
+                "x": 386,
+                "y": 2379
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[4]/a[3]",
+            "text": "50"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "50",
+            "location": {
+                "x": 421,
+                "y": 4494
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[1]",
+            "text": "2"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "2",
+            "location": {
+                "x": 44,
+                "y": 7461
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[2]",
+            "text": "3"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "3",
+            "location": {
+                "x": 72,
+                "y": 7461
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[3]",
+            "text": "4"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "4",
+            "location": {
+                "x": 100,
+                "y": 7461
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[4]",
+            "text": "5"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "5",
+            "location": {
+                "x": 129,
+                "y": 7461
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[5]",
+            "text": "1616981"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "484940",
+            "location": {
+                "x": 187,
+                "y": 7443
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[1]/div[5]/a[6]",
+            "text": "Next"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Next",
+            "location": {
+                "x": 251,
+                "y": 7443
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[2]/div[2]/a[1]",
+            "text": "Research roadmap update, February 2025"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Research roadmap update, February 2025",
+            "location": {
+                "x": 72,
+                "y": 7530
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[3]/div[2]/a[1]",
+            "text": "One quality every engineering manager should have? Empathy."
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "One quality every engineering manager should have? Empathy.",
+            "location": {
+                "x": 72,
+                "y": 7559
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[5]/div[2]/a[1]",
+            "text": "Join us for our first community-wide AMA (Ask Me Anything) with Stack..."
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Join us for our first community-wide AMA (Ask Me Anything) with Stack...",
+            "location": {
+                "x": 72,
+                "y": 7630
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[6]/div[2]/a[1]",
+            "text": "bigbird and Frog have joined us as Community Managers"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "bigbird and Frog have joined us as Community Managers",
+            "location": {
+                "x": 72,
+                "y": 7662
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[7]/div[2]/a[1]",
+            "text": "Stacks Editor development and testing"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Stacks Editor development and testing",
+            "location": {
+                "x": 72,
+                "y": 7695
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[8]/div[2]/a[1]",
+            "text": "Is it better to redirect users who attempt to perform actions they can't yet..."
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Is it better to redirect users who attempt to perform actions they can't yet...",
+            "location": {
+                "x": 72,
+                "y": 7748
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[1]/ul[1]/li[9]/div[2]/a[1]",
+            "text": "Policy: Generative AI (e.g., ChatGPT) is banned"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Policy: Generative AI (e.g., ChatGPT) is banned",
+            "location": {
+                "x": 72,
+                "y": 7780
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[1]/a[1]",
+            "text": "see all"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "see all",
+            "location": {
+                "x": 472,
+                "y": 7846
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "Google Cloud"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "AWS",
+            "location": {
+                "x": 77,
+                "y": 7894
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Join",
+            "location": {
+                "x": 467,
+                "y": 7879
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "AWS"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "CI/CD",
+            "location": {
+                "x": 77,
+                "y": 8015
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Join",
+            "location": {
+                "x": 467,
+                "y": 8014
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[4]/div[1]/div[1]/div[2]/h1[1]/a[1]",
+            "text": "CI/CD"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "R Language",
+            "location": {
+                "x": 77,
+                "y": 8132
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[2]/div[4]/div[1]/div[1]/div[3]/form[1]/button[1]",
+            "text": "Join"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Join",
+            "location": {
+                "x": 467,
+                "y": 8131
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[3]/div[2]/div[2]/button[1]",
+            "text": "Report this ad"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Report this ad",
+            "location": {
+                "x": 248,
+                "y": 8500
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[1]/a[1]",
+            "text": "javascript"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "javascript",
+            "location": {
+                "x": 16,
+                "y": 8630
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[2]/a[1]",
+            "text": "python"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "python",
+            "location": {
+                "x": 16,
+                "y": 8661
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[3]/a[1]",
+            "text": "java"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "java",
+            "location": {
+                "x": 16,
+                "y": 8692
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[4]/a[1]",
+            "text": "c#"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "c#",
+            "location": {
+                "x": 16,
+                "y": 8724
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[5]/a[1]",
+            "text": "php"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "php",
+            "location": {
+                "x": 16,
+                "y": 8755
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[6]/a[1]",
+            "text": "android"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "android",
+            "location": {
+                "x": 16,
+                "y": 9118
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[7]/a[1]",
+            "text": "html"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "html",
+            "location": {
+                "x": 16,
+                "y": 8818
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[8]/a[1]",
+            "text": "jquery"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "jquery",
+            "location": {
+                "x": 16,
+                "y": 8849
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[9]/a[1]",
+            "text": "c++"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "c++",
+            "location": {
+                "x": 16,
+                "y": 8880
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/div[10]/a[1]",
+            "text": "css"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "css",
+            "location": {
+                "x": 16,
+                "y": 9243
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[4]/a[1]",
+            "text": "more related tags"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "more related tags",
+            "location": {
+                "x": 16,
+                "y": 8946
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/h4[1]/a[1]",
+            "text": "Hot Network Questions"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Hot Network Questions",
+            "location": {
+                "x": 16,
+                "y": 9347
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[1]/a[1]",
+            "text": "Should my paper cite my own personal blog if the paper is based on preliminary work originally published on the blog?"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Cubic matrix equation",
+            "location": {
+                "x": 38,
+                "y": 9014
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[2]/a[1]",
+            "text": "What was the most complete encoding for English before Unicode?"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Emulating itemize using tikz, so I can draw on it",
+            "location": {
+                "x": 38,
+                "y": 9420
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[3]/a[1]",
+            "text": "How can I transparently process std::vector of T and std::vector of std::shared_ptr<T> in a template?"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Emulating itemize using tikz, so I can draw on it",
+            "location": {
+                "x": 38,
+                "y": 9455
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[4]/a[1]",
+            "text": "Structuring multiple teams within an organisation"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Strong dynamic chromostereopsis illusion",
+            "location": {
+                "x": 38,
+                "y": 9476
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[5]/a[1]",
+            "text": "Adding dedicated GFCI circuit, no room for neutral/ ground on bars"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "A weaker version of Rabin's irreducibility test for modular polynomials?",
+            "location": {
+                "x": 38,
+                "y": 9126
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[6]/a[1]",
+            "text": "Trig function inside Neural Network"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Does such chess proverb comparing Bishop and Knight exist?",
+            "location": {
+                "x": 38,
+                "y": 9154
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[7]/a[1]",
+            "text": "A weaker version of Rabin's irreducibility test for modular polynomials?"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "In Going Postal, why is Grandad always doing something when Princess is working?",
+            "location": {
+                "x": 38,
+                "y": 9208
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[8]/a[1]",
+            "text": "How does the ISS ammonia cooling loop compare to a ground-based ammonia cooling system?"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Lost eth0 device, instead I have \"enxb827ebe00d07\" How to fix this?",
+            "location": {
+                "x": 38,
+                "y": 9223
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[9]/a[1]",
+            "text": "How can I use GSX in Turbo Pascal for CP/M-80?"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Taking a bike on a Railjet train from Germany to Italy",
+            "location": {
+                "x": 38,
+                "y": 9238
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[10]/a[1]",
+            "text": "\"Ownership of\" vs \"ownership by\""
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "How are rounding principles chosen in system design?",
+            "location": {
+                "x": 38,
+                "y": 9279
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[11]/a[1]",
+            "text": "Lost eth0 device, instead I have \"enxb827ebe00d07\" How to fix this?"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Why are asteroid collisions a probability?",
+            "location": {
+                "x": 38,
+                "y": 9307
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[5]/div[3]/div[2]/div[5]/ul[1]/li[12]/a[1]",
+            "text": "Does such chess proverb comparing Bishop and Knight exist?"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Sample size calculation for paired samples t-test with correlation: How to simulate power?",
+            "location": {
+                "x": 38,
+                "y": 9674
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/h5[1]/a[1]",
+            "text": "STACK OVERFLOW"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "STACK OVERFLOW",
+            "location": {
+                "x": 16,
+                "y": 10065
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Questions"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Questions",
+            "location": {
+                "x": 16,
+                "y": 9736
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Help"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Help",
+            "location": {
+                "x": 77,
+                "y": 9776
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Chat"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Chat",
+            "location": {
+                "x": 111,
+                "y": 9789
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/h5[1]/a[1]",
+            "text": "PRODUCTS"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "PRODUCTS",
+            "location": {
+                "x": 16,
+                "y": 9841
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Teams"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Teams",
+            "location": {
+                "x": 16,
+                "y": 9836
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Advertising"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Advertising",
+            "location": {
+                "x": 58,
+                "y": 9812
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Talent"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Talent",
+            "location": {
+                "x": 125,
+                "y": 9812
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/h5[1]/a[1]",
+            "text": "COMPANY"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "COMPANY",
+            "location": {
+                "x": 16,
+                "y": 9921
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "About"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "About",
+            "location": {
+                "x": 16,
+                "y": 9943
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Press"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Press",
+            "location": {
+                "x": 58,
+                "y": 9917
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Work Here"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Work Here",
+            "location": {
+                "x": 95,
+                "y": 9956
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Legal"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Legal",
+            "location": {
+                "x": 159,
+                "y": 9943
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "Privacy Policy"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Privacy Policy",
+            "location": {
+                "x": 196,
+                "y": 9890
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[6]/a[1]",
+            "text": "Terms of Service"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Terms of Service",
+            "location": {
+                "x": 273,
+                "y": 9937
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[7]/a[1]",
+            "text": "Contact Us"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Contact Us",
+            "location": {
+                "x": 364,
+                "y": 9950
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[8]/button[1]",
+            "text": "Cookie Settings"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "Cookie Settings",
+            "location": {
+                "x": 429,
+                "y": 9950
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[9]/a[1]",
+            "text": "Cookie Policy"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Cookie Policy",
+            "location": {
+                "x": 16,
+                "y": 9954
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/h5[1]/a[1]",
+            "text": "STACK EXCHANGE NETWORK"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "STACK EXCHANGE NETWORK",
+            "location": {
+                "x": 16,
+                "y": 9993
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Technology"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Technology",
+            "location": {
+                "x": 16,
+                "y": 10002
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Culture & recreation"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Culture & recreation",
+            "location": {
+                "x": 83,
+                "y": 10055
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Life & arts"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Life & arts",
+            "location": {
+                "x": 194,
+                "y": 10042
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Science"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Science",
+            "location": {
+                "x": 256,
+                "y": 10042
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Professional"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Professional",
+            "location": {
+                "x": 304,
+                "y": 10068
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Business"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Business",
+            "location": {
+                "x": 375,
+                "y": 10060
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[7]/a[1]",
+            "text": "API"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "API",
+            "location": {
+                "x": 428,
+                "y": 10034
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[1]/ul[1]/li[8]/a[1]",
+            "text": "Data"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Data",
+            "location": {
+                "x": 456,
+                "y": 10021
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Blog"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Blog",
+            "location": {
+                "x": 16,
+                "y": 10110
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Facebook"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Facebook",
+            "location": {
+                "x": 50,
+                "y": 10099
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Twitter"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Twitter",
+            "location": {
+                "x": 108,
+                "y": 10112
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "LinkedIn"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "LinkedIn",
+            "location": {
+                "x": 153,
+                "y": 10086
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Instagram"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Instagram",
+            "location": {
+                "x": 206,
+                "y": 10152
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/footer[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "CC BY-SA"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "CC BY-SA",
+            "location": {
+                "x": 406,
+                "y": 10161
+            }
+        },
+        "focus_verification": null
+    }
+]

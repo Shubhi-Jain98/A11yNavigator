@@ -1,15 +1,15 @@
 {
-    "IA2UniqueID": -660,
-    "name": "Products ",
-    "role": "BUTTON (9)",
+    "IA2UniqueID": -605,
+    "name": "Microsoft",
+    "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "COLLAPSED (512)",
+        "LINKED (4096)",
         "FOCUSABLE (16777216)",
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "",
+    "value": "https://www.microsoft.com/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",

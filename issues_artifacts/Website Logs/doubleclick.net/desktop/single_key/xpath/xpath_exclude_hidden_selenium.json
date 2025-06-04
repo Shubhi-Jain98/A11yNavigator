@@ -5,252 +5,452 @@
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/button[1]",
-            "text": "Open the navigation drawer"
+            "text": "Open the navigation drawer",
+            "aria-label": "Open the navigation drawer",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": ""
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[2]/div[2]/a[1]",
-            "text": "Marketing Platform"
+            "text": "Marketing Platform",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
-            "text": "Talk to Sales"
+            "text": "Talk to Sales",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/contact-us/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[4]/div[2]/div[1]/div[1]/div[3]/a[1]",
-            "text": "Learn more about Display & Video 360"
+            "text": "Learn more about Display & Video 360",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/display-video-360/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Analytics 360\nUse advanced tools to get a deeper understanding of your customers so you can deliver better experiences."
+            "text": "Analytics 360\nUse advanced tools to get a deeper understanding of your customers so you can deliver better experiences.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/analytics-360/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Search Ads 360\nGet real-time data and unified insights for your search campaigns."
+            "text": "Search Ads 360\nGet real-time data and unified insights for your search campaigns.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/search-ads-360/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "Tag Manager 360\nManage all your tags in one place for a smarter, simpler way to oversee your marketing."
+            "text": "Tag Manager 360\nManage all your tags in one place for a smarter, simpler way to oversee your marketing.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/tag-manager-360/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "Campaign Manager 360\nGet a complete view of all your digital media campaigns."
+            "text": "Campaign Manager 360\nGet a complete view of all your digital media campaigns.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/campaign-manager-360/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": "Go to Integration Center"
+            "text": "Go to Integration Center",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/home?openIntegrationCenter=true&utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/div[1]/a[1]",
-            "text": "Learn More"
+            "text": "Learn More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://developers.google.com/ads-data-hub"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[2]/div[1]/a[1]",
-            "text": "Learn more"
+            "text": "Learn more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/resources/meeting-the-data-challenge-with-google-marketing-platform-and-google-cloud/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[1]/a[1]",
-            "text": "Read more"
+            "text": "Read more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/resources/the-future-of-analytics/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "GUIDE\nThe CTV playbook: how the latest technology can amplify your CTV performance\nRead more"
+            "text": "GUIDE\nThe CTV playbook: how the latest technology can amplify your CTV performance\nRead more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/resources/the-ctv-playbook-how-the-latest-technology-can-amplify-your-ctv-performance/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "GUIDE\nThe marketer\u2019s playbook for navigating today\u2019s privacy environment\nRead more"
+            "text": "GUIDE\nThe marketer\u2019s playbook for navigating today\u2019s privacy environment\nRead more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/resources/the-marketers-playbook-for-navigating-todays-privacy-environment/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "REPORT\nThe Future of Analytics\nRead more"
+            "text": "REPORT\nThe Future of Analytics\nRead more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/resources/the-future-of-analytics/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[2]/a[1]",
-            "text": "See all resources"
+            "text": "See all resources",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/resources/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[8]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
-            "text": "See solutions"
+            "text": "See solutions",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/small-business/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/main[1]/section[9]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": "Subscribe"
+            "text": "Subscribe",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://signup.withgoogle.com/newsletter/marketingplatform/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Share to Blogger"
+            "text": "Share to Blogger",
+            "aria-label": "Share to Blogger",
+            "id": "",
+            "placeholder": null,
+            "href": "https://blog.google/products/marketingplatform/360/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "Share to Twitter"
+            "text": "Share to Twitter",
+            "aria-label": "Share to Twitter",
+            "id": "",
+            "placeholder": null,
+            "href": "https://twitter.com/GMktgPlatform"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Share to YouTube"
+            "text": "Share to YouTube",
+            "aria-label": "Share to YouTube",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.youtube.com/c/googlemarketingplatform"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "Share to LinkedIn"
+            "text": "Share to LinkedIn",
+            "aria-label": "Share to LinkedIn",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.linkedin.com/showcase/googlemarketingplatform"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Overview"
+            "text": "Overview",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "For Small Businesses"
+            "text": "For Small Businesses",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/small-business/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "For Enterprise"
+            "text": "For Enterprise",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/enterprise/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Support"
+            "text": "Support",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/support/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "Blog"
+            "text": "Blog",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://blog.google/products/marketingplatform/360/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Analytics Academy"
+            "text": "Analytics Academy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://analytics.google.com/analytics/academy/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "Skillshop"
+            "text": "Skillshop",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://skillshop.withgoogle.com/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "Google Primer"
+            "text": "Google Primer",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.yourprimer.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Google Marketing Platform Partners"
+            "text": "Google Marketing Platform Partners",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://marketingplatform.google.com/about/partners/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "Analytics for developers"
+            "text": "Analytics for developers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://developers.google.com/analytics/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Tag Manager for developers"
+            "text": "Tag Manager for developers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://developers.google.com/tag-manager/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "Campaign Manager 360 for developers"
+            "text": "Campaign Manager 360 for developers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://developers.google.com/doubleclick-advertisers/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Google Ads"
+            "text": "Google Ads",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://ads.google.com/home/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "Google AdSense"
+            "text": "Google AdSense",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://adsense.google.com/start/?subid=ww-en-et-ads-ot-a-marketing_platform!o3&utm_source=internal&utm_medium=et&utm_campaign=marketing_platform"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Google Ad Manager"
+            "text": "Google Ad Manager",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://admanager.google.com/home/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "Google Cloud"
+            "text": "Google Cloud",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://cloud.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "Firebase"
+            "text": "Firebase",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://firebase.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Think with Google"
+            "text": "Think with Google",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.thinkwithgoogle.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "Business Solutions"
+            "text": "Business Solutions",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.google.com/services/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Google Workspace"
+            "text": "Google Workspace",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://workspace.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/section[2]/div[1]/a[1]",
-            "text": "Google"
+            "text": "Google",
+            "aria-label": "Google",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.google.com/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[1]/a[1]",
-            "text": "Privacy"
+            "text": "Privacy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.google.com/intl/en/policies/privacy/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[2]/a[1]",
-            "text": "Terms"
+            "text": "Terms",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.google.com/intl/en/policies/terms/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[3]/a[1]",
-            "text": "About Google"
+            "text": "About Google",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.google/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[4]/a[1]",
-            "text": "Google Products"
+            "text": "Google Products",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://about.google/products/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[1]/a[1]",
-            "text": "Help"
+            "text": "Help",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://support.google.com/marketingplatform"
         },
         {
             "tag_name": "select",
             "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[2]/select[1]",
-            "text": "\u7b80\u4f53\u4e2d\u6587\nDeutsch\nEnglish (UK)\nEnglish (US)\nEspa\u00f1ol\nFran\u00e7ais\nItaliano\n\u65e5\u672c\u8a9e\n\ud55c\uad6d\uc5b4\nNederlands\nPortugu\u00eas (Brasil)"
+            "text": "\u7b80\u4f53\u4e2d\u6587\nDeutsch\nEnglish (UK)\nEnglish (US)\nEspa\u00f1ol\nFran\u00e7ais\nItaliano\n\u65e5\u672c\u8a9e\n\ud55c\uad6d\uc5b4\nNederlands\nPortugu\u00eas (Brasil)",
+            "aria-label": "",
+            "id": "lang-selector",
+            "placeholder": null,
+            "href": ""
         }
     ]
 }

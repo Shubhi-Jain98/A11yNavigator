@@ -1,655 +1,1060 @@
 {
-    "count by default selenium driver": 107,
-    "total_count based on actionable selectors": 126,
+    "count by default selenium driver": 108,
+    "total_count based on actionable selectors": 115,
     "actionableElements": [
         {
             "tag_name": "input",
             "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/form[1]/input[1]",
-            "text": ""
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": "Search lyrics & more",
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": "SIGN UP"
+            "text": "SIGN UP",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/signup"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[2]",
-            "text": "SIGN IN"
+            "text": "SIGN IN",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/login"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[2]/a[1]",
-            "text": "FEATURED"
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "http://so.genius.com/wD5dnOG"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[2]/a[2]",
-            "text": "CHARTS"
+            "text": "FEATURED",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/#featured-stories"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[2]/a[3]",
-            "text": "VIDEOS"
+            "text": "CHARTS",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/#top-songs"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[2]/a[4]",
-            "text": "PROMOTE YOUR MUSIC"
+            "text": "VIDEOS",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/#videos"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
-            "text": ""
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]",
-            "text": ""
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
-            "text": ""
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]",
-            "text": ""
+            "xpath": "/body[1]/div[1]/div[1]/div[2]/a[5]",
+            "text": "PROMOTE YOUR MUSIC",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://promote.genius.com/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/a[1]",
-            "text": "NEWS\nRead All The Lyrics To Playboi Carti\u2019s New Album \u2018MUSIC\u2019\nKendrick Lamar, Travis Scott, and Lil Uzi Vert are among the guests.\nby Ken PartridgeMar. 14, 2025"
+            "text": "ROS\u00c9 Embraces Love\u2019s Complications On New Song \u201cMessy\u201d\nIt comes off the soundtrack for the forthcoming film \u2018F1 The Movie.\u2019\nMay 8, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/rose-embraces-loves-complications-on-new-song-messy"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/a[1]",
-            "text": ""
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/rose-embraces-loves-complications-on-new-song-messy"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": "NEWS\nChappell Roan Gets The Job Done On New Song \u201cThe Giver\u201d\nby Ken PartridgeMar. 14, 2025"
+            "text": "BABYMONSTER Aren\u2019t Scared Of Anything On New Song \u201cGhost\u201d",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/babymonster-arent-scared-of-anything-on-new-song-ghost"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]",
-            "text": "VIDEO\nSAILORR Performs \u201cCUT UP\u201d Live\nby ButterflyHoneyMar. 14, 2025"
+            "text": "NEWS\nEladio Carri\u00f3n Performs \u201cH.I.M.\u201d Live\nby ButterflyHoneyMay 8, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/eladio-carrion-performs-h-i-m-live"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[4]/div[1]/a[1]",
-            "text": "NEWS\nSelena Gomez Professes Her Love For benny blanco On Cheeky New Song \u201cSunset Blvd\u201d\nby Ken PartridgeMar. 14, 2025"
+            "text": "FEATURE\nWhat\u2019s Up Next: Here\u2019s Every Album Dropping In May\nby worstofalltimeApr. 28, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/every-album-release-in-may-2025"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[5]/div[1]/a[1]",
-            "text": "NEWS\nBhad Bhabie Goes Back On The Attack With New Song \u201cOG CRASHOUT\u201d\nby Ken PartridgeMar. 13, 2025"
+            "text": "NEWS\nPierce The Veil Live For The Moment On New Song \u201cKiss Me Now\u201d\nby Ken PartridgeMay 6, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/pierce-the-veil-live-for-the-moment-on-new-song-kiss-me-now"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[2]/a[1]",
-            "text": "1\nGOOD CREDIT\nLYRICS\nPlayboi Carti\n582\n231K"
+            "text": "AiScReam - \u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01(AI SCREAM!) (Romanized)\nLYRICS\nGenius Romanizations",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Genius-romanizations-aiscream-ai-scream-romanized-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[2]/a[2]",
-            "text": "2\nRATHER LIE\nLYRICS\nPlayboi Carti\n400\n363K"
+            "text": "Look To Windward\nLYRICS\nSleep Token",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Sleep-token-look-to-windward-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[2]/a[3]",
-            "text": "3\nBACKD00R\nLYRICS\nPlayboi Carti\n299\n222.7K"
+            "text": "Gethsemane\nLYRICS\nSleep Token",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Sleep-token-gethsemane-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[2]/a[4]",
-            "text": "4\nMOJO JOJO\nLYRICS\nPlayboi Carti\n258\n244.7K"
+            "text": "Messy\nLYRICS\nROS\u00c9",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Rose-messy-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[2]/a[5]",
-            "text": "5\nEmergence\nLYRICS\nSleep Token\n200\n188.3K"
+            "text": "Gnarly\nLYRICS\nKATSEYE",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Katseye-gnarly-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[2]/a[6]",
-            "text": "6\nThe Giver\nLYRICS\nChappell Roan\n215\n306.1K"
+            "text": "Even In Arcadia\nLYRICS\nSleep Token",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Sleep-token-even-in-arcadia-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[2]/a[7]",
-            "text": "7\nCRUSH\nLYRICS\nPlayboi Carti\n192\n181.4K"
+            "text": "Infinite Baths\nLYRICS\nSleep Token",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Sleep-token-infinite-baths-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[2]/a[8]",
-            "text": "8\nTOXIC\nLYRICS\nPlayboi Carti\n226\n136K"
+            "text": "Past Self\nLYRICS\nSleep Token",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Sleep-token-past-self-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[2]/a[9]",
-            "text": "9\nPOP OUT\nLYRICS\nPlayboi Carti\n170\n279.1K"
+            "text": "Steve\u2019s Lava Chicken\nLYRICS\nJack Black",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Jack-black-steves-lava-chicken-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[2]/a[10]",
-            "text": "10\nEVIL J0RDAN\nLYRICS\nPlayboi Carti\n240\n572.8K"
+            "text": "Provider\nLYRICS\nSleep Token",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Sleep-token-provider-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[6]/div[1]/a[1]",
-            "text": ""
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/videos/Rico-nasty-breaks-down-the-meaning-of-teethsucker"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[6]/div[1]/div[2]/div[1]/a[1]",
-            "text": ""
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/shows/verified"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[6]/div[1]/div[2]/div[1]/a[2]",
-            "text": "SAILORR Performs \u201cCUT UP\u201d Live\nWatch them perform the song on the latest episode of \u2019Open Mic\u2019\nby ButterflyHoneyMar. 14, 2025"
+            "text": "Rico Nasty Breaks Down The Meaning of \u201cTEETHSUCKER (YEA3x)\u201d\nLearn about the song\u2019s lyrics on the latest episode of \u2018Verified.\u2019\nby ButterflyHoneyMay 1, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/videos/Rico-nasty-breaks-down-the-meaning-of-teethsucker"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[2]/div[1]/a[1]",
-            "text": "VIDEO\nSAILORR Performs \u201cCUT UP\u201d Live\nby ButterflyHoneyMar. 14, 2025"
+            "text": "ROS\u00c9 Embraces Love\u2019s Complications On New Song \u201cMessy\u201d",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/rose-embraces-loves-complications-on-new-song-messy"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[3]/div[1]/a[1]",
-            "text": "NEWS\nSelena Gomez Professes Her Love For benny blanco On Cheeky New Song \u201cSunset Blvd\u201d\nby Ken PartridgeMar. 14, 2025"
+            "text": "NEWS\nEladio Carri\u00f3n Performs \u201cH.I.M.\u201d Live\nby ButterflyHoneyMay 8, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/eladio-carrion-performs-h-i-m-live"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[4]/div[1]/a[1]",
-            "text": "NEWS\nRead All The Lyrics To Playboi Carti\u2019s New Album \u2018MUSIC\u2019\nby Ken PartridgeMar. 14, 2025"
+            "text": "NEWS\nBABYMONSTER Aren\u2019t Scared Of Anything On New Song \u201cGhost\u201d\nby Ken PartridgeMay 7, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/babymonster-arent-scared-of-anything-on-new-song-ghost"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[5]/div[1]/a[1]",
-            "text": "NEWS\nChappell Roan Gets The Job Done On New Song \u201cThe Giver\u201d\nby Ken PartridgeMar. 14, 2025"
+            "text": "NEWS\nPierce The Veil Live For The Moment On New Song \u201cKiss Me Now\u201d\nby Ken PartridgeMay 6, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/pierce-the-veil-live-for-the-moment-on-new-song-kiss-me-now"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[6]/div[1]/a[1]",
-            "text": "NEWS\nLil Nas X Keeps The Streak Going With New Song \u201cRIGHT THERE!\u201d\nby Ken PartridgeMar. 13, 2025"
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/mariah-the-scientist-mixes-fire-ice-on-new-song-burning-blue"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[7]/div[1]/a[1]",
-            "text": "VIDEO\nCynthia Erivo Breaks Down The Meaning of \u201cReplay\u201d\nby ButterflyHoneyMar. 13, 2025"
+            "text": "NEWS\nHearts2Hearts: A Debut Fueled by Dreams, Friendship & Fire\nby Isabella WandermuremMay 5, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/hearts2hearts-interview-2025"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[8]/div[1]/a[1]",
-            "text": "NEWS\nBhad Bhabie Goes Back On The Attack With New Song \u201cOG CRASHOUT\u201d\nby Ken PartridgeMar. 13, 2025"
+            "text": "NEWS\nThe Lyrical Legacy Of Star Wars\nby Ken PartridgeMay 4, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/the-lyrical-legacy-of-star-wars"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[9]/div[1]/a[1]",
-            "text": "NEWS\nLil Nas X Drives To The Hoop On New Song \u201cSWISH\u201d\nby Ken PartridgeMar. 12, 2025"
+            "text": "NEWS\nTABLO & RM Team Up For New Song \u201cStop The Rain\u201d\nby Ken PartridgeMay 2, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/tablo-rm-team-up-for-new-song-stop-the-rain"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[10]/div[1]/a[1]",
-            "text": "NEWS\nbilly woods Teams Up With Producer Kenny Segal For New Song \u201cMisery\u201d\nby Ken PartridgeMar. 12, 2025"
+            "text": "Elliot James Reay Performs \u201cDaydreaming\u201d Live\nMay 2, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/elliot-james-reay-performs-daydreaming-live"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[11]/div[1]/a[1]",
-            "text": "NEWS\nXiumin Is Defining His Vision and Artistry\nby Sofia SaysonMar. 11, 2025"
+            "text": "NEWS\nRead All The Lyrics To Yung Lean\u2019s New Album \u2018Jonatan\u2019\nby Ken PartridgeMay 2, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/read-all-the-lyrics-to-yung-leans-new-album-jonatan"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[12]/div[1]/a[1]",
-            "text": "NEWS\nLil Nas X Readies For A Comeback With New Song \u201cDREAMBOY\u201d\nby Ken PartridgeMar. 10, 2025"
+            "text": "NEWS\nEd Sheeran Revisits The Past On New Song \u201cOld Phone\u201d\nby Ken PartridgeMay 2, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/ed-sheeran-revisits-the-past-on-new-song-old-phone"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[13]/div[1]/a[1]",
-            "text": "NEWS\nCa7riel & Paco Amoroso Are Surfing A Sick Wave Right Now\nby Lucas VillaMar. 10, 2025"
+            "text": "NEWS\nRead All The Lyrics To Key Glock\u2019s New Album \u2018Glockaveli\u2019\nby Ken PartridgeMay 2, 2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/a/read-all-the-lyrics-to-key-glocks-new-album-glockaveli"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[2]/div[1]/span[1]/a[1]",
-            "text": "JOIN OUR COMMUNITY"
+            "text": "JOIN OUR COMMUNITY",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/signup"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[2]/div[1]/a[1]",
-            "text": "LEARN HOW GENIUS WORKS"
+            "text": "LEARN HOW GENIUS WORKS",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/contributor_guidelines"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[3]/a[1]",
-            "text": "1\nWriteNProppa\nSTAFF\n6,767"
+            "text": "Semdva\nCONTRIBUTOR",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Semdva"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[3]/a[2]",
-            "text": "2\nRabe8i\nEDITOR\n6,155"
+            "text": "2small4damall\nTRANSCRIBER",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/2small4damall"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[3]/a[3]",
-            "text": "3\n\u1d04\u029c\u029f\u1d0f\u1d07 (eolhC)\nMODERATOR\n5,478"
+            "text": "Ferbinho\nMODERATOR",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Ferbinho"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[3]/a[4]",
-            "text": "4\nslactobr\nTRANSCRIBER\n4,005"
+            "text": "\u1d04\u029c\u029f\u1d0f\u1d07 (eolhC)\nMODERATOR",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Chloe"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[3]/a[5]",
-            "text": "5\nOWNehTkcuF\nEDITOR\n3,778"
+            "text": "RobertRinCA\nCONTRIBUTOR",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/RobertRinCA"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[3]/a[6]",
-            "text": "6\nKristian_Lin\nEDITOR\n3,751"
+            "text": "iwantwar\nEDITOR",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/iwantwar"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[3]/a[7]",
-            "text": "7\noddatelier\nEDITOR\n3,726"
+            "text": "devyatkrestov\nCONTRIBUTOR",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/devyatkrestov"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[3]/a[8]",
-            "text": "8\nFerbinho\nMODERATOR\n2,746"
+            "text": "WhatUInfoUK\nCONTRIBUTOR",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/WhatUInfoUK"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[3]/a[9]",
-            "text": "9\nAOVMOB\nCONTRIBUTOR\n2,332"
+            "text": "AnjaliMahadeo\nCONTRIBUTOR",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/AnjaliMahadeo"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[3]/a[10]",
-            "text": "10\nhigherfasterlouder\nEDITOR\n1,985"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[1]",
-            "text": ""
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[2]",
-            "text": ""
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[3]",
-            "text": ""
+            "text": "HouseMusicFan1442\nEDITOR",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/HouseMusicFan1442"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/a[4]",
-            "text": ""
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.youtube.com/genius"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[2]/a[1]",
-            "text": "About Genius"
+            "text": "About Genius",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/about"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[2]/a[2]",
-            "text": "Contributor Guidelines"
+            "text": "Contributor Guidelines",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/contributor_guidelines"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[2]/a[3]",
-            "text": "Press"
+            "text": "Press",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/press"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[2]/a[4]",
-            "text": "Shop"
+            "text": "Shop",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://shop.genius.com/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[2]/a[5]",
-            "text": "Advertise"
+            "text": "Advertise",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "mailto:inquiry@genius.com"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[2]/a[6]",
-            "text": "Privacy Policy"
+            "text": "Privacy Policy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/static/privacy_policy"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[3]/a[1]",
-            "text": "Licensing"
+            "text": "Licensing",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/static/licensing"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[3]/a[2]",
-            "text": "Jobs"
+            "text": "Jobs",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/jobs"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[3]/a[3]",
-            "text": "Developers"
+            "text": "Developers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/developers"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[3]/a[4]",
-            "text": "Copyright Policy"
+            "text": "Copyright Policy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/static/copyright"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[3]/a[5]",
-            "text": "Contact Us"
+            "text": "Contact Us",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/feedback/new"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[3]/a[6]",
-            "text": "Sign In"
+            "text": "Sign In",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/login"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[3]/a[7]",
-            "text": "Do Not Sell My Personal Information"
+            "text": "Do Not Sell My Personal Information",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/static/ccpa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[1]/div[5]/a[1]",
-            "text": "Terms of Use"
+            "text": "Terms of Use",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/static/terms"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/a[1]",
-            "text": "VERIFIED ARTISTS"
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/verified-artists"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[1]",
-            "text": "A"
+            "text": "A",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/a"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[2]",
-            "text": "B"
+            "text": "B",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/b"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[3]",
-            "text": "C"
+            "text": "C",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/c"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[4]",
-            "text": "D"
+            "text": "D",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/d"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[5]",
-            "text": "E"
+            "text": "E",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/e"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[6]",
-            "text": "F"
+            "text": "F",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/f"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[7]",
-            "text": "G"
+            "text": "G",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/g"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[8]",
-            "text": "H"
+            "text": "H",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/h"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[9]",
-            "text": "I"
+            "text": "I",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/i"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[10]",
-            "text": "J"
+            "text": "J",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/j"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[11]",
-            "text": "K"
+            "text": "K",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/k"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[12]",
-            "text": "L"
+            "text": "L",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/l"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[13]",
-            "text": "M"
+            "text": "M",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/m"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[14]",
-            "text": "N"
+            "text": "N",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/n"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[15]",
-            "text": "O"
+            "text": "O",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/o"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[16]",
-            "text": "P"
+            "text": "P",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/p"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[17]",
-            "text": "Q"
+            "text": "Q",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/q"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[18]",
-            "text": "R"
+            "text": "R",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/r"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[19]",
-            "text": "S"
+            "text": "S",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/s"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[20]",
-            "text": "T"
+            "text": "T",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/t"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[21]",
-            "text": "U"
+            "text": "U",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/u"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[22]",
-            "text": "V"
+            "text": "V",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/v"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[23]",
-            "text": "W"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[24]",
-            "text": "X"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[25]",
-            "text": "Y"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[26]",
-            "text": "Z"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/a[27]",
-            "text": "#"
+            "text": "W",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/artists-index/w"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[2]/div[2]/a[1]",
-            "text": "COWORKINGSPACES"
+            "text": "GETHSEMANE",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Sleep-token-gethsemane-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[2]/div[2]/a[2]",
-            "text": "GOOD CREDIT"
+            "text": "INFINITE BATHS",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Sleep-token-infinite-baths-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[2]/div[2]/a[3]",
-            "text": "RATHER LIE"
+            "text": "RAMEN PARA DOS",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Maria-becerra-paulo-londra-and-xross-ramen-para-dos-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[2]/div[2]/a[4]",
-            "text": "BACKD00R"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[2]/div[2]/a[5]",
-            "text": "MOJO JOJO"
+            "text": "LOOK TO WINDWARD",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/Sleep-token-look-to-windward-lyrics"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[1]/footer[1]/div[2]/div[2]/div[2]/a[6]",
-            "text": "VIEW ALL"
+            "text": "VIEW ALL",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://genius.com/hot-songs"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
             "text": "SONGS / ALL GENRES / TODAY",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[3]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[5]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[3]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[4]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[5]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[6]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[7]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[2]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[3]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[4]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[5]",
             "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[3]/div[1]",
             "text": "LOAD MORE",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[6]/div[1]/div[3]/div[1]",
             "text": "LOAD MORE",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[7]/div[1]/div[14]/div[1]",
             "text": "LOAD MORE",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         },
         {
             "tag_name": "div",
             "xpath": "/body[1]/div[1]/div[1]/div[8]/div[1]/div[4]/div[1]",
             "text": "LOAD MORE",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "",
             "event_listener": "yes"
         }
     ]

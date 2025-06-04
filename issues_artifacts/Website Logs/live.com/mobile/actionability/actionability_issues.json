@@ -1,0 +1,19 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "IA2UniqueID": -532798,
+            "xpath": "/html/body/div/div[3]/div/div[2]/main/div/div/div/div[8]/div[2]/div[14]/div[2]/div[2]/div/div/div/div[2]/div/button[2]",
+            "nvda_role": "TOGGLEBUTTON (92)",
+            "nvda_name": "Collapse all",
+            "nvda_value": null,
+            "nvda_states": [
+                "OFFSCREEN (4194304)",
+                "UNAVAILABLE (1)",
+                "FOCUSED (2)",
+                "FOCUSABLE (16777216)",
+                "PRESSED (16)"
+            ]
+        }
+    ]
+}

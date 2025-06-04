@@ -1,0 +1,10 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/a[1]",
+            "text": "Skip to main content"
+        }
+    ]
+}

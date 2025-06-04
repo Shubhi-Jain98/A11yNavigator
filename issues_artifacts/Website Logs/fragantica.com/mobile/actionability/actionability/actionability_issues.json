@@ -1,0 +1,16 @@
+{
+    "count of actionability issues": 1,
+    "missing paths": [
+        {
+            "IA2UniqueID": -170,
+            "xpath": "/html/body/div[2]/div[2]/div[4]/div[12]/button",
+            "nvda_role": "MENUBUTTON (102)",
+            "nvda_name": "View site information",
+            "nvda_value": null,
+            "nvda_states": [
+                "FOCUSABLE (16777216)",
+                "FOCUSED (2)"
+            ]
+        }
+    ]
+}

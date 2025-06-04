@@ -1,911 +1,1311 @@
 {
-    "count by default selenium driver": 890,
-    "total_count based on actionable selectors": 181,
+    "count by default selenium driver": 961,
+    "total_count based on actionable selectors": 145,
     "actionableElements": [
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Samsung"
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/a[1]",
+            "text": "Samsung",
+            "aria-label": "Samsung",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/"
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[1]/button[1]",
-            "text": "Offers"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[2]/button[1]",
-            "text": "Mobile"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[3]/button[1]",
-            "text": "TV & Audio"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[4]/button[1]",
-            "text": "Appliances"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[5]/button[1]",
-            "text": "Computing & Displays"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[6]/button[1]",
-            "text": "Accessories"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[7]/button[1]",
-            "text": "AI"
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[2]/div[5]/div[1]/button[1]",
+            "text": "Search",
+            "aria-label": "Search",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[1]/li[8]/a[1]",
-            "text": "SmartThings"
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[2]/div[5]/div[2]/a[1]",
+            "text": "Cart",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/web/express/cart/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[2]/div[5]/div[3]/a[1]",
+            "text": "Sign in/Create Account",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "javascript:;"
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[2]/li[1]/button[1]",
-            "text": "Support"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[5]/ul[2]/li[2]/a[1]",
-            "text": "For Business"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[6]/div[1]/button[1]",
-            "text": "Search\nSearch"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[6]/div[2]/a[1]",
-            "text": "Cart"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[1]/div[6]/div[3]/a[1]",
-            "text": "Sign in/Create Account"
+            "xpath": "/body[1]/div[1]/nav[1]/div[1]/div[2]/div[5]/div[5]/button[1]",
+            "text": "Navigation",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/a[1]",
-            "text": "Accessible Carousel"
+            "text": "Accessible Carousel",
+            "aria-label": "Accessible Carousel",
+            "id": "ae-carousel-button-0",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/#"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/shop/all-deals/cell-phone-deals/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/a[1]",
-            "text": ""
+            "text": "Add to calendar",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://images.samsung.com/is/content/samsung/assets/us/unpacked/unpacked-may-2025-us.ics"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/a[2]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/smartphones/the-next-galaxy/reserve/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/a[1]",
-            "text": "Buy Galaxy A26"
+            "text": "Shop all TV deals",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/shop/tv-and-home-theater-offers/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/a[2]",
-            "text": "Buy Galaxy A36"
+            "text": "Buy now",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/75-class-the-frame-qled-4k-ls03d-qn75ls03dafxza/"
         },
         {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[4]/div[1]/button[1]",
-            "text": "Buy Galaxy A36"
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Shop all appliance deals",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/shop/all-deals/home-appliance-and-smart-home-sales/"
         },
         {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[2]/button[1]",
-            "text": "Previous"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[2]/button[2]",
-            "text": "Next"
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Buy now",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/bespoke/smart/"
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/button[1]",
-            "text": "stop"
+            "text": "stop",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[1]",
-            "text": ""
+            "text": "Galaxy S25 Ultra",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[2]",
-            "text": ""
+            "text": "Beyond slim",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[3]",
-            "text": ""
+            "text": "The Frame",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[4]",
-            "text": ""
+            "text": "Bespoke AI",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[5]",
-            "text": ""
+            "text": "Mother's Day",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[6]",
-            "text": ""
+            "text": "Galaxy Watch Ultra",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/section[1]/div[4]/div[1]/div[1]/div[1]/div[1]/button[7]",
+            "text": "Teacher's Appreciation",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[2]/a[1]",
-            "text": "View All Offers"
+            "text": "View all offers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/shop/all-deals/"
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
-            "text": "For You"
+            "text": "For You",
+            "aria-label": "",
+            "id": "ae_showcase_tab_0",
+            "placeholder": null,
+            "href": "javascript:;"
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
-            "text": "Mobile"
+            "text": "New",
+            "aria-label": "",
+            "id": "ae_showcase_tab_1",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
-            "text": "TV & Audio"
+            "text": "Mobile",
+            "aria-label": "",
+            "id": "ae_showcase_tab_2",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
-            "text": "Home Appliances"
+            "text": "TV & Audio",
+            "aria-label": "",
+            "id": "ae_showcase_tab_3",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/button[1]",
-            "text": "Computing"
+            "text": "Home Appliances",
+            "aria-label": "",
+            "id": "ae_showcase_tab_4",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/button[1]",
-            "text": "Tournament Tech"
+            "text": "Computing",
+            "aria-label": "",
+            "id": "ae_showcase_tab_5",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
-            "text": "New\n85\" Neo QLED 8K QN900F Vision AI Smart TV (2025)\nFrom $3299.99"
+            "text": "Galaxy Buds3 Pro",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/mobile-audio/galaxy-buds3-pro/buy/galaxy-buds3-pro-silver-sm-r630nzaaxar"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
-            "text": "New\nBespoke AI Vented Laundry Combo\nSave $600.\n From $2499"
+            "text": "Galaxy S25 Ultra, 1TB",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/smartphones/galaxy-s25-ultra/buy/?modelCode=SM-S938UAKFXAA"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/a[1]",
-            "text": "Galaxy Buds3 Pro\nSave up to $165.\n From $209.99 before eligible trade-in."
+            "text": "Q-series 3.1.2 ch. Soundbar",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/televisions-home-theater/home-theater/sound-bars/q-series-3-1-2-ch-dolby-atmos-soundbar-w-q-symphony-hw-q600c-2023-hw-q600c-za"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/a[1]",
-            "text": "65\"The Frame QLED 4K\nSave $700.\n From $1299.99"
+            "text": "Bespoke 4-Door French Door Refrigerator (29 cu. ft.) with Beverage Center",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-4-door-french-door-refrigerator-29-cu-ft-with-beverage-center-in-white-glass-rf29bb860012aa"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/a[1]",
-            "text": "32\" Odyssey Neo G7 4K UHD 165Hz 1ms Curved Gaming Monitor\nFrom $1099.99"
+            "text": "7.5 cu. ft. Smart Electric Dryer with Steam Sanitize+ and Sensor Dry",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/dryers/electric/7-5-cu--ft--smart-electric-dryer-with-steam-sanitize--and-sensor-dry-in-brushed-black-dve50bg8300va3"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/a[1]",
-            "text": "Bespoke 5.3 cu. ft. All-in-One AI Laundry Combo Ultra Capacity Washer and Ventless Heat Pump Dryer\nSave $1300.\n From $1999"
+            "text": "65\"The Frame QLED 4K",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/65-class-the-frame-qled-4k-ls03d-qn65ls03dafxza"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Pre-order now"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[7]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Shop now",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/featured/new-releases/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Shop now"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Galaxy Tab S10 FE+",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/galaxy-tab-s10-fe-plus-blue-128gb-sku-sm-x620nlbaxar/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Reserve now"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Ballie Home Robot",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/projectors/home-robot-ballie/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Shop now"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Bespoke AI Vacuum",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/vacuums/jet-stick/bespoke-ai-jet-ultra-cordless-stick-vacuum-with-all-in-one-clean-station-and-400aw-suction-power-in-satin-black-vs90f40dmk-aa/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[4]/a[1]",
+            "text": "Neo QLED 8K TV",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/tvs/neo-qled/65-class-neo-qled-8k-tv-qn900f-sku-qn65qn900ffxza/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[5]/a[1]",
+            "text": "Odyssey G9 Gaming Monitor",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/monitors/gaming/49-inch-odyssey-g9-g91f-dqhd-144hz-gaming-monitor-sku-ls49fg910enxza/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[6]/a[1]",
+            "text": "The Frame Pro",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/lifestyle-tvs/the-frame/65-inch-class-the-frame-pro-neo-qled-4k-tv-ls03fw-sku-qn65ls03fwfxza/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[7]/a[1]",
+            "text": "Bespoke Dishwasher",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/dishwashers/rotary/38-dba-bespoke-smart-dishwasher-with-3rd-rack-washing-system-in-fingerprint-resistant-stainless-steel-dw90f89t0usraa/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[8]/a[1]",
+            "text": "Bespoke Refrigerator",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-29-cu-ft-4-door-french-door-refrigerator-with-ai-home-ai-vision-inside-in-charcoal-glass-and-stainless-steel-rf90f29becraa/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[9]/a[1]",
+            "text": "4-Door French Door Refrigerator",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-29-cu-ft-4-door-french-door-refrigerator-with-inner-beverage-center-flexzone-drawer-in-stainless-steel-rf70f29deraa/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[10]/a[1]",
+            "text": "Neo QLED 4K TV",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/tvs/neo-qled/43-class-neo-qled-4k-tv-qn90f-sku-qn43qn90fafxza/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[11]/a[1]",
+            "text": "Bespoke AI Refrigerator",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-23-cu-ft-counter-depth-4-door-french-door-refrigerator-with-ai-hybrid-cooling-beverage-center-in-stainless-steel-rm80f23vmraa/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[12]/a[1]",
+            "text": "The Frame",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/lifestyle-tvs/the-frame/43-inch-the-frame-qled-4k-tv-ls03fa-sku-qn43ls03fafxza/"
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
-            "text": "Endless free content Play video"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Reserve now"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/button[1]",
-            "text": "The next phase of gaming Play video"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Pre-order now"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Beyond slim",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/button[1]",
-            "text": "Play video"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Galaxy Z Fold6",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "Galaxy Tab S10 FE+",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
+            "text": "Galaxy Watch Ultra",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[10]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Sign up",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/smartphones/the-next-galaxy/reserve/"
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
-            "text": "Galaxy S25 Ultra"
+            "text": "Lifestyle Week",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
-            "text": "Galaxy Z Fold6"
+            "text": "The Frame Pro",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
-            "text": "Galaxy Tab S10 Ultra"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
-            "text": "Galaxy Ring"
+            "text": "The Frame",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": "Shop all phone deals"
+            "text": "Shop all TV Deals",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/shop/tv-and-home-theater-offers/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[12]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[2]",
-            "text": "Buy now"
+            "text": "Buy now",
+            "aria-label": "Buy now for More than just a TV, it\u2019s a lifestyle",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/65-class-the-frame-qled-4k-ls03d-qn65ls03dafxza/"
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
-            "text": "Samsung AI Vision"
+            "text": "Bespoke Laundry",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
-            "text": "Neo QLED 8K QN900F"
+            "text": "Bespoke Refrigerators",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
-            "text": "Neo QLED 4K QN90F"
+            "text": "Bespoke Vacuums",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
+            "text": "Bespoke Dishwashers",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/button[1]",
+            "text": "Buy Smart, Buy Early",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": "Learn more"
+            "text": "Shop all appliance deals",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/shop/all-deals/home-appliance-and-smart-home-sales/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[2]",
-            "text": "Shop now"
+            "text": "Buy now",
+            "aria-label": "Buy now for New Bespoke AI Laundry Vented Combo\u2122",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/all-in-one-washer-dryer-combo/electric/5-3-cu-ft-bespoke-ai-laundry-combo-vented-all-in-one-ultra-capacity-washer-and-electric-dryer-with-ai-home-in-dark-steel-wd90f53avsus/"
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
-            "text": "Bespoke Laundry"
+            "text": "49\" Odyssey G9",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
-            "text": "Bespoke Refrigerators"
+            "text": "27\" Odyssey 3D",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
-            "text": "Bespoke Vacuums"
+            "text": "27\" Odyssey G8",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
-            "text": "Bespoke Dishwashers"
+            "text": "9100 PRO SSD",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": "Shop all appliance deals"
+            "text": "Learn more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/monitors/odyssey-gaming-monitor/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[16]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[2]",
-            "text": "Pre-order now"
+            "text": "Buy now",
+            "aria-label": "Buy now",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/monitors/gaming/49-inch-odyssey-g9-g91f-dqhd-144hz-gaming-monitor-sku-ls49fg910enxza/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
-            "text": "Watch bands\nWatch bands to match your mood and your fit."
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Galaxy Buds3\nBlock distractions throughout the day with rich audio."
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]",
-            "text": "Galaxy S25 Ultra Accessories\nFind accessories designed to elevate\nyour device."
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/a[1]",
-            "text": "Powerful portability\nCharge any device swiftly."
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/a[1]",
-            "text": "Double the speed\nBoost your charging efficiency."
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Learn more"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Learn more"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Learn more"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Learn more"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[21]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
-            "text": "Learn more"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Learn more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/smartphones/new-galaxy-club/"
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[23]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
-            "text": "Certified Re-Newed"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/button[2]",
+            "text": "Next",
+            "aria-label": "Next Slide",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[23]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
-            "text": "Trade-in Recycling Program"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]",
+            "text": "ft12_feature column carousel_home specific|index",
+            "aria-label": "",
+            "id": "swiper1",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[2]",
+            "text": "ft12_feature column carousel_home specific|index",
+            "aria-label": "",
+            "id": "swiper2",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[3]",
+            "text": "ft12_feature column carousel_home specific|index",
+            "aria-label": "",
+            "id": "swiper3",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[18]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[4]",
+            "text": "ft12_feature column carousel_home specific|index",
+            "aria-label": "",
+            "id": "swiper4",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Energy Savings",
+            "aria-label": "",
+            "id": "ae_showcase_tab_6",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Wellness Refresh",
+            "aria-label": "",
+            "id": "ae_showcase_tab_7",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "Home Upgrades",
+            "aria-label": "",
+            "id": "ae_showcase_tab_8",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[23]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": "Learn more"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Lighten your load on the planet\nBespoke AI Laundry Combo\u2122 cleans faster with less water.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/washers/all-in-one-washer-dryer-combo/bespoke-5-3-cu-ft-all-in-one-ai-laundry-combo-ultra-capacity-washer-with-super-speed-and-ventless-heat-pump-dryer-in-dark-steel-wd53dba900hza1/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[1]/h2[1]/a[1]",
-            "text": "Explore more \u2013 Shop smarter"
-        },
-        {
-            "tag_name": "span",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]",
-            "text": "Let our products ease your day"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Extra space to clean smarter\nThe Bespoke Smart Dishwasher.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/dishwashers/rotary/bespoke-smart-42dba-dishwasher-with-stormwash-and-smart-dry-in-white-glass-dw80bb707012aa/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
-            "text": "Learn more"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[20]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Reduce food waste\nThe Bespoke 4-Door French Door Fridge.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-29-cu-ft-4-door-french-door-refrigerator-with-ai-family-hub-ai-vision-inside-in-charcoal-glass-and-stainless-steel-rf90f29aecraa/"
         },
         {
-            "tag_name": "span",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]",
-            "text": "How to choose the best Galaxy AI phone experience for your lifestyle"
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[22]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Mobile Accessories",
+            "aria-label": "",
+            "id": "ae_showcase_tab_9",
+            "placeholder": null,
+            "href": ""
         },
         {
-            "tag_name": "span",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]",
-            "text": "Empowering a better you"
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[22]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Home Accessories",
+            "aria-label": "",
+            "id": "ae_showcase_tab_10",
+            "placeholder": null,
+            "href": ""
         },
         {
-            "tag_name": "span",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]",
-            "text": "Step into spring refreshed and recharged"
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[22]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "The Freestyle\nThe mini projector you can set up in a snap.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/televisions-home-theater/tvs/portable-projector/the-freestyle-with-gaming-hub-sp-lff3claxxza/"
         },
         {
-            "tag_name": "span",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/span[1]",
-            "text": "Discover how our AI empowers you"
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[22]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Galaxy Buds3\nAI-powered noise cancellation.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/mobile-audio/galaxy-buds3/buy/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[22]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Galaxy S25 Ultra Accessories\n\nFind accessories designed to elevate your device.",
+            "aria-label": "Shop Now - Galaxy S25 Ultra Accessories - Find accessories designed to elevate your device.",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/mobile/mobile-accessories/phones/?category_names=Phones&smartphone_compatibility=Galaxy+S25+Ultra"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[22]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/a[1]",
+            "text": "Music Frame\nPowerful sound. Personal style.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/televisions-home-theater/home-theater/wireless-speakers/music-frame-hw-ls60d-za/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[22]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/a[1]",
+            "text": "Galaxy Watch7\nSmart support for every step.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/watches/galaxy-watch7/buy/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[23]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Learn more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/smartthings/experience-smartthings/#/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Certified Re-Newed",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Exploring Innovation",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "Energy Savings",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[25]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Learn more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/smartphones/galaxy-s-series/certified-re-newed-store/buy/galaxy-s24-certified-re-newed-128gb-sm5s921uzkaxaa/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/h2[1]/a[1]",
+            "text": "Explore more \u2013 Shop smarter",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/explore/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Learn more",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/explore/brand/let-our-products-ease-your-day/"
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/button[1]",
+            "text": "Let our products ease your day",
+            "aria-label": "",
+            "id": "swiper5",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/button[2]",
+            "text": "How to choose the best Galaxy AI phone experience for your lifestyle",
+            "aria-label": "",
+            "id": "swiper6",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/button[3]",
+            "text": "Empowering a better you",
+            "aria-label": "",
+            "id": "swiper7",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/button[4]",
+            "text": "Step into spring refreshed and recharged",
+            "aria-label": "",
+            "id": "swiper8",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/button[5]",
+            "text": "Discover how our AI empowers you",
+            "aria-label": "",
+            "id": "swiper9",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "input",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/form[1]/fieldset[1]/div[1]/div[1]/div[1]/input[1]",
-            "text": "Search"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[29]/section[1]/div[1]/form[1]/fieldset[1]/div[1]/div[1]/div[1]/input[1]",
+            "text": "Search",
+            "aria-label": "Search",
+            "id": "home-page-search",
+            "placeholder": "",
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/form[1]/fieldset[1]/div[1]/div[1]/div[1]/button[1]",
-            "text": "Delete"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[29]/section[1]/div[1]/form[1]/fieldset[1]/div[1]/button[1]",
+            "text": "search",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/form[1]/fieldset[1]/div[1]/button[1]",
-            "text": "search"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[29]/section[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+            "text": "Galaxy S25 Ultra",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[1]/button[1]",
-            "text": "Galaxy S25 Ultra"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[29]/section[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+            "text": "Galaxy S25+",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[2]/button[1]",
-            "text": "Galaxy S25+"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[29]/section[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+            "text": "Galaxy S25",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[3]/button[1]",
-            "text": "Galaxy S25"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[29]/section[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
+            "text": "Galaxy Z Flip6",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[4]/button[1]",
-            "text": "Galaxy Z Flip6"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[29]/section[1]/div[1]/div[1]/ul[1]/li[5]/button[1]",
+            "text": "The Frame",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[5]/button[1]",
-            "text": "The Frame"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[29]/section[1]/div[1]/div[1]/ul[1]/li[6]/button[1]",
+            "text": "BESPOKE Refrigerator",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[6]/button[1]",
-            "text": "BESPOKE Refrigerator"
-        },
-        {
-            "tag_name": "button",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/ul[1]/li[7]/button[1]",
-            "text": "Accessories"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[29]/section[1]/div[1]/div[1]/ul[1]/li[7]/button[1]",
+            "text": "Accessories",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "p",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/p[1]",
-            "text": "Mobile Disclosures:"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/p[1]",
+            "text": "Mobile Disclosures:",
+            "aria-label": "Mobile Disclosures:",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
-            "text": "Show More"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
-            "text": "Show More"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
-            "text": "terms and conditions"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "terms and conditions",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/trade-in/terms-and-conditions/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[3]/div[1]/a[2]",
-            "text": "Show More"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[3]/div[1]/a[2]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
-            "text": "Show More"
-        },
-        {
-            "tag_name": "p",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[5]/p[1]",
-            "text": "Home Appliance Disclosures:"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[5]/div[2]/div[1]/a[1]",
-            "text": "Show More"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[5]/div[3]/div[1]/a[1]",
-            "text": "Show More"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[5]/div[4]/div[1]/a[1]",
-            "text": "Show More"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[5]/div[5]/div[1]/a[1]",
-            "text": "Show More"
-        },
-        {
-            "tag_name": "p",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/p[1]",
-            "text": "Home Entertainment Disclosures:"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[1]/div[1]/a[1]",
-            "text": "Show More"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[2]/div[1]/a[1]",
-            "text": "Show More"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[5]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "p",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[3]/p[1]",
-            "text": "Stand Alone Disclosures:"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[6]/p[1]",
+            "text": "Home Appliance Disclosures:",
+            "aria-label": "Home Appliance Disclosures:",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[3]/div[1]/div[1]/a[1]",
-            "text": "Show More"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[6]/div[1]/div[1]/a[1]",
+            "text": "samsung.com/us/shop/promotions/warranty-offer-2025",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/samsung.com/us/shop/promotions/warranty-offer-2025"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[6]/div[1]/div[1]/a[2]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "p",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[4]/p[1]",
-            "text": "Computing Disclosures:"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/p[2]",
+            "text": "Home Entertainment Disclosures:",
+            "aria-label": "Home Entertainment Disclosures:",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[4]/div[1]/div[1]/a[1]",
-            "text": "Samsung.com"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[7]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[28]/section[1]/div[1]/div[1]/div[6]/div[4]/div[1]/div[1]/a[2]",
-            "text": "Show More"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[8]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Phones"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[10]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
+        },
+        {
+            "tag_name": "p",
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[11]/p[1]",
+            "text": "Stand Alone Disclosures:",
+            "aria-label": "Stand Alone Disclosures:",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "Tablets"
+            "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[30]/section[1]/div[1]/div[1]/div[11]/div[1]/div[1]/a[1]",
+            "text": "Show More",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": ""
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Watches"
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "open",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "javascript:void(0);"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "Mobile Accessories"
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "open",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "javascript:void(0);"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "Mobile Audio"
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "text": "open",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "javascript:void(0);"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "TV & Home Theater"
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "text": "open",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "javascript:void(0);"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "Computing"
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[2]/a[1]",
+            "text": "open",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "javascript:void(0);"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "Monitors"
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[2]/a[1]",
+            "text": "USA/ENGLISH",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/function/ipredirection/ipredirectionLocalList/"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[9]/a[1]",
-            "text": "Memory & Storage"
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://shopsamsung.page.link/hJbyG5aVLAUMF2yt7"
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[10]/a[1]",
-            "text": "Home Appliances"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[11]/a[1]",
-            "text": "Smart Home"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[12]/a[1]",
-            "text": "Samsung Experience Stores"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[13]/a[1]",
-            "text": "Apps & Services"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[14]/a[1]",
-            "text": "Shop Certified Re-Newed"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[15]/a[1]",
-            "text": "Samsung Authorized Reseller Program"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Chat with Us"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "Product Support"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Order Support"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "Your Account"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "Register Your Product"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "Request a Repair"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "Contact Us"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "Samsung Community"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]",
-            "text": "Give Feedback"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]",
-            "text": "Slide-in Electric Range Recall"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[11]/a[1]",
-            "text": "Manuals & Software"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[12]/a[1]",
-            "text": "Returns"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Offers"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "Samsung Rewards"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Education Offers Program"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "Government Offers Program"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "Military Offers Program"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "Employee Offers Program"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "First Responders Offers Program"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "Business Offers Program"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Overview"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "Environment"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Digital Responsibility"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "Security and Privacy"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "Accessibility"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "Labor & Human Rights"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "Diversity \u2219 Equity \u2219 Inclusion"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "Sustainable Supply Chain"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[9]/a[1]",
-            "text": "Corporate Citizenship"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[10]/a[1]",
-            "text": "Corporate Sustainability"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[1]/a[1]",
-            "text": "Leadership & Mission"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[2]/a[1]",
-            "text": "Our Business"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[3]/a[1]",
-            "text": "Brand Identity"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[4]/a[1]",
-            "text": "Careers"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[5]/a[1]",
-            "text": "Investor Relations"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[6]/a[1]",
-            "text": "Newsroom"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[7]/a[1]",
-            "text": "Ethics"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[8]/a[1]",
-            "text": "Samsung Design"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[1]/a[1]",
-            "text": "USA/ENGLISH"
+            "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/a[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://samsung.attn.tv/p/Vbx/landing-page"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
-            "text": "Privacy"
+            "text": "Privacy",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/privacy/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
-            "text": "Do Not Sell Or Share My Personal Information"
+            "text": "Do Not Sell Or Share My Personal Information",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "javascript:OneTrust.ToggleInfoDisplay()"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
-            "text": "Washington Privacy Notice"
+            "text": "Washington Privacy Notice",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/privacy-policy/washington-privacy-notice/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[4]/a[1]",
-            "text": "Legal"
+            "text": "Legal",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/common/legal.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[5]/a[1]",
-            "text": "Accessibility Help"
+            "text": "Accessibility Help",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/accessibility/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[6]/a[1]",
-            "text": "Sitemap"
+            "text": "Sitemap",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/common/sitemap.html"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[3]/ul[1]/li[1]/a[1]",
-            "text": "Facebook"
+            "text": "Facebook",
+            "aria-label": "Facebook",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.facebook.com/SamsungUS"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[3]/ul[1]/li[2]/a[1]",
-            "text": "Twitter"
+            "text": "Twitter",
+            "aria-label": "Twitter",
+            "id": "",
+            "placeholder": null,
+            "href": "https://twitter.com/SamsungUS"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[3]/ul[1]/li[3]/a[1]",
-            "text": "Instagram"
+            "text": "Instagram",
+            "aria-label": "Instagram",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.instagram.com/samsungmobileusa/"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[3]/ul[1]/li[4]/a[1]",
-            "text": "YouTube"
+            "text": "YouTube",
+            "aria-label": "YouTube",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.youtube.com/samsungus"
         },
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/footer[1]/div[1]/div[2]/div[2]/div[3]/ul[1]/li[5]/a[1]",
-            "text": "Email to"
+            "text": "Email to",
+            "aria-label": "Email to",
+            "id": "",
+            "placeholder": null,
+            "href": "https://www.samsung.com/us/emailsignup/"
         }
     ]
 }

@@ -1,6 +1,6 @@
 [
     {
-        "IA2UniqueID": -575,
+        "IA2UniqueID": -758,
         "nvda_name": "An Insurance Company You Can Rely On | Progressive",
         "nvda_value": null,
         "nvda_states": [
@@ -8,10 +8,120 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[3]/a"
+        "xpath": "/html/body/div/div/header/nav/a[2]",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -656,
+        "IA2UniqueID": -921,
+        "nvda_name": "Progressive Insurance logo, Home page",
+        "nvda_value": "https://www.progressive.com/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/header/nav/ul/li/a",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -924,
+        "nvda_name": "Explore Products",
+        "nvda_value": "https://www.progressive.com/#ExploreProductsTab",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/header/nav/ul/li[2]/a",
+        "key_interactions": 2
+    },
+    {
+        "IA2UniqueID": -926,
+        "nvda_name": "Claims",
+        "nvda_value": "https://www.progressive.com/#ClaimsTab",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/header/nav/ul/li[3]/a",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -928,
+        "nvda_name": "About Us",
+        "nvda_value": "https://www.progressive.com/#AboutUsTab",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/header/nav/ul/li[4]/a",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -930,
+        "nvda_name": "Resources",
+        "nvda_value": "https://www.progressive.com/#ResourcesTab",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/header/nav/ul[2]/li/a",
+        "key_interactions": 5
+    },
+    {
+        "IA2UniqueID": -933,
+        "nvda_name": "1-866-407-4844 , Call Us",
+        "nvda_value": "tel:1-866-407-4844",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/header/nav/ul[2]/li[2]/a",
+        "key_interactions": 6
+    },
+    {
+        "IA2UniqueID": -936,
+        "nvda_name": "Log In",
+        "nvda_value": "https://www.progressive.com/rp/login?cntgrp=A",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/header/nav/ul[2]/li[3]/a",
+        "key_interactions": 7
+    },
+    {
+        "IA2UniqueID": -938,
+        "nvda_name": "Espa\u00f1ol",
+        "nvda_value": "https://www.progressive.com/es/",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li/a",
+        "key_interactions": 8
+    },
+    {
+        "IA2UniqueID": -952,
+        "nvda_name": "SAVINGS! Bundle & Save Auto + home, renters or condo",
+        "nvda_value": "https://www.progressive.com/#s",
+        "nvda_states": [
+            "LINKED (4096)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[2]/a",
+        "key_interactions": 9
+    },
+    {
+        "IA2UniqueID": -958,
         "nvda_name": "POPULAR Auto Average savings of over $800Read the associated disclosure for this savings claim.",
         "nvda_value": "https://www.progressive.com/#l",
         "nvda_states": [
@@ -20,10 +130,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[3]/a/p[2]/sup/a"
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[2]/a/p[2]/sup/a",
+        "key_interactions": 10
     },
     {
-        "IA2UniqueID": -659,
+        "IA2UniqueID": -1518,
         "nvda_name": "Read the associated disclosure for this savings claim.",
         "nvda_value": "https://www.progressive.com/#ToolTipDialog",
         "nvda_states": [
@@ -32,10 +143,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[4]/a"
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[3]/a",
+        "key_interactions": 11
     },
     {
-        "IA2UniqueID": -595,
+        "IA2UniqueID": -965,
         "nvda_name": "Property Home, renters, condo & more",
         "nvda_value": "https://www.progressive.com/#s",
         "nvda_states": [
@@ -44,10 +156,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[5]/a"
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[4]/a",
+        "key_interactions": 12
     },
     {
-        "IA2UniqueID": -599,
+        "IA2UniqueID": -970,
         "nvda_name": "Recreational Motorcycle, RV, boat & more",
         "nvda_value": "https://www.progressive.com/#s",
         "nvda_states": [
@@ -56,10 +169,24 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[6]/a"
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[5]/a",
+        "key_interactions": 13
     },
     {
-        "IA2UniqueID": -603,
+        "IA2UniqueID": -975,
+        "nvda_name": "Life Term life, whole life & more",
+        "nvda_value": "https://www.progressive.com/#s",
+        "nvda_states": [
+            "LINKED (4096)",
+            "HASPOPUP_DIALOG (140737488355328)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[6]/a",
+        "key_interactions": 14
+    },
+    {
+        "IA2UniqueID": -980,
         "nvda_name": "Or, see all 30+ products",
         "nvda_value": "https://www.progressive.com/#p",
         "nvda_states": [
@@ -68,10 +195,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/main/div/div[2]/div[2]/div[2]/ul/li/a"
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div[2]/ul/li/a",
+        "key_interactions": 15
     },
     {
-        "IA2UniqueID": -606,
+        "IA2UniqueID": -986,
         "nvda_name": "Continue previous quote",
         "nvda_value": "https://www.progressive.com/home-retrieve/",
         "nvda_states": [
@@ -79,10 +207,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/main/div/div[2]/div[2]/div[2]/ul/li[2]/a"
+        "xpath": "/html/body/div/main/div/div[2]/div[2]/div[2]/ul/li[2]/a",
+        "key_interactions": 16
     },
     {
-        "IA2UniqueID": -608,
+        "IA2UniqueID": -988,
         "nvda_name": "Find an agent",
         "nvda_value": "https://www.progressive.com/rp/agent/",
         "nvda_states": [
@@ -90,22 +219,23 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/main/div[2]/p/a"
+        "xpath": "/html/body/div/main/div[2]/p/a",
+        "key_interactions": 17
     },
     {
-        "IA2UniqueID": -667,
+        "IA2UniqueID": -992,
         "nvda_name": "auto insurance",
         "nvda_value": "https://www.progressive.com/auto/",
         "nvda_states": [
-            "OFFSCREEN (4194304)",
             "LINKED (4096)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/main/div[3]/ul/li/div/p/sup/a"
+        "xpath": "/html/body/div/main/div[3]/ul/li/div/p/sup/a",
+        "key_interactions": 18
     },
     {
-        "IA2UniqueID": -675,
+        "IA2UniqueID": -1324,
         "nvda_name": "Read the associated disclosure for this savings claim.",
         "nvda_value": "https://www.progressive.com/#ToolTipDialog",
         "nvda_states": [
@@ -114,10 +244,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li/h3/a"
+        "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li/h3/a",
+        "key_interactions": 19
     },
     {
-        "IA2UniqueID": -699,
+        "IA2UniqueID": -1022,
         "nvda_name": "Auto insurance",
         "nvda_value": "https://www.progressive.com/auto/",
         "nvda_states": [
@@ -126,10 +257,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li[2]/h3/a"
+        "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li[2]/h3/a",
+        "key_interactions": 20
     },
     {
-        "IA2UniqueID": -703,
+        "IA2UniqueID": -1026,
         "nvda_name": "Bundle auto and property insurance",
         "nvda_value": "https://www.progressive.com/insurance/bundling/",
         "nvda_states": [
@@ -137,10 +269,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li[3]/h3/a"
+        "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li[3]/h3/a",
+        "key_interactions": 21
     },
     {
-        "IA2UniqueID": -707,
+        "IA2UniqueID": -1030,
         "nvda_name": "Motorcycle insurance",
         "nvda_value": "https://www.progressive.com/motorcycle/",
         "nvda_states": [
@@ -148,10 +281,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li[4]/h3/a"
+        "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li[4]/h3/a",
+        "key_interactions": 22
     },
     {
-        "IA2UniqueID": -711,
+        "IA2UniqueID": -1034,
         "nvda_name": "RV insurance",
         "nvda_value": "https://www.progressive.com/rv-trailer/",
         "nvda_states": [
@@ -159,10 +293,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li[5]/h3/a"
+        "xpath": "/html/body/div/main/div[5]/div/div[2]/ul/li[5]/h3/a",
+        "key_interactions": 23
     },
     {
-        "IA2UniqueID": -578,
+        "IA2UniqueID": -1038,
         "nvda_name": "Life insurance",
         "nvda_value": "https://www.progressive.com/life-insurance/",
         "nvda_states": [
@@ -171,10 +306,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/main/div[5]/div/div[2]/div/a"
+        "xpath": "/html/body/div/main/div[5]/div/div[2]/div/a",
+        "key_interactions": 24
     },
     {
-        "IA2UniqueID": -717,
+        "IA2UniqueID": -1041,
         "nvda_name": "Explore our products",
         "nvda_value": "https://www.progressive.com/insurance/",
         "nvda_states": [
@@ -182,10 +318,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/main/div[7]/ul/li/a"
+        "xpath": "/html/body/div/main/div[7]/ul/li/a",
+        "key_interactions": 25
     },
     {
-        "IA2UniqueID": -724,
+        "IA2UniqueID": -1048,
         "nvda_name": "Bundling Combine home and auto insurance for more savings.",
         "nvda_value": "https://www.progressive.com/insurance/bundling/",
         "nvda_states": [
@@ -194,10 +331,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/main/div[7]/ul/li[2]/a"
+        "xpath": "/html/body/div/main/div[7]/ul/li[2]/a",
+        "key_interactions": 26
     },
     {
-        "IA2UniqueID": -732,
+        "IA2UniqueID": -1056,
         "nvda_name": "Diversity & Inclusion Progress \u2013 it\u2019s in our name and in our approach.",
         "nvda_value": "https://www.progressive.com/about/",
         "nvda_states": [
@@ -205,10 +343,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/main/div[7]/ul/li[3]/a"
+        "xpath": "/html/body/div/main/div[7]/ul/li[3]/a",
+        "key_interactions": 27
     },
     {
-        "IA2UniqueID": -740,
+        "IA2UniqueID": -1064,
         "nvda_name": "Resources Explore tools for navigating insurance and life.",
         "nvda_value": "https://www.progressive.com/resources/",
         "nvda_states": [
@@ -216,10 +355,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/main/div[7]/ul/li[4]/a"
+        "xpath": "/html/body/div/main/div[7]/ul/li[4]/a",
+        "key_interactions": 28
     },
     {
-        "IA2UniqueID": -748,
+        "IA2UniqueID": -1072,
         "nvda_name": "Careers Join one of Fortune's 100 Best Companies to Work For.",
         "nvda_value": "https://careers.progressive.com/",
         "nvda_states": [
@@ -227,10 +367,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li/div/div/ul/li/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li/div/div/ul/li/a",
+        "key_interactions": 29
     },
     {
-        "IA2UniqueID": -80018,
+        "IA2UniqueID": -1117,
         "nvda_name": "Car Insurance",
         "nvda_value": "https://www.progressive.com/auto/",
         "nvda_states": [
@@ -238,10 +379,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li/div/div/ul/li[2]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li/div/div/ul/li[2]/a",
+        "key_interactions": 30
     },
     {
-        "IA2UniqueID": -80020,
+        "IA2UniqueID": -1119,
         "nvda_name": "Home Insurance",
         "nvda_value": "https://www.progressive.com/homeowners/",
         "nvda_states": [
@@ -249,10 +391,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li/div/div/ul/li[3]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li/div/div/ul/li[3]/a",
+        "key_interactions": 31
     },
     {
-        "IA2UniqueID": -80022,
+        "IA2UniqueID": -1121,
         "nvda_name": "Progressive Answers",
         "nvda_value": "https://www.progressive.com/answers/",
         "nvda_states": [
@@ -260,10 +403,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li/div/div/ul/li[4]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li/div/div/ul/li[4]/a",
+        "key_interactions": 32
     },
     {
-        "IA2UniqueID": -80024,
+        "IA2UniqueID": -1123,
         "nvda_name": "Explore All Products",
         "nvda_value": "https://www.progressive.com/insurance/",
         "nvda_states": [
@@ -271,10 +415,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[2]/div/div/ul/li/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[2]/div/div/ul/li/a",
+        "key_interactions": 33
     },
     {
-        "IA2UniqueID": -80029,
+        "IA2UniqueID": -1130,
         "nvda_name": "About Us",
         "nvda_value": "https://www.progressive.com/about/",
         "nvda_states": [
@@ -282,10 +427,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[2]/div/div/ul/li[2]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[2]/div/div/ul/li[2]/a",
+        "key_interactions": 34
     },
     {
-        "IA2UniqueID": -80031,
+        "IA2UniqueID": -1132,
         "nvda_name": "Careers",
         "nvda_value": "https://careers.progressive.com/",
         "nvda_states": [
@@ -293,10 +439,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[2]/div/div/ul/li[3]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[2]/div/div/ul/li[3]/a",
+        "key_interactions": 35
     },
     {
-        "IA2UniqueID": -80033,
+        "IA2UniqueID": -1134,
         "nvda_name": "Investors",
         "nvda_value": "https://investors.progressive.com/",
         "nvda_states": [
@@ -304,10 +451,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[2]/div/div/ul/li[4]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[2]/div/div/ul/li[4]/a",
+        "key_interactions": 36
     },
     {
-        "IA2UniqueID": -80035,
+        "IA2UniqueID": -912,
         "nvda_name": "Newsroom",
         "nvda_value": "https://progressive.mediaroom.com/",
         "nvda_states": [
@@ -315,10 +463,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[3]/div/div/ul/li/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[3]/div/div/ul/li/a",
+        "key_interactions": 37
     },
     {
-        "IA2UniqueID": -80040,
+        "IA2UniqueID": -1142,
         "nvda_name": "Continue Previous Quote",
         "nvda_value": "https://www.progressive.com/home-retrieve/",
         "nvda_states": [
@@ -326,10 +475,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[3]/div/div/ul/li[2]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[3]/div/div/ul/li[2]/a",
+        "key_interactions": 38
     },
     {
-        "IA2UniqueID": -80042,
+        "IA2UniqueID": -1144,
         "nvda_name": "Report a Claim",
         "nvda_value": "https://www.progressive.com/claims/",
         "nvda_states": [
@@ -337,10 +487,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[3]/div/div/ul/li[3]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[3]/div/div/ul/li[3]/a",
+        "key_interactions": 39
     },
     {
-        "IA2UniqueID": -80044,
+        "IA2UniqueID": -1146,
         "nvda_name": "Make a Payment",
         "nvda_value": "https://www.progressive.com/rp/ezpay/",
         "nvda_states": [
@@ -348,10 +499,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[3]/div/div/ul/li[4]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[3]/div/div/ul/li[4]/a",
+        "key_interactions": 40
     },
     {
-        "IA2UniqueID": -80046,
+        "IA2UniqueID": -1148,
         "nvda_name": "PerkShare",
         "nvda_value": "https://www.progressive.com/perkshare/",
         "nvda_states": [
@@ -359,10 +511,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[4]/div/div/ul/li/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[4]/div/div/ul/li/a",
+        "key_interactions": 41
     },
     {
-        "IA2UniqueID": -80051,
+        "IA2UniqueID": -1155,
         "nvda_name": "1-866-407-4844",
         "nvda_value": "tel:1-866-407-4844",
         "nvda_states": [
@@ -370,10 +523,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[4]/div/div/ul/li[2]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[4]/div/div/ul/li[2]/a",
+        "key_interactions": 42
     },
     {
-        "IA2UniqueID": -80053,
+        "IA2UniqueID": -1157,
         "nvda_name": "Contact Us",
         "nvda_value": "https://www.progressive.com/contact-us/",
         "nvda_states": [
@@ -381,10 +535,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[4]/div/div/ul/li[3]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[4]/div/div/ul/li[3]/a",
+        "key_interactions": 43
     },
     {
-        "IA2UniqueID": -80055,
+        "IA2UniqueID": -1159,
         "nvda_name": "Progressive App",
         "nvda_value": "https://www.progressive.com/mobile-app/",
         "nvda_states": [
@@ -392,10 +547,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul/li[4]/div/div/ul/li[4]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul/li[4]/div/div/ul/li[4]/a",
+        "key_interactions": 44
     },
     {
-        "IA2UniqueID": -80057,
+        "IA2UniqueID": -1161,
         "nvda_name": "Partner With Us",
         "nvda_value": "https://www.progressive.com/partners/",
         "nvda_states": [
@@ -403,10 +559,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div/ul/li/a"
+        "xpath": "/html/body/div/footer/div/div/div/div/ul/li/a",
+        "key_interactions": 45
     },
     {
-        "IA2UniqueID": -851,
+        "IA2UniqueID": -1173,
         "nvda_name": "Facebook",
         "nvda_value": "https://www.facebook.com/progressive",
         "nvda_states": [
@@ -414,10 +571,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[2]/a"
+        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[2]/a",
+        "key_interactions": 46
     },
     {
-        "IA2UniqueID": -854,
+        "IA2UniqueID": -1177,
         "nvda_name": "Instagram",
         "nvda_value": "https://www.instagram.com/progressive/",
         "nvda_states": [
@@ -425,10 +583,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[3]/a"
+        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[3]/a",
+        "key_interactions": 47
     },
     {
-        "IA2UniqueID": -857,
+        "IA2UniqueID": -1181,
         "nvda_name": "Youtube",
         "nvda_value": "https://www.youtube.com/user/progressive",
         "nvda_states": [
@@ -436,10 +595,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[4]/a"
+        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[4]/a",
+        "key_interactions": 48
     },
     {
-        "IA2UniqueID": -860,
+        "IA2UniqueID": -1185,
         "nvda_name": "tiktok",
         "nvda_value": "https://www.tiktok.com/@progressive",
         "nvda_states": [
@@ -447,10 +607,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[5]/a"
+        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[5]/a",
+        "key_interactions": 49
     },
     {
-        "IA2UniqueID": -863,
+        "IA2UniqueID": -1189,
         "nvda_name": "x, formerly twitter",
         "nvda_value": "https://www.twitter.com/progressive",
         "nvda_states": [
@@ -458,21 +619,23 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[6]/a"
+        "xpath": "/html/body/div/footer/div/div/div/div/ul/li[6]/a",
+        "key_interactions": 50
     },
     {
-        "IA2UniqueID": -866,
+        "IA2UniqueID": -1193,
         "nvda_name": "Lifelanes",
-        "nvda_value": "https://www.progressive.com/lifelanes/",
+        "nvda_value": "https://lifelanes.progressive.com/",
         "nvda_states": [
             "LINKED (4096)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li/a",
+        "key_interactions": 51
     },
     {
-        "IA2UniqueID": -870,
+        "IA2UniqueID": -1198,
         "nvda_name": "Contact Us",
         "nvda_value": "https://www.progressive.com/contact-us/",
         "nvda_states": [
@@ -480,10 +643,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[2]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[2]/a",
+        "key_interactions": 52
     },
     {
-        "IA2UniqueID": -872,
+        "IA2UniqueID": -1200,
         "nvda_name": "Site Map",
         "nvda_value": "https://www.progressive.com/sitemap/",
         "nvda_states": [
@@ -491,10 +655,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[3]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[3]/a",
+        "key_interactions": 53
     },
     {
-        "IA2UniqueID": -874,
+        "IA2UniqueID": -1202,
         "nvda_name": "Accessibility Services",
         "nvda_value": "https://www.progressive.com/web-site-accessibility/",
         "nvda_states": [
@@ -502,10 +667,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[4]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[4]/a",
+        "key_interactions": 54
     },
     {
-        "IA2UniqueID": -876,
+        "IA2UniqueID": -1204,
         "nvda_name": "Technical Help",
         "nvda_value": "https://www.progressive.com/help/",
         "nvda_states": [
@@ -513,10 +679,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[5]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[5]/a",
+        "key_interactions": 55
     },
     {
-        "IA2UniqueID": -878,
+        "IA2UniqueID": -1206,
         "nvda_name": "Privacy & Security",
         "nvda_value": "https://www.progressive.com/privacy/",
         "nvda_states": [
@@ -524,10 +691,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[6]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[6]/a",
+        "key_interactions": 56
     },
     {
-        "IA2UniqueID": -880,
+        "IA2UniqueID": -1208,
         "nvda_name": "Terms of Use",
         "nvda_value": "https://www.progressive.com/copyright/",
         "nvda_states": [
@@ -535,10 +703,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[7]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[7]/a",
+        "key_interactions": 57
     },
     {
-        "IA2UniqueID": -882,
+        "IA2UniqueID": -1210,
         "nvda_name": "CA Notice at Collection",
         "nvda_value": "https://www.progressive.com/privacy/privacy-data-request/",
         "nvda_states": [
@@ -546,10 +715,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[8]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[8]/a",
+        "key_interactions": 58
     },
     {
-        "IA2UniqueID": -884,
+        "IA2UniqueID": -1212,
         "nvda_name": "Insurance Resources",
         "nvda_value": "https://www.progressive.com/resources/",
         "nvda_states": [
@@ -557,10 +727,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[9]/a"
+        "xpath": "/html/body/div/footer/div/div/div/ul[2]/li[9]/a",
+        "key_interactions": 59
     },
     {
-        "IA2UniqueID": -886,
+        "IA2UniqueID": -1214,
         "nvda_name": "Do Not Sell or Share My Personal Information (CA Residents Only)",
         "nvda_value": "https://www.progressive.com/privacy/do-not-sell-my-information/",
         "nvda_states": [
@@ -568,10 +739,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div[3]/p/a"
+        "xpath": "/html/body/div/footer/div/div/div/div[3]/p/a",
+        "key_interactions": 60
     },
     {
-        "IA2UniqueID": -894,
+        "IA2UniqueID": -1221,
         "nvda_name": "Prices vary based on how you buy",
         "nvda_value": "https://www.progressive.com/shop/car-insurance-rates-differ/",
         "nvda_states": [
@@ -579,10 +751,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div[3]/p[11]/a"
+        "xpath": "/html/body/div/footer/div/div/div/div[3]/p[11]/a",
+        "key_interactions": 61
     },
     {
-        "IA2UniqueID": -905,
+        "IA2UniqueID": -1232,
         "nvda_name": "about comparing car insurance rates,",
         "nvda_value": "https://www.progressive.com/auto/discounts/compare-car-insurance-rates/",
         "nvda_states": [
@@ -591,10 +764,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div[3]/p[13]/a"
+        "xpath": "/html/body/div/footer/div/div/div/div[3]/p[13]/a",
+        "key_interactions": 62
     },
     {
-        "IA2UniqueID": -911,
+        "IA2UniqueID": -1238,
         "nvda_name": "See a list of all the insurers",
         "nvda_value": "https://www.progressive.com/homeowners/homeowners-companies/",
         "nvda_states": [
@@ -602,10 +776,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div[3]/p[13]/a[2]"
+        "xpath": "/html/body/div/footer/div/div/div/div[3]/p[13]/a[2]",
+        "key_interactions": 63
     },
     {
-        "IA2UniqueID": -912,
+        "IA2UniqueID": -1239,
         "nvda_name": "contact us",
         "nvda_value": "https://www.progressive.com/contact-us/",
         "nvda_states": [
@@ -613,10 +788,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div[3]/p[14]/a"
+        "xpath": "/html/body/div/footer/div/div/div/div[3]/p[14]/a",
+        "key_interactions": 64
     },
     {
-        "IA2UniqueID": -914,
+        "IA2UniqueID": -1241,
         "nvda_name": "contact us",
         "nvda_value": "https://www.progressive.com/contact-us/",
         "nvda_states": [
@@ -624,135 +800,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div[3]/p[14]/a[2]"
+        "xpath": "/html/body/div/footer/div/div/div/div[3]/p[14]/a[2]",
+        "key_interactions": 65
     },
     {
-        "IA2UniqueID": -656,
-        "nvda_name": "POPULAR Auto Average savings of over $800Read the associated disclosure for this savings claim.",
-        "nvda_value": "https://www.progressive.com/#l",
-        "nvda_states": [
-            "LINKED (4096)",
-            "HASPOPUP_DIALOG (140737488355328)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -653,
-        "nvda_name": "SAVINGS! Bundle & Save Save a bundle when you bundle",
-        "nvda_value": "https://www.progressive.com/#s",
-        "nvda_states": [
-            "LINKED (4096)",
-            "HASPOPUP_DIALOG (140737488355328)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/main/div/div[2]/div[2]/div/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -649,
-        "nvda_name": "NEW OFFER Bundle Auto & Motorcycle A new way to buy and save",
-        "nvda_value": "https://www.progressive.com/#s",
-        "nvda_states": [
-            "LINKED (4096)",
-            "HASPOPUP_DIALOG (140737488355328)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/div/header/nav/ul[2]/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -80013,
-        "nvda_name": "Espa\u00f1ol",
-        "nvda_value": "https://www.progressive.com/es/",
-        "nvda_states": [
-            "OFFSCREEN (4194304)",
-            "LINKED (4096)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/div/header/nav/ul[2]/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -577,
-        "nvda_name": "Log In",
-        "nvda_value": "https://www.progressive.com/rp/login?cntgrp=A",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/header/nav/ul[2]/li/a"
-    },
-    {
-        "IA2UniqueID": -78686,
-        "nvda_name": "1-866-407-4844 , Call Us",
-        "nvda_value": "tel:1-866-407-4844",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/header/nav/ul/li[4]/a"
-    },
-    {
-        "IA2UniqueID": -184670,
-        "nvda_name": "Resources",
-        "nvda_value": "https://www.progressive.com/#ResourcesTab",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/header/nav/ul/li[3]/a"
-    },
-    {
-        "IA2UniqueID": -184668,
-        "nvda_name": "About Us",
-        "nvda_value": "https://www.progressive.com/#AboutUsTab",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/header/nav/ul/li[2]/a"
-    },
-    {
-        "IA2UniqueID": -184666,
-        "nvda_name": "Claims",
-        "nvda_value": "https://www.progressive.com/#ClaimsTab",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/header/nav/ul/li/a"
-    },
-    {
-        "IA2UniqueID": -184664,
-        "nvda_name": "Explore Products",
-        "nvda_value": "https://www.progressive.com/#ExploreProductsTab",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/header/nav/a[2]"
-    },
-    {
-        "IA2UniqueID": -619,
-        "nvda_name": "Progressive Insurance logo, Home page",
-        "nvda_value": "https://www.progressive.com/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/header/div/a"
-    },
-    {
-        "IA2UniqueID": -617,
+        "IA2UniqueID": -2483,
         "nvda_name": "Skip to Main Content",
         "nvda_value": "https://www.progressive.com/#main",
         "nvda_states": [
@@ -760,17 +812,32 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/form/div[2]/input"
+        "xpath": "/html/body/div/footer/div/div/div/div/div/form/div[2]/input",
+        "key_interactions": 0
     },
     {
-        "IA2UniqueID": -848,
-        "nvda_name": "Search",
-        "nvda_value": null,
+        "IA2UniqueID": -3838,
+        "nvda_name": "Site Map",
+        "nvda_value": "https://www.progressive.com/sitemap/",
         "nvda_states": [
             "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div/header/div/a",
+        "key_interactions": 1
+    },
+    {
+        "IA2UniqueID": -10303,
+        "nvda_name": "An Insurance Company You Can Rely On | Progressive",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/footer/div/div/div/div/div/form/div/input"
+        "xpath": "/html/body/div/footer/div/div/div/div/div/form/div/input",
+        "key_interactions": 0
     }
 ]

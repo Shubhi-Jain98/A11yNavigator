@@ -1,172 +1,40 @@
 {
-  "The results are incredible, it actually helped us transform our whole vision.  We want to be a": [],
-  "right into your inbox.": [],
-  "with 5 items": [],
-  "Reach today’s always-connected audiences wherever they are.": [
+  "blank": [],
+  "collapsed": [],
+  "Open the navigation drawer": [
     {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[2]/a[1]/p[1]",
-      "tag_name": "p",
+      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/button[1]",
+      "tag_name": "button",
       "attributes": {
         "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[2]/div[1]/div[1]/div[2]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "with 3 items": [],
-  "Powerful solutions, together in one platform.": [
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[1]/h3[1]",
-      "tag_name": "h3",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[1]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "with data from your own sources, such as a CRM system or marketing database, to run customized": [],
-  "Blog": [
-    {
-      "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
+        "aria-label": "Open the navigation drawer",
         "name": "",
         "id": "",
         "placeholder": null,
-        "href": "https://blog.google/products/marketingplatform/360/"
-      }
+        "href": ""
+      },
+      "number of keypresses": [
+        2,
+        3
+      ]
     },
     {
-      "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
-      "tag_name": "a",
+      "xpath": "/body[1]/div[1]/div[1]/div[3]/div[1]/button[1]",
+      "tag_name": "button",
       "attributes": {
         "role": null,
-        "aria-label": null,
+        "aria-label": "Open the navigation drawer",
         "name": "",
         "id": "",
         "placeholder": null,
-        "href": "https://blog.google/products/marketingplatform/360/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://blog.google/products/marketingplatform/360/"
-      }
-    },
-    {
-      "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
         "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
+      },
+      "number of keypresses": [
+        2,
+        3
+      ]
     }
   ],
-  "with 4 items": [],
   "Google": [
     {
       "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
@@ -178,7 +46,11 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/"
-      }
+      },
+      "number of keypresses": [
+        4,
+        131
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/a[1]/svg[1]",
@@ -190,7 +62,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        4,
+        131
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
@@ -202,7 +78,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        4,
+        131
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/svg[1]",
@@ -214,7 +94,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        4,
+        131
+      ]
     },
     {
       "xpath": "/body[1]/footer[1]/section[2]/div[1]/a[1]",
@@ -226,1013 +110,11 @@
         "id": "",
         "placeholder": null,
         "href": "https://www.google.com/"
-      }
-    }
-  ],
-  "Looking for small-business solutions?": [
-    {
-      "xpath": "/body[1]/main[1]/section[8]/div[1]/div[2]/div[1]/div[1]/div[1]/h3[1]",
-      "tag_name": "h3",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Get a complete view of all your digital media campaigns.": [
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[1]/a[1]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]/div[2]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Google Primer": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://www.yourprimer.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "tag-manager icon": [
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/div[1]/picture[1]/svg[1]",
-      "tag_name": "svg",
-      "attributes": {
-        "role": "img",
-        "aria-label": "tag-manager icon",
-        "name": null,
-        "id": "tag-manager_icon_svg",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Analytics Academy": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://analytics.google.com/analytics/academy/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "PrivacyTerms": [],
-  "content info landmark": [],
-  "REPORTheading": [],
-  "analytics icon": [
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[1]/picture[1]/svg[1]",
-      "tag_name": "svg",
-      "attributes": {
-        "role": "img",
-        "aria-label": "analytics icon",
-        "name": null,
-        "id": "analytics_icon_svg",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Business SolutionsGoogle Workspace": [],
-  "Martijn van der Zee, Chief Digital Officer, Rituals": [
-    {
-      "xpath": "/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "SupportBlog": [],
-  "Tailor your measurement with Ads Data Hub.": [
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Business Solutions": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://www.google.com/services/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[2]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "search-ads-360 icon": [
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[1]/picture[1]/svg[1]",
-      "tag_name": "svg",
-      "attributes": {
-        "role": "img",
-        "aria-label": "search-ads-360 icon",
-        "name": null,
-        "id": "search-ads-360_icon_svg",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "performance — ensuring that you’re delivering quality experiences.": [],
-  "Google Cloud": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://cloud.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "A smarter platform for better results.": [
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/h3[1]",
-      "tag_name": "h3",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]",
-      "tag_name": "img",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/picture[1]/img[1]",
-      "tag_name": "img",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Terms": [
-    {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://www.google.com/intl/en/policies/terms/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[2]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "combo box": [],
-  "“": [],
-  "slider-controls icon": [
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/picture[1]/svg[1]/title[1]",
-      "tag_name": "title",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]/svg[1]/title[1]",
-      "tag_name": "title",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/picture[1]/svg[1]",
-      "tag_name": "svg",
-      "attributes": {
-        "role": "img",
-        "aria-label": "slider-controls icon",
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]",
-      "tag_name": "picture",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]/svg[1]",
-      "tag_name": "svg",
-      "attributes": {
-        "role": "img",
-        "aria-label": "slider-controls icon",
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Gain more control over your investments.": [
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Share to Twitter": [
-    {
-      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": "Share to Twitter",
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://twitter.com/GMktgPlatform"
-      }
-    }
-  ],
-  "Developers & partners": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Meaningful insights.<br>Smarter marketing.<br>Better results.": [
-    {
-      "xpath": "/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/picture[1]/img[1]",
-      "tag_name": "img",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Think with GoogleBusiness Solutions": [],
-  "Share to TwitterShare to YouTube": [],
-  "Built-in intelligence automatically surfaces your most valuable marketing insights so you can act": [],
-  "Share to BloggerShare to Twitter": [],
-  "Google Marketing Platform Partners": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/partners/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "people icon": [
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/picture[1]/svg[1]/title[1]",
-      "tag_name": "title",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/picture[1]/svg[1]/title[1]",
-      "tag_name": "title",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/picture[1]/svg[1]/title[1]",
-      "tag_name": "title",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]/svg[1]/title[1]",
-      "tag_name": "title",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/picture[1]/svg[1]",
-      "tag_name": "svg",
-      "attributes": {
-        "role": "img",
-        "aria-label": "people icon",
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/picture[1]",
-      "tag_name": "picture",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/picture[1]/svg[1]",
-      "tag_name": "svg",
-      "attributes": {
-        "role": "img",
-        "aria-label": "people icon",
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/picture[1]/svg[1]",
-      "tag_name": "svg",
-      "attributes": {
-        "role": "img",
-        "aria-label": "people icon",
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]",
-      "tag_name": "picture",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]/svg[1]",
-      "tag_name": "svg",
-      "attributes": {
-        "role": "img",
-        "aria-label": "people icon",
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Learn more": [
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[1]/div[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/small-business/"
-      }
-    },
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[1]/div[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/enterprise/"
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[2]/div[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/resources/meeting-the-data-challenge-with-google-marketing-platform-and-google-cloud/"
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/p[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/resources/meeting-the-data-challenge-with-google-marketing-platform-and-google-cloud/"
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[2]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/p[2]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Designed to work together.": [
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/h3[1]",
-      "tag_name": "h3",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]",
-      "tag_name": "img",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/picture[1]/img[1]",
-      "tag_name": "img",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "The CTV playbook: how the latest technology can amplify your CTV performance": [
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/h3[1]",
-      "tag_name": "h3",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[1]/img[1]",
-      "tag_name": "img",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Deliver faster, smarter marketing.": [
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "OverviewFor Small Businesses": [],
-  "customer connections, surface deeper insights, and drive better marketing results.": [],
-  "Google Marketing Platform PartnersAnalytics for developers": [],
-  "Talk to Sales": [
-    {
-      "xpath": "/body[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/contact-us/"
-      }
-    }
-  ],
-  "global brand. Google Marketing Platform facilitates that growth.": [],
-  "About Google Marketing Platform": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "experiences.": [],
-  "Subscribe": [
-    {
-      "xpath": "/body[1]/main[1]/section[9]/div[1]/div[1]/div[2]/div[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://signup.withgoogle.com/newsletter/marketingplatform/"
-      }
-    }
-  ],
-  "Sign up to get the latest Google Marketing Platform news, success stories and insights, delivered": [],
-  "Read more": [
-    {
-      "xpath": "/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/resources/the-future-of-analytics/"
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/ul[1]/li[1]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/ul[1]/li[1]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/ul[1]/li[1]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/ul[1]",
-      "tag_name": "ul",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/ul[1]",
-      "tag_name": "ul",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/ul[1]",
-      "tag_name": "ul",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Related products": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Learn More": [
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/div[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://developers.google.com/ads-data-hub"
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/p[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://developers.google.com/ads-data-hub"
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/p[2]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Google CloudFirebase": [],
-  "About GoogleGoogle Products": [],
-  "Support": [
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/support/"
-      }
-    },
-    {
-      "xpath": "/body[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/support/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/support/"
-      }
-    },
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[4]/ul[1]/li[2]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
+      },
+      "number of keypresses": [
+        4,
+        131
+      ]
     }
   ],
   "Marketing Platform": [
@@ -1246,7 +128,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]/a[1]/span[1]",
@@ -1258,7 +143,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]",
@@ -1270,7 +158,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/button[1]",
@@ -1282,7 +173,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
@@ -1294,7 +188,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[2]/div[2]/a[1]",
@@ -1306,7 +203,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[3]/div[1]/button[1]",
@@ -1318,7 +218,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
@@ -1330,7 +233,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/small-business/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]",
@@ -1342,7 +248,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/enterprise/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
@@ -1354,7 +263,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/resources/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
@@ -1366,7 +278,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://blog.google/products/marketingplatform/360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]",
@@ -1378,7 +293,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/partners/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
@@ -1390,7 +308,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/support/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[1]/div[1]/a[1]",
@@ -1402,7 +323,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/small-business/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[1]/div[2]/a[1]",
@@ -1414,7 +338,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/enterprise/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
@@ -1426,7 +353,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/analytics/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
@@ -1438,7 +368,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/tag-manager/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
@@ -1450,7 +383,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/campaign-manager-360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
@@ -1462,7 +398,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/display-video-360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[3]/a[1]",
@@ -1474,7 +413,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/search-ads-360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[3]/ul[1]/li[1]/a[1]",
@@ -1486,7 +428,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/analytics-360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[3]/ul[1]/li[2]/a[1]",
@@ -1498,7 +443,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/tag-manager-360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]/a[1]",
@@ -1510,7 +458,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
@@ -1522,7 +473,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/small-business/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
@@ -1534,7 +488,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/analytics/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
@@ -1546,7 +503,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/tag-manager/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/a[1]",
@@ -1558,7 +518,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/enterprise/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
@@ -1570,7 +533,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/campaign-manager-360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[2]/a[1]",
@@ -1582,7 +548,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/display-video-360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
@@ -1594,7 +563,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/search-ads-360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[4]/a[1]",
@@ -1606,7 +578,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/analytics-360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[5]/a[1]",
@@ -1618,7 +593,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/tag-manager-360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
@@ -1630,7 +608,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/resources/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[3]/ul[1]/li[1]/a[1]",
@@ -1642,7 +623,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/resources/success-stories/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[3]/ul[1]/li[2]/a[1]",
@@ -1654,7 +638,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/resources/insights/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[3]/ul[1]/li[3]/a[1]",
@@ -1666,7 +653,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/resources/community/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
@@ -1678,7 +668,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://blog.google/products/marketingplatform/360/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
@@ -1690,7 +683,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/partners/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
@@ -1702,7 +698,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/support/"
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]",
@@ -1714,7 +713,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[2]",
@@ -1726,7 +728,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[2]/div[2]",
@@ -1738,64 +743,55 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        5
+      ]
     }
   ],
-  "Make information and insights accessible to your entire enterprise so teams can work better": [],
+  "main landmark": [],
+  "Meaningful insights.<br>Smarter marketing.<br>Better results.": [
+    {
+      "xpath": "/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        6
+      ]
+    }
+  ],
+  "level 1": [],
+  "Meaningful insights.": [
+    {
+      "xpath": "/body[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]",
+      "tag_name": "h1",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        7
+      ]
+    }
+  ],
+  "Smarter marketing.": [],
   "Better results.": [],
-  "Follow us": [
+  "Google Marketing Platform brings together your advertising and analytics to help you make quality": [],
+  "customer connections, surface deeper insights, and drive better marketing results.": [],
+  "Talk to Sales": [
     {
-      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/section[1]",
-      "tag_name": "section",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/section[1]/section[1]",
-      "tag_name": "section",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Overview": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+      "xpath": "/body[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
       "tag_name": "a",
       "attributes": {
         "role": null,
@@ -1803,196 +799,16 @@
         "name": "",
         "id": "",
         "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
+        "href": "https://marketingplatform.google.com/about/contact-us/"
+      },
+      "number of keypresses": [
+        12
+      ]
     }
   ],
-  "Google Workspace": [
+  "A smarter platform for better results.": [
     {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[3]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://workspace.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[3]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Skillshop": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://skillshop.withgoogle.com/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Get real-time data and unified insights for your search campaigns.": [
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[3]/a[1]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Use advanced tools to get a deeper understanding of your customers so you can deliver better": [],
-  "Google AdSense": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://adsense.google.com/start/?subid=ww-en-et-ads-ot-a-marketing_platform!o3&utm_source=internal&utm_medium=et&utm_campaign=marketing_platform"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Google Ad Manager": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://admanager.google.com/home/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Help": [
-    {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[1]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://support.google.com/marketingplatform"
-      }
-    }
-  ],
-  "See solutions": [
-    {
-      "xpath": "/body[1]/main[1]/section[8]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/small-business/"
-      }
-    }
-  ],
-  "News and insights delivered to your inbox.": [
-    {
-      "xpath": "/body[1]/main[1]/section[9]/div[1]/div[1]/div[2]/div[1]/h3[1]",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/h3[1]",
       "tag_name": "h3",
       "attributes": {
         "role": null,
@@ -2001,10 +817,14 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        13,
+        14
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[9]/div[1]/div[1]/div[1]/div[1]/img[1]",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]",
       "tag_name": "img",
       "attributes": {
         "role": null,
@@ -2013,38 +833,14 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
-    }
-  ],
-  "Google Ads": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://ads.google.com/home/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
+      },
+      "number of keypresses": [
+        13,
+        14
+      ]
     },
     {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "GoogleMarketing Platform": [
-    {
-      "xpath": "/body[1]/main[1]/section[8]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/picture[1]/img[1]",
       "tag_name": "img",
       "attributes": {
         "role": null,
@@ -2053,25 +849,18 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        13,
+        14
+      ]
     }
   ],
-  "Tag Manager for developers": [
+  "with 4 items": [],
+  "clock icon": [
     {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://developers.google.com/tag-manager/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[3]",
-      "tag_name": "li",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/picture[1]/svg[1]/title[1]",
+      "tag_name": "title",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2079,27 +868,14 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
-    }
-  ],
-  "GUIDEheading": [],
-  "TermsAbout Google": [],
-  "Campaign Manager 360 for developers": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[4]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://developers.google.com/doubleclick-advertisers/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
+      },
+      "number of keypresses": [
+        15
+      ]
     },
     {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[4]",
-      "tag_name": "li",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]/svg[1]/title[1]",
+      "tag_name": "title",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2107,13 +883,29 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
-    }
-  ],
-  "REPORT": [
+      },
+      "number of keypresses": [
+        15
+      ]
+    },
     {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/div[1]",
-      "tag_name": "div",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/picture[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": "img",
+        "aria-label": "clock icon",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        15
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]",
+      "tag_name": "picture",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2121,37 +913,31 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
-    }
-  ],
-  "navigation landmark": [],
-  "Search Ads 360": [
-    {
-      "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/search-ads-360/"
-      }
+      },
+      "number of keypresses": [
+        15
+      ]
     },
     {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[3]/a[1]/span[1]",
-      "tag_name": "span",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]/svg[1]",
+      "tag_name": "svg",
       "attributes": {
-        "role": null,
-        "aria-label": null,
+        "role": "img",
+        "aria-label": "clock icon",
         "name": null,
         "id": "",
         "placeholder": null,
         "href": ""
-      }
-    },
+      },
+      "number of keypresses": [
+        15
+      ]
+    }
+  ],
+  "level 4": [],
+  "Deliver faster, smarter marketing.": [
     {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/h4[1]",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/h4[1]",
       "tag_name": "h4",
       "attributes": {
         "role": null,
@@ -2160,14 +946,33 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        16
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        16
+      ]
     }
   ],
-  "level 1": [],
-  "Stay in the know.": [
+  "Built-in intelligence automatically surfaces your most valuable marketing insights so you can act": [],
+  "quickly to achieve your goals.": [],
+  "slider-controls icon": [
     {
-      "xpath": "/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/div[1]/h3[1]",
-      "tag_name": "h3",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/picture[1]/svg[1]/title[1]",
+      "tag_name": "title",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2175,11 +980,14 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        19
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[7]/div[1]",
-      "tag_name": "div",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]/svg[1]/title[1]",
+      "tag_name": "title",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2187,75 +995,29 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        19
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[7]/div[1]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "campaign-manager icon": [
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]/div[1]/picture[1]/svg[1]",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/picture[1]/svg[1]",
       "tag_name": "svg",
       "attributes": {
         "role": "img",
-        "aria-label": "campaign-manager icon",
+        "aria-label": "slider-controls icon",
         "name": null,
-        "id": "campaign-manager_icon_svg",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Think with Google": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
         "id": "",
         "placeholder": null,
-        "href": "https://www.thinkwithgoogle.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
+        "href": ""
+      },
+      "number of keypresses": [
+        19
+      ]
     },
     {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[1]",
-      "tag_name": "li",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]",
+      "tag_name": "picture",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2263,39 +1025,31 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
-    }
-  ],
-  "The marketer’s playbook for navigating today’s privacy environment": [
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/h3[1]",
-      "tag_name": "h3",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
+      },
+      "number of keypresses": [
+        19
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[1]/img[1]",
-      "tag_name": "img",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]/svg[1]",
+      "tag_name": "svg",
       "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
+        "role": "img",
+        "aria-label": "slider-controls icon",
+        "name": null,
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        19
+      ]
     }
   ],
-  "The Future of Analytics": [
+  "Gain more control over your investments.": [
     {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/h3[1]",
-      "tag_name": "h3",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/h4[1]",
+      "tag_name": "h4",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2303,25 +1057,33 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        20
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[1]/img[1]",
-      "tag_name": "img",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/h4[1]",
+      "tag_name": "h4",
       "attributes": {
         "role": null,
         "aria-label": null,
-        "name": "",
+        "name": null,
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        20
+      ]
     }
   ],
-  "Easily connect data from across Google products, including Google Ads — to quickly uncover insights.": [
+  "Easily see what parts of your marketing are working and make informed decisions to improve": [],
+  "performance — ensuring that you’re delivering quality experiences.": [],
+  "people icon": [
     {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/p[1]",
-      "tag_name": "p",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/picture[1]/svg[1]/title[1]",
+      "tag_name": "title",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2329,11 +1091,15 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        23,
+        58
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/p[1]",
-      "tag_name": "p",
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/picture[1]/svg[1]/title[1]",
+      "tag_name": "title",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2341,11 +1107,15 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        23,
+        58
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]",
-      "tag_name": "div",
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/picture[1]/svg[1]/title[1]",
+      "tag_name": "title",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2353,10 +1123,125 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        23,
+        58
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]/svg[1]/title[1]",
+      "tag_name": "title",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23,
+        58
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/picture[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": "img",
+        "aria-label": "people icon",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23,
+        58
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/picture[1]",
+      "tag_name": "picture",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23,
+        58
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/picture[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": "img",
+        "aria-label": "people icon",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23,
+        58
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/picture[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": "img",
+        "aria-label": "people icon",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23,
+        58
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]",
+      "tag_name": "picture",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23,
+        58
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": "img",
+        "aria-label": "people icon",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        23,
+        58
+      ]
     }
   ],
-  "Use Ads Data Hub to join event-level campaign data from Google Marketing Platform and Google Ads": [],
   "Understand your audience on a deeper level.": [
     {
       "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/h4[1]",
@@ -2368,7 +1253,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        24
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/h4[1]",
@@ -2380,51 +1268,14 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        24
+      ]
     }
   ],
-  "experiences.graphic": [],
-  "decision makers identify key challenges and opportunities for the next wave of analytics.": [],
-  "Google AdsGoogle AdSense": [],
-  "You can use Google Marketing Platform together with Google Cloud to unlock advanced marketing use": [],
-  "Campaign Manager 360": [
-    {
-      "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/campaign-manager-360/"
-      }
-    },
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[1]/a[1]/span[1]",
-      "tag_name": "span",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]/div[2]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
+  "Easily integrate and access your data to gain a deeper understanding of your customers and identify": [],
+  "your most valuable audiences.": [],
   "bulb icon": [
     {
       "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/picture[1]/svg[1]/title[1]",
@@ -2436,7 +1287,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        27,
+        68
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/picture[1]/svg[1]/title[1]",
@@ -2448,7 +1303,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        27,
+        68
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[2]/picture[1]/svg[1]/title[1]",
@@ -2460,7 +1319,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        27,
+        68
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/picture[1]/svg[1]/title[1]",
@@ -2472,7 +1335,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        27,
+        68
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/picture[1]/svg[1]",
@@ -2484,7 +1351,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        27,
+        68
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/picture[1]",
@@ -2496,7 +1367,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        27,
+        68
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/picture[1]/svg[1]",
@@ -2508,7 +1383,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        27,
+        68
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[2]/picture[1]/svg[1]",
@@ -2520,7 +1399,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        27,
+        68
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/picture[1]",
@@ -2532,7 +1415,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        27,
+        68
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/picture[1]/svg[1]",
@@ -2544,7 +1431,142 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        27,
+        68
+      ]
+    }
+  ],
+  "Share insights across your team.": [
+    {
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        28
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        28
+      ]
+    }
+  ],
+  "Make information and insights accessible to your entire enterprise so teams can work better": [],
+  "together.": [],
+  "“": [],
+  "The results are incredible, it actually helped us transform our whole vision.  We want to be a": [],
+  "global brand. Google Marketing Platform facilitates that growth.": [],
+  "Martijn van der Zee, Chief Digital Officer, Rituals": [
+    {
+      "xpath": "/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        34
+      ]
+    }
+  ],
+  "Powerful solutions, together in one platform.": [
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[1]/h3[1]",
+      "tag_name": "h3",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        35
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        35
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        35
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        35
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        35
+      ]
     }
   ],
   "display-video-360 icon": [
@@ -2558,7 +1580,10 @@
         "id": "display-video-360_icon_svg",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        36
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[1]/picture[1]/svg[1]",
@@ -2570,49 +1595,10 @@
         "id": "display-video-360_icon_svg",
         "placeholder": null,
         "href": ""
-      }
-    }
-  ],
-  "Use advanced tools to get a deeper understanding of your customers so you can deliver better experiences.": [
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[3]/ul[1]/li[1]/a[1]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "BlogAnalytics Academy": [],
-  "Google Ad ManagerGoogle Cloud": [],
-  "More from Google": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
+      },
+      "number of keypresses": [
+        36
+      ]
     }
   ],
   "Display & Video 360": [
@@ -2626,7 +1612,11 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/display-video-360/"
-      }
+      },
+      "number of keypresses": [
+        37,
+        40
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[2]/a[1]/span[1]",
@@ -2638,7 +1628,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        37,
+        40
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[4]/div[2]/div[1]/div[1]/div[2]/h4[1]",
@@ -2650,7 +1644,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        37,
+        40
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/h4[1]",
@@ -2662,7 +1660,11 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        37,
+        40
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[4]/div[2]/div[1]/div[2]/img[1]",
@@ -2674,56 +1676,16 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        37,
+        40
+      ]
     }
   ],
-  "Tag Manager 360": [
+  "Reach today’s always-connected audiences wherever they are.": [
     {
-      "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[5]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/tag-manager-360/"
-      }
-    },
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[3]/ul[1]/li[2]/a[1]/span[1]",
-      "tag_name": "span",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/div[2]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "For Small BusinessesFor Enterprise": [],
-  "with 2 items": [],
-  "Easily see what parts of your marketing are working and make informed decisions to improve": [],
-  "Tag Manager for developersCampaign Manager 360 for developers": [],
-  "main landmark": [],
-  "cases like building predictive models to get new insights to improve marketing performance.": [],
-  "With plenty of free solutions, Google Marketing Platform can help grow businesses of any size.": [
-    {
-      "xpath": "/body[1]/main[1]/section[8]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]",
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[2]/a[1]/p[1]",
       "tag_name": "p",
       "attributes": {
         "role": null,
@@ -2732,108 +1694,29 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
-    }
-  ],
-  "English (US)": [
-    {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[2]/select[1]/option[4]",
-      "tag_name": "option",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Share to LinkedIn": [
-    {
-      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[4]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": "Share to LinkedIn",
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://www.linkedin.com/showcase/googlemarketingplatform"
-      }
-    }
-  ],
-  "Meaningful insights.": [
-    {
-      "xpath": "/body[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]",
-      "tag_name": "h1",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Google WorkspaceGoogle": [],
-  "Google Marketing Platform": [
-    {
-      "xpath": "/body[1]/main[1]/section[8]/div[1]/div[1]/div[1]/picture[1]/img[1]",
-      "tag_name": "img",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Change language or region": [
-    {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[2]/label[1]",
-      "tag_name": "label",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
+      },
+      "number of keypresses": [
+        38
+      ]
     },
     {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[2]/select[1]",
-      "tag_name": "select",
+      "xpath": "/body[1]/main[1]/section[4]/div[2]/div[1]/div[1]/div[2]/p[1]",
+      "tag_name": "p",
       "attributes": {
         "role": null,
         "aria-label": null,
-        "name": "lang-selector",
-        "id": "lang-selector",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "About Google": [
-    {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[3]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
+        "name": null,
         "id": "",
         "placeholder": null,
-        "href": "https://about.google/"
-      }
+        "href": ""
+      },
+      "number of keypresses": [
+        38
+      ]
     },
     {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[3]",
-      "tag_name": "li",
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/p[1]",
+      "tag_name": "p",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -2841,51 +1724,12 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        38
+      ]
     }
   ],
-  "Do more with Google Cloud.": [
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[2]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "SkillshopGoogle Primer": [],
-  "Learning & support": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Get real-time data and unified insights for your search campaigns.graphic": [],
   "Learn more about Display & Video 360": [
     {
       "xpath": "/body[1]/main[1]/section[4]/div[2]/div[1]/div[1]/div[3]/a[1]",
@@ -2897,7 +1741,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/display-video-360/"
-      }
+      },
+      "number of keypresses": [
+        39
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[4]/div[2]/div[1]/div[1]/div[3]",
@@ -2909,429 +1756,27 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        39
+      ]
     }
   ],
-  "Google Marketing Platform solutions are built to work together, so you can easily access shared": [],
-  "For Enterprise": [
+  "analytics icon": [
     {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/enterprise/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "level 4": [],
-  "Firebase": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://firebase.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[5]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "together.": [],
-  "Manage all your tags in one place for a smarter, simpler way to oversee your marketing.": [
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[3]/ul[1]/li[2]/a[1]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/div[2]/p[1]",
-      "tag_name": "p",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "bar-graph icon": [
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/picture[1]/svg[1]/title[1]",
-      "tag_name": "title",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]/svg[1]/title[1]",
-      "tag_name": "title",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/picture[1]/svg[1]",
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[1]/picture[1]/svg[1]",
       "tag_name": "svg",
       "attributes": {
         "role": "img",
-        "aria-label": "bar-graph icon",
+        "aria-label": "analytics icon",
         "name": null,
-        "id": "",
+        "id": "analytics_icon_svg",
         "placeholder": null,
         "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]",
-      "tag_name": "picture",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]/svg[1]",
-      "tag_name": "svg",
-      "attributes": {
-        "role": "img",
-        "aria-label": "bar-graph icon",
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "GUIDE": [
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/div[1]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "The Future of Analytics.": [
-    {
-      "xpath": "/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[1]/h3[1]",
-      "tag_name": "h3",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[1]/picture[1]/img[1]",
-      "tag_name": "img",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Analytics AcademySkillshop": [],
-  "Share to Blogger": [
-    {
-      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": "Share to Blogger",
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://blog.google/products/marketingplatform/360/"
-      }
-    }
-  ],
-  "analysis that aligns to your specific business objectives while protecting user privacy.": [],
-  "Easily integrate and access your data to gain a deeper understanding of your customers and identify": [],
-  "Share to YouTubeShare to LinkedIn": [],
-  "See all resources": [
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/resources/"
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[2]",
-      "tag_name": "div",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "quickly to achieve your goals.": [],
-  "Google Marketing Platform brings together your advertising and analytics to help you make quality": [],
-  "with 1 item": [],
-  "Analytics for developers": [
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://developers.google.com/analytics/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Reach the right customers.": [
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/h4[1]",
-      "tag_name": "h4",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Manage all your tags in one place for a smarter, simpler way to oversee your marketing.graphic": [],
-  "Analytics for developersTag Manager for developers": [],
-  "Open the navigation drawer": [
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[1]/div[1]/button[1]",
-      "tag_name": "button",
-      "attributes": {
-        "role": null,
-        "aria-label": "Open the navigation drawer",
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[3]/div[1]/button[1]",
-      "tag_name": "button",
-      "attributes": {
-        "role": null,
-        "aria-label": "Open the navigation drawer",
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "For Small Businesses": [
-    {
-      "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/small-business/"
-      }
-    },
-    {
-      "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/small-business/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://marketingplatform.google.com/about/small-business/"
-      }
-    },
-    {
-      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[1]/div[1]/span[1]",
-      "tag_name": "span",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
-    }
-  ],
-  "Google Products": [
-    {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[4]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://about.google/products/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[4]",
-      "tag_name": "li",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": null,
-        "id": "",
-        "placeholder": null,
-        "href": ""
-      }
+      },
+      "number of keypresses": [
+        41
+      ]
     }
   ],
   "Analytics 360": [
@@ -3345,7 +1790,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/about/analytics-360/"
-      }
+      },
+      "number of keypresses": [
+        42
+      ]
     },
     {
       "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[3]/ul[1]/li[1]/a[1]/span[1]",
@@ -3357,7 +1805,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        42
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/h4[1]",
@@ -3369,28 +1820,82 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        42
+      ]
     }
   ],
-  "Share to YouTube": [
+  "Use advanced tools to get a deeper understanding of your customers so you can deliver better": [],
+  "experiences.": [],
+  "search-ads-360 icon": [
     {
-      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[3]/a[1]",
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[1]/picture[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": "img",
+        "aria-label": "search-ads-360 icon",
+        "name": null,
+        "id": "search-ads-360_icon_svg",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        45
+      ]
+    }
+  ],
+  "Search Ads 360": [
+    {
+      "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
       "tag_name": "a",
       "attributes": {
         "role": null,
-        "aria-label": "Share to YouTube",
+        "aria-label": null,
         "name": "",
         "id": "",
         "placeholder": null,
-        "href": "https://www.youtube.com/c/googlemarketingplatform"
-      }
+        "href": "https://marketingplatform.google.com/about/search-ads-360/"
+      },
+      "number of keypresses": [
+        46
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[3]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        46
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        46
+      ]
     }
   ],
-  "In new research from Forrester Consulting, commissioned by Google, marketers and digital analytics": [],
-  "clock icon": [
+  "Get real-time data and unified insights for your search campaigns.": [
     {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/picture[1]/svg[1]/title[1]",
-      "tag_name": "title",
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[3]/a[1]/p[1]",
+      "tag_name": "p",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -3398,11 +1903,14 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        47
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]/svg[1]/title[1]",
-      "tag_name": "title",
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/p[1]",
+      "tag_name": "p",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -3410,23 +1918,48 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
-    },
+      },
+      "number of keypresses": [
+        47
+      ]
+    }
+  ],
+  "tag-manager icon": [
     {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/picture[1]/svg[1]",
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/div[1]/picture[1]/svg[1]",
       "tag_name": "svg",
       "attributes": {
         "role": "img",
-        "aria-label": "clock icon",
+        "aria-label": "tag-manager icon",
         "name": null,
-        "id": "",
+        "id": "tag-manager_icon_svg",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        48
+      ]
+    }
+  ],
+  "Tag Manager 360": [
+    {
+      "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[5]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/tag-manager-360/"
+      },
+      "number of keypresses": [
+        49
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]",
-      "tag_name": "picture",
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[3]/ul[1]/li[2]/a[1]/span[1]",
+      "tag_name": "span",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -3434,42 +1967,212 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        49
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/picture[1]/svg[1]",
-      "tag_name": "svg",
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/div[2]/h4[1]",
+      "tag_name": "h4",
       "attributes": {
-        "role": "img",
-        "aria-label": "clock icon",
+        "role": null,
+        "aria-label": null,
         "name": null,
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        49
+      ]
     }
   ],
-  "collapsed": [],
-  "your most valuable audiences.": [],
-  "INFO:WDM:====== WebDriver manager ======": [],
+  "Manage all your tags in one place for a smarter, simpler way to oversee your marketing.": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[3]/ul[1]/li[2]/a[1]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        50
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/div[2]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        50
+      ]
+    }
+  ],
+  "campaign-manager icon": [
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]/div[1]/picture[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": "img",
+        "aria-label": "campaign-manager icon",
+        "name": null,
+        "id": "campaign-manager_icon_svg",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        51
+      ]
+    }
+  ],
+  "Campaign Manager 360": [
+    {
+      "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/campaign-manager-360/"
+      },
+      "number of keypresses": [
+        52
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[1]/a[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        52
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]/div[2]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        52
+      ]
+    }
+  ],
+  "Get a complete view of all your digital media campaigns.": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[2]/ul[1]/li[1]/a[1]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        53
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]/div[2]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        53
+      ]
+    }
+  ],
+  "Designed to work together.": [
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/h3[1]",
+      "tag_name": "h3",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        54,
+        55
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        54,
+        55
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/picture[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        54,
+        55
+      ]
+    }
+  ],
+  "Google Marketing Platform solutions are built to work together, so you can easily access shared": [],
   "data across products — to deliver better customer experiences.": [],
-  "Google AdSenseGoogle Ad Manager": [],
-  "Privacy": [
+  "with 1 item": [],
+  "Reach the right customers.": [
     {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[1]/a[1]",
-      "tag_name": "a",
-      "attributes": {
-        "role": null,
-        "aria-label": null,
-        "name": "",
-        "id": "",
-        "placeholder": null,
-        "href": "https://www.google.com/intl/en/policies/privacy/"
-      }
-    },
-    {
-      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[1]",
-      "tag_name": "li",
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/h4[1]",
+      "tag_name": "h4",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -3477,7 +2180,72 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        59
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        59
+      ]
+    }
+  ],
+  "Easily connect data from across Google products, including Google Ads — to quickly uncover insights.": [
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        60
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        60
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        60
+      ]
     }
   ],
   "Go to Integration Center": [
@@ -3491,7 +2259,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        61
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[2]/a[1]/div[1]/span[1]",
@@ -3503,7 +2274,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        61
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
@@ -3515,7 +2289,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/home?openIntegrationCenter=true&utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
+      },
+      "number of keypresses": [
+        61
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]/div[1]",
@@ -3527,7 +2304,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        61
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[2]",
@@ -3539,7 +2319,10 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        61
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[2]/a[1]",
@@ -3551,7 +2334,10 @@
         "id": "",
         "placeholder": null,
         "href": "https://marketingplatform.google.com/home?openIntegrationCenter=true&utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
-      }
+      },
+      "number of keypresses": [
+        61
+      ]
     },
     {
       "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[2]/a[1]/div[1]",
@@ -3563,14 +2349,17 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        61
+      ]
     }
   ],
-  "Smarter marketing.": [],
-  "Share insights across your team.": [
+  "with 2 items": [],
+  "bar-graph icon": [
     {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/h4[1]",
-      "tag_name": "h4",
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/picture[1]/svg[1]/title[1]",
+      "tag_name": "title",
       "attributes": {
         "role": null,
         "aria-label": null,
@@ -3578,10 +2367,75 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        62
+      ]
     },
     {
-      "xpath": "/body[1]/main[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/h4[1]",
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]/svg[1]/title[1]",
+      "tag_name": "title",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        62
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/picture[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": "img",
+        "aria-label": "bar-graph icon",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        62
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]",
+      "tag_name": "picture",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        62
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/picture[1]/svg[1]",
+      "tag_name": "svg",
+      "attributes": {
+        "role": "img",
+        "aria-label": "bar-graph icon",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        62
+      ]
+    }
+  ],
+  "Tailor your measurement with Ads Data Hub.": [
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/h4[1]",
       "tag_name": "h4",
       "attributes": {
         "role": null,
@@ -3590,7 +2444,2055 @@
         "id": "",
         "placeholder": null,
         "href": ""
-      }
+      },
+      "number of keypresses": [
+        63
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        63
+      ]
     }
-  ]
+  ],
+  "Use Ads Data Hub to join event-level campaign data from Google Marketing Platform and Google Ads": [],
+  "with data from your own sources, such as a CRM system or marketing database, to run customized": [],
+  "analysis that aligns to your specific business objectives while protecting user privacy.": [],
+  "Learn More": [
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/div[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://developers.google.com/ads-data-hub"
+      },
+      "number of keypresses": [
+        67
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/p[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://developers.google.com/ads-data-hub"
+      },
+      "number of keypresses": [
+        67
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        67
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/p[2]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        67
+      ]
+    }
+  ],
+  "Do more with Google Cloud.": [
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[2]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        69
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        69
+      ]
+    }
+  ],
+  "You can use Google Marketing Platform together with Google Cloud to unlock advanced marketing use": [],
+  "cases like building predictive models to get new insights to improve marketing performance.": [],
+  "Learn more": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[1]/div[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/small-business/"
+      },
+      "number of keypresses": [
+        72
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[1]/div[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/enterprise/"
+      },
+      "number of keypresses": [
+        72
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[2]/div[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/resources/meeting-the-data-challenge-with-google-marketing-platform-and-google-cloud/"
+      },
+      "number of keypresses": [
+        72
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/p[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/resources/meeting-the-data-challenge-with-google-marketing-platform-and-google-cloud/"
+      },
+      "number of keypresses": [
+        72
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[2]/li[2]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        72
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[5]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/p[2]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        72
+      ]
+    }
+  ],
+  "The Future of Analytics.": [
+    {
+      "xpath": "/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[1]/h3[1]",
+      "tag_name": "h3",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        73,
+        77
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[1]/picture[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        73,
+        77
+      ]
+    }
+  ],
+  "In new research from Forrester Consulting, commissioned by Google, marketers and digital analytics": [],
+  "decision makers identify key challenges and opportunities for the next wave of analytics.": [],
+  "Read more": [
+    {
+      "xpath": "/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/resources/the-future-of-analytics/"
+      },
+      "number of keypresses": [
+        76,
+        82,
+        86,
+        90
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        76,
+        82,
+        86,
+        90
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        76,
+        82,
+        86,
+        90
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        76,
+        82,
+        86,
+        90
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/ul[1]",
+      "tag_name": "ul",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        76,
+        82,
+        86,
+        90
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/ul[1]",
+      "tag_name": "ul",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        76,
+        82,
+        86,
+        90
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/ul[1]",
+      "tag_name": "ul",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        76,
+        82,
+        86,
+        90
+      ]
+    }
+  ],
+  "Stay in the know.": [
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/div[1]/h3[1]",
+      "tag_name": "h3",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        78
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        78
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        78
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        78
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        78
+      ]
+    }
+  ],
+  "with 3 items": [],
+  "The CTV playbook: how the latest technology can amplify your CTV performance": [
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/h3[1]",
+      "tag_name": "h3",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        79,
+        81
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        79,
+        81
+      ]
+    }
+  ],
+  "GUIDE": [
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        80,
+        84
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        80,
+        84
+      ]
+    }
+  ],
+  "The marketer’s playbook for navigating today’s privacy environment": [
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/h3[1]",
+      "tag_name": "h3",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        83,
+        85
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        83,
+        85
+      ]
+    }
+  ],
+  "The Future of Analytics": [
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/h3[1]",
+      "tag_name": "h3",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        87,
+        89
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        87,
+        89
+      ]
+    }
+  ],
+  "REPORT": [
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        88
+      ]
+    }
+  ],
+  "See all resources": [
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/resources/"
+      },
+      "number of keypresses": [
+        91
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[7]/div[2]/div[1]/div[2]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        91
+      ]
+    }
+  ],
+  "Google Marketing Platform": [
+    {
+      "xpath": "/body[1]/main[1]/section[8]/div[1]/div[1]/div[1]/picture[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        92
+      ]
+    }
+  ],
+  "Looking for small-business solutions?": [
+    {
+      "xpath": "/body[1]/main[1]/section[8]/div[1]/div[2]/div[1]/div[1]/div[1]/h3[1]",
+      "tag_name": "h3",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        93
+      ]
+    }
+  ],
+  "With plenty of free solutions, Google Marketing Platform can help grow businesses of any size.": [
+    {
+      "xpath": "/body[1]/main[1]/section[8]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        94
+      ]
+    }
+  ],
+  "See solutions": [
+    {
+      "xpath": "/body[1]/main[1]/section[8]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/small-business/"
+      },
+      "number of keypresses": [
+        95
+      ]
+    }
+  ],
+  "News and insights delivered to your inbox.": [
+    {
+      "xpath": "/body[1]/main[1]/section[9]/div[1]/div[1]/div[2]/div[1]/h3[1]",
+      "tag_name": "h3",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        96,
+        97
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[9]/div[1]/div[1]/div[1]/div[1]/img[1]",
+      "tag_name": "img",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        96,
+        97
+      ]
+    }
+  ],
+  "Sign up to get the latest Google Marketing Platform news, success stories and insights, delivered": [],
+  "right into your inbox.": [],
+  "Subscribe": [
+    {
+      "xpath": "/body[1]/main[1]/section[9]/div[1]/div[1]/div[2]/div[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://signup.withgoogle.com/newsletter/marketingplatform/"
+      },
+      "number of keypresses": [
+        100
+      ]
+    }
+  ],
+  "content info landmark": [],
+  "Follow us": [
+    {
+      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        101
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/section[1]",
+      "tag_name": "section",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        101
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/section[1]/section[1]",
+      "tag_name": "section",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        101
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]",
+      "tag_name": "div",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        101
+      ]
+    }
+  ],
+  "Share to Blogger": [
+    {
+      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": "Share to Blogger",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://blog.google/products/marketingplatform/360/"
+      },
+      "number of keypresses": [
+        102
+      ]
+    }
+  ],
+  "Share to Twitter": [
+    {
+      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": "Share to Twitter",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://twitter.com/GMktgPlatform"
+      },
+      "number of keypresses": [
+        103
+      ]
+    }
+  ],
+  "Share to YouTube": [
+    {
+      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": "Share to YouTube",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.youtube.com/c/googlemarketingplatform"
+      },
+      "number of keypresses": [
+        104
+      ]
+    }
+  ],
+  "Share to LinkedIn": [
+    {
+      "xpath": "/body[1]/footer[1]/section[1]/section[1]/div[1]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": "Share to LinkedIn",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.linkedin.com/showcase/googlemarketingplatform"
+      },
+      "number of keypresses": [
+        105
+      ]
+    }
+  ],
+  "navigation landmark": [],
+  "About Google Marketing Platform": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        106
+      ]
+    }
+  ],
+  "Overview": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/"
+      },
+      "number of keypresses": [
+        107
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        107
+      ]
+    }
+  ],
+  "For Small Businesses": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/small-business/"
+      },
+      "number of keypresses": [
+        108
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/small-business/"
+      },
+      "number of keypresses": [
+        108
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/small-business/"
+      },
+      "number of keypresses": [
+        108
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[1]/div[1]/span[1]",
+      "tag_name": "span",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        108
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        108
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        108
+      ]
+    }
+  ],
+  "For Enterprise": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/enterprise/"
+      },
+      "number of keypresses": [
+        109
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        109
+      ]
+    }
+  ],
+  "Learning & support": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        110
+      ]
+    }
+  ],
+  "with 5 items": [],
+  "Support": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/support/"
+      },
+      "number of keypresses": [
+        111
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/support/"
+      },
+      "number of keypresses": [
+        111
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/support/"
+      },
+      "number of keypresses": [
+        111
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[4]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        111
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        111
+      ]
+    }
+  ],
+  "Blog": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://blog.google/products/marketingplatform/360/"
+      },
+      "number of keypresses": [
+        112
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[2]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://blog.google/products/marketingplatform/360/"
+      },
+      "number of keypresses": [
+        112
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://blog.google/products/marketingplatform/360/"
+      },
+      "number of keypresses": [
+        112
+      ]
+    },
+    {
+      "xpath": "/body[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        112
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        112
+      ]
+    }
+  ],
+  "Analytics Academy": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://analytics.google.com/analytics/academy/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        113
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        113
+      ]
+    }
+  ],
+  "Skillshop": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://skillshop.withgoogle.com/"
+      },
+      "number of keypresses": [
+        114
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        114
+      ]
+    }
+  ],
+  "Google Primer": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.yourprimer.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        115
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        115
+      ]
+    }
+  ],
+  "Developers & partners": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        116
+      ]
+    }
+  ],
+  "Google Marketing Platform Partners": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://marketingplatform.google.com/about/partners/"
+      },
+      "number of keypresses": [
+        117
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        117
+      ]
+    }
+  ],
+  "Analytics for developers": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://developers.google.com/analytics/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        118
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        118
+      ]
+    }
+  ],
+  "Tag Manager for developers": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://developers.google.com/tag-manager/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        119
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        119
+      ]
+    }
+  ],
+  "Campaign Manager 360 for developers": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://developers.google.com/doubleclick-advertisers/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        120
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[4]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        120
+      ]
+    }
+  ],
+  "Related products": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        121
+      ]
+    }
+  ],
+  "Google Ads": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://ads.google.com/home/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        122
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        122
+      ]
+    }
+  ],
+  "Google AdSense": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://adsense.google.com/start/?subid=ww-en-et-ads-ot-a-marketing_platform!o3&utm_source=internal&utm_medium=et&utm_campaign=marketing_platform"
+      },
+      "number of keypresses": [
+        123
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        123
+      ]
+    }
+  ],
+  "Google Ad Manager": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://admanager.google.com/home/"
+      },
+      "number of keypresses": [
+        124
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        124
+      ]
+    }
+  ],
+  "Google Cloud": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://cloud.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        125
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        125
+      ]
+    }
+  ],
+  "Firebase": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://firebase.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        126
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[5]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        126
+      ]
+    }
+  ],
+  "More from Google": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/h4[1]",
+      "tag_name": "h4",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        127
+      ]
+    }
+  ],
+  "Think with Google": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.thinkwithgoogle.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        128
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        128
+      ]
+    }
+  ],
+  "Business Solutions": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.google.com/services/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        129
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        129
+      ]
+    }
+  ],
+  "Google Workspace": [
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://workspace.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fenterprise%2F"
+      },
+      "number of keypresses": [
+        130
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/nav[1]/div[1]/div[1]/div[5]/div[1]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        130
+      ]
+    }
+  ],
+  "Privacy": [
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.google.com/intl/en/policies/privacy/"
+      },
+      "number of keypresses": [
+        132
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        132
+      ]
+    }
+  ],
+  "Terms": [
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[2]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://www.google.com/intl/en/policies/terms/"
+      },
+      "number of keypresses": [
+        133
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[2]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        133
+      ]
+    }
+  ],
+  "About Google": [
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[3]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://about.google/"
+      },
+      "number of keypresses": [
+        134
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[3]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        134
+      ]
+    }
+  ],
+  "Google Products": [
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[4]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://about.google/products/"
+      },
+      "number of keypresses": [
+        135
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[1]/li[4]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        135
+      ]
+    }
+  ],
+  "Help": [
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[1]",
+      "tag_name": "li",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        136
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[1]/a[1]",
+      "tag_name": "a",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "href": "https://support.google.com/marketingplatform"
+      },
+      "number of keypresses": [
+        136
+      ]
+    }
+  ],
+  "Change language or region": [
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[2]/label[1]",
+      "tag_name": "label",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        137
+      ]
+    },
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[2]/select[1]",
+      "tag_name": "select",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": "lang-selector",
+        "id": "lang-selector",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        137
+      ]
+    }
+  ],
+  "combo box": [],
+  "English (US)": [
+    {
+      "xpath": "/body[1]/footer[1]/section[2]/ul[2]/li[2]/select[1]/option[4]",
+      "tag_name": "option",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152
+      ]
+    }
+  ],
+  "Use advanced tools to get a deeper understanding of your customers so you can deliver better experiences.": [
+    {
+      "xpath": "/body[1]/div[1]/div[1]/div[6]/nav[1]/div[2]/div[3]/ul[1]/li[1]/a[1]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        43
+      ]
+    },
+    {
+      "xpath": "/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/p[1]",
+      "tag_name": "p",
+      "attributes": {
+        "role": null,
+        "aria-label": null,
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "href": ""
+      },
+      "number of keypresses": [
+        43
+      ]
+    }
+  ],
+  "experiences.graphic": [],
+  "Get real-time data and unified insights for your search campaigns.graphic": [],
+  "Manage all your tags in one place for a smarter, simpler way to oversee your marketing.graphic": [],
+  "GUIDEheading": [],
+  "REPORTheading": [],
+  "Share to BloggerShare to Twitter": [],
+  "Share to TwitterShare to YouTube": [],
+  "Share to YouTubeShare to LinkedIn": [],
+  "OverviewFor Small Businesses": [],
+  "For Small BusinessesFor Enterprise": [],
+  "SupportBlog": [],
+  "BlogAnalytics Academy": [],
+  "Analytics AcademySkillshop": [],
+  "SkillshopGoogle Primer": [],
+  "Google Marketing Platform PartnersAnalytics for developers": [],
+  "Analytics for developersTag Manager for developers": [],
+  "Tag Manager for developersCampaign Manager 360 for developers": [],
+  "Google AdsGoogle AdSense": [],
+  "Google AdSenseGoogle Ad Manager": [],
+  "Google Ad ManagerGoogle Cloud": [],
+  "Google CloudFirebase": [],
+  "Think with GoogleBusiness Solutions": [],
+  "Business SolutionsGoogle Workspace": [],
+  "Google WorkspaceGoogle": [],
+  "PrivacyTerms": [],
+  "TermsAbout Google": [],
+  "About GoogleGoogle Products": []
 }

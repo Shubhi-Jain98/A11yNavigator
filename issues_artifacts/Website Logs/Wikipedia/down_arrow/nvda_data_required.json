@@ -1,493 +1,189 @@
+
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):backspace",
+    "IA2UniqueID": -91433,
+    "name": "The editor is not accessible at this time. To enable screen reader optimized mode, use Shift+Alt+F1",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "editor",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "MULTILINE (1048576)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x016A0330>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):delete",
+    "IA2UniqueID": -91433,
+    "name": "The editor is not accessible at this time. To enable screen reader optimized mode, use Shift+Alt+F1",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "editor",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "MULTILINE (1048576)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x016A0330>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -91433,
+    "name": "The editor is not accessible at this time. To enable screen reader optimized mode, use Shift+Alt+F1",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "editor",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "MULTILINE (1048576)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x00D03990>>"
-}{
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x016A0330>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):control+s",
+    "IA2UniqueID": -91433,
+    "name": "The editor is not accessible at this time. To enable screen reader optimized mode, use Shift+Alt+F1",
+    "role": "EDITABLETEXT (8)",
+    "roleText": "editor",
+    "states": [
+        "FOCUSABLE (16777216)",
+        "AUTOCOMPLETE (524288)",
+        "FOCUSED (2)",
+        "MULTILINE (1048576)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "None",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x016A0330>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -1287,
+    "name": "Wikipedia",
+    "role": "DOCUMENT (52)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x04E225B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
     "gesture": "kb(desktop):control+numpad7",
+    "IA2UniqueID": -1287,
+    "name": "Wikipedia",
+    "role": "DOCUMENT (52)",
+    "roleText": "None",
+    "states": [
+        "READONLY (128)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x00D03990>>"
-}{
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x04E225B0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
     "gesture": "kb(desktop):tab",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x00D03990>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
-    "roleText": "None",
-    "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
-    ],
-    "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
-    "hasDetails": "False",
-    "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
-    "keyboardShortcut": "None",
-    "cellCoordsText": "None",
-    "includeTableCellCoords": "True",
-    "rowHeaderText": "None",
-    "columnHeaderText": "None",
-    "current": "NO (false)",
-    "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
-}
-INFO: Found _speakObjectPropertiesCache attribute 
-{
-    "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
-    "name": "English 6,974,000+ articles",
-    "role": "LINK (19)",
+    "IA2UniqueID": -1287,
+    "name": "Wikipedia",
+    "role": "DOCUMENT (52)",
     "roleText": "None",
     "states": [
-        "LINKED (4096)",
+        "READONLY (128)",
         "FOCUSABLE (16777216)",
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://en.wikipedia.org/",
-    "description": "English — Wikipedia — The Free Encyclopedia",
+    "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
-    "descriptionFrom": "TOOLTIP (tooltip)",
+    "descriptionFrom": "UNKNOWN (1)",
     "keyboardShortcut": "None",
     "cellCoordsText": "None",
     "includeTableCellCoords": "True",
@@ -495,12 +191,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x04E225B0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -522,12 +218,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -549,12 +245,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -576,12 +272,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -603,12 +299,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -630,12 +326,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -657,12 +353,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -684,12 +380,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -711,12 +407,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -738,12 +434,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -765,12 +461,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -792,12 +488,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -819,12 +515,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -846,12 +542,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -873,12 +569,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -900,12 +596,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -927,12 +623,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -954,12 +650,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -981,12 +677,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1008,12 +704,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1035,12 +731,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1062,12 +758,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1089,12 +785,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1116,12 +812,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1143,12 +839,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1170,12 +866,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1197,12 +893,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1224,12 +920,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1251,12 +947,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1278,12 +974,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1305,12 +1001,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1332,12 +1028,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1359,12 +1055,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1386,12 +1082,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1413,12 +1109,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1440,12 +1136,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1467,12 +1163,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1494,12 +1190,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1521,12 +1217,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1548,12 +1244,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1575,12 +1271,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1602,12 +1298,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1629,12 +1325,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1656,12 +1352,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1683,12 +1379,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1710,12 +1406,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1737,12 +1433,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1764,12 +1460,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1791,12 +1487,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1818,12 +1514,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1845,12 +1541,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1872,12 +1568,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1899,12 +1595,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1926,12 +1622,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1953,12 +1649,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1980,12 +1676,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2007,12 +1703,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2034,12 +1730,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2061,12 +1757,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2088,12 +1784,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2115,12 +1811,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2142,12 +1838,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2169,12 +1865,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -635,
+    "IA2UniqueID": -1347,
     "name": "English 6,974,000+ articles",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2196,5 +1892,5 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x073A0E10>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x06FF31D0>>"
 }

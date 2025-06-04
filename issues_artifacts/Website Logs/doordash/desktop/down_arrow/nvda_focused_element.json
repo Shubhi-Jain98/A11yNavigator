@@ -1,15 +1,13 @@
 {
-    "IA2UniqueID": -1013,
-    "name": "Sign In",
-    "role": "LINK (19)",
+    "IA2UniqueID": null,
+    "name": "",
+    "role": "GROUPING (56)",
     "roleText": "None",
     "states": [
-        "LINKED (4096)",
-        "FOCUSABLE (16777216)",
-        "FOCUSED (2)"
+        "FOCUSABLE (16777216)"
     ],
     "errorMessage": "None",
-    "value": "https://identity.doordash.com/auth?client_id=1666519390426295040&intl=en-US&layout=consumer_web&prompt=none&redirect_uri=https%3A%2F%2Fwww.doordash.com%2Fpost-login%2F&response_type=code&scope=%2A&state=%2Fhome%7C%7C5f131b37-7f54-47d2-ba42-75c358857aa6",
+    "value": "None",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",

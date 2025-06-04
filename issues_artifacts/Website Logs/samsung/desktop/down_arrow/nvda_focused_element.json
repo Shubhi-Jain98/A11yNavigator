@@ -1,16 +1,15 @@
 {
-    "IA2UniqueID": -759,
-    "name": "Sign in/Create Account",
-    "role": "MENUBUTTON (102)",
+    "IA2UniqueID": -38878,
+    "name": "Phones",
+    "role": "LINK (19)",
     "roleText": "None",
     "states": [
-        "COLLAPSED (512)",
-        "HASPOPUP (8192)",
-        "FOCUSED (2)",
-        "FOCUSABLE (16777216)"
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "",
+    "value": "https://www.samsung.com/us/smartphones/",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",

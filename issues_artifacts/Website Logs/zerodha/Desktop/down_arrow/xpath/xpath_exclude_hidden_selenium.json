@@ -1,6 +1,6 @@
 {
-    "count by default selenium driver": 82,
-    "total_count based on actionable selectors": 61,
+    "count by default selenium driver": 83,
+    "total_count based on actionable selectors": 62,
     "actionableElements": [
         {
             "tag_name": "a",
@@ -8,6 +8,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/"
         },
         {
@@ -16,6 +17,7 @@
             "text": "Signup",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/open-account/"
         },
         {
@@ -24,6 +26,7 @@
             "text": "About",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/about/"
         },
         {
@@ -32,6 +35,7 @@
             "text": "Products",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/products/"
         },
         {
@@ -40,6 +44,7 @@
             "text": "Pricing",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/pricing/"
         },
         {
@@ -48,6 +53,7 @@
             "text": "Support",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://support.zerodha.com/"
         },
         {
@@ -56,7 +62,17 @@
             "text": "Sign up for free",
             "aria-label": "",
             "id": "acop_link",
+            "placeholder": null,
             "href": "https://zerodha.com/open-account"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[2]/p[1]/a[1]",
+            "text": "Our philosophies.",
+            "aria-label": "",
+            "id": "",
+            "placeholder": null,
+            "href": "https://zerodha.com/about/philosophy"
         },
         {
             "tag_name": "a",
@@ -64,6 +80,7 @@
             "text": "Nudge",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://support.zerodha.com/category/trading-and-markets/kite-features/nudges/articles/what-is-nudge"
         },
         {
@@ -72,6 +89,7 @@
             "text": "Kill Switch",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://support.zerodha.com/category/console/profile/killswitch/articles/what-is-the-kill-switch"
         },
         {
@@ -80,6 +98,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/products"
         },
         {
@@ -88,6 +107,7 @@
             "text": "Explore our products",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/products"
         },
         {
@@ -96,6 +116,7 @@
             "text": "Try Kite demo",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://kite-demo.zerodha.com/"
         },
         {
@@ -104,6 +125,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/media"
         },
         {
@@ -112,6 +134,7 @@
             "text": "See pricing",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/charges/"
         },
         {
@@ -120,6 +143,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/varsity/"
         },
         {
@@ -128,6 +152,7 @@
             "text": "Varsity",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/varsity"
         },
         {
@@ -136,6 +161,7 @@
             "text": "TradingQ&A",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://tradingqna.com/"
         },
         {
@@ -144,6 +170,7 @@
             "text": "Sign up for free",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/open-account/"
         },
         {
@@ -152,6 +179,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://twitter.com/zerodhaonline"
         },
         {
@@ -160,6 +188,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://facebook.com/zerodha.social"
         },
         {
@@ -168,6 +197,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://instagram.com/zerodhaonline/"
         },
         {
@@ -176,6 +206,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://linkedin.com/company/zerodha"
         },
         {
@@ -184,6 +215,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.youtube.com/@zerodhaonline"
         },
         {
@@ -192,6 +224,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://whatsapp.com/channel/0029Va8tzF0EquiIIb9j791g"
         },
         {
@@ -200,6 +233,7 @@
             "text": "",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://t.me/zerodhain"
         },
         {
@@ -208,6 +242,7 @@
             "text": "About",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/about/"
         },
         {
@@ -216,6 +251,7 @@
             "text": "Products",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/products/"
         },
         {
@@ -224,6 +260,7 @@
             "text": "Pricing",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/pricing/"
         },
         {
@@ -232,6 +269,7 @@
             "text": "Referral programme",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/refer/"
         },
         {
@@ -240,6 +278,7 @@
             "text": "Careers",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://careers.zerodha.com/"
         },
         {
@@ -248,6 +287,7 @@
             "text": "Zerodha.tech",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.tech/"
         },
         {
@@ -256,6 +296,7 @@
             "text": "Open source",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/open-source/"
         },
         {
@@ -264,6 +305,7 @@
             "text": "Press & media",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/media/"
         },
         {
@@ -272,6 +314,7 @@
             "text": "Zerodha Cares (CSR)",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/cares/"
         },
         {
@@ -280,6 +323,7 @@
             "text": "Contact us",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/contact/"
         },
         {
@@ -288,6 +332,7 @@
             "text": "Support portal",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://support.zerodha.com/"
         },
         {
@@ -296,6 +341,7 @@
             "text": "Z-Connect blog",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/z-connect/"
         },
         {
@@ -304,6 +350,7 @@
             "text": "List of charges",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/charges/"
         },
         {
@@ -312,6 +359,7 @@
             "text": "Downloads & resources",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/resources/"
         },
         {
@@ -320,6 +368,7 @@
             "text": "Videos",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/videos"
         },
         {
@@ -328,6 +377,7 @@
             "text": "Market overview",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://stocks.zerodha.com/"
         },
         {
@@ -336,6 +386,7 @@
             "text": "How to file a complaint?",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://support.zerodha.com/category/your-zerodha-account/your-profile/ticket-creation/articles/how-do-i-create-a-ticket-at-zerodha"
         },
         {
@@ -344,6 +395,7 @@
             "text": "Status of your complaints",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://support.zerodha.com/category/your-zerodha-account/your-profile/ticket-creation/articles/track-complaints-or-tickets"
         },
         {
@@ -352,6 +404,7 @@
             "text": "Open an account",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/open-account/"
         },
         {
@@ -360,6 +413,7 @@
             "text": "Fund transfer",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/fund-transfer/"
         },
         {
@@ -368,6 +422,7 @@
             "text": "complaints@zerodha.com",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "mailto:complaints@zerodha.com"
         },
         {
@@ -376,6 +431,7 @@
             "text": "dp@zerodha.com",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "mailto:dp@zerodha.com"
         },
         {
@@ -384,6 +440,7 @@
             "text": "SEBI SCORES",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://scores.sebi.gov.in/"
         },
         {
@@ -392,6 +449,7 @@
             "text": "Smart Online Dispute Resolution",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://smartodr.in/"
         },
         {
@@ -400,6 +458,7 @@
             "text": "Grievances Redressal Mechanism",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha-common.s3.ap-south-1.amazonaws.com/Downloads-and-resources/Smart%20ODR%20info.pdf"
         },
         {
@@ -408,6 +467,7 @@
             "text": "create a ticket here",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://support.zerodha.com/category/your-zerodha-account/your-profile/articles/how-do-i-place-a-complaint-at-zerodha"
         },
         {
@@ -416,6 +476,7 @@
             "text": "NSE",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://nseindia.com/"
         },
         {
@@ -424,6 +485,7 @@
             "text": "BSE",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.bseindia.com/"
         },
         {
@@ -432,6 +494,7 @@
             "text": "MCX",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://www.mcxindia.com/"
         },
         {
@@ -440,6 +503,7 @@
             "text": "Terms & conditions",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/terms-and-conditions/"
         },
         {
@@ -448,6 +512,7 @@
             "text": "Policies & procedures",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/policies-and-procedures/"
         },
         {
@@ -456,6 +521,7 @@
             "text": "Privacy policy",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/privacy-policy/"
         },
         {
@@ -464,6 +530,7 @@
             "text": "Disclosure",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/disclosure/"
         },
         {
@@ -472,6 +539,7 @@
             "text": "For investor's attention",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/investor-attention/"
         },
         {
@@ -480,6 +548,7 @@
             "text": "Investor charter",
             "aria-label": "",
             "id": "",
+            "placeholder": null,
             "href": "https://zerodha.com/tos/investor-charter/"
         },
         {
@@ -488,6 +557,7 @@
             "text": "",
             "aria-label": "",
             "id": "menu_btn",
+            "placeholder": null,
             "href": "",
             "event_listener": "yes"
         }

@@ -1,14 +1,14 @@
 {
-    "IA2UniqueID": -40178,
-    "name": "None",
-    "role": "EDITABLETEXT (8)",
+    "IA2UniqueID": -599254,
+    "name": "SIGN IN",
+    "role": "BUTTON (9)",
     "roleText": "None",
     "states": [
         "FOCUSABLE (16777216)",
-        "EDITABLE (67108864)",
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
+    "value": "",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -18,6 +18,5 @@
     "includeTableCellCoords": "True",
     "rowHeaderText": "None",
     "columnHeaderText": "None",
-    "current": "NO (false)",
-    "placeholder": "None"
+    "current": "NO (false)"
 }

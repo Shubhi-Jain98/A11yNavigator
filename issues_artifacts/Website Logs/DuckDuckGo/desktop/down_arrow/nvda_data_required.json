@@ -1,20 +1,125 @@
+
+INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):leftControl",
+    "IA2UniqueID": -1356,
+    "name": "Search with DuckDuckGo",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "REQUIRED (32768)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "Search without being tracked",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0418FC50>>"
-}{
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0629B5F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
     "gesture": "kb(desktop):control+numpad7",
+    "IA2UniqueID": -1356,
+    "name": "Search with DuckDuckGo",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "REQUIRED (32768)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "Search without being tracked",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0418FC50>>"
-}{
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0629B5F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
     "gesture": "kb(desktop):tab",
+    "IA2UniqueID": -1356,
+    "name": "Search with DuckDuckGo",
+    "role": "COMBOBOX (13)",
+    "roleText": "None",
+    "states": [
+        "EXPANDED (256)",
+        "FOCUSED (2)",
+        "FOCUSABLE (16777216)",
+        "REQUIRED (32768)",
+        "AUTOCOMPLETE (524288)",
+        "EDITABLE (67108864)"
+    ],
+    "errorMessage": "None",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
+    "placeholder": "Search without being tracked",
+    "actionCount": "0",
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.Dynamic_EditableTextWithAutoSelectDetectionEditorIa2WebIAccessible object at 0x0629B5F0>>"
+}
+INFO: Found _speakObjectPropertiesCache attribute 
+{
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
+    "name": "Chat",
+    "role": "LINK (19)",
+    "roleText": "None",
+    "states": [
+        "LINKED (4096)",
+        "FOCUSABLE (16777216)",
+        "FOCUSED (2)"
+    ],
+    "errorMessage": "None",
+    "value": "https://duck.ai/",
+    "description": "None",
+    "hasDetails": "False",
+    "detailsRoles": "()",
+    "descriptionFrom": "UNKNOWN (1)",
+    "keyboardShortcut": "None",
+    "cellCoordsText": "None",
+    "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
+    "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.chromium.Document object at 0x0418FC50>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -36,12 +141,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -63,12 +168,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -90,12 +195,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -117,12 +222,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -144,12 +249,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -171,12 +276,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -198,12 +303,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -225,12 +330,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -252,12 +357,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -279,12 +384,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -306,12 +411,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -333,12 +438,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -360,12 +465,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -387,12 +492,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -414,12 +519,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
-    "gesture": "kb(desktop):numpad7",
-    "IA2UniqueID": -609,
+    "gesture": "kb(desktop):numpad9",
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -441,12 +546,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -468,12 +573,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -495,12 +600,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -522,12 +627,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -549,12 +654,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -576,12 +681,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -603,12 +708,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -630,12 +735,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -657,12 +762,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -684,12 +789,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -711,12 +816,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -738,12 +843,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -765,12 +870,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -792,12 +897,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -819,12 +924,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -846,12 +951,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -873,12 +978,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -900,12 +1005,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -927,12 +1032,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -954,12 +1059,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -981,12 +1086,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1008,12 +1113,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1035,12 +1140,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1062,12 +1167,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1089,12 +1194,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1116,12 +1221,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1143,12 +1248,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1170,12 +1275,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1197,12 +1302,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1224,12 +1329,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1251,12 +1356,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1278,12 +1383,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1305,12 +1410,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1332,12 +1437,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1359,12 +1464,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1386,12 +1491,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1413,12 +1518,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1440,12 +1545,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1467,12 +1572,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1494,12 +1599,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1521,12 +1626,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1548,12 +1653,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1575,12 +1680,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1602,12 +1707,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1629,12 +1734,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1656,12 +1761,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1683,12 +1788,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1710,12 +1815,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1737,12 +1842,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1764,12 +1869,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1791,12 +1896,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1818,12 +1923,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1845,12 +1950,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1872,12 +1977,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1899,12 +2004,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1926,12 +2031,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1953,12 +2058,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -1980,12 +2085,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2007,12 +2112,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2034,12 +2139,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2061,12 +2166,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2088,12 +2193,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2115,12 +2220,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2142,12 +2247,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2169,12 +2274,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2196,12 +2301,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2223,12 +2328,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2250,12 +2355,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2277,12 +2382,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2304,12 +2409,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2331,12 +2436,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2358,12 +2463,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2385,12 +2490,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2412,12 +2517,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2439,12 +2544,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2466,12 +2571,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2493,12 +2598,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2520,12 +2625,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2547,12 +2652,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2574,12 +2679,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2601,12 +2706,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2628,12 +2733,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2655,12 +2760,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2682,12 +2787,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2709,12 +2814,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2736,12 +2841,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2763,12 +2868,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2790,12 +2895,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2817,12 +2922,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2844,12 +2949,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2871,12 +2976,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2898,12 +3003,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2925,12 +3030,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2952,12 +3057,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -2979,12 +3084,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3006,12 +3111,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3033,12 +3138,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3060,12 +3165,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3087,12 +3192,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3114,12 +3219,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3141,12 +3246,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3168,12 +3273,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3195,12 +3300,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3222,12 +3327,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3249,12 +3354,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3276,12 +3381,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3303,12 +3408,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3330,12 +3435,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3357,12 +3462,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3384,12 +3489,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3411,12 +3516,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3438,12 +3543,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3465,12 +3570,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3492,12 +3597,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3519,12 +3624,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3546,12 +3651,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3573,12 +3678,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3600,12 +3705,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3627,12 +3732,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3654,12 +3759,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3681,12 +3786,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3708,12 +3813,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3735,12 +3840,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3762,12 +3867,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3789,12 +3894,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3816,12 +3921,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3843,12 +3948,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3870,12 +3975,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3897,12 +4002,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3924,12 +4029,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3951,12 +4056,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -3978,12 +4083,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4005,12 +4110,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4032,12 +4137,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4059,12 +4164,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4086,12 +4191,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4113,12 +4218,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4140,12 +4245,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4167,12 +4272,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4194,12 +4299,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4221,12 +4326,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4248,12 +4353,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4275,12 +4380,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4302,12 +4407,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4329,12 +4434,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4356,12 +4461,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4383,12 +4488,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4410,12 +4515,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4437,12 +4542,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4464,12 +4569,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4491,12 +4596,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4518,12 +4623,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4545,12 +4650,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4572,12 +4677,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4599,12 +4704,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4626,12 +4731,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4653,12 +4758,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4680,12 +4785,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4707,12 +4812,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4734,12 +4839,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4761,12 +4866,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4788,12 +4893,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4815,12 +4920,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4842,12 +4947,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4869,12 +4974,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4896,12 +5001,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4923,12 +5028,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4950,12 +5055,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -4977,12 +5082,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5004,12 +5109,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5031,12 +5136,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5058,12 +5163,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5085,12 +5190,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5112,12 +5217,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5139,12 +5244,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5166,12 +5271,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5193,12 +5298,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5220,12 +5325,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5247,12 +5352,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5274,12 +5379,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5301,12 +5406,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5328,12 +5433,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5355,12 +5460,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5382,12 +5487,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5409,12 +5514,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5436,12 +5541,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5463,12 +5568,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5490,12 +5595,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5517,12 +5622,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5544,12 +5649,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5571,12 +5676,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5598,12 +5703,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5625,12 +5730,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5652,12 +5757,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5679,12 +5784,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5706,12 +5811,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5733,12 +5838,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5760,12 +5865,12 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }
 INFO: Found _speakObjectPropertiesCache attribute 
 {
     "gesture": "kb(desktop):numpad9",
-    "IA2UniqueID": -609,
+    "IA2UniqueID": -1346,
     "name": "Chat",
     "role": "LINK (19)",
     "roleText": "None",
@@ -5787,5 +5892,5 @@ INFO: Found _speakObjectPropertiesCache attribute
     "columnHeaderText": "None",
     "current": "NO (false)",
     "actionCount": "0",
-    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x0A8F7390>>"
+    "event_stateChange": "<bound method NVDAObject.event_stateChange of <NVDAObjects.IAccessible.ia2Web.Ia2Web object at 0x00D59370>>"
 }

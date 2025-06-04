@@ -1,6 +1,18 @@
 [
     {
-        "IA2UniqueID": -1063,
+        "IA2UniqueID": -715,
+        "nvda_name": "MakeMyTrip - #1 Travel Website for Flight & Hotel Booking",
+        "nvda_value": null,
+        "nvda_states": [
+            "READONLY (128)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/div/div/div[2]/div/div/nav/ul/li/span/a",
+        "key_interactions": 0
+    },
+    {
+        "IA2UniqueID": -747,
         "nvda_name": "Flights",
         "nvda_value": "https://www.makemytrip.global/flights/",
         "nvda_states": [
@@ -8,10 +20,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/div/div/div[2]/div/div/nav/ul/li[2]/span/a"
+        "xpath": "/html/body/div/div/div/div/div[2]/div/div/nav/ul/li[2]/span/a",
+        "key_interactions": 1
     },
     {
-        "IA2UniqueID": -1068,
+        "IA2UniqueID": -753,
         "nvda_name": "Hotels",
         "nvda_value": "https://www.makemytrip.global/hotels/",
         "nvda_states": [
@@ -19,10 +32,36 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/footer/div[3]/div/div/a"
+        "xpath": "/html/body/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/a",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -1247,
+        "IA2UniqueID": -1238,
+        "nvda_name": "android app",
+        "nvda_value": "https://play.google.com/store/apps/details?id=com.makemytrip&hl=en&gl=AE",
+        "nvda_states": [
+            "OFFSCREEN (4194304)",
+            "LINKED (4096)",
+            "FOCUSED (2)",
+            "FOCUSABLE (16777216)"
+        ],
+        "xpath": "/html/body/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/a[2]",
+        "key_interactions": 3
+    },
+    {
+        "IA2UniqueID": -1239,
+        "nvda_name": "ios app",
+        "nvda_value": "https://apps.apple.com/ae/app/makemytrip-travel-booking-app/id530488359",
+        "nvda_states": [
+            "LINKED (4096)",
+            "FOCUSABLE (16777216)",
+            "FOCUSED (2)"
+        ],
+        "xpath": "/html/body/div/div/footer/div[3]/div/div/a",
+        "key_interactions": 4
+    },
+    {
+        "IA2UniqueID": -923,
         "nvda_name": "None",
         "nvda_value": "https://www.instagram.com/makemytrip/?hl=en&open=outside",
         "nvda_states": [
@@ -31,10 +70,11 @@
             "FOCUSED (2)",
             "FOCUSABLE (16777216)"
         ],
-        "xpath": "/html/body/div/div/footer/div[3]/div/div/a[2]"
+        "xpath": "/html/body/div/div/footer/div[3]/div/div/a[2]",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -1249,
+        "IA2UniqueID": -925,
         "nvda_name": "None",
         "nvda_value": "https://twitter.com/makemytrip?open=outside",
         "nvda_states": [
@@ -42,10 +82,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/footer/div[3]/div/div/a[3]"
+        "xpath": "/html/body/div/div/footer/div[3]/div/div/a[3]",
+        "key_interactions": 6
     },
     {
-        "IA2UniqueID": -1251,
+        "IA2UniqueID": -927,
         "nvda_name": "None",
         "nvda_value": "https://in.linkedin.com/company/makemytrip.com?open=outside",
         "nvda_states": [
@@ -53,10 +94,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/footer/div[3]/div/div/a[4]"
+        "xpath": "/html/body/div/div/footer/div[3]/div/div/a[4]",
+        "key_interactions": 7
     },
     {
-        "IA2UniqueID": -1068,
+        "IA2UniqueID": -753,
         "nvda_name": "Hotels",
         "nvda_value": "https://www.makemytrip.global/hotels/",
         "nvda_states": [
@@ -64,21 +106,11 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/div/div/div[2]/div/div/nav/ul/li/span/a"
+        "xpath": "/html/body/div/div/div[2]/div/main/main/div[3]/div/div/ul/li/button",
+        "key_interactions": 2
     },
     {
-        "IA2UniqueID": -1063,
-        "nvda_name": "Flights",
-        "nvda_value": "https://www.makemytrip.global/flights/",
-        "nvda_states": [
-            "LINKED (4096)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/div[2]/div/main/main/div[4]/div/div/ul/li/button"
-    },
-    {
-        "IA2UniqueID": -1006,
+        "IA2UniqueID": -1536,
         "nvda_name": "1",
         "nvda_value": null,
         "nvda_states": [
@@ -86,104 +118,40 @@
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/div[2]/div/main/main/div[4]/div/div/ul/li[2]/button"
+        "xpath": "/html/body/div/div/div[2]/div/main/main/div[3]/div/div/ul/li[2]/button",
+        "key_interactions": 3
     },
     {
-        "IA2UniqueID": -1215,
+        "IA2UniqueID": -1537,
         "nvda_name": "2",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/div[2]/div/main/main/div[4]/div/div/ul/li[3]/button"
+        "xpath": "/html/body/div/div/div[2]/div/main/main/div[3]/div/div/ul/li[3]/button",
+        "key_interactions": 4
     },
     {
-        "IA2UniqueID": -1217,
+        "IA2UniqueID": -1538,
         "nvda_name": "3",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/div[2]/div/main/main/div[4]/div/div/ul/li[4]/button"
+        "xpath": "/html/body/div/div/div[2]/div/main/main/div[3]/div/div/ul/li[4]/button",
+        "key_interactions": 5
     },
     {
-        "IA2UniqueID": -1219,
+        "IA2UniqueID": -1539,
         "nvda_name": "4",
         "nvda_value": null,
         "nvda_states": [
             "FOCUSABLE (16777216)",
             "FOCUSED (2)"
         ],
-        "xpath": "/html/body/div/div/div[2]/div/main/main/div[4]/div/div/ul/li[5]/button"
-    },
-    {
-        "IA2UniqueID": -1006,
-        "nvda_name": "1",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/div[2]/div/div/div/div/div[2]/div/div[5]/label/input"
-    },
-    {
-        "IA2UniqueID": -1015,
-        "nvda_name": "Travellers & Class 1\u00a0Traveller Economy/Premium Economy",
-        "nvda_value": null,
-        "nvda_states": [
-            "READONLY (128)",
-            "OFFSCREEN (4194304)",
-            "FOCUSED (2)",
-            "FOCUSABLE (16777216)"
-        ],
-        "xpath": "/html/body/div/div/div[2]/div/div/div/div/div[2]/div/div[3]/label/input"
-    },
-    {
-        "IA2UniqueID": -1014,
-        "nvda_name": "Departure 2 Apr'25 Wednesday",
-        "nvda_value": null,
-        "nvda_states": [
-            "READONLY (128)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/div/div/input"
-    },
-    {
-        "IA2UniqueID": -27672,
-        "nvda_name": "To",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "AUTOCOMPLETE (524288)",
-            "FOCUSED (2)",
-            "EDITABLE (67108864)"
-        ],
-        "xpath": "/html/body/div/div/div[2]/div/div/div/div/div[2]/div/div[2]/label/input"
-    },
-    {
-        "IA2UniqueID": -1013,
-        "nvda_name": "To LAX, Los Angeles-CA United States",
-        "nvda_value": null,
-        "nvda_states": [
-            "READONLY (128)",
-            "FOCUSABLE (16777216)",
-            "FOCUSED (2)"
-        ],
-        "xpath": "/html/body/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div/div/input"
-    },
-    {
-        "IA2UniqueID": -28892,
-        "nvda_name": "From",
-        "nvda_value": null,
-        "nvda_states": [
-            "FOCUSABLE (16777216)",
-            "AUTOCOMPLETE (524288)",
-            "FOCUSED (2)",
-            "EDITABLE (67108864)"
-        ],
-        "xpath": "/html/body/div/div/div[2]/div/div/div/div/div[2]/div/div/label/input"
+        "xpath": "/html/body/div/div/div[2]/div/main/main/div[3]/div/div/ul/li[5]/button",
+        "key_interactions": 6
     }
 ]

@@ -1,15 +1,15 @@
 {
-    "IA2UniqueID": -2549,
-    "name": "Culture & recreation",
-    "role": "LINK (19)",
+    "IA2UniqueID": null,
+    "name": "Task Switcher",
+    "role": "LIST (14)",
     "roleText": "None",
     "states": [
-        "LINKED (4096)",
+        "INVISIBLE (1024)",
         "FOCUSABLE (16777216)",
         "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "value": "https://stackexchange.com/sites#culturerecreation",
+    "value": "None",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",

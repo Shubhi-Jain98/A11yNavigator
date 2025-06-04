@@ -1,21 +1,23 @@
 {
-    "IA2UniqueID": null,
-    "name": "Editor for locatability_down_arrow.py",
-    "role": "EDITABLETEXT (8)",
+    "IA2UniqueID": -624,
+    "name": "Download",
+    "role": "LINK (19)",
     "roleText": "None",
     "states": [
+        "LINKED (4096)",
         "FOCUSABLE (16777216)",
-        "EDITABLE (67108864)",
-        "FOCUSED (2)",
-        "MULTILINE (1048576)"
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
-    "description": "",
+    "value": "https://discord.com/download",
+    "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
     "descriptionFrom": "UNKNOWN (1)",
     "keyboardShortcut": "None",
     "cellCoordsText": "None",
     "includeTableCellCoords": "True",
+    "rowHeaderText": "None",
+    "columnHeaderText": "None",
     "current": "NO (false)"
 }

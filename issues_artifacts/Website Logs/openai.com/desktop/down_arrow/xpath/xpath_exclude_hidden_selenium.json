@@ -1,5 +1,5 @@
 {
-    "count by default selenium driver": 161,
+    "count by default selenium driver": 162,
     "total_count based on actionable selectors": 80,
     "actionableElements": [
         {
@@ -158,6 +158,15 @@
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "text": "OpenAI o3 and o4-mini\nRelease\n6 min read",
+            "aria-label": "OpenAI o3 and o4-mini - Release - Apr 16, 2025",
+            "id": "282yXxMfiMVjYVDHXM289b",
+            "placeholder": null,
+            "href": "https://openai.com/index/introducing-o3-and-o4-mini/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
             "text": "Introducing GPT-4.1 in the API\nProduct\n18 min read",
             "aria-label": "Introducing GPT-4.1 in the API - Product - Apr 14, 2025",
             "id": "4TSlqMoAGxwETeOuDAlhH9",
@@ -166,21 +175,12 @@
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[2]/div[1]/a[1]",
             "text": "Introducing 4o Image Generation\nProduct\n6 min read",
             "aria-label": "Introducing 4o Image Generation - Product - Mar 25, 2025",
             "id": "520rKY8xkA5KSZEa58umPw",
             "placeholder": null,
             "href": "https://openai.com/index/introducing-4o-image-generation/"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[2]/div[1]/a[1]",
-            "text": "Introducing next-generation audio models in the API\nRelease\n6 min read",
-            "aria-label": "Introducing next-generation audio models in the API - Release - Mar 20, 2025",
-            "id": "5jFAzikMFp5B74K2dpn8J0",
-            "placeholder": null,
-            "href": "https://openai.com/index/introducing-our-next-generation-audio-models/"
         },
         {
             "tag_name": "a",
@@ -194,6 +194,33 @@
         {
             "tag_name": "a",
             "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[1]/div[1]/a[1]",
+            "text": "Thinking with images\nRelease\nApr 16, 2025",
+            "aria-label": "Thinking with images - Release - Apr 16, 2025",
+            "id": "780qQjn8oFTFCB8fJTryeb",
+            "placeholder": null,
+            "href": "https://openai.com/index/thinking-with-images/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[2]/div[1]/a[1]",
+            "text": "OpenAI announces nonprofit commission advisors\nCompany\nApr 15, 2025",
+            "aria-label": "OpenAI announces nonprofit commission advisors - Company - Apr 15, 2025",
+            "id": "1tjS5wlAgp7nfC3Z9Js6xX",
+            "placeholder": null,
+            "href": "https://openai.com/index/nonprofit-commission-advisors/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[3]/div[1]/a[1]",
+            "text": "Our updated Preparedness Framework\nPublication\nApr 15, 2025",
+            "aria-label": "Our updated Preparedness Framework - Publication - Apr 15, 2025",
+            "id": "1uPTRm2Vnd1BF6wfk2s0EG",
+            "placeholder": null,
+            "href": "https://openai.com/index/updating-our-preparedness-framework/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[4]/div[1]/a[1]",
             "text": "BrowseComp: a benchmark for browsing agents\nPublication\nApr 10, 2025",
             "aria-label": "BrowseComp: a benchmark for browsing agents - Publication - Apr 10, 2025",
             "id": "4yEHm5pVUrk287PJMrQWMx",
@@ -202,7 +229,7 @@
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[2]/div[1]/a[1]",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[5]/div[1]/a[1]",
             "text": "OpenAI Pioneers Program\nCompany\nApr 9, 2025",
             "aria-label": "OpenAI Pioneers Program - Company - Apr 9, 2025",
             "id": "6l85s2pYpnnra93MRVt9Zk",
@@ -211,39 +238,12 @@
         },
         {
             "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[3]/div[1]/a[1]",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[6]/div[1]/a[1]",
             "text": "PaperBench: Evaluating AI\u2019s Ability to Replicate AI Research\nPublication\nApr 2, 2025",
             "aria-label": "PaperBench: Evaluating AI\u2019s Ability to Replicate AI Research - Publication - Apr 2, 2025",
             "id": "5oFxck4YqUPIZOZlbvMXlr",
             "placeholder": null,
             "href": "https://openai.com/index/paperbench/"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[4]/div[1]/a[1]",
-            "text": "New commission to provide insight as OpenAI builds the world\u2019s best-equipped nonprofit\nCompany\nApr 2, 2025",
-            "aria-label": "New commission to provide insight as OpenAI builds the world\u2019s best-equipped nonprofit - Company - Apr 2, 2025",
-            "id": "2I3XJnTTJAqK0N0KIcrRZN",
-            "placeholder": null,
-            "href": "https://openai.com/index/nonprofit-commission-guidance/"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[5]/div[1]/a[1]",
-            "text": "New funding to build towards AGI\nCompany\nMar 31, 2025",
-            "aria-label": "New funding to build towards AGI - Company - Mar 31, 2025",
-            "id": "3bUaA5gS9aMCTf1A64eaO8",
-            "placeholder": null,
-            "href": "https://openai.com/index/march-funding-updates/"
-        },
-        {
-            "tag_name": "a",
-            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/div[6]/div[1]/a[1]",
-            "text": "Security on the path to AGI\nSecurity\nMar 26, 2025",
-            "aria-label": "Security on the path to AGI - Security - Mar 26, 2025",
-            "id": "2KK5h2M5nsfu0TQT6pwfFK",
-            "placeholder": null,
-            "href": "https://openai.com/index/security-on-the-path-to-agi/"
         },
         {
             "tag_name": "a",
