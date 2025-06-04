@@ -1,0 +1,104 @@
+{
+    "count of missing paths": 11,
+    "missing paths": [
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/nav[1]/div[1]/a[1]",
+            "text": "English\n6,974,000+ articles",
+            "aria-label": "",
+            "id": "js-link-box-en",
+            "placeholder": null,
+            "href": "https://en.wikipedia.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/nav[1]/div[2]/a[1]",
+            "text": "\u65e5\u672c\u8a9e\n1,457,000+ \u8a18\u4e8b",
+            "aria-label": "",
+            "id": "js-link-box-ja",
+            "placeholder": null,
+            "href": "https://ja.wikipedia.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/nav[1]/div[3]/a[1]",
+            "text": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n2 036 000+ \u0441\u0442\u0430\u0442\u0435\u0439",
+            "aria-label": "",
+            "id": "js-link-box-ru",
+            "placeholder": null,
+            "href": "https://ru.wikipedia.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/nav[1]/div[4]/a[1]",
+            "text": "Deutsch\n3.001.000+ Artikel",
+            "aria-label": "",
+            "id": "js-link-box-de",
+            "placeholder": null,
+            "href": "https://de.wikipedia.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/nav[1]/div[5]/a[1]",
+            "text": "Espa\u00f1ol\n2.021.000+ art\u00edculos",
+            "aria-label": "",
+            "id": "js-link-box-es",
+            "placeholder": null,
+            "href": "https://es.wikipedia.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/nav[1]/div[6]/a[1]",
+            "text": "Fran\u00e7ais\n2\u202f674\u202f000+ articles",
+            "aria-label": "",
+            "id": "js-link-box-fr",
+            "placeholder": null,
+            "href": "https://fr.wikipedia.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/nav[1]/div[7]/a[1]",
+            "text": "\u4e2d\u6587\n1,470,000+ \u6761\u76ee / \u689d\u76ee",
+            "aria-label": "",
+            "id": "js-link-box-zh",
+            "placeholder": null,
+            "href": "https://zh.wikipedia.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/nav[1]/div[8]/a[1]",
+            "text": "Italiano\n1.910.000+ voci",
+            "aria-label": "",
+            "id": "js-link-box-it",
+            "placeholder": null,
+            "href": "https://it.wikipedia.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/nav[1]/div[9]/a[1]",
+            "text": "Portugu\u00eas\n1.146.000+ artigos",
+            "aria-label": "",
+            "id": "js-link-box-pt",
+            "placeholder": null,
+            "href": "https://pt.wikipedia.org/"
+        },
+        {
+            "tag_name": "a",
+            "xpath": "/body[1]/main[1]/nav[1]/div[10]/a[1]",
+            "text": "Polski\n1 652 000+ hase\u0142",
+            "aria-label": "",
+            "id": "js-link-box-pl",
+            "placeholder": null,
+            "href": "https://pl.wikipedia.org/"
+        },
+        {
+            "tag_name": "input",
+            "xpath": "/body[1]/main[1]/div[2]/form[1]/fieldset[1]/div[1]/input[1]",
+            "text": "",
+            "aria-label": "",
+            "id": "searchInput",
+            "placeholder": "",
+            "href": ""
+        }
+    ]
+}
