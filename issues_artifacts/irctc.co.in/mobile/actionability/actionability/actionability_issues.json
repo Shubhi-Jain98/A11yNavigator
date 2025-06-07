@@ -1,18 +1,6 @@
 {
-    "count of actionability issues": 19,
+    "count of actionability issues": 2,
     "missing paths": [
-        {
-            "IA2UniqueID": -82855,
-            "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/div/div/a",
-            "nvda_role": "LINK (19)",
-            "nvda_name": "PNR Status opens a new window",
-            "nvda_value": "http://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html?locale=en",
-            "nvda_states": [
-                "LINKED (4096)",
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
         {
             "IA2UniqueID": -86434,
             "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[2]/div[2]/div[2]/p-dropdown/div/div[3]",
@@ -26,190 +14,15 @@
             ]
         },
         {
-            "IA2UniqueID": -92350,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div/div/button[4]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "Agents \uf107",
+            "IA2UniqueID": -534,
+            "xpath": "/html/body/app-root/app-home/div[3]/div/app-main-page/div/div/div/div/div/app-jp-input/div/form/div[3]/div/div/p-dropdown/div/div[3]",
+            "nvda_role": "DOCUMENT (52)",
+            "nvda_name": "IRCTC Next Generation eTicketing System",
             "nvda_value": null,
             "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -94076,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div/div/button[5]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "Enquiries \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -95771,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[2]/div/button",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "How To \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -97477,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[2]/div/button[2]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "IRCTC Official App \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -99031,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[2]/div/button[3]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "Advertise with us \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -100777,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[2]/div/button[4]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "Refund Rules \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -102462,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[2]/div/button[5]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "Person With Disability Facilities \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -104163,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[3]/div/button",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "IRCTC eWallet \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -105832,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[3]/div/button[2]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "Avail Loyalty Benefits \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -107361,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[3]/div/button[3]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "IRCTC-iPAY Payment Gateway \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -109043,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[3]/div/button[4]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "IRCTC Zone \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -110556,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[3]/div/button[5]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "DMRC Ticket Booking at IRCTC \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -112254,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[4]/div/span/button",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "For Newly Migrated Agents \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -113789,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[4]/div/button",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "Mobile Zone \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -115388,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[4]/div/button[2]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "Policies \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -117095,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[4]/div/button[3]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "Ask Disha ChatBot \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
-            ]
-        },
-        {
-            "IA2UniqueID": -118794,
-            "xpath": "/html/body/app-root/app-home/app-footer/div[3]/div/div/div/div[4]/div/button[4]",
-            "nvda_role": "BUTTON (9)",
-            "nvda_name": "About us \uf107",
-            "nvda_value": null,
-            "nvda_states": [
-                "FOCUSABLE (16777216)",
-                "FOCUSED (2)"
+              "READONLY (128)",
+              "FOCUSABLE (16777216)",
+              "FOCUSED (2)"
             ]
         }
     ]

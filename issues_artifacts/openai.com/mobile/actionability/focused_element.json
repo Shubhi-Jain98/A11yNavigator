@@ -1,0 +1,1379 @@
+[
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/header[1]/div[1]/div[1]/button[1]",
+            "text": "Toggle navigation sidebar"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "",
+            "location": {
+                "x": 429,
+                "y": -2
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/header[1]/div[2]/div[1]/a[1]",
+            "text": "OpenAI Home"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "",
+            "location": {
+                "x": 20,
+                "y": 0
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "textarea",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/form[1]/label[1]/textarea[1]",
+            "text": ""
+        },
+        "focused_element_properties": {
+            "tag_name": "textarea",
+            "text": "",
+            "location": {
+                "x": 41,
+                "y": 231
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/form[1]/div[1]/button[1]",
+            "text": "Send prompt to ChatGPT"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Search with ChatGPT"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Search with ChatGPT",
+            "location": {
+                "x": 41,
+                "y": 372
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/a[2]",
+            "text": "Talk with ChatGPT"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Talk with ChatGPT",
+            "location": {
+                "x": 212,
+                "y": 372
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/a[3]",
+            "text": "Research"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Research",
+            "location": {
+                "x": 365,
+                "y": 372
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/a[4]",
+            "text": "Sora"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Sora",
+            "location": {
+                "x": 185,
+                "y": 420
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/button[1]",
+            "text": "More"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "More",
+            "location": {
+                "x": 247,
+                "y": 420
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Your browser does not support the video tag.\nIntroducing deep research\nFeb 2, 2025\n8 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Your browser does not support the video tag.\nIntroducing deep research\nFeb 2, 2025\n8 min read",
+            "location": {
+                "x": 24,
+                "y": 660
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[1]/a[1]",
+            "text": "Sharing the latest Model Spec\nFeb 12, 2025\n8 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Sharing the latest Model Spec\nFeb 12, 2025\n8 min read",
+            "location": {
+                "x": 24,
+                "y": 1352
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[2]/a[1]",
+            "text": "Pushing the frontier of cost-effective reasoning\nJan 31, 2025\n6 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Pushing the frontier of cost-effective reasoning\nJan 31, 2025\n6 min read",
+            "location": {
+                "x": 24,
+                "y": 1931
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/div[3]/a[1]",
+            "text": "Catching halibut with ChatGPT\nFeb 4, 2025\n4 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Catching halibut with ChatGPT\nFeb 4, 2025\n4 min read",
+            "location": {
+                "x": 24,
+                "y": 2510
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[1]/a[1]",
+            "text": "View all"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "View all",
+            "location": {
+                "x": 417,
+                "y": 3105
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/a[1]",
+            "text": "Introducing the Intelligence Age\nFeb 9, 2025\n5 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Introducing the Intelligence Age\nFeb 9, 2025\n5 min read",
+            "location": {
+                "x": 24,
+                "y": 3177
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/a[2]",
+            "text": "OpenAI and the CSU system bring AI to 500,000 students & faculty\nFeb 4, 2025\n3 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "OpenAI and the CSU system bring AI to 500,000 students & faculty\nFeb 4, 2025\n3 min read",
+            "location": {
+                "x": 24,
+                "y": 3321
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/a[3]",
+            "text": "OpenAI o3-mini System Card\nJan 31, 2025\n2 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "OpenAI o3-mini System Card\nJan 31, 2025\n2 min read",
+            "location": {
+                "x": 24,
+                "y": 3465
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/a[4]",
+            "text": "Introducing ChatGPT Gov\nJan 28, 2025\n6 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Introducing ChatGPT Gov\nJan 28, 2025\n6 min read",
+            "location": {
+                "x": 24,
+                "y": 3609
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/a[5]",
+            "text": "Announcing The Stargate Project\nJan 21, 2025\n5 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Announcing The Stargate Project\nJan 21, 2025\n5 min read",
+            "location": {
+                "x": 24,
+                "y": 3753
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[3]/div[2]/a[6]",
+            "text": "Partnering with Axios expands OpenAI\u2019s work with the news industry\nJan 15, 2025\n7 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Partnering with Axios expands OpenAI\u2019s work with the news industry\nJan 15, 2025\n7 min read",
+            "location": {
+                "x": 24,
+                "y": 3897
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[4]/div[1]/a[1]",
+            "text": "View all"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "View all",
+            "location": {
+                "x": 417,
+                "y": 4097
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[4]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Your browser does not support the video tag.\nLyndon Barrois & Sora\nSora\nDec 3, 2024\n3 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Your browser does not support the video tag.\nLyndon Barrois & Sora\nSora\nDec 3, 2024\n3 min read",
+            "location": {
+                "x": 24,
+                "y": 4169
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Building a custom math tutor powered by ChatGPT\nChatGPT\nFeb 4, 2025\n3 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Building a custom math tutor powered by ChatGPT\nChatGPT\nFeb 4, 2025\n3 min read",
+            "location": {
+                "x": 307,
+                "y": 4169
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[4]/div[2]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Economics and reasoning with OpenAI o1\nChatGPT\nSep 12, 2024\n2 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Economics and reasoning with OpenAI o1\nChatGPT\nSep 12, 2024\n2 min read",
+            "location": {
+                "x": 208,
+                "y": 4169
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[5]/div[1]/a[1]",
+            "text": "View all"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "View all",
+            "location": {
+                "x": 417,
+                "y": 4676
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[5]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Your browser does not support the video tag.\nComputer-Using Agent\nJan 23, 2025\n15 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Your browser does not support the video tag.\nComputer-Using Agent\nJan 23, 2025\n15 min read",
+            "location": {
+                "x": 24,
+                "y": 4748
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Trading inference-time compute for adversarial robustness\nJan 22, 2025\n8 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Trading inference-time compute for adversarial robustness\nJan 22, 2025\n8 min read",
+            "location": {
+                "x": 24,
+                "y": 5188
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[6]/div[1]/a[1]",
+            "text": "View all"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "View all",
+            "location": {
+                "x": 417,
+                "y": 5733
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[6]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Building agent + human collaboration with GPT 4o\nOct 1, 2024\n4 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Building agent + human collaboration with GPT 4o\nOct 1, 2024\n4 min read",
+            "location": {
+                "x": 24,
+                "y": 5805
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[6]/div[2]/div[1]/div[1]/div[2]/a[1]",
+            "text": "Data-driven beauty and creativity with ChatGPT\nNov 13, 2024\n4 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Data-driven beauty and creativity with ChatGPT\nNov 13, 2024\n4 min read",
+            "location": {
+                "x": 307,
+                "y": 5805
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[6]/div[2]/div[1]/div[1]/div[3]/a[1]",
+            "text": "Building smarter maps with GPT\u20114o vision fine-tuning\nNov 20, 2024\n4 min read"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Building smarter maps with GPT\u20114o vision fine-tuning\nNov 20, 2024\n4 min read",
+            "location": {
+                "x": 208,
+                "y": 5805
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[7]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "text": "Download"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Download",
+            "location": {
+                "x": 193,
+                "y": 6524
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Research Index"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Research Index",
+            "location": {
+                "x": 24,
+                "y": 6934
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Research Overview"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Research Overview",
+            "location": {
+                "x": 24,
+                "y": 6973
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Research Residency"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Research Residency",
+            "location": {
+                "x": 24,
+                "y": 7013
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "OpenAI o1"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "OpenAI o1",
+            "location": {
+                "x": 24,
+                "y": 7113
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "OpenAI o1-mini"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "GPT-4o"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "GPT-4o mini"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "GPT-4o mini",
+            "location": {
+                "x": 24,
+                "y": 7232
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+            "text": "Sora"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Sora",
+            "location": {
+                "x": 24,
+                "y": 7272
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "Safety Approach"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Safety Approach",
+            "location": {
+                "x": 24,
+                "y": 7371
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Security & Privacy"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Security & Privacy",
+            "location": {
+                "x": 24,
+                "y": 7411
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Explore ChatGPT"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Explore ChatGPT",
+            "location": {
+                "x": 24,
+                "y": 7510
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Team"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Team",
+            "location": {
+                "x": 24,
+                "y": 7550
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Enterprise"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Enterprise",
+            "location": {
+                "x": 24,
+                "y": 7590
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Education"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Education",
+            "location": {
+                "x": 24,
+                "y": 7630
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+            "text": "Pricing"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Pricing",
+            "location": {
+                "x": 24,
+                "y": 7669
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+            "text": "Download"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Download",
+            "location": {
+                "x": 24,
+                "y": 7709
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "Sora Overview"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Sora Overview",
+            "location": {
+                "x": 24,
+                "y": 7809
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Features"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Features",
+            "location": {
+                "x": 24,
+                "y": 7848
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Pricing"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Pricing",
+            "location": {
+                "x": 24,
+                "y": 7888
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Sora log in\n(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Sora log in\n(opens in a new window)",
+            "location": {
+                "x": 24,
+                "y": 7930
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "Platform Overview"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Platform Overview",
+            "location": {
+                "x": 24,
+                "y": 8027
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Pricing"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Pricing",
+            "location": {
+                "x": 24,
+                "y": 8067
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "API log in\n(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "API log in\n(opens in a new window)",
+            "location": {
+                "x": 24,
+                "y": 8109
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[4]/a[1]",
+            "text": "Documentation\n(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Documentation\n(opens in a new window)",
+            "location": {
+                "x": 24,
+                "y": 8148
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[5]/a[1]",
+            "text": "Developer Forum\n(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Developer Forum\n(opens in a new window)",
+            "location": {
+                "x": 24,
+                "y": 8188
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Overview"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Overview",
+            "location": {
+                "x": 24,
+                "y": 8286
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[1]/a[1]",
+            "text": "About us"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "About us",
+            "location": {
+                "x": 24,
+                "y": 8385
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/a[1]",
+            "text": "Our Charter"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Our Charter",
+            "location": {
+                "x": 24,
+                "y": 8425
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[3]/a[1]",
+            "text": "Careers"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Careers",
+            "location": {
+                "x": 24,
+                "y": 8465
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]/a[1]",
+            "text": "Brand"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Brand",
+            "location": {
+                "x": 24,
+                "y": 8505
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[3]/ul[1]/li[1]/a[1]",
+            "text": "News"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "News",
+            "location": {
+                "x": 24,
+                "y": 8604
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[3]/ul[1]/li[2]/a[1]",
+            "text": "Stories"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Stories",
+            "location": {
+                "x": 24,
+                "y": 8644
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[3]/ul[1]/li[3]/a[1]",
+            "text": "Help Center\n(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Help Center\n(opens in a new window)",
+            "location": {
+                "x": 24,
+                "y": 8685
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/a[1]",
+            "text": "Terms of Use"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Terms of Use",
+            "location": {
+                "x": 24,
+                "y": 8783
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/a[1]",
+            "text": "Privacy Policy"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Privacy Policy",
+            "location": {
+                "x": 24,
+                "y": 8823
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/a[1]",
+            "text": "Security"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Security",
+            "location": {
+                "x": 24,
+                "y": 8863
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/a[1]",
+            "text": "Other Policies"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "Other Policies",
+            "location": {
+                "x": 24,
+                "y": 8902
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[1]",
+            "text": "(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "(opens in a new window)",
+            "location": {
+                "x": 115,
+                "y": 8984
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[2]",
+            "text": "(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "(opens in a new window)",
+            "location": {
+                "x": 156,
+                "y": 8984
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[3]",
+            "text": "(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "(opens in a new window)",
+            "location": {
+                "x": 197,
+                "y": 8984
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[4]",
+            "text": "(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "(opens in a new window)",
+            "location": {
+                "x": 238,
+                "y": 8984
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[5]",
+            "text": "(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "(opens in a new window)",
+            "location": {
+                "x": 279,
+                "y": 8984
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[6]",
+            "text": "(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "(opens in a new window)",
+            "location": {
+                "x": 319,
+                "y": 8984
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "a",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[1]/a[7]",
+            "text": "(opens in a new window)"
+        },
+        "focused_element_properties": {
+            "tag_name": "a",
+            "text": "(opens in a new window)",
+            "location": {
+                "x": 359,
+                "y": 8984
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": true,
+        "action_performed": true,
+        "element_data": {
+            "tag_name": "button",
+            "xpath": "/body[1]/div[1]/div[3]/div[1]/footer[1]/div[2]/div[3]/button[1]",
+            "text": "English\nUnited States"
+        },
+        "focused_element_properties": {
+            "tag_name": "button",
+            "text": "English\nUnited States",
+            "location": {
+                "x": 154,
+                "y": 9093
+            }
+        },
+        "focus_verification": null
+    },
+    {
+        "focus_successful": false,
+        "action_performed": false,
+        "element_data": {
+            "tag_name": "div",
+            "xpath": "/body[1]/div[1]/div[3]/div[2]",
+            "text": "",
+            "event_listener": "yes"
+        },
+        "focused_element_properties": null,
+        "focus_verification": null
+    }
+]

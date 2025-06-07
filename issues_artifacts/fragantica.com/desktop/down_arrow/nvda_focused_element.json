@@ -1,16 +1,15 @@
 {
-    "IA2UniqueID": -79432,
-    "name": "The editor is not accessible at this time. To enable screen reader optimized mode, use Shift+Alt+F1",
-    "role": "EDITABLETEXT (8)",
-    "roleText": "editor",
+    "IA2UniqueID": -2303,
+    "name": "Jump to the top",
+    "role": "LINK (19)",
+    "roleText": "None",
     "states": [
+        "LINKED (4096)",
         "FOCUSABLE (16777216)",
-        "AUTOCOMPLETE (524288)",
-        "FOCUSED (2)",
-        "MULTILINE (1048576)",
-        "EDITABLE (67108864)"
+        "FOCUSED (2)"
     ],
     "errorMessage": "None",
+    "value": "https://www.fragrantica.com/#app",
     "description": "None",
     "hasDetails": "False",
     "detailsRoles": "()",
@@ -20,6 +19,5 @@
     "includeTableCellCoords": "True",
     "rowHeaderText": "None",
     "columnHeaderText": "None",
-    "current": "NO (false)",
-    "placeholder": "None"
+    "current": "NO (false)"
 }

@@ -1,6 +1,9 @@
 {
-    "count of missing paths": 1,
+    "count of missing paths": 4,
     "missing paths": [
-        "/html/body/div/div[3]/form/div/div/div[3]/center/input[2]"
+        "/html/body/app-root/app-home/div/app-header/div[2]/div[2]/div[2]/nav/ul/li[9]/a",
+        "/html/body/div[4]/div",
+        "/html/body/div[4]/div/div",
+        "/html/body/div[4]/img"
     ]
 }
