@@ -57,7 +57,7 @@ pip install requests
 ### Step 4: NVDA Setup
 To run NVDA to traverse websites and detect accessibility issues, please download and install NVDA version 2024.1 as mentioned above.
 To use NVDA for the purpose described in our paper—to log NVDA announcements and element data—please follow the "Build NVDA" instructions below:
-1**Build NVDA (for custom functionality)**:
+1. **Build NVDA (for custom functionality)**:
    ```bash
    # Navigate to NVDA source directory
    cd path/to/nvda
